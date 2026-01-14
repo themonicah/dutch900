@@ -98,7 +98,7 @@ function TrackDetail() {
       <div className="bg-white dark:bg-gray-800 rounded-2xl p-5 shadow-sm border border-gray-200 dark:border-gray-700">
         <h2 className="text-lg font-bold text-gray-900 dark:text-white mb-4">Practice</h2>
 
-        <div className="space-y-3">
+        <div className="space-y-2">
           {/* Learn */}
           <button
             onClick={() => handleStartMode('qualifying')}
@@ -112,16 +112,26 @@ function TrackDetail() {
             }}
           >
             <div
-              className="w-12 h-12 rounded-full flex items-center justify-center"
+              className="w-10 h-10 rounded-full flex items-center justify-center"
               style={{ backgroundColor: stageCounts.qualifying > 0 ? 'rgba(255,255,255,0.2)' : '#e5e7eb' }}
             >
-              <span className="text-2xl">📖</span>
+              <span className="text-xl">📖</span>
             </div>
             <div className="flex-1 text-left">
-              <p className="font-bold text-lg" style={{ color: stageCounts.qualifying > 0 ? '#ffffff' : '#6b7280' }}>Learn</p>
-              <p className="text-sm" style={{ color: stageCounts.qualifying > 0 ? 'rgba(255,255,255,0.7)' : '#9ca3af' }}>See Dutch, flip to English</p>
+              <p className="font-bold" style={{ color: stageCounts.qualifying > 0 ? '#ffffff' : '#6b7280' }}>Learn</p>
+              <p className="text-xs" style={{ color: stageCounts.qualifying > 0 ? 'rgba(255,255,255,0.7)' : '#9ca3af' }}>See Dutch, flip to English</p>
+            </div>
+            <div className="text-right" style={{ color: stageCounts.qualifying > 0 ? 'rgba(255,255,255,0.9)' : '#9ca3af' }}>
+              <p className="text-2xl font-bold">{stageCounts.qualifying}</p>
             </div>
           </button>
+
+          {/* Arrow down */}
+          <div className="flex justify-center">
+            <svg className="w-5 h-5 text-gray-300" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M19 14l-7 7m0 0l-7-7m7 7V3" />
+            </svg>
+          </div>
 
           {/* Listen */}
           <button
@@ -136,16 +146,26 @@ function TrackDetail() {
             }}
           >
             <div
-              className="w-12 h-12 rounded-full flex items-center justify-center"
+              className="w-10 h-10 rounded-full flex items-center justify-center"
               style={{ backgroundColor: stageCounts.pitradio > 0 ? 'rgba(255,255,255,0.2)' : '#e5e7eb' }}
             >
-              <span className="text-2xl">🔊</span>
+              <span className="text-xl">🔊</span>
             </div>
             <div className="flex-1 text-left">
-              <p className="font-bold text-lg" style={{ color: stageCounts.pitradio > 0 ? '#ffffff' : '#6b7280' }}>Listen</p>
-              <p className="text-sm" style={{ color: stageCounts.pitradio > 0 ? 'rgba(255,255,255,0.7)' : '#9ca3af' }}>Hear Dutch, type it</p>
+              <p className="font-bold" style={{ color: stageCounts.pitradio > 0 ? '#ffffff' : '#6b7280' }}>Listen</p>
+              <p className="text-xs" style={{ color: stageCounts.pitradio > 0 ? 'rgba(255,255,255,0.7)' : '#9ca3af' }}>Hear Dutch, type it</p>
+            </div>
+            <div className="text-right" style={{ color: stageCounts.pitradio > 0 ? 'rgba(255,255,255,0.9)' : '#9ca3af' }}>
+              <p className="text-2xl font-bold">{stageCounts.pitradio}</p>
             </div>
           </button>
+
+          {/* Arrow down */}
+          <div className="flex justify-center">
+            <svg className="w-5 h-5 text-gray-300" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M19 14l-7 7m0 0l-7-7m7 7V3" />
+            </svg>
+          </div>
 
           {/* Produce */}
           <button
@@ -160,16 +180,40 @@ function TrackDetail() {
             }}
           >
             <div
-              className="w-12 h-12 rounded-full flex items-center justify-center"
+              className="w-10 h-10 rounded-full flex items-center justify-center"
               style={{ backgroundColor: stageCounts.victorylap > 0 ? 'rgba(255,255,255,0.2)' : '#e5e7eb' }}
             >
-              <span className="text-2xl">🎯</span>
+              <span className="text-xl">🎯</span>
             </div>
             <div className="flex-1 text-left">
-              <p className="font-bold text-lg" style={{ color: stageCounts.victorylap > 0 ? '#ffffff' : '#6b7280' }}>Produce</p>
-              <p className="text-sm" style={{ color: stageCounts.victorylap > 0 ? 'rgba(255,255,255,0.7)' : '#9ca3af' }}>See English, type Dutch</p>
+              <p className="font-bold" style={{ color: stageCounts.victorylap > 0 ? '#ffffff' : '#6b7280' }}>Produce</p>
+              <p className="text-xs" style={{ color: stageCounts.victorylap > 0 ? 'rgba(255,255,255,0.7)' : '#9ca3af' }}>See English, type Dutch</p>
+            </div>
+            <div className="text-right" style={{ color: stageCounts.victorylap > 0 ? 'rgba(255,255,255,0.9)' : '#9ca3af' }}>
+              <p className="text-2xl font-bold">{stageCounts.victorylap}</p>
             </div>
           </button>
+
+          {/* Arrow down */}
+          <div className="flex justify-center">
+            <svg className="w-5 h-5 text-gray-300" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M19 14l-7 7m0 0l-7-7m7 7V3" />
+            </svg>
+          </div>
+
+          {/* Mastered indicator */}
+          <div className="p-4 rounded-xl flex items-center gap-4" style={{ backgroundColor: '#FFC800' }}>
+            <div className="w-10 h-10 rounded-full flex items-center justify-center" style={{ backgroundColor: 'rgba(255,255,255,0.2)' }}>
+              <span className="text-xl">⭐</span>
+            </div>
+            <div className="flex-1 text-left">
+              <p className="font-bold text-white">Mastered</p>
+              <p className="text-xs" style={{ color: 'rgba(255,255,255,0.7)' }}>Complete!</p>
+            </div>
+            <div className="text-right text-white">
+              <p className="text-2xl font-bold">{stageCounts.mastered}</p>
+            </div>
+          </div>
         </div>
 
         {/* All mastered! */}

@@ -219,15 +219,14 @@ function TrackReview() {
       const existing = progressMap.get(key);
       const wordStage = existing?.stage || 'qualifying';
 
+      // Words only move UP, never back down
       let newStage: Stage = wordStage;
       if (correct) {
         if (wordStage === 'qualifying') newStage = 'pitradio';
         else if (wordStage === 'pitradio') newStage = 'victorylap';
         else if (wordStage === 'victorylap') newStage = 'mastered';
-      } else {
-        if (wordStage === 'victorylap') newStage = 'pitradio';
-        else if (wordStage === 'pitradio') newStage = 'qualifying';
       }
+      // Wrong answers: stay in current stage (no demotion)
 
       const newProgress: ChapterWordProgress = {
         chapterId,

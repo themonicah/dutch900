@@ -233,7 +233,7 @@ export const useStore = create<AppState>((set, get) => ({
     const isCorrect = quality >= 3; // 3+ is considered correct
     const today = new Date().toISOString();
 
-    // Simple progression logic based on current mode
+    // Progression logic - words only move UP, never back
     if (currentMode === 'reading') {
       card.reading.totalReviews++;
       if (isCorrect) {
@@ -246,7 +246,7 @@ export const useStore = create<AppState>((set, get) => ({
           dueDate: today,
         };
       }
-      // Wrong in reading = stay in reading (no change needed)
+      // Wrong = stay in current stage
     } else if (currentMode === 'listening') {
       card.listening.totalReviews++;
       if (isCorrect) {
@@ -258,11 +258,8 @@ export const useStore = create<AppState>((set, get) => ({
           status: 'learning',
           dueDate: today,
         };
-      } else {
-        // Wrong in listening = go back to reading
-        card.listening.unlocked = false;
-        card.listening.status = 'locked';
       }
+      // Wrong = stay in current stage (no demotion)
     } else {
       // Production mode
       card.production.totalReviews++;
@@ -270,11 +267,8 @@ export const useStore = create<AppState>((set, get) => ({
         card.production.correctCount++;
         // Correct in production = MASTERED! 🏆
         card.production.status = 'mastered';
-      } else {
-        // Wrong in production = go back to listening
-        card.production.unlocked = false;
-        card.production.status = 'locked';
       }
+      // Wrong = stay in current stage (no demotion)
     }
 
     card.lastReviewDate = today;
