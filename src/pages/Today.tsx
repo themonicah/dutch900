@@ -4,7 +4,7 @@ import { useStore } from '../store';
 
 function Today() {
   const navigate = useNavigate();
-  const { words, progress, stats, startReview, getStageCounts } = useStore();
+  const { words, progress, startReview, getStageCounts } = useStore();
   const [isStarting, setIsStarting] = useState(false);
 
   // Calculate what's available
@@ -200,21 +200,6 @@ function Today() {
         </div>
       </div>
 
-      {/* Stats Cards */}
-      <div className="grid grid-cols-3 gap-3">
-        <div className="bg-white dark:bg-gray-800 rounded-xl p-4 shadow-sm border border-gray-200 dark:border-gray-700 text-center">
-          <p className="text-2xl font-bold text-duo-yellow">{stats.currentStreak}</p>
-          <p className="text-xs text-gray-500 dark:text-gray-400 mt-1">Day streak</p>
-        </div>
-        <div className="bg-white dark:bg-gray-800 rounded-xl p-4 shadow-sm border border-gray-200 dark:border-gray-700 text-center">
-          <p className="text-2xl font-bold text-duo-blue">{stats.totalReviewsCompleted}</p>
-          <p className="text-xs text-gray-500 dark:text-gray-400 mt-1">Reviews</p>
-        </div>
-        <div className="bg-white dark:bg-gray-800 rounded-xl p-4 shadow-sm border border-gray-200 dark:border-gray-700 text-center">
-          <p className="text-2xl font-bold text-duo-green">{masteredCount}</p>
-          <p className="text-xs text-gray-500 dark:text-gray-400 mt-1">Mastered</p>
-        </div>
-      </div>
 
       {/* How It Works - Only show when starting out */}
       {wordsStarted < 20 && (
