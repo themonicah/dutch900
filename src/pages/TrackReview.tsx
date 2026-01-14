@@ -25,6 +25,8 @@ function TrackReview() {
   const [sessionComplete, setSessionComplete] = useState(false);
   const [sessionWordCount, setSessionWordCount] = useState(0); // Track original session size
   const [sessionWords, setSessionWords] = useState<ChapterWord[]>([]); // Fixed session words
+  const [correctCount, setCorrectCount] = useState(0); // Track correct answers
+  const [missedWords, setMissedWords] = useState<ChapterWord[]>([]); // Track missed words for retry
 
   // Typing mode state
   const [typedAnswer, setTypedAnswer] = useState('');
@@ -198,6 +200,13 @@ function TrackReview() {
   const handleAnswer = async (correct: boolean) => {
     if (!currentWord || exitAnimation) return;
 
+    // Track session stats
+    if (correct) {
+      setCorrectCount(prev => prev + 1);
+    } else {
+      setMissedWords(prev => [...prev, currentWord]);
+    }
+
     // Trigger exit animation
     setExitAnimation(correct ? 'right' : 'left');
 
@@ -332,17 +341,66 @@ function TrackReview() {
   const noWordsAvailable = sessionWordCount === 0 && filteredWords.length === 0 && !isLoading;
 
   if (showCompletion || noWordsAvailable) {
+    const wrongCount = sessionWordCount - correctCount;
+    const isPerfect = wrongCount === 0 && sessionWordCount > 0;
+
+    // Build next session: missed words + new words to fill to 10
+    const handlePracticeAgain = () => {
+      const BATCH_SIZE = 10;
+
+      // Start with missed words
+      let nextSession = [...missedWords];
+
+      // Fill remaining slots with words from the stage
+      if (nextSession.length < BATCH_SIZE) {
+        const missedIds = new Set(missedWords.map(w => w.id));
+        const sessionIds = new Set(sessionWords.map(w => w.id));
+
+        // Get more words from the stage that weren't in this session
+        const moreWords = words.filter(word => {
+          if (missedIds.has(word.id) || sessionIds.has(word.id)) return false;
+          const prog = getWordProgress(word);
+          if (!prog) return selectedStage === 'qualifying';
+          return prog.stage === selectedStage;
+        });
+
+        const shuffled = [...moreWords].sort(() => Math.random() - 0.5);
+        nextSession = [...nextSession, ...shuffled.slice(0, BATCH_SIZE - nextSession.length)];
+      }
+
+      // Reset for new session
+      setSessionWords(nextSession);
+      setSessionWordCount(nextSession.length);
+      setCurrentIndex(0);
+      setSessionComplete(false);
+      setCorrectCount(0);
+      setMissedWords([]);
+    };
+
     return (
       <div className="flex flex-col items-center justify-center min-h-[60vh] text-center">
-        <div className="text-6xl mb-4">{noWordsAvailable ? '📚' : '🎉'}</div>
+        <div className="text-6xl mb-4">{noWordsAvailable ? '📚' : isPerfect ? '🏆' : '🎉'}</div>
         <h2 className="text-2xl font-bold text-gray-900 dark:text-white mb-2">
-          {noWordsAvailable ? 'No words in this stage' : 'Session complete!'}
+          {noWordsAvailable ? 'No words in this stage' : isPerfect ? 'Perfect!' : 'Session complete!'}
         </h2>
-        <p className="text-gray-500 dark:text-gray-400 mb-6">
-          {noWordsAvailable
-            ? 'Complete earlier stages to unlock this one'
-            : `You reviewed ${sessionWordCount} words`}
-        </p>
+
+        {!noWordsAvailable && sessionWordCount > 0 && (
+          <div className="mb-6">
+            <p className="text-4xl font-bold mb-2" style={{ color: isPerfect ? '#58CC02' : correctCount > wrongCount ? '#58CC02' : '#FF4B4B' }}>
+              {correctCount} / {sessionWordCount}
+            </p>
+            <p className="text-gray-500 dark:text-gray-400">
+              {isPerfect ? 'All correct!' : `${wrongCount} to review`}
+            </p>
+          </div>
+        )}
+
+        {noWordsAvailable && (
+          <p className="text-gray-500 dark:text-gray-400 mb-6">
+            Complete earlier stages to unlock this one
+          </p>
+        )}
+
         <div className="flex gap-4">
           <Link
             to={isRematch ? '/tracks' : `/tracks/${trackId}`}
@@ -352,14 +410,10 @@ function TrackReview() {
           </Link>
           {!noWordsAvailable && (
             <button
-              onClick={() => {
-                setCurrentIndex(0);
-                setSessionComplete(false);
-                setSessionWordCount(0);
-              }}
+              onClick={handlePracticeAgain}
               className="px-6 py-3 bg-duo-green text-white rounded-xl font-bold hover:bg-duo-green-dark transition-all"
             >
-              Practice Again
+              {wrongCount > 0 ? `Review ${wrongCount} + New` : 'Practice More'}
             </button>
           )}
         </div>
