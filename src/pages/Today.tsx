@@ -21,6 +21,11 @@ function Today() {
   const masteredCount = stageCounts.fullyMastered;
   const notStartedCount = stageCounts.notStarted;
 
+  // Cumulative completed counts (words that have PASSED each stage)
+  const learnedCount = inListeningCount + inProductionCount + masteredCount;
+  const listenedCount = inProductionCount + masteredCount;
+  const producedCount = masteredCount;
+
   // Check if each mode has words available
   const canStartLearn = (inReadingCount + notStartedCount) > 0;
 
@@ -140,37 +145,49 @@ function Today() {
         <div className="mb-4">
           <div className="h-4 bg-gray-100 dark:bg-gray-700 rounded-full overflow-hidden flex">
             {/* Mastered */}
-            <div
-              className="h-full transition-all duration-500"
-              style={{
-                width: `${(masteredCount / totalWords) * 100}%`,
-                backgroundColor: '#FFC800'
-              }}
-            />
+            {masteredCount > 0 && (
+              <div
+                className="h-full transition-all duration-500 cursor-pointer"
+                title={`${masteredCount}/${totalWords} mastered`}
+                style={{
+                  width: `${(masteredCount / totalWords) * 100}%`,
+                  backgroundColor: '#FFC800'
+                }}
+              />
+            )}
             {/* In production */}
-            <div
-              className="h-full transition-all duration-500"
-              style={{
-                width: `${(inProductionCount / totalWords) * 100}%`,
-                backgroundColor: '#58CC02'
-              }}
-            />
+            {inProductionCount > 0 && (
+              <div
+                className="h-full transition-all duration-500 cursor-pointer"
+                title={`${producedCount}/${totalWords} produced`}
+                style={{
+                  width: `${(inProductionCount / totalWords) * 100}%`,
+                  backgroundColor: '#58CC02'
+                }}
+              />
+            )}
             {/* In listening */}
-            <div
-              className="h-full transition-all duration-500"
-              style={{
-                width: `${(inListeningCount / totalWords) * 100}%`,
-                backgroundColor: '#CE82FF'
-              }}
-            />
+            {inListeningCount > 0 && (
+              <div
+                className="h-full transition-all duration-500 cursor-pointer"
+                title={`${listenedCount}/${totalWords} listened`}
+                style={{
+                  width: `${(inListeningCount / totalWords) * 100}%`,
+                  backgroundColor: '#CE82FF'
+                }}
+              />
+            )}
             {/* In reading/learning */}
-            <div
-              className="h-full transition-all duration-500"
-              style={{
-                width: `${(inReadingCount / totalWords) * 100}%`,
-                backgroundColor: '#1CB0F6'
-              }}
-            />
+            {inReadingCount > 0 && (
+              <div
+                className="h-full transition-all duration-500 cursor-pointer"
+                title={`${learnedCount}/${totalWords} learned`}
+                style={{
+                  width: `${(inReadingCount / totalWords) * 100}%`,
+                  backgroundColor: '#1CB0F6'
+                }}
+              />
+            )}
           </div>
           <div className="flex justify-between text-xs text-gray-500 dark:text-gray-400 mt-1">
             <span>0</span>
