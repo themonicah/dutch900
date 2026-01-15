@@ -1,12 +1,11 @@
 import { useState, useEffect } from 'react';
 import { useNavigate } from 'react-router-dom';
-import { chapters, TOTAL_CHAPTERS } from '../data/chapters';
-import { getChapterProgress, getRematchWords } from '../lib/db';
+import { chapters } from '../data/chapters';
+import { getChapterProgress } from '../lib/db';
 
 function Tracks() {
   const navigate = useNavigate();
   const [chapterStats, setChapterStats] = useState<Map<number, { started: number; mastered: number; total: number }>>(new Map());
-  const [rematchCount, setRematchCount] = useState(0);
   const [isLoading, setIsLoading] = useState(true);
 
   // Load chapter progress stats
@@ -24,10 +23,6 @@ function Tracks() {
         });
       }
 
-      // Get rematch count
-      const rematch = await getRematchWords();
-      setRematchCount(rematch.length);
-
       setChapterStats(stats);
       setIsLoading(false);
     };
@@ -38,10 +33,6 @@ function Tracks() {
     navigate(`/tracks/${chapterId}`);
   };
 
-  const handleRematch = () => {
-    navigate('/tracks/rematch');
-  };
-
   if (isLoading) {
     return (
       <div className="flex items-center justify-center min-h-[60vh]">
@@ -50,79 +41,51 @@ function Tracks() {
     );
   }
 
+  // Only show chapters that have content
+  const availableChapters = chapters.filter(c => c.words.length > 0);
+
   return (
     <div className="space-y-6">
       {/* Header */}
       <div className="text-center">
-        <h1 className="text-2xl font-bold text-gray-900 dark:text-white">
-          Chapters
-        </h1>
         <p className="text-sm text-gray-500 dark:text-gray-400">
-          42 chapters from your textbook
+          {availableChapters.length} chapters available
         </p>
       </div>
 
-      {/* Rematch Button - if there are wrong words */}
-      {rematchCount > 0 && (
-        <button
-          onClick={handleRematch}
-          className="w-full p-4 rounded-xl flex items-center gap-4 active:scale-[0.98] transition-all"
-          style={{ backgroundColor: '#FFC800' }}
-        >
-          <div className="w-12 h-12 rounded-full flex items-center justify-center" style={{ backgroundColor: 'rgba(255,255,255,0.2)' }}>
-            <span className="text-2xl">🔥</span>
-          </div>
-          <div className="flex-1 text-left">
-            <p className="font-bold text-lg" style={{ color: '#ffffff' }}>Review Mistakes</p>
-            <p className="text-sm" style={{ color: 'rgba(255,255,255,0.8)' }}>Words you missed from all chapters</p>
-          </div>
-          <div className="px-4 py-2 rounded-full" style={{ backgroundColor: 'rgba(255,255,255,0.2)' }}>
-            <span className="font-bold text-lg" style={{ color: '#ffffff' }}>{rematchCount}</span>
-          </div>
-        </button>
-      )}
-
       {/* Chapter Grid */}
       <div className="grid grid-cols-3 gap-3">
-        {Array.from({ length: TOTAL_CHAPTERS }, (_, i) => i + 1).map((trackNum) => {
-          const chapter = chapters.find(c => c.id === trackNum);
-          const stats = chapterStats.get(trackNum);
-          const isAvailable = !!chapter;
+        {availableChapters.map((chapter) => {
+          const stats = chapterStats.get(chapter.id);
           const progress = stats ? Math.round((stats.mastered / stats.total) * 100) : 0;
           const isComplete = progress === 100;
+          const hasStarted = stats && stats.started > 0;
 
           return (
             <button
-              key={trackNum}
-              onClick={() => isAvailable && handleSelectTrack(trackNum)}
-              disabled={!isAvailable}
-              className={`relative p-4 rounded-xl transition-all ${
-                isAvailable
-                  ? isComplete
-                    ? 'bg-duo-green hover:bg-duo-green-dark active:scale-[0.98]'
-                    : stats && stats.started > 0
-                      ? 'active:scale-[0.98]'
-                      : 'bg-white dark:bg-gray-800 border-2 border-gray-200 dark:border-gray-700 hover:border-duo-green active:scale-[0.98]'
-                  : 'bg-gray-100 dark:bg-gray-800 opacity-50 cursor-not-allowed'
+              key={chapter.id}
+              onClick={() => handleSelectTrack(chapter.id)}
+              className={`relative p-4 rounded-xl transition-all active:scale-[0.98] ${
+                isComplete
+                  ? 'bg-duo-green'
+                  : hasStarted
+                    ? ''
+                    : 'bg-white dark:bg-gray-800 border-2 border-gray-200 dark:border-gray-700 hover:border-duo-green'
               }`}
-              style={isAvailable && stats && stats.started > 0 && !isComplete ? { backgroundColor: '#1CB0F6' } : undefined}
+              style={hasStarted && !isComplete ? { backgroundColor: '#1CB0F6' } : undefined}
             >
               {/* Chapter Number */}
               <p
                 className="font-bold text-2xl"
                 style={{
-                  color: isAvailable
-                    ? (isComplete || (stats && stats.started > 0))
-                      ? '#ffffff'
-                      : '#111827'
-                    : '#9ca3af'
+                  color: (isComplete || hasStarted) ? '#ffffff' : '#111827'
                 }}
               >
-                {trackNum}
+                {chapter.id}
               </p>
 
               {/* Progress indicator */}
-              {isAvailable && stats && stats.started > 0 && (
+              {hasStarted && (
                 <div className="mt-2">
                   <div className="h-1.5 rounded-full overflow-hidden" style={{ backgroundColor: 'rgba(0,0,0,0.2)' }}>
                     <div
@@ -136,11 +99,6 @@ function Tracks() {
                 </div>
               )}
 
-              {/* Locked indicator */}
-              {!isAvailable && (
-                <p className="text-xs text-gray-400 dark:text-gray-500 mt-1">🔒</p>
-              )}
-
               {/* Complete badge */}
               {isComplete && (
                 <div className="absolute -top-1 -right-1 bg-duo-yellow text-white rounded-full w-6 h-6 flex items-center justify-center shadow-sm">
@@ -150,22 +108,6 @@ function Tracks() {
             </button>
           );
         })}
-      </div>
-
-      {/* Legend */}
-      <div className="flex justify-center gap-6 text-xs text-gray-500 dark:text-gray-400">
-        <div className="flex items-center gap-2">
-          <div className="w-4 h-4 rounded bg-white dark:bg-gray-800 border border-gray-200 dark:border-gray-700" />
-          <span>Not started</span>
-        </div>
-        <div className="flex items-center gap-2">
-          <div className="w-4 h-4 rounded bg-duo-blue" />
-          <span>In progress</span>
-        </div>
-        <div className="flex items-center gap-2">
-          <div className="w-4 h-4 rounded bg-duo-green" />
-          <span>Complete</span>
-        </div>
       </div>
     </div>
   );

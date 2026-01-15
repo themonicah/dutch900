@@ -9,16 +9,14 @@ function Layout() {
 
   return (
     <div className="min-h-screen bg-gray-50 dark:bg-gray-900 flex flex-col">
-      {/* Clean Header */}
+      {/* Header */}
       <header className="bg-white dark:bg-gray-800 border-b border-gray-200 dark:border-gray-700">
         <div className="max-w-4xl mx-auto px-4 py-3 flex items-center justify-between">
           <div className="flex items-center gap-2">
             <span className="text-2xl">🇳🇱</span>
-            <div>
-              <h1 className="text-xl font-bold text-gray-900 dark:text-white">
-                Dutch<span className="text-duo-green">900</span>
-              </h1>
-            </div>
+            <h1 className="text-xl font-bold text-gray-900 dark:text-white">
+              Dutch<span className="text-duo-green">900</span>
+            </h1>
           </div>
 
           <div className="flex items-center gap-3">
@@ -41,67 +39,44 @@ function Layout() {
             </button>
           </div>
         </div>
+
+        {/* Top Navigation - Home & Chapters */}
+        <div className="max-w-4xl mx-auto px-4">
+          <div className="flex gap-1">
+            <NavLink
+              to="/"
+              end
+              className={({ isActive }) =>
+                `px-4 py-2 text-sm font-medium border-b-2 transition-colors ${
+                  isActive
+                    ? 'border-duo-green text-duo-green'
+                    : 'border-transparent text-gray-500 hover:text-gray-700 dark:text-gray-400'
+                }`
+              }
+            >
+              Home
+            </NavLink>
+
+            <NavLink
+              to="/tracks"
+              className={({ isActive }) =>
+                `px-4 py-2 text-sm font-medium border-b-2 transition-colors ${
+                  isActive
+                    ? 'border-duo-green text-duo-green'
+                    : 'border-transparent text-gray-500 hover:text-gray-700 dark:text-gray-400'
+                }`
+              }
+            >
+              Chapters
+            </NavLink>
+          </div>
+        </div>
       </header>
 
       {/* Main Content */}
       <main className="flex-1 max-w-4xl mx-auto w-full px-4 py-6">
         <Outlet />
       </main>
-
-      {/* Bottom Navigation - Clean Style */}
-      <nav className="bg-white dark:bg-gray-800 border-t border-gray-200 dark:border-gray-700 safe-area-bottom">
-        <div className="max-w-4xl mx-auto px-4">
-          <div className="flex justify-around py-2">
-            <NavLink
-              to="/"
-              className={({ isActive }) =>
-                `flex flex-col items-center py-2 px-4 rounded-xl transition-all ${
-                  isActive
-                    ? 'text-duo-green bg-duo-green/10'
-                    : 'text-gray-500 hover:text-gray-700 dark:text-gray-400 dark:hover:text-gray-200'
-                }`
-              }
-            >
-              <svg className="w-6 h-6" fill="currentColor" viewBox="0 0 24 24">
-                <path d="M10 20v-6h4v6h5v-8h3L12 3 2 12h3v8z"/>
-              </svg>
-              <span className="text-xs mt-1 font-medium">Home</span>
-            </NavLink>
-
-            <NavLink
-              to="/tracks"
-              className={({ isActive }) =>
-                `flex flex-col items-center py-2 px-4 rounded-xl transition-all ${
-                  isActive
-                    ? 'text-duo-green bg-duo-green/10'
-                    : 'text-gray-500 hover:text-gray-700 dark:text-gray-400 dark:hover:text-gray-200'
-                }`
-              }
-            >
-              <svg className="w-6 h-6" fill="currentColor" viewBox="0 0 24 24">
-                <path d="M18 2H6c-1.1 0-2 .9-2 2v16c0 1.1.9 2 2 2h12c1.1 0 2-.9 2-2V4c0-1.1-.9-2-2-2zM6 4h5v8l-2.5-1.5L6 12V4z"/>
-              </svg>
-              <span className="text-xs mt-1 font-medium">Chapters</span>
-            </NavLink>
-
-            <NavLink
-              to="/journey"
-              className={({ isActive }) =>
-                `flex flex-col items-center py-2 px-4 rounded-xl transition-all ${
-                  isActive
-                    ? 'text-duo-green bg-duo-green/10'
-                    : 'text-gray-500 hover:text-gray-700 dark:text-gray-400 dark:hover:text-gray-200'
-                }`
-              }
-            >
-              <svg className="w-6 h-6" fill="currentColor" viewBox="0 0 24 24">
-                <path d="M19 3H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2zM9 17H7v-7h2v7zm4 0h-2V7h2v10zm4 0h-2v-4h2v4z"/>
-              </svg>
-              <span className="text-xs mt-1 font-medium">Stats</span>
-            </NavLink>
-          </div>
-        </div>
-      </nav>
 
       {/* Settings Modal */}
       <SettingsModal isOpen={showSettings} onClose={() => setShowSettings(false)} />
