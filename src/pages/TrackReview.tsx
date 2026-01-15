@@ -3,6 +3,8 @@ import { useParams, Link } from 'react-router-dom';
 import { getChapter, type ChapterWord } from '../data/chapters';
 import { speakDutch } from '../lib/audio';
 import { scoreAnswer, getScoreMessage, type ScoreColor } from '../lib/fuzzyMatch';
+import { saveModeProgress, getModeProgress } from '../lib/db';
+import type { PracticeMode as DBPracticeMode } from '../types';
 
 type PracticeMode = 'learn' | 'listen' | 'produce';
 
@@ -133,6 +135,17 @@ function TrackReview() {
     } else {
       setConsecutiveGreens(0);
     }
+
+    // Save progress to database
+    const dbMode = mode as DBPracticeMode;
+    const existing = await getModeProgress(currentWord.id, dbMode);
+    await saveModeProgress({
+      wordId: currentWord.id,
+      mode: dbMode,
+      status: score,
+      lastAttempt: new Date().toISOString(),
+      attempts: (existing?.attempts || 0) + 1,
+    });
   };
 
   // Move to next card or show celebration

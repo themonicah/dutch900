@@ -131,27 +131,31 @@ function TrackDetail() {
               {/* Progress indicator */}
               <p className="text-xs text-white/70 mb-2">{practiced}/{totalWords}</p>
 
-              {/* Stats row */}
-              <div className="flex gap-2 text-xs">
-                <span className="text-white/90">
-                  <span className="opacity-70">G</span> {stats.green}
+              {/* Stats row with colored circles */}
+              <div className="flex items-center gap-3 text-xs text-white/90">
+                <span className="flex items-center gap-1">
+                  <svg className="w-3 h-3" viewBox="0 0 12 12">
+                    <circle cx="6" cy="6" r="5" fill="#22c55e"/>
+                  </svg>
+                  {stats.green}
                 </span>
-                <span className="text-white/90">
-                  <span className="opacity-70">Y</span> {stats.yellow}
+                <span className="flex items-center gap-1">
+                  <svg className="w-3 h-3" viewBox="0 0 12 12">
+                    <circle cx="6" cy="6" r="5" fill="#eab308"/>
+                  </svg>
+                  {stats.yellow}
                 </span>
-                <span className="text-white/90">
-                  <span className="opacity-70">R</span> {stats.red}
+                <span className="flex items-center gap-1">
+                  <svg className="w-3 h-3" viewBox="0 0 12 12">
+                    <circle cx="6" cy="6" r="5" fill="#ef4444"/>
+                  </svg>
+                  {stats.red}
                 </span>
               </div>
             </button>
           );
         })}
       </div>
-
-      {/* Quick legend */}
-      <p className="text-xs text-gray-400 dark:text-gray-500 text-center">
-        G = correct · Y = close · R = wrong
-      </p>
     </div>
   );
 }
