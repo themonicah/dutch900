@@ -7,7 +7,6 @@ import Today from './pages/Today';
 import Journey from './pages/Journey';
 import Review from './pages/Review';
 import Tracks from './pages/Tracks';
-import TrackDetail from './pages/TrackDetail';
 import TrackReview from './pages/TrackReview';
 
 function App() {
@@ -57,7 +56,7 @@ function App() {
         <Route path="journey" element={<Journey />} />
         <Route path="review/:mode" element={<Review />} />
         <Route path="tracks" element={<Tracks />} />
-        <Route path="tracks/:trackId" element={<TrackDetail />} />
+        <Route path="tracks/:trackId" element={<Tracks />} />
         <Route path="tracks/:trackId/review/:stage" element={<TrackReview />} />
         {/* Redirect old routes */}
         <Route path="learn" element={<Navigate to="/" replace />} />
