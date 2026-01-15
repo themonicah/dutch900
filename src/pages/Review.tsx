@@ -229,6 +229,13 @@ function Review() {
     red: { bg: 'bg-red-100 dark:bg-red-900/30', text: 'text-red-700 dark:text-red-300', border: 'border-red-400' },
   };
 
+  // Play celebration sound when celebration starts
+  useEffect(() => {
+    if (showCelebration) {
+      playCelebrationSound();
+    }
+  }, [showCelebration]);
+
   if (isLoading) {
     return (
       <div className="flex items-center justify-center min-h-[60vh]">
@@ -236,13 +243,6 @@ function Review() {
       </div>
     );
   }
-
-  // Play celebration sound when celebration starts
-  useEffect(() => {
-    if (showCelebration) {
-      playCelebrationSound();
-    }
-  }, [showCelebration]);
 
   // Celebration screen after 20 cards
   if (showCelebration) {
