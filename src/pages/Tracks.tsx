@@ -107,7 +107,7 @@ function Tracks() {
       {chapter && (
         <div className="text-center">
           <h2 className="text-lg font-bold text-gray-900 dark:text-white">
-            {chapter.name || `Chapter ${chapter.id}`}
+            Chapter {chapter.id}
           </h2>
           <p className="text-sm text-gray-500 dark:text-gray-400">{totalWords} words</p>
         </div>

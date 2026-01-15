@@ -18,7 +18,7 @@ export interface Chapter {
 export const chapters: Chapter[] = [
   {
     id: 1,
-    name: "Track 1",
+    name: "Chapter 1",
     words: [
       { id: 1, dutch: "les", english: "lesson/class", gender: "de" },
       { id: 2, dutch: "hoe", english: "how" },
@@ -79,7 +79,7 @@ export const chapters: Chapter[] = [
   // Tracks 2-14 will be added as user provides them
   {
     id: 15,
-    name: "Track 15",
+    name: "Chapter 15",
     words: [
       { id: 780, dutch: "pakje", english: "package", gender: "het" },
       { id: 781, dutch: "buren", english: "neighbours" },
@@ -138,7 +138,7 @@ export const chapters: Chapter[] = [
   },
   {
     id: 16,
-    name: "Track 16",
+    name: "Chapter 16",
     words: [
       { id: 832, dutch: "basisschool", english: "primary school", gender: "de" },
       { id: 833, dutch: "zitten op", english: "go to" },
@@ -197,7 +197,7 @@ export const chapters: Chapter[] = [
   },
   {
     id: 17,
-    name: "Track 17",
+    name: "Chapter 17",
     words: [
       { id: 885, dutch: "doet", english: "is doing", infinitive: "doen" },
       { id: 886, dutch: "huishouden", english: "housekeeping", gender: "het" },
