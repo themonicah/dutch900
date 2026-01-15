@@ -1,5 +1,5 @@
 import Dexie, { type EntityTable } from 'dexie';
-import type { CardProgress, UserStats, UserSettings, ChapterWordProgress } from '../types';
+import type { CardProgress, UserStats, UserSettings, ChapterWordProgress, WordModeProgress, PracticeMode } from '../types';
 
 // Define the database schema
 interface Dutch900DB {
@@ -7,6 +7,7 @@ interface Dutch900DB {
   stats: EntityTable<UserStats & { id: number }, 'id'>;
   settings: EntityTable<UserSettings & { id: number }, 'id'>;
   chapterProgress: EntityTable<ChapterWordProgress, 'wordId'>;
+  modeProgress: EntityTable<WordModeProgress, 'wordId'>;
 }
 
 // Create the database
@@ -64,6 +65,15 @@ db.version(4).stores({
   stats: 'id',
   settings: 'id',
   chapterProgress: '[chapterId+wordId], chapterId, stage',
+});
+
+// Version 5 - Add mode progress table for new independent practice modes
+db.version(5).stores({
+  progress: 'wordId, reading.dueDate, reading.status, listening.dueDate, listening.status, production.dueDate, production.status',
+  stats: 'id',
+  settings: 'id',
+  chapterProgress: '[chapterId+wordId], chapterId, stage',
+  modeProgress: '[wordId+mode], wordId, mode, status',
 });
 
 export { db };
@@ -173,4 +183,46 @@ export async function getAllChapterProgress(): Promise<ChapterWordProgress[]> {
 export async function getRematchWords(): Promise<ChapterWordProgress[]> {
   const all = await db.chapterProgress.toArray();
   return all.filter(p => p.wrongCount > 0 && p.stage !== 'mastered');
+}
+
+// Mode progress helpers (new independent practice modes)
+export async function getModeProgress(wordId: number, mode: PracticeMode): Promise<WordModeProgress | undefined> {
+  return db.modeProgress.get([wordId, mode]);
+}
+
+export async function saveModeProgress(progress: WordModeProgress): Promise<void> {
+  await db.modeProgress.put(progress);
+}
+
+export async function getAllModeProgress(mode: PracticeMode): Promise<WordModeProgress[]> {
+  return db.modeProgress.where('mode').equals(mode).toArray();
+}
+
+export async function getModeProgressMap(mode: PracticeMode): Promise<Map<number, WordModeProgress>> {
+  const all = await getAllModeProgress(mode);
+  const map = new Map<number, WordModeProgress>();
+  for (const p of all) {
+    map.set(p.wordId, p);
+  }
+  return map;
+}
+
+export async function getModeStats(mode: PracticeMode, totalWords: number): Promise<{ green: number; yellow: number; red: number; new: number }> {
+  const all = await getAllModeProgress(mode);
+  let green = 0;
+  let yellow = 0;
+  let red = 0;
+
+  for (const p of all) {
+    if (p.status === 'green') green++;
+    else if (p.status === 'yellow') yellow++;
+    else if (p.status === 'red') red++;
+  }
+
+  return {
+    green,
+    yellow,
+    red,
+    new: totalWords - all.length,
+  };
 }

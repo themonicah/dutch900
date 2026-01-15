@@ -110,9 +110,32 @@ export interface SM2Output {
   dueDate: Date;
 }
 
-// Review mode - progressive difficulty levels
+// Review mode - progressive difficulty levels (legacy)
 // Reading (Dutch → English) → Listening (Audio → Dutch) → Production (English → Dutch)
 export type ReviewMode = 'reading' | 'listening' | 'production';
+
+// New practice mode type - three independent modes
+export type PracticeMode = 'learn' | 'listen' | 'produce';
+
+// Word status for the new scoring system
+export type WordScoreStatus = 'new' | 'green' | 'yellow' | 'red';
+
+// Per-word, per-mode progress tracking (new simplified model)
+export interface WordModeProgress {
+  wordId: number;
+  mode: PracticeMode;
+  status: WordScoreStatus;
+  lastAttempt: string | null; // ISO date
+  attempts: number;
+}
+
+// Mode stats summary
+export interface ModeStats {
+  green: number;
+  yellow: number;
+  red: number;
+  new: number;
+}
 
 // Chapter/Track progress - simpler than base 900
 export interface ChapterWordProgress {
