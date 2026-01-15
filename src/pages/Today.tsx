@@ -72,7 +72,7 @@ function Today() {
             <button
               key={mode.id}
               onClick={() => handleStartMode(mode.id)}
-              className="flex flex-col items-center p-4 rounded-2xl transition-all active:scale-[0.97] shadow-sm"
+              className="flex flex-col items-center p-4 rounded-2xl transition-all duration-200 active:scale-[0.97] shadow-sm hover:scale-105 hover:shadow-lg hover:-translate-y-1"
               style={{ backgroundColor: mode.color }}
             >
               {/* Icon */}

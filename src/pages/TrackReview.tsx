@@ -4,6 +4,8 @@ import { getChapter, type ChapterWord } from '../data/chapters';
 import { speakDutch } from '../lib/audio';
 import { scoreAnswer, getScoreMessage, type ScoreColor } from '../lib/fuzzyMatch';
 import { saveModeProgress, getModeProgress } from '../lib/db';
+import { playCorrectSound, playCloseSound, playWrongSound, playCelebrationSound, playStreakSound } from '../lib/sounds';
+import Confetti from '../components/Confetti';
 import type { PracticeMode as DBPracticeMode } from '../types';
 
 type PracticeMode = 'learn' | 'listen' | 'produce';
@@ -129,9 +131,23 @@ function TrackReview() {
       [score]: prev[score] + 1
     }));
 
+    // Play sound based on score
+    if (score === 'green') {
+      playCorrectSound();
+    } else if (score === 'yellow') {
+      playCloseSound();
+    } else {
+      playWrongSound();
+    }
+
     // Track consecutive greens
     if (score === 'green') {
-      setConsecutiveGreens(prev => prev + 1);
+      const newStreak = consecutiveGreens + 1;
+      setConsecutiveGreens(newStreak);
+      // Play streak sound at milestones
+      if (newStreak === 5 || newStreak === 10 || newStreak === 15) {
+        setTimeout(playStreakSound, 200);
+      }
     } else {
       setConsecutiveGreens(0);
     }
@@ -220,11 +236,19 @@ function TrackReview() {
     );
   }
 
+  // Play celebration sound when celebration starts
+  useEffect(() => {
+    if (showCelebration) {
+      playCelebrationSound();
+    }
+  }, [showCelebration]);
+
   // Celebration screen after batch
   if (showCelebration) {
     return (
       <div className="flex flex-col items-center justify-center min-h-[60vh] text-center px-4">
-        <div className="text-6xl mb-4">🎉</div>
+        <Confetti />
+        <div className="text-6xl mb-4 animate-bounce">🎉</div>
         <h2 className="text-2xl font-bold text-gray-900 dark:text-white mb-2">
           You've completed {queue.length} words!
         </h2>

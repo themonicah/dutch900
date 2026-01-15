@@ -5,6 +5,8 @@ import { speakDutch } from '../lib/audio';
 import { scoreAnswer, getScoreMessage, type ScoreColor } from '../lib/fuzzyMatch';
 import { buildSmartBatch, getNewStatus, type WordStatus } from '../lib/batchBuilder';
 import { getModeProgressMap, saveModeProgress } from '../lib/db';
+import { playCorrectSound, playCloseSound, playWrongSound, playCelebrationSound, playStreakSound } from '../lib/sounds';
+import Confetti from '../components/Confetti';
 import type { PracticeMode, WordModeProgress } from '../types';
 
 const BATCH_SIZE = 20;
@@ -121,9 +123,23 @@ function Review() {
       [score]: prev[score] + 1
     }));
 
+    // Play sound based on score
+    if (score === 'green') {
+      playCorrectSound();
+    } else if (score === 'yellow') {
+      playCloseSound();
+    } else {
+      playWrongSound();
+    }
+
     // Track consecutive greens
     if (score === 'green') {
-      setConsecutiveGreens(prev => prev + 1);
+      const newStreak = consecutiveGreens + 1;
+      setConsecutiveGreens(newStreak);
+      // Play streak sound at milestones
+      if (newStreak === 5 || newStreak === 10 || newStreak === 15) {
+        setTimeout(playStreakSound, 200);
+      }
     } else {
       setConsecutiveGreens(0);
     }
@@ -221,11 +237,19 @@ function Review() {
     );
   }
 
+  // Play celebration sound when celebration starts
+  useEffect(() => {
+    if (showCelebration) {
+      playCelebrationSound();
+    }
+  }, [showCelebration]);
+
   // Celebration screen after 20 cards
   if (showCelebration) {
     return (
       <div className="flex flex-col items-center justify-center min-h-[60vh] text-center px-4">
-        <div className="text-6xl mb-4">🎉</div>
+        <Confetti />
+        <div className="text-6xl mb-4 animate-bounce">🎉</div>
         <h2 className="text-2xl font-bold text-gray-900 dark:text-white mb-2">
           You've completed {BATCH_SIZE} words!
         </h2>
