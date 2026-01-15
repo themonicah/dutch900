@@ -6,7 +6,7 @@ import type { ModeStats, PracticeMode } from '../types';
 
 function Today() {
   const navigate = useNavigate();
-  const { words, progress } = useStore();
+  const { words } = useStore();
 
   const [modeStats, setModeStats] = useState<Record<PracticeMode, ModeStats>>({
     learn: { green: 0, yellow: 0, red: 0, new: 0 },
@@ -16,7 +16,6 @@ function Today() {
   const [isLoading, setIsLoading] = useState(true);
 
   const totalWords = words.length;
-  const wordsStarted = progress.size;
 
   // Load mode stats
   useEffect(() => {
@@ -45,180 +44,80 @@ function Today() {
   // Calculate total greens across all modes (for overall progress)
   const totalGreens = modeStats.learn.green + modeStats.listen.green + modeStats.produce.green;
 
+  const modes = [
+    { id: 'learn' as PracticeMode, name: 'Learn', icon: '📖', color: '#1CB0F6', desc: 'See Dutch, type English' },
+    { id: 'listen' as PracticeMode, name: 'Listen', icon: '🔊', color: '#CE82FF', desc: 'Hear Dutch, type Dutch' },
+    { id: 'produce' as PracticeMode, name: 'Produce', icon: '🎯', color: '#58CC02', desc: 'See English, type Dutch' },
+  ];
+
   return (
-    <div className="space-y-6">
-      {/* Progress toward 900 words */}
-      <div className="bg-white dark:bg-gray-800 rounded-2xl p-5 shadow-sm border border-gray-200 dark:border-gray-700">
-        <div className="text-center mb-4">
-          <p className="text-sm text-gray-500 dark:text-gray-400 mb-1">Your journey to fluency</p>
-          <p className="text-3xl font-bold text-gray-900 dark:text-white">
-            {wordsStarted} <span className="text-gray-400 font-normal text-xl">/ 900</span>
-          </p>
-          <p className="text-sm text-gray-500 dark:text-gray-400">words started</p>
-        </div>
+    <div className="space-y-5">
+      {/* Intro blurb */}
+      <p className="text-center text-gray-600 dark:text-gray-400 text-sm px-4">
+        Master the 900 most common Dutch words and understand 80% of everyday conversation.
+      </p>
 
-        {/* Progress bar */}
-        <div className="mb-4">
-          <div className="h-4 bg-gray-100 dark:bg-gray-700 rounded-full overflow-hidden">
-            <div
-              className="h-full transition-all duration-500"
-              style={{
-                width: `${(wordsStarted / totalWords) * 100}%`,
-                backgroundColor: '#58CC02'
-              }}
-            />
-          </div>
-          <div className="flex justify-between text-xs text-gray-500 dark:text-gray-400 mt-1">
-            <span>0</span>
-            <span>{totalWords - wordsStarted} words remaining</span>
-            <span>900</span>
-          </div>
-        </div>
+      {/* Practice Mode Tiles - Side by Side */}
+      <div className="grid grid-cols-3 gap-3">
+        {modes.map((mode) => {
+          const stats = modeStats[mode.id];
+          const practiced = stats.green + stats.yellow + stats.red;
+
+          return (
+            <button
+              key={mode.id}
+              onClick={() => handleStartMode(mode.id)}
+              className="flex flex-col items-center p-4 rounded-2xl transition-all active:scale-[0.97] shadow-sm"
+              style={{ backgroundColor: mode.color }}
+            >
+              {/* Icon */}
+              <div
+                className="w-12 h-12 rounded-full flex items-center justify-center mb-2"
+                style={{ backgroundColor: 'rgba(255,255,255,0.2)' }}
+              >
+                <span className="text-2xl">{mode.icon}</span>
+              </div>
+
+              {/* Mode Name */}
+              <p className="font-bold text-white text-sm mb-1">{mode.name}</p>
+
+              {/* Progress indicator */}
+              <p className="text-xs text-white/70 mb-2">{practiced}/{totalWords}</p>
+
+              {/* Stats row with colored circles */}
+              {!isLoading && (
+                <div className="flex items-center gap-2 text-xs text-white/90">
+                  <span className="flex items-center gap-1">
+                    <svg className="w-2.5 h-2.5" viewBox="0 0 12 12">
+                      <circle cx="6" cy="6" r="5" fill="#22c55e"/>
+                    </svg>
+                    {stats.green}
+                  </span>
+                  <span className="flex items-center gap-1">
+                    <svg className="w-2.5 h-2.5" viewBox="0 0 12 12">
+                      <circle cx="6" cy="6" r="5" fill="#eab308"/>
+                    </svg>
+                    {stats.yellow}
+                  </span>
+                  <span className="flex items-center gap-1">
+                    <svg className="w-2.5 h-2.5" viewBox="0 0 12 12">
+                      <circle cx="6" cy="6" r="5" fill="#ef4444"/>
+                    </svg>
+                    {stats.red}
+                  </span>
+                </div>
+              )}
+            </button>
+          );
+        })}
       </div>
 
-      {/* Practice Modes */}
-      <div className="bg-white dark:bg-gray-800 rounded-2xl p-5 shadow-sm border border-gray-200 dark:border-gray-700">
-        <h2 className="text-lg font-bold text-gray-900 dark:text-white mb-4">Practice</h2>
-
-        <div className="space-y-3">
-          {/* Learn - See Dutch, type English */}
-          <button
-            onClick={() => handleStartMode('learn')}
-            className="w-full p-4 rounded-xl flex items-center gap-4 transition-all active:scale-[0.98]"
-            style={{ backgroundColor: '#1CB0F6' }}
-          >
-            <div
-              className="w-12 h-12 rounded-full flex items-center justify-center"
-              style={{ backgroundColor: 'rgba(255,255,255,0.2)' }}
-            >
-              <span className="text-2xl">📖</span>
-            </div>
-            <div className="flex-1 text-left">
-              <p className="font-bold text-lg text-white">Learn</p>
-              <p className="text-sm" style={{ color: 'rgba(255,255,255,0.7)' }}>See Dutch, type English</p>
-              {!isLoading && (
-                <div className="flex gap-3 mt-1">
-                  <span className="text-xs" style={{ color: 'rgba(255,255,255,0.9)' }}>
-                    🟢 {modeStats.learn.green}
-                  </span>
-                  <span className="text-xs" style={{ color: 'rgba(255,255,255,0.9)' }}>
-                    🟡 {modeStats.learn.yellow}
-                  </span>
-                  <span className="text-xs" style={{ color: 'rgba(255,255,255,0.9)' }}>
-                    🔴 {modeStats.learn.red}
-                  </span>
-                </div>
-              )}
-            </div>
-          </button>
-
-          {/* Listen - Hear Dutch, type Dutch */}
-          <button
-            onClick={() => handleStartMode('listen')}
-            className="w-full p-4 rounded-xl flex items-center gap-4 transition-all active:scale-[0.98]"
-            style={{ backgroundColor: '#CE82FF' }}
-          >
-            <div
-              className="w-12 h-12 rounded-full flex items-center justify-center"
-              style={{ backgroundColor: 'rgba(255,255,255,0.2)' }}
-            >
-              <span className="text-2xl">🔊</span>
-            </div>
-            <div className="flex-1 text-left">
-              <p className="font-bold text-lg text-white">Listen</p>
-              <p className="text-sm" style={{ color: 'rgba(255,255,255,0.7)' }}>Hear Dutch, type Dutch</p>
-              {!isLoading && (
-                <div className="flex gap-3 mt-1">
-                  <span className="text-xs" style={{ color: 'rgba(255,255,255,0.9)' }}>
-                    🟢 {modeStats.listen.green}
-                  </span>
-                  <span className="text-xs" style={{ color: 'rgba(255,255,255,0.9)' }}>
-                    🟡 {modeStats.listen.yellow}
-                  </span>
-                  <span className="text-xs" style={{ color: 'rgba(255,255,255,0.9)' }}>
-                    🔴 {modeStats.listen.red}
-                  </span>
-                </div>
-              )}
-            </div>
-          </button>
-
-          {/* Produce - See English, type Dutch */}
-          <button
-            onClick={() => handleStartMode('produce')}
-            className="w-full p-4 rounded-xl flex items-center gap-4 transition-all active:scale-[0.98]"
-            style={{ backgroundColor: '#58CC02' }}
-          >
-            <div
-              className="w-12 h-12 rounded-full flex items-center justify-center"
-              style={{ backgroundColor: 'rgba(255,255,255,0.2)' }}
-            >
-              <span className="text-2xl">🎯</span>
-            </div>
-            <div className="flex-1 text-left">
-              <p className="font-bold text-lg text-white">Produce</p>
-              <p className="text-sm" style={{ color: 'rgba(255,255,255,0.7)' }}>See English, type Dutch</p>
-              {!isLoading && (
-                <div className="flex gap-3 mt-1">
-                  <span className="text-xs" style={{ color: 'rgba(255,255,255,0.9)' }}>
-                    🟢 {modeStats.produce.green}
-                  </span>
-                  <span className="text-xs" style={{ color: 'rgba(255,255,255,0.9)' }}>
-                    🟡 {modeStats.produce.yellow}
-                  </span>
-                  <span className="text-xs" style={{ color: 'rgba(255,255,255,0.9)' }}>
-                    🔴 {modeStats.produce.red}
-                  </span>
-                </div>
-              )}
-            </div>
-          </button>
-        </div>
-
-        {/* All words mastered celebration */}
-        {totalGreens >= totalWords * 3 && (
-          <div className="mt-6 text-center py-6 bg-yellow-50 dark:bg-yellow-900/20 rounded-xl">
-            <span className="text-5xl">🏆</span>
-            <p className="font-bold text-yellow-600 dark:text-yellow-400 text-xl mt-2">Champion!</p>
-            <p className="text-sm text-gray-500 dark:text-gray-400">All 900 words mastered in all modes!</p>
-          </div>
-        )}
-      </div>
-
-      {/* How It Works - Only show when starting out */}
-      {wordsStarted < 20 && (
-        <div className="bg-white dark:bg-gray-800 rounded-2xl p-5 shadow-sm border border-gray-200 dark:border-gray-700">
-          <h3 className="font-bold text-gray-900 dark:text-white mb-4">How it works</h3>
-          <div className="space-y-4 text-sm">
-            <div className="flex gap-3 items-start">
-              <span className="flex-shrink-0 w-8 h-8 rounded-full flex items-center justify-center text-white font-bold" style={{ backgroundColor: '#1CB0F6' }}>1</span>
-              <div>
-                <p className="font-medium text-gray-900 dark:text-white">Learn</p>
-                <p className="text-gray-500 dark:text-gray-400">See Dutch word, type English translation</p>
-              </div>
-            </div>
-            <div className="flex gap-3 items-start">
-              <span className="flex-shrink-0 w-8 h-8 rounded-full flex items-center justify-center text-white font-bold" style={{ backgroundColor: '#CE82FF' }}>2</span>
-              <div>
-                <p className="font-medium text-gray-900 dark:text-white">Listen</p>
-                <p className="text-gray-500 dark:text-gray-400">Hear Dutch audio, type what you heard</p>
-              </div>
-            </div>
-            <div className="flex gap-3 items-start">
-              <span className="flex-shrink-0 w-8 h-8 rounded-full flex items-center justify-center text-white font-bold" style={{ backgroundColor: '#58CC02' }}>3</span>
-              <div>
-                <p className="font-medium text-gray-900 dark:text-white">Produce</p>
-                <p className="text-gray-500 dark:text-gray-400">See English, type the Dutch translation</p>
-              </div>
-            </div>
-          </div>
-          <div className="mt-4 pt-4 border-t border-gray-100 dark:border-gray-700">
-            <p className="text-xs text-gray-500 dark:text-gray-400">
-              <span className="text-green-500">🟢 Green</span> = correct,
-              <span className="text-yellow-500 ml-2">🟡 Yellow</span> = close,
-              <span className="text-red-500 ml-2">🔴 Red</span> = practice more
-            </p>
-          </div>
+      {/* All words mastered celebration */}
+      {totalGreens >= totalWords * 3 && (
+        <div className="text-center py-6 bg-yellow-50 dark:bg-yellow-900/20 rounded-xl">
+          <span className="text-5xl">🏆</span>
+          <p className="font-bold text-yellow-600 dark:text-yellow-400 text-xl mt-2">Champion!</p>
+          <p className="text-sm text-gray-500 dark:text-gray-400">All 900 words mastered in all modes!</p>
         </div>
       )}
     </div>
