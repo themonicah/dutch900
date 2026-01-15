@@ -10,10 +10,10 @@ function Layout() {
   return (
     <div className="min-h-screen bg-gray-50 dark:bg-gray-900 flex flex-col">
       {/* Header */}
-      <header className="bg-white dark:bg-gray-800 border-b border-gray-200 dark:border-gray-700">
+      <header className="bg-white dark:bg-gray-800">
         <div className="max-w-4xl mx-auto px-4 py-3">
           {/* Top row with settings button */}
-          <div className="flex items-center justify-between mb-2">
+          <div className="flex items-center justify-between">
             <div className="w-10" /> {/* Spacer for balance */}
             <div className="flex items-center gap-2">
               {/* Cute tulip icon */}
@@ -46,14 +46,16 @@ function Layout() {
               </button>
             </div>
           </div>
+        </div>
 
-          {/* Centered Navigation - Home & Chapters */}
-          <div className="flex justify-center gap-1">
+        {/* Navigation bar - sits on border */}
+        <div className="border-b border-gray-200 dark:border-gray-700">
+          <div className="max-w-4xl mx-auto px-4 flex justify-center gap-1">
             <NavLink
               to="/"
               end
               className={({ isActive }) =>
-                `px-4 py-2 text-sm font-medium border-b-2 transition-colors ${
+                `px-4 py-2 text-sm font-medium border-b-2 -mb-px transition-colors ${
                   isActive
                     ? 'border-duo-green text-duo-green'
                     : 'border-transparent text-gray-500 hover:text-gray-700 dark:text-gray-400'
@@ -66,7 +68,7 @@ function Layout() {
             <NavLink
               to="/tracks"
               className={({ isActive }) =>
-                `px-4 py-2 text-sm font-medium border-b-2 transition-colors ${
+                `px-4 py-2 text-sm font-medium border-b-2 -mb-px transition-colors ${
                   isActive
                     ? 'border-duo-green text-duo-green'
                     : 'border-transparent text-gray-500 hover:text-gray-700 dark:text-gray-400'
