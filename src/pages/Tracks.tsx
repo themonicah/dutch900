@@ -81,7 +81,7 @@ function Tracks() {
   const modes = [
     { id: 'learn' as PracticeMode, name: 'Learn', icon: '📖', color: '#1CB0F6', desc: 'See Dutch, type English' },
     { id: 'listen' as PracticeMode, name: 'Listen', icon: '🔊', color: '#CE82FF', desc: 'Hear Dutch, type Dutch' },
-    { id: 'produce' as PracticeMode, name: 'Produce', icon: '🎯', color: '#58CC02', desc: 'See English, type Dutch' },
+    { id: 'produce' as PracticeMode, name: 'Translate', icon: '🎯', color: '#58CC02', desc: 'See English, type Dutch' },
   ];
 
   return (

@@ -218,7 +218,7 @@ function Review() {
   const modeStyles = {
     learn: { color: '#1CB0F6', label: 'Learn', icon: '📖' },
     listen: { color: '#CE82FF', label: 'Listen', icon: '🔊' },
-    produce: { color: '#58CC02', label: 'Produce', icon: '🎯' },
+    produce: { color: '#58CC02', label: 'Translate', icon: '🎯' },
   };
   const style = modeStyles[mode];
 
