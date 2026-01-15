@@ -226,3 +226,21 @@ export async function getModeStats(mode: PracticeMode, totalWords: number): Prom
     new: totalWords - all.length,
   };
 }
+
+// Export all data for backup
+export async function exportAllData(): Promise<string> {
+  const [learnProgress, listenProgress, translateProgress] = await Promise.all([
+    getAllModeProgress('learn'),
+    getAllModeProgress('listen'),
+    getAllModeProgress('produce'),
+  ]);
+
+  const data = {
+    exportDate: new Date().toISOString(),
+    learn: learnProgress,
+    listen: listenProgress,
+    translate: translateProgress,
+  };
+
+  return JSON.stringify(data, null, 2);
+}

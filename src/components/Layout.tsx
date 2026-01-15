@@ -1,8 +1,20 @@
 import { NavLink, Outlet } from 'react-router-dom';
 import { useStore } from '../store';
+import { exportAllData } from '../lib/db';
 
 function Layout() {
   const { stats } = useStore();
+
+  const handleExportData = async () => {
+    const data = await exportAllData();
+    const blob = new Blob([data], { type: 'application/json' });
+    const url = URL.createObjectURL(blob);
+    const a = document.createElement('a');
+    a.href = url;
+    a.download = `dutch900-backup-${new Date().toISOString().split('T')[0]}.json`;
+    a.click();
+    URL.revokeObjectURL(url);
+  };
 
   return (
     <div className="min-h-screen bg-gray-50 dark:bg-gray-900 flex flex-col">
@@ -74,6 +86,15 @@ function Layout() {
         <Outlet />
       </main>
 
+      {/* Footer */}
+      <footer className="py-4 text-center">
+        <button
+          onClick={handleExportData}
+          className="text-xs text-gray-400 hover:text-gray-600 dark:hover:text-gray-300 transition-colors"
+        >
+          Download my data
+        </button>
+      </footer>
     </div>
   );
 }
