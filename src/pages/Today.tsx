@@ -51,11 +51,16 @@ function Today() {
   ];
 
   return (
-    <div className="space-y-5">
-      {/* Intro blurb */}
-      <p className="text-center text-gray-600 dark:text-gray-400 text-sm px-4">
-        Master the 900 most common Dutch words and understand 80% of everyday conversation.
-      </p>
+    <div className="min-h-[70vh] flex flex-col justify-center space-y-6">
+      {/* Intro */}
+      <div className="text-center px-4">
+        <p className="text-xl font-medium text-gray-800 dark:text-gray-200 mb-2">
+          Master the 900 most common Dutch words
+        </p>
+        <p className="text-sm text-gray-500 dark:text-gray-400">
+          3 modes to practice. Try to get them all green.
+        </p>
+      </div>
 
       {/* Practice Mode Tiles - Side by Side */}
       <div className="grid grid-cols-3 gap-3">
