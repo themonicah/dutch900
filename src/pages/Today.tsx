@@ -58,7 +58,7 @@ function Today() {
           Master the 900 most common Dutch words
         </p>
         <p className="text-sm text-gray-500 dark:text-gray-400">
-          3 modes to practice. Try to get them all green.
+          3 modes to practice
         </p>
       </div>
 
