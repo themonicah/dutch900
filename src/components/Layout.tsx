@@ -1,9 +1,11 @@
+import { useRef } from 'react';
 import { NavLink, Outlet } from 'react-router-dom';
 import { useStore } from '../store';
-import { exportAllData } from '../lib/db';
+import { exportAllData, importAllData } from '../lib/db';
 
 function Layout() {
   const { stats } = useStore();
+  const fileInputRef = useRef<HTMLInputElement>(null);
 
   const handleExportData = async () => {
     const data = await exportAllData();
@@ -14,6 +16,24 @@ function Layout() {
     a.download = `dutch900-backup-${new Date().toISOString().split('T')[0]}.json`;
     a.click();
     URL.revokeObjectURL(url);
+  };
+
+  const handleImportData = async (e: React.ChangeEvent<HTMLInputElement>) => {
+    const file = e.target.files?.[0];
+    if (!file) return;
+
+    try {
+      const text = await file.text();
+      const result = await importAllData(text);
+      alert(`Restored ${result.imported} progress records!`);
+      window.location.reload();
+    } catch {
+      alert('Failed to restore backup. Make sure the file is a valid Dutch900 backup.');
+    }
+
+    if (fileInputRef.current) {
+      fileInputRef.current.value = '';
+    }
   };
 
   return (
@@ -87,13 +107,26 @@ function Layout() {
       </main>
 
       {/* Footer */}
-      <footer className="py-4 text-center">
+      <footer className="py-4 text-center space-x-4">
         <button
           onClick={handleExportData}
           className="text-xs text-gray-400 hover:text-gray-600 dark:hover:text-gray-300 transition-colors"
         >
-          Download my data
+          Backup my learning
         </button>
+        <button
+          onClick={() => fileInputRef.current?.click()}
+          className="text-xs text-gray-400 hover:text-gray-600 dark:hover:text-gray-300 transition-colors"
+        >
+          Restore from backup
+        </button>
+        <input
+          ref={fileInputRef}
+          type="file"
+          accept=".json"
+          onChange={handleImportData}
+          className="hidden"
+        />
       </footer>
     </div>
   );

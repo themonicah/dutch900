@@ -88,7 +88,7 @@ function Tracks() {
     <div className="min-h-[70vh] flex flex-col justify-center space-y-6">
       {/* Explanation */}
       <p className="text-center text-sm text-gray-400 dark:text-gray-500 px-4">
-        Vocabulary organized by chapter from the Dutch in 3 Months textbook
+        Vocabulary organized by chapter from the green textbook
       </p>
 
       {/* Chapter Pills */}

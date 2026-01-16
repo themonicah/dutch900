@@ -41,21 +41,33 @@ function levenshteinDistance(a: string, b: string): number {
  * Normalize a string for comparison
  * - lowercase
  * - trim whitespace
- * - remove common articles and prefixes (the, a, an, de, het, to)
+ * - remove parenthetical context like "(common)", "(formal)", "(plural)"
+ * - remove common articles and prefixes (the, a, an, de, het, to) - but only if there's more content after
  */
 function normalize(str: string): string {
-  return str
+  let result = str
     .toLowerCase()
     .trim()
-    .replace(/^(the|a|an|de|het|to)\s+/i, '')
+    .replace(/\s*\([^)]*\)\s*/g, ' ')  // Remove parenthetical content
     .trim();
+
+  // Only strip article prefix if there's more content after it
+  const withoutArticle = result.replace(/^(the|a|an|de|het|to)\s+/i, '').trim();
+  if (withoutArticle.length > 0) {
+    result = withoutArticle;
+  }
+
+  return result;
 }
 
 /**
  * Extract core words from a phrase (for matching "search" to "to search, look for")
  */
 function extractCoreWords(str: string): string[] {
-  const normalized = str.toLowerCase().trim();
+  const normalized = str
+    .toLowerCase()
+    .trim()
+    .replace(/\s*\([^)]*\)\s*/g, ' ');  // Remove parenthetical content
   const words = normalized
     .split(/[\s,;]+/)
     .filter(w => !['the', 'a', 'an', 'de', 'het', 'to', 'for'].includes(w) && w.length > 0);

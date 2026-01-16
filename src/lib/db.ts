@@ -244,3 +244,35 @@ export async function exportAllData(): Promise<string> {
 
   return JSON.stringify(data, null, 2);
 }
+
+// Import data from backup
+export async function importAllData(jsonString: string): Promise<{ imported: number }> {
+  const data = JSON.parse(jsonString);
+  let imported = 0;
+
+  // Import learn progress
+  if (data.learn && Array.isArray(data.learn)) {
+    for (const p of data.learn) {
+      await saveModeProgress(p);
+      imported++;
+    }
+  }
+
+  // Import listen progress
+  if (data.listen && Array.isArray(data.listen)) {
+    for (const p of data.listen) {
+      await saveModeProgress(p);
+      imported++;
+    }
+  }
+
+  // Import translate/produce progress
+  if (data.translate && Array.isArray(data.translate)) {
+    for (const p of data.translate) {
+      await saveModeProgress(p);
+      imported++;
+    }
+  }
+
+  return { imported };
+}
