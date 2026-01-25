@@ -4,7 +4,7 @@ import { useStore } from '../store';
 import { speakDutch } from '../lib/audio';
 import { scoreAnswer, getScoreMessage, type ScoreColor } from '../lib/fuzzyMatch';
 import { buildSmartBatch, getNewStatus, type WordStatus } from '../lib/batchBuilder';
-import { getModeProgressMap, saveModeProgress, getTroubledWord, saveTroubledWord } from '../lib/db';
+import { getModeProgressMap, saveModeProgress, getTroubledWord, saveTroubledWord, removeTroubledWord, getAllTroubledWords } from '../lib/db';
 import { playCorrectSound, playCloseSound, playWrongSound, playCelebrationSound, playStreakSound } from '../lib/sounds';
 import Confetti from '../components/Confetti';
 import type { PracticeMode, WordModeProgress } from '../types';
@@ -46,7 +46,11 @@ function Review() {
       const progress = await getModeProgressMap(mode);
       setProgressMap(progress);
 
-      const batch = buildSmartBatch(allWordIds, progress, BATCH_SIZE);
+      // Get troubled words for this mode
+      const troubled = await getAllTroubledWords(mode);
+      const troubledIds = new Set(troubled.map(t => t.wordId));
+
+      const batch = buildSmartBatch(allWordIds, progress, BATCH_SIZE, troubledIds);
       setQueue(batch);
       setCurrentIndex(0);
       setSessionStats({ green: 0, yellow: 0, red: 0 });
@@ -159,9 +163,23 @@ function Review() {
 
     await saveModeProgress(updatedProgress);
 
-    // Add to troubled words if 3+ attempts and not getting it right (yellow/red)
-    if (updatedProgress.attempts >= 3 && score !== 'green') {
-      const existingTroubled = await getTroubledWord(currentWord.id, mode);
+    // Handle troubled words
+    const existingTroubled = await getTroubledWord(currentWord.id, mode);
+
+    if (score === 'green' && existingTroubled) {
+      // Correct answer on troubled word - increment count or remove
+      const newCorrectCount = existingTroubled.reviewCorrectCount + 1;
+      if (newCorrectCount >= 2) {
+        // Mastered! Remove from troubled words
+        await removeTroubledWord(currentWord.id, mode);
+      } else {
+        await saveTroubledWord({
+          ...existingTroubled,
+          reviewCorrectCount: newCorrectCount,
+        });
+      }
+    } else if (updatedProgress.attempts >= 3 && score !== 'green') {
+      // Add to troubled words if 3+ attempts and not getting it right
       if (!existingTroubled) {
         await saveTroubledWord({
           wordId: currentWord.id,

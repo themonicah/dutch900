@@ -31,21 +31,25 @@ function shuffle<T>(array: T[]): T[] {
  * Build a smart batch of word IDs for practice
  *
  * Priority order:
- * 1. Red words (~5) - struggled with these
- * 2. Yellow words (~3) - close but need practice
- * 3. Green review (1-2) - occasional review to prevent forgetting
- * 4. New words - fill remaining slots
+ * 1. Troubled words (~5) - words that took 3+ attempts, need reinforcement
+ * 2. Red words (~5) - struggled with these
+ * 3. Yellow words (~3) - close but need practice
+ * 4. Green review (1-2) - occasional review to prevent forgetting
+ * 5. New words - fill remaining slots
  *
  * @param allWordIds - All available word IDs
  * @param progressMap - Map of wordId -> WordModeProgress
  * @param batchSize - Number of words in batch (default 20)
+ * @param troubledWordIds - Set of word IDs that need extra practice
  */
 export function buildSmartBatch(
   allWordIds: number[],
   progressMap: Map<number, WordModeProgress>,
-  batchSize: number = 20
+  batchSize: number = 20,
+  troubledWordIds: Set<number> = new Set()
 ): number[] {
   // Categorize words by status
+  const troubledWords: number[] = [];
   const redWords: number[] = [];
   const yellowWords: number[] = [];
   const greenWords: number[] = [];
@@ -53,7 +57,12 @@ export function buildSmartBatch(
 
   for (const wordId of allWordIds) {
     const progress = progressMap.get(wordId);
-    if (!progress || progress.status === 'new') {
+    const isTroubled = troubledWordIds.has(wordId);
+
+    if (isTroubled) {
+      // Troubled words get highest priority
+      troubledWords.push(wordId);
+    } else if (!progress || progress.status === 'new') {
       newWords.push(wordId);
     } else if (progress.status === 'red') {
       redWords.push(wordId);
@@ -67,26 +76,30 @@ export function buildSmartBatch(
   // Build batch with priorities
   const batch: number[] = [];
 
-  // 1. Add red words (up to 5)
+  // 1. Add troubled words (up to 5) - highest priority
+  const shuffledTroubled = shuffle(troubledWords);
+  batch.push(...shuffledTroubled.slice(0, Math.min(5, shuffledTroubled.length)));
+
+  // 2. Add red words (up to 5)
   const shuffledRed = shuffle(redWords);
   batch.push(...shuffledRed.slice(0, Math.min(5, shuffledRed.length)));
 
-  // 2. Add yellow words (up to 3)
+  // 3. Add yellow words (up to 3)
   const shuffledYellow = shuffle(yellowWords);
   batch.push(...shuffledYellow.slice(0, Math.min(3, shuffledYellow.length)));
 
-  // 3. Add green review (1-2)
+  // 4. Add green review (1-2)
   const shuffledGreen = shuffle(greenWords);
   batch.push(...shuffledGreen.slice(0, Math.min(2, shuffledGreen.length)));
 
-  // 4. Fill remaining with new words
+  // 5. Fill remaining with new words
   const remaining = batchSize - batch.length;
   if (remaining > 0) {
     const shuffledNew = shuffle(newWords);
     batch.push(...shuffledNew.slice(0, remaining));
   }
 
-  // Shuffle final batch so it's not predictable (red first, then yellow, etc)
+  // Shuffle final batch so it's not predictable
   return shuffle(batch);
 }
 
