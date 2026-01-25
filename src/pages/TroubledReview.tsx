@@ -1,30 +1,20 @@
 import { useState, useEffect, useRef, useMemo } from 'react';
 import { useParams, Link } from 'react-router-dom';
-import { getChapter, type ChapterWord } from '../data/chapters';
+import { useStore } from '../store';
 import { speakDutch } from '../lib/audio';
 import { scoreAnswer, getScoreMessage, type ScoreColor } from '../lib/fuzzyMatch';
-import { saveModeProgress, getModeProgress, getTroubledWord, saveTroubledWord, getAllModeProgress } from '../lib/db';
-import { playCorrectSound, playCloseSound, playWrongSound, playCelebrationSound, playStreakSound } from '../lib/sounds';
+import { getAllTroubledWords, getTroubledWord, saveTroubledWord, removeTroubledWord, type TroubledWord } from '../lib/db';
+import { playCorrectSound, playCloseSound, playWrongSound, playCelebrationSound } from '../lib/sounds';
 import Confetti from '../components/Confetti';
-import type { PracticeMode as DBPracticeMode } from '../types';
+import type { PracticeMode } from '../types';
 
-type PracticeMode = 'learn' | 'listen' | 'produce';
-
-const BATCH_SIZE = 20;
-
-function TrackReview() {
-  const { trackId, stage } = useParams<{ trackId: string; stage: string }>();
-  const chapterId = parseInt(trackId || '1');
-
-  // Determine practice mode from URL
-  const mode: PracticeMode = stage === 'listen'
-    ? 'listen'
-    : stage === 'produce'
-      ? 'produce'
-      : 'learn';
+function TroubledReview() {
+  const { mode: modeParam } = useParams<{ mode: string }>();
+  const mode: PracticeMode = (modeParam as PracticeMode) || 'learn';
+  const { words } = useStore();
 
   const [isLoading, setIsLoading] = useState(true);
-  const [chapterWords, setChapterWords] = useState<ChapterWord[]>([]);
+  const [troubledWords, setTroubledWords] = useState<TroubledWord[]>([]);
   const [queue, setQueue] = useState<number[]>([]);
   const [currentIndex, setCurrentIndex] = useState(0);
   const [enterAnimation, setEnterAnimation] = useState<'entering' | 'visible'>('visible');
@@ -37,121 +27,34 @@ function TrackReview() {
   // Session stats
   const [sessionStats, setSessionStats] = useState({ green: 0, yellow: 0, red: 0 });
   const [showCelebration, setShowCelebration] = useState(false);
-  const [consecutiveGreens, setConsecutiveGreens] = useState(0);
+  const [wordsRemoved, setWordsRemoved] = useState(0);
 
-  // Check if English and Dutch words are very similar (cognates like "weekend")
-  const areSimilarWords = (dutch: string, english: string): boolean => {
-    const d = dutch.toLowerCase().trim();
-    const e = english.toLowerCase().trim();
-    // Exact match
-    if (d === e) return true;
-    // One is contained in the other (for multi-word answers)
-    if (d.includes(e) || e.includes(d)) return true;
-    // Very close (1 character difference for short words)
-    if (Math.abs(d.length - e.length) <= 1 && d.length <= 8) {
-      let diff = 0;
-      const longer = d.length > e.length ? d : e;
-      const shorter = d.length > e.length ? e : d;
-      for (let i = 0; i < shorter.length; i++) {
-        if (shorter[i] !== longer[i]) diff++;
-      }
-      diff += longer.length - shorter.length;
-      if (diff <= 1) return true;
-    }
-    return false;
-  };
-
-  // Load chapter words and build batch
+  // Load troubled words
   useEffect(() => {
     const init = async () => {
       setIsLoading(true);
-      const chapter = getChapter(chapterId);
-      if (!chapter) {
-        setIsLoading(false);
-        return;
+
+      // Get all troubled words for this mode
+      const troubled = await getAllTroubledWords(mode);
+      setTroubledWords(troubled);
+
+      // Build queue from troubled words
+      const wordIds = troubled.map(t => t.wordId);
+      // Shuffle
+      for (let i = wordIds.length - 1; i > 0; i--) {
+        const j = Math.floor(Math.random() * (i + 1));
+        [wordIds[i], wordIds[j]] = [wordIds[j], wordIds[i]];
       }
 
-      setChapterWords(chapter.words);
-
-      // Get existing progress to check for mistakes
-      const existingProgress = await getAllModeProgress(mode);
-      const progressMap = new Map(existingProgress.map(p => [p.wordId, p]));
-
-      // Categorize words
-      const needsPractice: ChapterWord[] = []; // Words with mistakes or never seen
-      const similarWords: ChapterWord[] = [];   // Cognates (same in both languages)
-      const regularWords: ChapterWord[] = [];   // Regular words to practice
-
-      for (const word of chapter.words) {
-        const progress = progressMap.get(word.id);
-        const hasMistakes = progress && (progress.status === 'red' || progress.status === 'yellow');
-        const isSimilar = areSimilarWords(word.dutch, word.english);
-
-        if (hasMistakes) {
-          // Always prioritize words they've gotten wrong
-          needsPractice.push(word);
-        } else if (isSimilar && progress?.status === 'green') {
-          // Similar words they already got right - skip for now
-          continue;
-        } else if (isSimilar) {
-          // Similar words not yet practiced - put at end
-          similarWords.push(word);
-        } else {
-          regularWords.push(word);
-        }
-      }
-
-      // Shuffle a single array
-      const shuffle = <T,>(arr: T[]): T[] => {
-        const result = [...arr];
-        for (let i = result.length - 1; i > 0; i--) {
-          const j = Math.floor(Math.random() * (i + 1));
-          [result[i], result[j]] = [result[j], result[i]];
-        }
-        return result;
-      };
-
-      // Shuffle each category
-      const shuffledMistakes = shuffle(needsPractice);
-      const shuffledRegular = shuffle(regularWords);
-      const shuffledSimilar = shuffle(similarWords);
-
-      // Interleave words: mix easy wins (cognates) throughout for motivation
-      // Pattern: 2-3 challenging words, then 1 easy win, repeat
-      const interleaved: ChapterWord[] = [];
-      const challenging = [...shuffledMistakes, ...shuffledRegular];
-      let challengingIdx = 0;
-      let similarIdx = 0;
-
-      while (interleaved.length < BATCH_SIZE && (challengingIdx < challenging.length || similarIdx < shuffledSimilar.length)) {
-        // Add 2-3 challenging words
-        const chunkSize = 2 + Math.floor(Math.random() * 2); // 2 or 3
-        for (let i = 0; i < chunkSize && challengingIdx < challenging.length && interleaved.length < BATCH_SIZE; i++) {
-          interleaved.push(challenging[challengingIdx++]);
-        }
-
-        // Add 1 easy win (cognate) if available
-        if (similarIdx < shuffledSimilar.length && interleaved.length < BATCH_SIZE) {
-          interleaved.push(shuffledSimilar[similarIdx++]);
-        }
-      }
-
-      // Fill any remaining slots
-      while (interleaved.length < BATCH_SIZE && similarIdx < shuffledSimilar.length) {
-        interleaved.push(shuffledSimilar[similarIdx++]);
-      }
-
-      const prioritized = interleaved;
-
-      setQueue(prioritized.map(w => w.id));
+      setQueue(wordIds);
       setCurrentIndex(0);
       setSessionStats({ green: 0, yellow: 0, red: 0 });
-      setConsecutiveGreens(0);
+      setWordsRemoved(0);
       setShowCelebration(false);
       setIsLoading(false);
     };
     init();
-  }, [chapterId, mode]);
+  }, [mode]);
 
   // Reset state when moving to next card
   useEffect(() => {
@@ -175,17 +78,17 @@ function TrackReview() {
   useEffect(() => {
     if (enterAnimation === 'visible' && !isLoading && !showCelebration) {
       const wordId = queue[currentIndex];
-      const word = chapterWords.find(w => w.id === wordId);
+      const word = words.find(w => w.id === wordId);
       if (word && (mode === 'learn' || mode === 'listen')) {
         speakDutch(word.dutch);
       }
     }
-  }, [currentIndex, enterAnimation, isLoading, showCelebration, chapterWords, queue, mode]);
+  }, [currentIndex, enterAnimation, isLoading, showCelebration, words, queue, mode]);
 
   const currentWord = useMemo(() => {
     if (queue.length === 0 || currentIndex >= queue.length) return null;
-    return chapterWords.find(w => w.id === queue[currentIndex]) || null;
-  }, [queue, currentIndex, chapterWords]);
+    return words.find(w => w.id === queue[currentIndex]) || null;
+  }, [queue, currentIndex, words]);
 
   // Get expected answer based on mode
   const getExpectedAnswer = (): string => {
@@ -228,42 +131,25 @@ function TrackReview() {
       playWrongSound();
     }
 
-    // Track consecutive greens
-    if (score === 'green') {
-      const newStreak = consecutiveGreens + 1;
-      setConsecutiveGreens(newStreak);
-      // Play streak sound at milestones
-      if (newStreak === 5 || newStreak === 10 || newStreak === 15) {
-        setTimeout(playStreakSound, 200);
+    // Update troubled word progress
+    const troubled = await getTroubledWord(currentWord.id, mode);
+    if (troubled) {
+      if (score === 'green') {
+        const newCorrectCount = troubled.reviewCorrectCount + 1;
+        if (newCorrectCount >= 2) {
+          // Remove from troubled words - they've mastered it!
+          await removeTroubledWord(currentWord.id, mode);
+          setWordsRemoved(prev => prev + 1);
+          setTroubledWords(prev => prev.filter(t => t.wordId !== currentWord.id));
+        } else {
+          // Increment correct count
+          await saveTroubledWord({
+            ...troubled,
+            reviewCorrectCount: newCorrectCount,
+          });
+        }
       }
-    } else {
-      setConsecutiveGreens(0);
-    }
-
-    // Save progress to database
-    const dbMode = mode as DBPracticeMode;
-    const existing = await getModeProgress(currentWord.id, dbMode);
-    const newAttempts = (existing?.attempts || 0) + 1;
-    await saveModeProgress({
-      wordId: currentWord.id,
-      mode: dbMode,
-      status: score,
-      lastAttempt: new Date().toISOString(),
-      attempts: newAttempts,
-    });
-
-    // Add to troubled words if 3+ attempts and not getting it right (yellow/red)
-    if (newAttempts >= 3 && score !== 'green') {
-      const existingTroubled = await getTroubledWord(currentWord.id, dbMode);
-      if (!existingTroubled) {
-        await saveTroubledWord({
-          wordId: currentWord.id,
-          mode: dbMode,
-          wrongAttempts: newAttempts,
-          reviewCorrectCount: 0,
-          addedDate: new Date().toISOString(),
-        });
-      }
+      // Wrong answers don't reset the count - we want them to eventually succeed
     }
   };
 
@@ -274,18 +160,6 @@ function TrackReview() {
     } else {
       setShowCelebration(true);
     }
-  };
-
-  // Continue with another batch
-  const handleKeepGoing = () => {
-    const shuffled = [...chapterWords]
-      .sort(() => Math.random() - 0.5)
-      .slice(0, BATCH_SIZE);
-    setQueue(shuffled.map(w => w.id));
-    setCurrentIndex(0);
-    setSessionStats({ green: 0, yellow: 0, red: 0 });
-    setConsecutiveGreens(0);
-    setShowCelebration(false);
   };
 
   // Replay audio
@@ -346,14 +220,37 @@ function TrackReview() {
     );
   }
 
-  // Celebration screen after batch
+  // No troubled words
+  if (queue.length === 0) {
+    return (
+      <div className="flex flex-col items-center justify-center min-h-[60vh] text-center px-4">
+        <div className="text-6xl mb-4">🎉</div>
+        <h2 className="text-2xl font-bold text-gray-900 dark:text-white mb-2">
+          No words to review!
+        </h2>
+        <p className="text-gray-500 dark:text-gray-400 mb-6">
+          You don't have any troubled words in {style.label} mode.
+        </p>
+        <Link
+          to="/"
+          className="px-6 py-3 text-white rounded-xl font-bold transition-all"
+          style={{ backgroundColor: style.color }}
+        >
+          Back
+        </Link>
+      </div>
+    );
+  }
+
+  // Celebration screen after completing all words
   if (showCelebration) {
+    const remainingTroubled = troubledWords.length;
     return (
       <div className="flex flex-col items-center justify-center min-h-[60vh] text-center px-4">
         <Confetti />
-        <div className="text-6xl mb-4 animate-bounce">🎉</div>
+        <div className="text-6xl mb-4 animate-bounce">🔄</div>
         <h2 className="text-2xl font-bold text-gray-900 dark:text-white mb-2">
-          You've completed {queue.length} words!
+          Review Complete!
         </h2>
 
         {/* Score breakdown */}
@@ -372,39 +269,44 @@ function TrackReview() {
           </div>
         </div>
 
+        {wordsRemoved > 0 && (
+          <p className="text-green-600 dark:text-green-400 font-medium mb-4">
+            {wordsRemoved} word{wordsRemoved !== 1 ? 's' : ''} mastered and removed from review!
+          </p>
+        )}
+
+        {remainingTroubled > 0 && (
+          <p className="text-gray-500 dark:text-gray-400 mb-4">
+            {remainingTroubled} word{remainingTroubled !== 1 ? 's' : ''} still need{remainingTroubled === 1 ? 's' : ''} practice.
+          </p>
+        )}
+
         {/* Action buttons */}
         <div className="flex gap-3 w-full max-w-xs">
-          <button
-            onClick={handleKeepGoing}
-            className="flex-1 py-4 text-white font-bold rounded-xl shadow-md active:scale-[0.98] transition-all"
-            style={{ backgroundColor: style.color }}
-          >
-            Keep Going
-          </button>
           <Link
-            to={`/tracks/${chapterId}`}
+            to="/"
             className="flex-1 py-4 bg-gray-200 dark:bg-gray-700 text-gray-700 dark:text-gray-200 font-bold rounded-xl shadow-md active:scale-[0.98] transition-all text-center"
           >
-            Take a Break
+            Done
           </Link>
         </div>
       </div>
     );
   }
 
-  if (queue.length === 0 || !currentWord) {
+  if (!currentWord) {
     return (
       <div className="flex flex-col items-center justify-center min-h-[60vh] text-center">
         <div className="text-6xl mb-4">📚</div>
         <h2 className="text-2xl font-bold text-gray-900 dark:text-white mb-2">
-          No words in this chapter
+          Something went wrong
         </h2>
         <Link
-          to={`/tracks/${chapterId}`}
+          to="/"
           className="px-6 py-3 text-white rounded-xl font-bold transition-all mt-4"
           style={{ backgroundColor: style.color }}
         >
-          Back to Chapter
+          Back
         </Link>
       </div>
     );
@@ -415,7 +317,7 @@ function TrackReview() {
       {/* Header */}
       <div className="flex items-center justify-between mb-4">
         <Link
-          to={`/tracks/${chapterId}`}
+          to="/"
           className="p-2 text-gray-500 hover:text-gray-700 dark:text-gray-400 dark:hover:text-gray-200 bg-white dark:bg-gray-800 rounded-full transition-colors shadow-sm border border-gray-200 dark:border-gray-700"
         >
           <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
@@ -424,7 +326,11 @@ function TrackReview() {
         </Link>
 
         <div className="flex items-center gap-2">
-          <span className="text-xs text-gray-400">Ch {chapterId}</span>
+          <svg className="w-4 h-4 text-orange-500" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M4 4v5h.582m15.356 2A8.001 8.001 0 004.582 9m0 0H9m11 11v-5h-.581m0 0a8.003 8.003 0 01-15.357-2m15.357 2H15" />
+          </svg>
+          <span className="font-medium text-sm text-orange-500">Review</span>
+          <span className="text-gray-300 dark:text-gray-600">|</span>
           <span className="font-medium text-sm" style={{ color: style.color }}>{style.icon} {style.label}</span>
           <span className="text-gray-300 dark:text-gray-600">|</span>
           <span className="text-sm text-gray-500 dark:text-gray-400">
@@ -434,20 +340,11 @@ function TrackReview() {
 
         <div className="w-24 h-2 bg-gray-200 dark:bg-gray-700 rounded-full overflow-hidden">
           <div
-            className="h-full transition-all"
-            style={{ width: `${((currentIndex + 1) / queue.length) * 100}%`, backgroundColor: style.color }}
+            className="h-full transition-all bg-orange-500"
+            style={{ width: `${((currentIndex + 1) / queue.length) * 100}%` }}
           />
         </div>
       </div>
-
-      {/* Streak indicator */}
-      {consecutiveGreens >= 3 && (
-        <div className="text-center mb-2">
-          <span className="text-sm font-medium text-green-500">
-            🔥 {consecutiveGreens} in a row!
-          </span>
-        </div>
-      )}
 
       {/* Card */}
       <div
@@ -512,10 +409,9 @@ function TrackReview() {
 
               <button
                 onClick={handleNext}
-                className="w-full mt-4 py-3 text-white font-bold rounded-xl shadow-md active:scale-[0.98] transition-all"
-                style={{ backgroundColor: style.color }}
+                className="w-full mt-4 py-3 text-white font-bold rounded-xl shadow-md active:scale-[0.98] transition-all bg-orange-500"
               >
-                Next →
+                Next
               </button>
             </div>
           ) : (
@@ -532,18 +428,15 @@ function TrackReview() {
                       ? 'Type what you hear...'
                       : 'Type Dutch word...'
                 }
-                className="w-full py-4 px-4 pr-14 text-lg rounded-xl border border-gray-200 dark:border-gray-600 bg-white dark:bg-gray-800 outline-none focus:ring-2 transition-all"
-                style={{
-                  '--tw-ring-color': style.color,
-                } as React.CSSProperties}
+                className="w-full py-4 px-4 pr-14 text-lg rounded-xl border border-gray-200 dark:border-gray-600 bg-white dark:bg-gray-800 outline-none focus:ring-2 focus:ring-orange-500 transition-all"
               />
               <button
                 onClick={handleSubmit}
                 disabled={!typedAnswer.trim()}
                 className="absolute right-2 top-1/2 -translate-y-1/2 w-10 h-10 rounded-xl flex items-center justify-center disabled:opacity-30 transition-all text-white font-bold"
-                style={{ backgroundColor: typedAnswer.trim() ? style.color : '#d1d5db' }}
+                style={{ backgroundColor: typedAnswer.trim() ? '#f97316' : '#d1d5db' }}
               >
-                →
+                &rarr;
               </button>
             </div>
           )}
@@ -553,4 +446,4 @@ function TrackReview() {
   );
 }
 
-export default TrackReview;
+export default TroubledReview;

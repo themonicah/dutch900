@@ -8,6 +8,7 @@ import Journey from './pages/Journey';
 import Review from './pages/Review';
 import Tracks from './pages/Tracks';
 import TrackReview from './pages/TrackReview';
+import TroubledReview from './pages/TroubledReview';
 
 function App() {
   const { loadData, isLoaded, settings } = useStore();
@@ -58,6 +59,7 @@ function App() {
         <Route path="tracks" element={<Tracks />} />
         <Route path="tracks/:trackId" element={<Tracks />} />
         <Route path="tracks/:trackId/review/:stage" element={<TrackReview />} />
+        <Route path="review-troubled/:mode" element={<TroubledReview />} />
         {/* Redirect old routes */}
         <Route path="learn" element={<Navigate to="/" replace />} />
         <Route path="review" element={<Navigate to="/" replace />} />

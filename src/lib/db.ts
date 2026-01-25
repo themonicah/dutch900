@@ -1,6 +1,15 @@
 import Dexie, { type EntityTable } from 'dexie';
 import type { CardProgress, UserStats, UserSettings, ChapterWordProgress, WordModeProgress, PracticeMode } from '../types';
 
+// Troubled word - words that took 3+ attempts to get right
+export interface TroubledWord {
+  wordId: number;
+  mode: PracticeMode;
+  wrongAttempts: number;       // How many wrong/yellow attempts before getting it right
+  reviewCorrectCount: number;  // How many times correct in review mode
+  addedDate: string;           // When it was added to troubled words
+}
+
 // Define the database schema
 interface Dutch900DB {
   progress: EntityTable<CardProgress, 'wordId'>;
@@ -8,6 +17,7 @@ interface Dutch900DB {
   settings: EntityTable<UserSettings & { id: number }, 'id'>;
   chapterProgress: EntityTable<ChapterWordProgress, 'wordId'>;
   modeProgress: EntityTable<WordModeProgress, 'wordId'>;
+  troubledWords: EntityTable<TroubledWord, 'wordId'>;
 }
 
 // Create the database
@@ -74,6 +84,16 @@ db.version(5).stores({
   settings: 'id',
   chapterProgress: '[chapterId+wordId], chapterId, stage',
   modeProgress: '[wordId+mode], wordId, mode, status',
+});
+
+// Version 6 - Add troubled words table for words that need extra review
+db.version(6).stores({
+  progress: 'wordId, reading.dueDate, reading.status, listening.dueDate, listening.status, production.dueDate, production.status',
+  stats: 'id',
+  settings: 'id',
+  chapterProgress: '[chapterId+wordId], chapterId, stage',
+  modeProgress: '[wordId+mode], wordId, mode, status',
+  troubledWords: '[wordId+mode], wordId, mode',
 });
 
 export { db };
@@ -275,4 +295,34 @@ export async function importAllData(jsonString: string): Promise<{ imported: num
   }
 
   return { imported };
+}
+
+// Troubled words helpers - words that need extra review (3+ wrong attempts)
+export async function getTroubledWord(wordId: number, mode: PracticeMode): Promise<TroubledWord | undefined> {
+  return db.troubledWords.where('[wordId+mode]').equals([wordId, mode]).first();
+}
+
+export async function saveTroubledWord(word: TroubledWord): Promise<void> {
+  await db.troubledWords.put(word);
+}
+
+export async function removeTroubledWord(wordId: number, mode: PracticeMode): Promise<void> {
+  await db.troubledWords.where('[wordId+mode]').equals([wordId, mode]).delete();
+}
+
+export async function getAllTroubledWords(mode: PracticeMode): Promise<TroubledWord[]> {
+  return db.troubledWords.where('mode').equals(mode).toArray();
+}
+
+export async function getTroubledWordCount(mode: PracticeMode): Promise<number> {
+  return db.troubledWords.where('mode').equals(mode).count();
+}
+
+export async function getAllTroubledWordCounts(): Promise<Record<PracticeMode, number>> {
+  const [learn, listen, produce] = await Promise.all([
+    getTroubledWordCount('learn'),
+    getTroubledWordCount('listen'),
+    getTroubledWordCount('produce'),
+  ]);
+  return { learn, listen, produce };
 }

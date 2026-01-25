@@ -6,6 +6,57 @@
 export type ScoreColor = 'green' | 'yellow' | 'red';
 
 /**
+ * Common spelling variants (American vs British, etc.)
+ * Each array contains words that should be considered equivalent
+ */
+const SPELLING_VARIANTS: string[][] = [
+  ['gray', 'grey'],
+  ['color', 'colour'],
+  ['favor', 'favour'],
+  ['neighbor', 'neighbour'],
+  ['center', 'centre'],
+  ['theater', 'theatre'],
+  ['realize', 'realise'],
+  ['organize', 'organise'],
+  ['analyze', 'analyse'],
+  ['traveling', 'travelling'],
+  ['canceled', 'cancelled'],
+  ['labeled', 'labelled'],
+  ['modeling', 'modelling'],
+  ['defense', 'defence'],
+  ['offense', 'offence'],
+  ['license', 'licence'],
+  ['practice', 'practise'],
+  ['catalog', 'catalogue'],
+  ['dialog', 'dialogue'],
+  ['program', 'programme'],
+  ['check', 'cheque'],
+  ['mom', 'mum'],
+  ['airplane', 'aeroplane'],
+  ['donut', 'doughnut'],
+];
+
+// Build a map for quick lookup
+const variantMap = new Map<string, string[]>();
+for (const variants of SPELLING_VARIANTS) {
+  for (const word of variants) {
+    variantMap.set(word.toLowerCase(), variants.map(v => v.toLowerCase()));
+  }
+}
+
+/**
+ * Check if two words are equivalent spelling variants
+ */
+function areSpellingVariants(word1: string, word2: string): boolean {
+  const w1 = word1.toLowerCase();
+  const w2 = word2.toLowerCase();
+  if (w1 === w2) return true;
+
+  const variants = variantMap.get(w1);
+  return variants ? variants.includes(w2) : false;
+}
+
+/**
  * Calculate Levenshtein distance between two strings
  */
 function levenshteinDistance(a: string, b: string): number {
@@ -41,6 +92,7 @@ function levenshteinDistance(a: string, b: string): number {
  * Normalize a string for comparison
  * - lowercase
  * - trim whitespace
+ * - remove accents/diacritics (café -> cafe)
  * - remove parenthetical context like "(common)", "(formal)", "(plural)"
  * - remove common articles and prefixes (the, a, an, de, het, to) - but only if there's more content after
  */
@@ -48,7 +100,9 @@ function normalize(str: string): string {
   let result = str
     .toLowerCase()
     .trim()
-    .replace(/\s*\([^)]*\)\s*/g, ' ')  // Remove parenthetical content
+    .normalize('NFD')                     // Decompose accented characters (é -> e + ́)
+    .replace(/[\u0300-\u036f]/g, '')      // Remove diacritical marks
+    .replace(/\s*\([^)]*\)\s*/g, ' ')     // Remove parenthetical content
     .trim();
 
   // Only strip article prefix if there's more content after it
@@ -67,7 +121,9 @@ function extractCoreWords(str: string): string[] {
   const normalized = str
     .toLowerCase()
     .trim()
-    .replace(/\s*\([^)]*\)\s*/g, ' ');  // Remove parenthetical content
+    .normalize('NFD')                     // Decompose accented characters
+    .replace(/[\u0300-\u036f]/g, '')      // Remove diacritical marks
+    .replace(/\s*\([^)]*\)\s*/g, ' ');    // Remove parenthetical content
   const words = normalized
     .split(/[\s,;]+/)
     .filter(w => !['the', 'a', 'an', 'de', 'het', 'to', 'for'].includes(w) && w.length > 0);
@@ -108,13 +164,20 @@ export function scoreAnswer(userInput: string, correctAnswer: string): ScoreColo
     }
   }
 
+  // Check for spelling variants (gray/grey, color/colour, etc.)
+  for (const correct of correctAnswers) {
+    if (areSpellingVariants(normalizedInput, correct)) {
+      return 'green';
+    }
+  }
+
   // Check if input matches any core word from the correct answer (e.g., "search" matches "to search")
   const inputCoreWords = extractCoreWords(userInput);
   const correctCoreWords = extractCoreWords(correctAnswer);
 
   for (const inputWord of inputCoreWords) {
     for (const correctWord of correctCoreWords) {
-      if (inputWord === correctWord) {
+      if (inputWord === correctWord || areSpellingVariants(inputWord, correctWord)) {
         return 'green';
       }
     }

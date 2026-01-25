@@ -4,7 +4,7 @@ import { useStore } from '../store';
 import { speakDutch } from '../lib/audio';
 import { scoreAnswer, getScoreMessage, type ScoreColor } from '../lib/fuzzyMatch';
 import { buildSmartBatch, getNewStatus, type WordStatus } from '../lib/batchBuilder';
-import { getModeProgressMap, saveModeProgress } from '../lib/db';
+import { getModeProgressMap, saveModeProgress, getTroubledWord, saveTroubledWord } from '../lib/db';
 import { playCorrectSound, playCloseSound, playWrongSound, playCelebrationSound, playStreakSound } from '../lib/sounds';
 import Confetti from '../components/Confetti';
 import type { PracticeMode, WordModeProgress } from '../types';
@@ -158,6 +158,20 @@ function Review() {
     };
 
     await saveModeProgress(updatedProgress);
+
+    // Add to troubled words if 3+ attempts and not getting it right (yellow/red)
+    if (updatedProgress.attempts >= 3 && score !== 'green') {
+      const existingTroubled = await getTroubledWord(currentWord.id, mode);
+      if (!existingTroubled) {
+        await saveTroubledWord({
+          wordId: currentWord.id,
+          mode,
+          wrongAttempts: updatedProgress.attempts,
+          reviewCorrectCount: 0,
+          addedDate: new Date().toISOString(),
+        });
+      }
+    }
 
     // Update local state
     const newProgressMap = new Map(progressMap);
