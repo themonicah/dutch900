@@ -38,6 +38,26 @@ function Review() {
   const [showCelebration, setShowCelebration] = useState(false);
   const [consecutiveGreens, setConsecutiveGreens] = useState(0);
 
+  // Check if English and Dutch words are very similar (cognates like "weekend")
+  const areSimilarWords = (dutch: string, english: string): boolean => {
+    const d = dutch.toLowerCase().trim();
+    const e = english.toLowerCase().trim();
+    if (d === e) return true;
+    if (d.includes(e) || e.includes(d)) return true;
+    // Very close (1 character difference for short words)
+    if (Math.abs(d.length - e.length) <= 1 && d.length <= 8) {
+      let diff = 0;
+      const longer = d.length > e.length ? d : e;
+      const shorter = d.length > e.length ? e : d;
+      for (let i = 0; i < shorter.length; i++) {
+        if (shorter[i] !== longer[i]) diff++;
+      }
+      diff += longer.length - shorter.length;
+      if (diff <= 1) return true;
+    }
+    return false;
+  };
+
   // Load progress and build batch
   useEffect(() => {
     const init = async () => {
@@ -50,7 +70,16 @@ function Review() {
       const troubled = await getAllTroubledWords(mode);
       const troubledIds = new Set(troubled.map(t => t.wordId));
 
-      const batch = buildSmartBatch(allWordIds, progress, BATCH_SIZE, troubledIds);
+      // Find green cognates to skip - they're too easy
+      const skipIds = new Set<number>();
+      for (const word of words) {
+        const wordProgress = progress.get(word.id);
+        if (wordProgress?.status === 'green' && areSimilarWords(word.dutch, word.english)) {
+          skipIds.add(word.id);
+        }
+      }
+
+      const batch = buildSmartBatch(allWordIds, progress, BATCH_SIZE, troubledIds, skipIds);
       setQueue(batch);
       setCurrentIndex(0);
       setSessionStats({ green: 0, yellow: 0, red: 0 });
@@ -210,7 +239,21 @@ function Review() {
   // Continue with another batch
   const handleKeepGoing = async () => {
     const allWordIds = words.map(w => w.id);
-    const newBatch = buildSmartBatch(allWordIds, progressMap, BATCH_SIZE);
+
+    // Get fresh troubled words
+    const troubled = await getAllTroubledWords(mode);
+    const troubledIds = new Set(troubled.map(t => t.wordId));
+
+    // Find green cognates to skip
+    const skipIds = new Set<number>();
+    for (const word of words) {
+      const wordProgress = progressMap.get(word.id);
+      if (wordProgress?.status === 'green' && areSimilarWords(word.dutch, word.english)) {
+        skipIds.add(word.id);
+      }
+    }
+
+    const newBatch = buildSmartBatch(allWordIds, progressMap, BATCH_SIZE, troubledIds, skipIds);
     setQueue(newBatch);
     setCurrentIndex(0);
     setSessionStats({ green: 0, yellow: 0, red: 0 });

@@ -120,6 +120,17 @@ function Layout() {
         >
           Restore from backup
         </button>
+        <button
+          onClick={() => {
+            if (confirm('Clear all progress? This cannot be undone.')) {
+              indexedDB.deleteDatabase('dutch900');
+              window.location.reload();
+            }
+          }}
+          className="text-xs text-red-400 hover:text-red-600 transition-colors"
+        >
+          Clear data
+        </button>
         <input
           ref={fileInputRef}
           type="file"

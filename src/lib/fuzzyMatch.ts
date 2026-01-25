@@ -45,6 +45,102 @@ for (const variants of SPELLING_VARIANTS) {
 }
 
 /**
+ * Common synonyms that should be accepted as correct
+ * Each array contains words/phrases that mean the same thing
+ */
+const SYNONYMS: string[][] = [
+  ['bike', 'bicycle', 'cycle', 'to cycle', 'to bike'],
+  ['car', 'automobile', 'auto'],
+  ['mom', 'mother', 'mum'],
+  ['dad', 'father'],
+  ['kid', 'child'],
+  ['kids', 'children'],
+  ['big', 'large'],
+  ['small', 'little'],
+  ['happy', 'glad'],
+  ['sad', 'unhappy'],
+  ['fast', 'quick'],
+  ['slow', 'slowly'],
+  ['start', 'begin', 'to start', 'to begin'],
+  ['end', 'finish', 'to end', 'to finish'],
+  ['buy', 'purchase', 'to buy', 'to purchase'],
+  ['sell', 'to sell'],
+  ['speak', 'talk', 'to speak', 'to talk'],
+  ['see', 'to see', 'look', 'to look'],
+  ['hear', 'to hear', 'listen', 'to listen'],
+  ['eat', 'to eat'],
+  ['drink', 'to drink'],
+  ['walk', 'to walk'],
+  ['run', 'to run'],
+  ['sleep', 'to sleep'],
+  ['work', 'to work'],
+  ['play', 'to play'],
+  ['read', 'to read'],
+  ['write', 'to write'],
+  ['give', 'to give'],
+  ['take', 'to take'],
+  ['come', 'to come'],
+  ['go', 'to go'],
+  ['make', 'to make'],
+  ['get', 'to get'],
+  ['want', 'to want'],
+  ['need', 'to need'],
+  ['know', 'to know'],
+  ['think', 'to think'],
+  ['feel', 'to feel'],
+  ['try', 'to try'],
+  ['leave', 'to leave'],
+  ['call', 'to call'],
+  ['ask', 'to ask'],
+  ['tell', 'to tell'],
+  ['say', 'to say'],
+  ['help', 'to help'],
+  ['show', 'to show'],
+  ['turn', 'to turn'],
+  ['move', 'to move'],
+  ['live', 'to live'],
+  ['believe', 'to believe'],
+  ['hold', 'to hold'],
+  ['bring', 'to bring'],
+  ['happen', 'to happen'],
+  ['must', 'have to'],
+  ['should', 'ought to'],
+  ['can', 'to be able to'],
+  ['maybe', 'perhaps'],
+  ['also', 'too', 'as well'],
+  ['very', 'really'],
+  ['now', 'right now'],
+  ['then', 'at that time'],
+  ['here', 'over here'],
+  ['there', 'over there'],
+  ['hi', 'hello'],
+  ['bye', 'goodbye'],
+  ['yeah', 'yes'],
+  ['nope', 'no'],
+  ['ok', 'okay', 'alright'],
+];
+
+// Build synonym map
+const synonymMap = new Map<string, string[]>();
+for (const synonyms of SYNONYMS) {
+  for (const word of synonyms) {
+    synonymMap.set(word.toLowerCase(), synonyms.map(s => s.toLowerCase()));
+  }
+}
+
+/**
+ * Check if two words/phrases are synonyms
+ */
+function areSynonyms(word1: string, word2: string): boolean {
+  const w1 = word1.toLowerCase();
+  const w2 = word2.toLowerCase();
+  if (w1 === w2) return true;
+
+  const synonyms = synonymMap.get(w1);
+  return synonyms ? synonyms.includes(w2) : false;
+}
+
+/**
  * Check if two words are equivalent spelling variants
  */
 function areSpellingVariants(word1: string, word2: string): boolean {
@@ -171,13 +267,20 @@ export function scoreAnswer(userInput: string, correctAnswer: string): ScoreColo
     }
   }
 
+  // Check for synonyms (bike/cycle, big/large, etc.)
+  for (const correct of correctAnswers) {
+    if (areSynonyms(normalizedInput, correct)) {
+      return 'green';
+    }
+  }
+
   // Check if input matches any core word from the correct answer (e.g., "search" matches "to search")
   const inputCoreWords = extractCoreWords(userInput);
   const correctCoreWords = extractCoreWords(correctAnswer);
 
   for (const inputWord of inputCoreWords) {
     for (const correctWord of correctCoreWords) {
-      if (inputWord === correctWord || areSpellingVariants(inputWord, correctWord)) {
+      if (inputWord === correctWord || areSpellingVariants(inputWord, correctWord) || areSynonyms(inputWord, correctWord)) {
         return 'green';
       }
     }
