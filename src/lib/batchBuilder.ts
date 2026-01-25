@@ -88,9 +88,11 @@ export function buildSmartBatch(
   const shuffledYellow = shuffle(yellowWords);
   batch.push(...shuffledYellow.slice(0, Math.min(3, shuffledYellow.length)));
 
-  // 4. Add green review (1-2)
-  const shuffledGreen = shuffle(greenWords);
-  batch.push(...shuffledGreen.slice(0, Math.min(2, shuffledGreen.length)));
+  // 4. Add green review (0-1, only 30% chance)
+  if (Math.random() < 0.3 && greenWords.length > 0) {
+    const shuffledGreen = shuffle(greenWords);
+    batch.push(shuffledGreen[0]);
+  }
 
   // 5. Fill remaining with new words
   const remaining = batchSize - batch.length;
