@@ -118,6 +118,7 @@ const SYNONYMS: string[][] = [
   ['yeah', 'yes'],
   ['nope', 'no'],
   ['ok', 'okay', 'alright'],
+  ['fall', 'autumn'],
 ];
 
 // Build synonym map

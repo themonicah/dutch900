@@ -495,18 +495,6 @@ function Review() {
               >
                 Next →
               </button>
-
-              {/* Mnemonic hint sentence - shown after reveal */}
-              {settings.showMnemonics && currentWord.sentences && currentWord.sentences.length > 0 && (
-                <div className="mt-4 px-4 py-2">
-                  <p className="text-sm text-gray-600 dark:text-gray-300 text-center italic">
-                    "{currentWord.sentences[0].dutch}"
-                  </p>
-                  <p className="text-xs text-gray-500 dark:text-gray-400 text-center mt-1">
-                    {currentWord.sentences[0].english}
-                  </p>
-                </div>
-              )}
             </div>
           ) : (
             <div className="relative">
@@ -535,6 +523,27 @@ function Review() {
               >
                 →
               </button>
+            </div>
+          )}
+
+          {/* Mnemonic hint sentence - shown after reveal, cycles through available sentences */}
+          {showResult && settings.showMnemonics && currentWord.sentences && currentWord.sentences.length > 0 && (
+            <div className="mt-3 px-4 py-2">
+              {(() => {
+                // Pick a sentence based on word ID + current attempts to cycle through them
+                const sentenceIndex = (currentWord.id + (progressMap.get(currentWord.id)?.attempts || 0)) % currentWord.sentences.length;
+                const sentence = currentWord.sentences[sentenceIndex];
+                return (
+                  <>
+                    <p className="text-sm text-gray-600 dark:text-gray-300 text-center italic">
+                      "{sentence.dutch}"
+                    </p>
+                    <p className="text-xs text-gray-500 dark:text-gray-400 text-center mt-1">
+                      {sentence.english}
+                    </p>
+                  </>
+                );
+              })()}
             </div>
           )}
         </div>
