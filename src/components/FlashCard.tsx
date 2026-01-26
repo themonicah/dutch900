@@ -105,11 +105,9 @@ function FlashCard({ word, mode, autoPlayAudio, onReveal, revealed }: FlashCardP
               <p className="text-4xl font-bold text-gray-900 dark:text-white mb-2">
                 {word.dutch}
               </p>
-              {word.gender && (
-                <p className="text-sm text-gray-500 dark:text-gray-400 mb-2">
-                  ({word.gender})
-                </p>
-              )}
+              <p className="text-sm text-gray-500 dark:text-gray-400 mb-2">
+                {word.gender ? `(${word.gender}) ` : ''}{word.partOfSpeech}
+              </p>
               <button
                 onClick={(e) => {
                   e.stopPropagation();

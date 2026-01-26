@@ -119,6 +119,20 @@ const SYNONYMS: string[][] = [
   ['nope', 'no'],
   ['ok', 'okay', 'alright'],
   ['fall', 'autumn'],
+  ['scarf', 'shawl'],
+  ['sofa', 'couch'],
+  ['pants', 'trousers'],
+  ['apartment', 'flat'],
+  ['elevator', 'lift'],
+  ['trash', 'garbage', 'rubbish'],
+  ['cookie', 'biscuit'],
+  ['fries', 'chips'],
+  ['movie', 'film'],
+  ['store', 'shop'],
+  ['sidewalk', 'pavement'],
+  ['line', 'queue'],
+  ['couch', 'sofa'],
+  ['hello', 'hi', 'goodbye', 'bye'],
 ];
 
 // Build synonym map
@@ -233,7 +247,7 @@ function extractCoreWords(str: string): string[] {
  */
 function getCorrectAnswers(correctAnswer: string): string[] {
   return correctAnswer
-    .split(/[,;]/)
+    .split(/[,;\/]/)
     .map(s => normalize(s))
     .filter(s => s.length > 0);
 }

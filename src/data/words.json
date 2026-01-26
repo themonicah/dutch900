@@ -12,7 +12,7 @@
         "english": "I live in a big house."
       }
     ],
-    "mnemonic": "HOUSE sounds like HUIS - Dr. House"
+    "mnemonic": ""
   },
   {
     "id": 2,
@@ -27,7 +27,7 @@
         "english": "I drink water."
       }
     ],
-    "mnemonic": "WATER you doing? (same word)"
+    "mnemonic": ""
   },
   {
     "id": 3,
@@ -41,7 +41,7 @@
         "english": "What do you want to eat?"
       }
     ],
-    "mnemonic": "E.T. phoned home, then ATE-en his Reese's Pieces"
+    "mnemonic": ""
   },
   {
     "id": 4,
@@ -55,7 +55,7 @@
         "english": "Do you want something to drink?"
       }
     ],
-    "mnemonic": "Don't DRINK-en and drive"
+    "mnemonic": ""
   },
   {
     "id": 5,
@@ -69,7 +69,7 @@
         "english": "I go home."
       }
     ],
-    "mnemonic": "Let it GO, let it GAAN"
+    "mnemonic": ""
   },
   {
     "id": 6,
@@ -83,7 +83,7 @@
         "english": "When are you coming?"
       }
     ],
-    "mnemonic": "Winter is COMING - winter is KOMEN"
+    "mnemonic": ""
   },
   {
     "id": 7,
@@ -97,13 +97,13 @@
         "english": "I have a question."
       }
     ],
-    "mnemonic": "HAVE-ben a nice day!"
+    "mnemonic": ""
   },
   {
     "id": 8,
     "rank": 8,
     "dutch": "zijn",
-    "english": "to be",
+    "english": "to be, his",
     "partOfSpeech": "verb",
     "sentences": [
       {
@@ -111,7 +111,7 @@
         "english": "I am a student."
       }
     ],
-    "mnemonic": "To BE or not to BE - that is the ZIJN"
+    "mnemonic": ""
   },
   {
     "id": 9,
@@ -125,7 +125,7 @@
         "english": "I want to learn."
       }
     ],
-    "mnemonic": "WILL-en, I WILL do what I WANT"
+    "mnemonic": ""
   },
   {
     "id": 10,
@@ -139,7 +139,7 @@
         "english": "I can swim."
       }
     ],
-    "mnemonic": "CAN-nen, I CAN do it"
+    "mnemonic": ""
   },
   {
     "id": 11,
@@ -153,7 +153,7 @@
         "english": "I have to work."
       }
     ],
-    "mnemonic": "MOOT-en point - you MUST decide"
+    "mnemonic": ""
   },
   {
     "id": 12,
@@ -167,7 +167,7 @@
         "english": "May I come in?"
       }
     ],
-    "mnemonic": "MAY-gen, you MAY go"
+    "mnemonic": ""
   },
   {
     "id": 13,
@@ -181,7 +181,7 @@
         "english": "I'll see you tomorrow."
       }
     ],
-    "mnemonic": "I've SEEN things - I've ZIEN things"
+    "mnemonic": ""
   },
   {
     "id": 14,
@@ -195,7 +195,7 @@
         "english": "I hear music."
       }
     ],
-    "mnemonic": "Can you HEAR me now? HOREN?"
+    "mnemonic": ""
   },
   {
     "id": 15,
@@ -209,7 +209,7 @@
         "english": "I don't know."
       }
     ],
-    "mnemonic": "Jon Snow: \"You know nothing\" - you WEET-en nothing"
+    "mnemonic": ""
   },
   {
     "id": 16,
@@ -223,7 +223,7 @@
         "english": "Do you know him?"
       }
     ],
-    "mnemonic": "Do you KEN this person? (Scottish: do you KNOW)"
+    "mnemonic": ""
   },
   {
     "id": 17,
@@ -237,7 +237,7 @@
         "english": "I think it's good."
       }
     ],
-    "mnemonic": "The Thinker is DENK-ing"
+    "mnemonic": ""
   },
   {
     "id": 18,
@@ -251,7 +251,7 @@
         "english": "What are you saying?"
       }
     ],
-    "mnemonic": "SAY-gen what? SAY it again!"
+    "mnemonic": ""
   },
   {
     "id": 19,
@@ -265,7 +265,7 @@
         "english": "May I ask you something?"
       }
     ],
-    "mnemonic": "FROG-en keeps ASKING questions - VRAGEN"
+    "mnemonic": ""
   },
   {
     "id": 20,
@@ -279,7 +279,7 @@
         "english": "Give me that book."
       }
     ],
-    "mnemonic": "Never gonna GIVE you up - GEVEN"
+    "mnemonic": ""
   },
   {
     "id": 21,
@@ -293,7 +293,7 @@
         "english": "I take the train."
       }
     ],
-    "mnemonic": "Take it or leave it - NEEM-en it!"
+    "mnemonic": ""
   },
   {
     "id": 22,
@@ -307,7 +307,7 @@
         "english": "I'm making coffee."
       }
     ],
-    "mnemonic": "MAKE-en sounds like MAKE"
+    "mnemonic": ""
   },
   {
     "id": 23,
@@ -321,7 +321,7 @@
         "english": "I work in Amsterdam."
       }
     ],
-    "mnemonic": "Rihanna: \"WERK-en, werk, werk, werk\""
+    "mnemonic": ""
   },
   {
     "id": 24,
@@ -335,7 +335,7 @@
         "english": "I'm learning Dutch."
       }
     ],
-    "mnemonic": "LEARN-en sounds like LEARN"
+    "mnemonic": ""
   },
   {
     "id": 25,
@@ -349,7 +349,7 @@
         "english": "I'm writing a letter."
       }
     ],
-    "mnemonic": "Dear diary... SCHRIJF-en (write) it down"
+    "mnemonic": ""
   },
   {
     "id": 26,
@@ -363,7 +363,7 @@
         "english": "I'm reading a book."
       }
     ],
-    "mnemonic": "Reading Rainbow: LEES (read) a book today"
+    "mnemonic": ""
   },
   {
     "id": 27,
@@ -377,7 +377,7 @@
         "english": "Do you speak English?"
       }
     ],
-    "mnemonic": "Do you SPEAK-en English?"
+    "mnemonic": ""
   },
   {
     "id": 28,
@@ -391,7 +391,7 @@
         "english": "I don't understand."
       }
     ],
-    "mnemonic": "Be-GRIP-en - GRIP the concept, UNDERSTAND"
+    "mnemonic": ""
   },
   {
     "id": 29,
@@ -405,7 +405,7 @@
         "english": "I like it."
       }
     ],
-    "mnemonic": "Finders keepers - FIND-en it, keep it"
+    "mnemonic": ""
   },
   {
     "id": 30,
@@ -419,13 +419,13 @@
         "english": "I'm looking for my keys."
       }
     ],
-    "mnemonic": "Playing hide and SEEK-en"
+    "mnemonic": ""
   },
   {
     "id": 31,
     "rank": 31,
     "dutch": "dag",
-    "english": "day",
+    "english": "day, hello, goodbye",
     "partOfSpeech": "noun",
     "gender": "de",
     "sentences": [
@@ -434,7 +434,7 @@
         "english": "Today is a beautiful day."
       }
     ],
-    "mnemonic": "Seize the DAG (day)! Carpe DAG!"
+    "mnemonic": ""
   },
   {
     "id": 32,
@@ -449,7 +449,7 @@
         "english": "Next week I have vacation."
       }
     ],
-    "mnemonic": "WEAK from working all WEEK"
+    "mnemonic": ""
   },
   {
     "id": 33,
@@ -464,7 +464,7 @@
         "english": "This month is cold."
       }
     ],
-    "mnemonic": "To the MOON and back - MAAND (month)"
+    "mnemonic": ""
   },
   {
     "id": 34,
@@ -479,7 +479,7 @@
         "english": "I am thirty years old."
       }
     ],
-    "mnemonic": "Happy New JAAR! (year)"
+    "mnemonic": ""
   },
   {
     "id": 35,
@@ -494,7 +494,7 @@
         "english": "I have no time."
       }
     ],
-    "mnemonic": "TIDE of TIME - tijd"
+    "mnemonic": ""
   },
   {
     "id": 36,
@@ -509,7 +509,7 @@
         "english": "It's three o'clock."
       }
     ],
-    "mnemonic": "OUR finest HOUR - UUR"
+    "mnemonic": ""
   },
   {
     "id": 37,
@@ -524,7 +524,7 @@
         "english": "Wait five minutes."
       }
     ],
-    "mnemonic": "Wait a MINUTE - MINUUT"
+    "mnemonic": ""
   },
   {
     "id": 38,
@@ -539,7 +539,7 @@
         "english": "That man is my father."
       }
     ],
-    "mnemonic": "MAN up! (man/husband)"
+    "mnemonic": ""
   },
   {
     "id": 39,
@@ -554,7 +554,7 @@
         "english": "That woman is my mother."
       }
     ],
-    "mnemonic": "FROW-n? No, SMILE at your WIFE"
+    "mnemonic": ""
   },
   {
     "id": 40,
@@ -569,7 +569,7 @@
         "english": "The child plays outside."
       }
     ],
-    "mnemonic": "Be KIND to the CHILD"
+    "mnemonic": ""
   },
   {
     "id": 41,
@@ -584,7 +584,7 @@
         "english": "My father works hard."
       }
     ],
-    "mnemonic": "Darth VADER: \"I am your FATHER\""
+    "mnemonic": ""
   },
   {
     "id": 42,
@@ -599,7 +599,7 @@
         "english": "My mother cooks well."
       }
     ],
-    "mnemonic": "How I Met Your MOEDER (Mother)"
+    "mnemonic": ""
   },
   {
     "id": 43,
@@ -614,7 +614,7 @@
         "english": "My son is ten years old."
       }
     ],
-    "mnemonic": "Luke is Vader's ZOON (son) - \"ZOON, I am your father\""
+    "mnemonic": ""
   },
   {
     "id": 44,
@@ -629,7 +629,7 @@
         "english": "My daughter is studying."
       }
     ],
-    "mnemonic": "The DOCTOR's DAUGHTER - DOCHTER"
+    "mnemonic": ""
   },
   {
     "id": 45,
@@ -644,7 +644,7 @@
         "english": "He is my best friend."
       }
     ],
-    "mnemonic": "FRIEND sounds like VRIEND"
+    "mnemonic": ""
   },
   {
     "id": 46,
@@ -659,7 +659,7 @@
         "english": "This book is interesting."
       }
     ],
-    "mnemonic": "Don't judge a BOOK by its cover - BOEK"
+    "mnemonic": ""
   },
   {
     "id": 47,
@@ -674,7 +674,7 @@
         "english": "I have a red car."
       }
     ],
-    "mnemonic": "AUTO-bots, roll out! (car)"
+    "mnemonic": ""
   },
   {
     "id": 48,
@@ -689,7 +689,7 @@
         "english": "I go by bicycle."
       }
     ],
-    "mnemonic": "FEATS of cycling - FIETS (bike)"
+    "mnemonic": ""
   },
   {
     "id": 49,
@@ -704,7 +704,7 @@
         "english": "The train is late."
       }
     ],
-    "mnemonic": "Soul TRAIN - TREIN"
+    "mnemonic": ""
   },
   {
     "id": 50,
@@ -719,7 +719,7 @@
         "english": "My children go to school."
       }
     ],
-    "mnemonic": "Old SCHOOL - same word"
+    "mnemonic": ""
   },
   {
     "id": 51,
@@ -734,7 +734,7 @@
         "english": "I go to my work."
       }
     ],
-    "mnemonic": "Back to WORK - WERK"
+    "mnemonic": ""
   },
   {
     "id": 52,
@@ -749,7 +749,7 @@
         "english": "I have no money."
       }
     ],
-    "mnemonic": "GELD the golden goose for MONEY"
+    "mnemonic": ""
   },
   {
     "id": 53,
@@ -764,7 +764,7 @@
         "english": "Amsterdam is a big city."
       }
     ],
-    "mnemonic": "Sex and the CITY - STAD"
+    "mnemonic": ""
   },
   {
     "id": 54,
@@ -779,7 +779,7 @@
         "english": "The Netherlands is a small country."
       }
     ],
-    "mnemonic": "This LAND is your LAND"
+    "mnemonic": ""
   },
   {
     "id": 55,
@@ -794,7 +794,7 @@
         "english": "Do you want coffee?"
       }
     ],
-    "mnemonic": "But first, KOFFIE (coffee)"
+    "mnemonic": ""
   },
   {
     "id": 56,
@@ -809,7 +809,7 @@
         "english": "I drink tea with milk."
       }
     ],
-    "mnemonic": "TEA - thee sounds like TEA"
+    "mnemonic": ""
   },
   {
     "id": 57,
@@ -824,7 +824,7 @@
         "english": "The road is long."
       }
     ],
-    "mnemonic": "WAY/ROAD - weg sounds like WAY"
+    "mnemonic": ""
   },
   {
     "id": 58,
@@ -839,7 +839,7 @@
         "english": "I live in this street."
       }
     ],
-    "mnemonic": "Sesame STREET - STRAAT"
+    "mnemonic": ""
   },
   {
     "id": 59,
@@ -854,7 +854,7 @@
         "english": "Close the door."
       }
     ],
-    "mnemonic": "Jim Morrison & The DOORS - DEUR"
+    "mnemonic": ""
   },
   {
     "id": 60,
@@ -869,7 +869,7 @@
         "english": "The dog is big."
       }
     ],
-    "mnemonic": "Sherlock's HOUND of the Baskervilles (dog)"
+    "mnemonic": ""
   },
   {
     "id": 61,
@@ -884,7 +884,7 @@
         "english": "The cat is sleeping."
       }
     ],
-    "mnemonic": "A KAT always lands on its feet"
+    "mnemonic": ""
   },
   {
     "id": 62,
@@ -898,7 +898,7 @@
         "english": "The house is big."
       }
     ],
-    "mnemonic": "I am GROOT = I am BIG (Guardians of the Galaxy)"
+    "mnemonic": ""
   },
   {
     "id": 63,
@@ -912,7 +912,7 @@
         "english": "The room is small."
       }
     ],
-    "mnemonic": "Calvin KLEIN makes clothes for SMALL people... wait"
+    "mnemonic": ""
   },
   {
     "id": 64,
@@ -926,7 +926,7 @@
         "english": "The food is good."
       }
     ],
-    "mnemonic": "GOOD - goed sounds like GOOD"
+    "mnemonic": ""
   },
   {
     "id": 65,
@@ -940,7 +940,7 @@
         "english": "The weather is bad."
       }
     ],
-    "mnemonic": "SLACKED off = BAD"
+    "mnemonic": ""
   },
   {
     "id": 66,
@@ -954,7 +954,7 @@
         "english": "The flower is beautiful."
       }
     ],
-    "mnemonic": "MOO-y cow is BEAUTIFUL (what a beauty!)"
+    "mnemonic": ""
   },
   {
     "id": 67,
@@ -968,7 +968,7 @@
         "english": "The coffee is tasty."
       }
     ],
-    "mnemonic": "Finger LICK-er good - LEKKER (tasty)"
+    "mnemonic": ""
   },
   {
     "id": 68,
@@ -982,7 +982,7 @@
         "english": "It's warm today."
       }
     ],
-    "mnemonic": "WARM is universal"
+    "mnemonic": ""
   },
   {
     "id": 69,
@@ -996,7 +996,7 @@
         "english": "The water is cold."
       }
     ],
-    "mnemonic": "That's COLD - KOUD"
+    "mnemonic": ""
   },
   {
     "id": 70,
@@ -1010,7 +1010,7 @@
         "english": "I have a new car."
       }
     ],
-    "mnemonic": "What's NEW? NIEUW!"
+    "mnemonic": ""
   },
   {
     "id": 71,
@@ -1024,7 +1024,7 @@
         "english": "The building is old."
       }
     ],
-    "mnemonic": "OUT with the OLD"
+    "mnemonic": ""
   },
   {
     "id": 72,
@@ -1038,7 +1038,7 @@
         "english": "The children are young."
       }
     ],
-    "mnemonic": "YOUNG - jong sounds like YOUNG"
+    "mnemonic": ""
   },
   {
     "id": 73,
@@ -1052,7 +1052,7 @@
         "english": "He is tall."
       }
     ],
-    "mnemonic": "LONG/TALL - lang sounds like LONG"
+    "mnemonic": ""
   },
   {
     "id": 74,
@@ -1066,7 +1066,7 @@
         "english": "The hair is short."
       }
     ],
-    "mnemonic": "CUT SHORT - kort"
+    "mnemonic": ""
   },
   {
     "id": 75,
@@ -1080,7 +1080,7 @@
         "english": "The car is fast."
       }
     ],
-    "mnemonic": "SNAIL? No! SNEL means FAST!"
+    "mnemonic": ""
   },
   {
     "id": 76,
@@ -1094,7 +1094,7 @@
         "english": "I am happy."
       }
     ],
-    "mnemonic": "Don't worry, be BLIJ (happy)!"
+    "mnemonic": ""
   },
   {
     "id": 77,
@@ -1108,7 +1108,7 @@
         "english": "It's easy."
       }
     ],
-    "mnemonic": "MAKE-elijk - EASY to make"
+    "mnemonic": ""
   },
   {
     "id": 78,
@@ -1122,7 +1122,7 @@
         "english": "Dutch is difficult."
       }
     ],
-    "mnemonic": "MOY-lijk - DIFFICULT to enjoy"
+    "mnemonic": ""
   },
   {
     "id": 79,
@@ -1136,7 +1136,7 @@
         "english": "The book is interesting."
       }
     ],
-    "mnemonic": "INTERESTING is the same!"
+    "mnemonic": ""
   },
   {
     "id": 80,
@@ -1150,7 +1150,7 @@
         "english": "Amsterdam is expensive."
       }
     ],
-    "mnemonic": "That's DEAR-ly EXPENSIVE - DUUR"
+    "mnemonic": ""
   },
   {
     "id": 81,
@@ -1164,7 +1164,7 @@
         "english": "What is that?"
       }
     ],
-    "mnemonic": "WAT? WHAT did you say?"
+    "mnemonic": ""
   },
   {
     "id": 82,
@@ -1178,7 +1178,7 @@
         "english": "Who is that?"
       }
     ],
-    "mnemonic": "Doctor WHO - Doctor WIE"
+    "mnemonic": ""
   },
   {
     "id": 83,
@@ -1192,7 +1192,7 @@
         "english": "Where do you live?"
       }
     ],
-    "mnemonic": "WHERE wolf - WAAR"
+    "mnemonic": ""
   },
   {
     "id": 84,
@@ -1206,7 +1206,7 @@
         "english": "When are you coming?"
       }
     ],
-    "mnemonic": "Shakira: WHENEVER, WHEREVER - WANNEER"
+    "mnemonic": ""
   },
   {
     "id": 85,
@@ -1220,7 +1220,7 @@
         "english": "Why do you do that?"
       }
     ],
-    "mnemonic": "Y tho? WAAROM (why)"
+    "mnemonic": ""
   },
   {
     "id": 86,
@@ -1234,7 +1234,7 @@
         "english": "How are you?"
       }
     ],
-    "mnemonic": "Santa's HOE HOE HOE - HOW funny!"
+    "mnemonic": ""
   },
   {
     "id": 87,
@@ -1248,7 +1248,7 @@
         "english": "How much does this cost?"
       }
     ],
-    "mnemonic": "HOW-veel - HOW MUCH/MANY"
+    "mnemonic": ""
   },
   {
     "id": 88,
@@ -1262,7 +1262,7 @@
         "english": "I stay home because I'm sick."
       }
     ],
-    "mnemonic": "Om-THAT - BECAUSE of that"
+    "mnemonic": ""
   },
   {
     "id": 89,
@@ -1276,7 +1276,7 @@
         "english": "I want to, but I can't."
       }
     ],
-    "mnemonic": "MAR/BUT - but mars it"
+    "mnemonic": ""
   },
   {
     "id": 90,
@@ -1290,7 +1290,7 @@
         "english": "You and I."
       }
     ],
-    "mnemonic": "AND - en sounds like AND"
+    "mnemonic": ""
   },
   {
     "id": 91,
@@ -1304,7 +1304,7 @@
         "english": "Coffee or tea?"
       }
     ],
-    "mnemonic": "OR/OF - of sounds like OR"
+    "mnemonic": ""
   },
   {
     "id": 92,
@@ -1318,7 +1318,7 @@
         "english": "If it rains, I stay home."
       }
     ],
-    "mnemonic": "ALLS - IF all goes well"
+    "mnemonic": ""
   },
   {
     "id": 93,
@@ -1332,7 +1332,7 @@
         "english": "Bigger than me."
       }
     ],
-    "mnemonic": "THAN/THEN - dan"
+    "mnemonic": ""
   },
   {
     "id": 94,
@@ -1346,7 +1346,7 @@
         "english": "I'm going now."
       }
     ],
-    "mnemonic": "Do it NOW - NU"
+    "mnemonic": ""
   },
   {
     "id": 95,
@@ -1360,7 +1360,7 @@
         "english": "I'm always tired."
       }
     ],
-    "mnemonic": "After ALL this TIME? ALWAYS - ALTIJD"
+    "mnemonic": ""
   },
   {
     "id": 96,
@@ -1374,7 +1374,7 @@
         "english": "I'm never sick."
       }
     ],
-    "mnemonic": "Never say NEVER - NOOIT"
+    "mnemonic": ""
   },
   {
     "id": 97,
@@ -1388,7 +1388,7 @@
         "english": "Sometimes I go to the movies."
       }
     ],
-    "mnemonic": "SOME-times"
+    "mnemonic": ""
   },
   {
     "id": 98,
@@ -1402,7 +1402,7 @@
         "english": "I cycle often."
       }
     ],
-    "mnemonic": "FOCK/OFTEN - very often"
+    "mnemonic": ""
   },
   {
     "id": 99,
@@ -1416,7 +1416,7 @@
         "english": "Come here!"
       }
     ],
-    "mnemonic": "HERE boy! HIER!"
+    "mnemonic": ""
   },
   {
     "id": 100,
@@ -1430,7 +1430,7 @@
         "english": "It's there."
       }
     ],
-    "mnemonic": "Over THERE - DAAR"
+    "mnemonic": ""
   },
   {
     "id": 101,
@@ -1444,7 +1444,7 @@
         "english": "That is true indeed."
       }
     ],
-    "mnemonic": "Oh WELL, INDEED - WEL"
+    "mnemonic": ""
   },
   {
     "id": 102,
@@ -1458,7 +1458,7 @@
         "english": "I don't know."
       }
     ],
-    "mnemonic": "This is NOT it - NIET"
+    "mnemonic": ""
   },
   {
     "id": 103,
@@ -1472,7 +1472,7 @@
         "english": "I also want to come."
       }
     ],
-    "mnemonic": "I want one TOO - \"Ook ook!\" (monkey sounds)"
+    "mnemonic": ""
   },
   {
     "id": 104,
@@ -1486,7 +1486,7 @@
         "english": "Are you still awake?"
       }
     ],
-    "mnemonic": "NOG another one? STILL/YET more?"
+    "mnemonic": ""
   },
   {
     "id": 105,
@@ -1500,7 +1500,7 @@
         "english": "I have already eaten."
       }
     ],
-    "mnemonic": "That's ALL? ALREADY? - AL"
+    "mnemonic": ""
   },
   {
     "id": 106,
@@ -1514,7 +1514,7 @@
         "english": "It's very good."
       }
     ],
-    "mnemonic": "WHOLE/VERY - heel"
+    "mnemonic": ""
   },
   {
     "id": 107,
@@ -1528,7 +1528,7 @@
         "english": "There are many people."
       }
     ],
-    "mnemonic": "FEEL how MUCH/MANY"
+    "mnemonic": ""
   },
   {
     "id": 108,
@@ -1542,7 +1542,7 @@
         "english": "I have little time."
       }
     ],
-    "mnemonic": "WANE-ig - FEW, waning"
+    "mnemonic": ""
   },
   {
     "id": 109,
@@ -1556,7 +1556,7 @@
         "english": "My name is Jan."
       }
     ],
-    "mnemonic": "ICK! I don't like that - IK (I)"
+    "mnemonic": ""
   },
   {
     "id": 110,
@@ -1570,7 +1570,7 @@
         "english": "You are nice."
       }
     ],
-    "mnemonic": "Hey YOU - YAY it's JIJ!"
+    "mnemonic": ""
   },
   {
     "id": 111,
@@ -1584,7 +1584,7 @@
         "english": "He is my brother."
       }
     ],
-    "mnemonic": "HEY, HE's over there - HIJ"
+    "mnemonic": ""
   },
   {
     "id": 112,
@@ -1598,7 +1598,7 @@
         "english": "She is my sister."
       }
     ],
-    "mnemonic": "ZAY what? SHE said that - ZIJ"
+    "mnemonic": ""
   },
   {
     "id": 113,
@@ -1612,7 +1612,7 @@
         "english": "We go home."
       }
     ],
-    "mnemonic": "WE are the champions - WIJ"
+    "mnemonic": ""
   },
   {
     "id": 114,
@@ -1626,7 +1626,7 @@
         "english": "You are welcome."
       }
     ],
-    "mnemonic": "YOU-LIE! All of YOU (plural) - JULLIE"
+    "mnemonic": ""
   },
   {
     "id": 115,
@@ -1640,7 +1640,7 @@
         "english": "This is my book."
       }
     ],
-    "mnemonic": "That's MINE - MIJN"
+    "mnemonic": ""
   },
   {
     "id": 116,
@@ -1654,7 +1654,7 @@
         "english": "Where is your car?"
       }
     ],
-    "mnemonic": "Is that YOURS? - JOUW"
+    "mnemonic": ""
   },
   {
     "id": 117,
@@ -1668,7 +1668,7 @@
         "english": "Today the weather is nice."
       }
     ],
-    "mnemonic": "VAN-dag - of this DAY, TODAY"
+    "mnemonic": ""
   },
   {
     "id": 118,
@@ -1682,7 +1682,7 @@
         "english": "See you tomorrow!"
       }
     ],
-    "mnemonic": "MORNING - TOMORROW morning"
+    "mnemonic": ""
   },
   {
     "id": 119,
@@ -1696,7 +1696,7 @@
         "english": "Yesterday it rained."
       }
     ],
-    "mnemonic": "YESTER-en - YESTERDAY"
+    "mnemonic": ""
   },
   {
     "id": 120,
@@ -1710,7 +1710,7 @@
         "english": "I am at home."
       }
     ],
-    "mnemonic": "T-HOUSE = AT HOME - THUIS"
+    "mnemonic": ""
   },
   {
     "id": 121,
@@ -1724,7 +1724,7 @@
         "english": "The children play outside."
       }
     ],
-    "mnemonic": "BOUT/OUTSIDE - buiten"
+    "mnemonic": ""
   },
   {
     "id": 122,
@@ -1738,7 +1738,7 @@
         "english": "Come inside!"
       }
     ],
-    "mnemonic": "BIN/INSIDE - binnen"
+    "mnemonic": ""
   },
   {
     "id": 123,
@@ -1752,7 +1752,7 @@
         "english": "I'll be right back."
       }
     ],
-    "mnemonic": "T-RUG pulled you BACK - TERUG"
+    "mnemonic": ""
   },
   {
     "id": 124,
@@ -1766,7 +1766,7 @@
         "english": "We work together."
       }
     ],
-    "mnemonic": "SAME-n - TOGETHER, same group"
+    "mnemonic": ""
   },
   {
     "id": 125,
@@ -1780,7 +1780,7 @@
         "english": "I live alone."
       }
     ],
-    "mnemonic": "ALL-een - ALL ONE, ALONE"
+    "mnemonic": ""
   },
   {
     "id": 126,
@@ -1794,7 +1794,7 @@
         "english": "Maybe I'll go tomorrow."
       }
     ],
-    "mnemonic": "Call Me MAYBE - MISSCHIEN"
+    "mnemonic": ""
   },
   {
     "id": 127,
@@ -1808,7 +1808,7 @@
         "english": "Of course I'll help you."
       }
     ],
-    "mnemonic": "NATURAL-lijk - NATURALLY/OF COURSE"
+    "mnemonic": ""
   },
   {
     "id": 128,
@@ -1822,7 +1822,7 @@
         "english": "Actually I don't want to."
       }
     ],
-    "mnemonic": "I like my OWN egg - \"EGG-en-lijk\" = ACTUALLY"
+    "mnemonic": ""
   },
   {
     "id": 129,
@@ -1836,7 +1836,7 @@
         "english": "Unfortunately I can't come."
       }
     ],
-    "mnemonic": "HE-LAAS = UNFORTUNATELY (alas!)"
+    "mnemonic": ""
   },
   {
     "id": 130,
@@ -1850,7 +1850,7 @@
         "english": "Fortunately I'm on time."
       }
     ],
-    "mnemonic": "Ge-LUCKY = FORTUNATELY/HAPPY"
+    "mnemonic": ""
   },
   {
     "id": 131,
@@ -1864,7 +1864,7 @@
         "english": "I live in the Netherlands."
       }
     ],
-    "mnemonic": "IN is IN - same!"
+    "mnemonic": ""
   },
   {
     "id": 132,
@@ -1878,7 +1878,7 @@
         "english": "The book is on the table."
       }
     ],
-    "mnemonic": "OP-en UP, get ON top - OP"
+    "mnemonic": ""
   },
   {
     "id": 133,
@@ -1892,7 +1892,7 @@
         "english": "I go by train."
       }
     ],
-    "mnemonic": "I MET someone WITH me - MET"
+    "mnemonic": ""
   },
   {
     "id": 134,
@@ -1906,7 +1906,7 @@
         "english": "This is for you."
       }
     ],
-    "mnemonic": "FORE/BEFORE - voor"
+    "mnemonic": ""
   },
   {
     "id": 135,
@@ -1920,7 +1920,7 @@
         "english": "I go to school."
       }
     ],
-    "mnemonic": "NAR-rate your journey TO somewhere - NAAR"
+    "mnemonic": ""
   },
   {
     "id": 136,
@@ -1934,7 +1934,7 @@
         "english": "I come from Amsterdam."
       }
     ],
-    "mnemonic": "VAN Gogh was FROM Netherlands - VAN"
+    "mnemonic": ""
   },
   {
     "id": 137,
@@ -1948,7 +1948,7 @@
         "english": "Think of me."
       }
     ],
-    "mnemonic": "It's ON - turn it AAN"
+    "mnemonic": ""
   },
   {
     "id": 138,
@@ -1962,7 +1962,7 @@
         "english": "I live with my parents."
       }
     ],
-    "mnemonic": "BEE - BIJ (also: at/near)"
+    "mnemonic": ""
   },
   {
     "id": 139,
@@ -1976,7 +1976,7 @@
         "english": "I come from the Netherlands."
       }
     ],
-    "mnemonic": "Get OUT! - UIT"
+    "mnemonic": ""
   },
   {
     "id": 140,
@@ -1990,7 +1990,7 @@
         "english": "Go through the door."
       }
     ],
-    "mnemonic": "Walk THROUGH the DOOR - DOOR"
+    "mnemonic": ""
   },
   {
     "id": 141,
@@ -2004,7 +2004,7 @@
         "english": "We talk about the weather."
       }
     ],
-    "mnemonic": "OVER and ABOUT - OVER"
+    "mnemonic": ""
   },
   {
     "id": 142,
@@ -2018,7 +2018,7 @@
         "english": "Until tomorrow!"
       }
     ],
-    "mnemonic": "TOT-ally UNTIL then - TOT"
+    "mnemonic": ""
   },
   {
     "id": 143,
@@ -2032,7 +2032,7 @@
         "english": "After eating I go to sleep."
       }
     ],
-    "mnemonic": "NA-NA-NA AFTER the song - NA"
+    "mnemonic": ""
   },
   {
     "id": 144,
@@ -2046,7 +2046,7 @@
         "english": "The cat sits under the table."
       }
     ],
-    "mnemonic": "UNDER - onder sounds like UNDER"
+    "mnemonic": ""
   },
   {
     "id": 145,
@@ -2060,7 +2060,7 @@
         "english": "The lamp hangs above the table."
       }
     ],
-    "mnemonic": "ABOVE - boven sounds similar"
+    "mnemonic": ""
   },
   {
     "id": 146,
@@ -2074,7 +2074,7 @@
         "english": "Between you and me."
       }
     ],
-    "mnemonic": "TWIXT/BETWEEN - tussen"
+    "mnemonic": ""
   },
   {
     "id": 147,
@@ -2088,7 +2088,7 @@
         "english": "Coffee without sugar."
       }
     ],
-    "mnemonic": "I SONDER WITHOUT you (wanderlust) - ZONDER"
+    "mnemonic": ""
   },
   {
     "id": 148,
@@ -2102,7 +2102,7 @@
         "english": "I lean against the wall."
       }
     ],
-    "mnemonic": "I'm not AGAINST that - TEGEN"
+    "mnemonic": ""
   },
   {
     "id": 149,
@@ -2116,7 +2116,7 @@
         "english": "Since last year."
       }
     ],
-    "mnemonic": "SINCE when? - SINDS"
+    "mnemonic": ""
   },
   {
     "id": 150,
@@ -2130,7 +2130,7 @@
         "english": "During the lesson."
       }
     ],
-    "mnemonic": "TIE-dens DURING the game - TIJDENS"
+    "mnemonic": ""
   },
   {
     "id": 151,
@@ -2144,7 +2144,7 @@
         "english": "I have one question."
       }
     ],
-    "mnemonic": "ONE and only - ÉÉN"
+    "mnemonic": ""
   },
   {
     "id": 152,
@@ -2158,7 +2158,7 @@
         "english": "I have two children."
       }
     ],
-    "mnemonic": "It takes TWEE to tango"
+    "mnemonic": ""
   },
   {
     "id": 153,
@@ -2172,7 +2172,7 @@
         "english": "It's three o'clock."
       }
     ],
-    "mnemonic": "DRIE strikes and you're out"
+    "mnemonic": ""
   },
   {
     "id": 154,
@@ -2186,7 +2186,7 @@
         "english": "Four seasons."
       }
     ],
-    "mnemonic": "FOUR - vier sounds like FOUR"
+    "mnemonic": ""
   },
   {
     "id": 155,
@@ -2200,7 +2200,7 @@
         "english": "Five minutes."
       }
     ],
-    "mnemonic": "FIVE - vijf sounds like FIVE"
+    "mnemonic": ""
   },
   {
     "id": 156,
@@ -2214,7 +2214,7 @@
         "english": "Six days."
       }
     ],
-    "mnemonic": "SIX - zes sounds similar"
+    "mnemonic": ""
   },
   {
     "id": 157,
@@ -2228,7 +2228,7 @@
         "english": "Seven days in a week."
       }
     ],
-    "mnemonic": "SEVEN - zeven sounds like SEVEN"
+    "mnemonic": ""
   },
   {
     "id": 158,
@@ -2242,7 +2242,7 @@
         "english": "Eight o'clock."
       }
     ],
-    "mnemonic": "EIGHT - acht sounds like EIGHT"
+    "mnemonic": ""
   },
   {
     "id": 159,
@@ -2256,7 +2256,7 @@
         "english": "Nine months."
       }
     ],
-    "mnemonic": "NINE - negen sounds like NINE"
+    "mnemonic": ""
   },
   {
     "id": 160,
@@ -2270,7 +2270,7 @@
         "english": "Ten euros."
       }
     ],
-    "mnemonic": "Perfect TEN - TIEN"
+    "mnemonic": ""
   },
   {
     "id": 161,
@@ -2284,7 +2284,7 @@
         "english": "I walk home."
       }
     ],
-    "mnemonic": "Forest Gump just kept LOPE-ing (walking/running)"
+    "mnemonic": ""
   },
   {
     "id": 162,
@@ -2298,7 +2298,7 @@
         "english": "I sit on the couch."
       }
     ],
-    "mnemonic": "SIT-ten down and relax"
+    "mnemonic": ""
   },
   {
     "id": 163,
@@ -2312,7 +2312,7 @@
         "english": "I stand in line."
       }
     ],
-    "mnemonic": "STAND and deliver - STAAN"
+    "mnemonic": ""
   },
   {
     "id": 164,
@@ -2326,7 +2326,7 @@
         "english": "I lie in bed."
       }
     ],
-    "mnemonic": "LIE-gen down on the couch"
+    "mnemonic": ""
   },
   {
     "id": 165,
@@ -2340,7 +2340,7 @@
         "english": "I sleep eight hours."
       }
     ],
-    "mnemonic": "SLAP yourself awake - stop SLEEPING!"
+    "mnemonic": ""
   },
   {
     "id": 166,
@@ -2354,7 +2354,7 @@
         "english": "I live in Amsterdam."
       }
     ],
-    "mnemonic": "WON a house to LIVE in"
+    "mnemonic": ""
   },
   {
     "id": 167,
@@ -2368,7 +2368,7 @@
         "english": "I stay home."
       }
     ],
-    "mnemonic": "Be-LIVE-en - STAY alive, STAY here"
+    "mnemonic": ""
   },
   {
     "id": 168,
@@ -2382,7 +2382,7 @@
         "english": "Wait a moment!"
       }
     ],
-    "mnemonic": "WATCH-ten the clock while you WAIT"
+    "mnemonic": ""
   },
   {
     "id": 169,
@@ -2396,7 +2396,7 @@
         "english": "I buy a book."
       }
     ],
-    "mnemonic": "Can't COPE-en with how much I want to BUY this"
+    "mnemonic": ""
   },
   {
     "id": 170,
@@ -2410,7 +2410,7 @@
         "english": "He sells cars."
       }
     ],
-    "mnemonic": "The FAIR-kopen (sell) price at the market"
+    "mnemonic": ""
   },
   {
     "id": 171,
@@ -2424,7 +2424,7 @@
         "english": "I pay by card."
       }
     ],
-    "mnemonic": "\"Pay the TAAL-en!\" (Pay the toll/bill)"
+    "mnemonic": ""
   },
   {
     "id": 172,
@@ -2438,7 +2438,7 @@
         "english": "I watch television."
       }
     ],
-    "mnemonic": "KIKE-en - LOOK with your eyes"
+    "mnemonic": ""
   },
   {
     "id": 173,
@@ -2452,7 +2452,7 @@
         "english": "I listen to music."
       }
     ],
-    "mnemonic": "LUST-eren to LISTEN with desire"
+    "mnemonic": ""
   },
   {
     "id": 174,
@@ -2466,7 +2466,7 @@
         "english": "The children play."
       }
     ],
-    "mnemonic": "Game of Thrones: \"When you PLAY the game...\" SPEL-en"
+    "mnemonic": ""
   },
   {
     "id": 175,
@@ -2480,7 +2480,7 @@
         "english": "I get a present."
       }
     ],
-    "mnemonic": "Babies CRY-gen until they GET what they want"
+    "mnemonic": ""
   },
   {
     "id": 176,
@@ -2494,7 +2494,7 @@
         "english": "I bring you home."
       }
     ],
-    "mnemonic": "BRING-en it on!"
+    "mnemonic": ""
   },
   {
     "id": 177,
@@ -2508,7 +2508,7 @@
         "english": "I get coffee."
       }
     ],
-    "mnemonic": "HAUL-en - FETCH/HAUL it"
+    "mnemonic": ""
   },
   {
     "id": 178,
@@ -2522,7 +2522,7 @@
         "english": "I put the book on the table."
       }
     ],
-    "mnemonic": "LAY-gen it down gently"
+    "mnemonic": ""
   },
   {
     "id": 179,
@@ -2536,7 +2536,7 @@
         "english": "I make coffee."
       }
     ],
-    "mnemonic": "SET-ten - SET it down"
+    "mnemonic": ""
   },
   {
     "id": 180,
@@ -2550,7 +2550,7 @@
         "english": "I drive to work."
       }
     ],
-    "mnemonic": "RIDE or die - RIJD-en"
+    "mnemonic": ""
   },
   {
     "id": 181,
@@ -2564,7 +2564,7 @@
         "english": "I fly to Spain."
       }
     ],
-    "mnemonic": "I believe I can FLY - VLIEG-en"
+    "mnemonic": ""
   },
   {
     "id": 182,
@@ -2578,7 +2578,7 @@
         "english": "I like to swim."
       }
     ],
-    "mnemonic": "Just keep SWIMMING, ZWEM-men"
+    "mnemonic": ""
   },
   {
     "id": 183,
@@ -2592,7 +2592,7 @@
         "english": "The bus stops here."
       }
     ],
-    "mnemonic": "Hammertime! Can't touch this - STOP-pen!"
+    "mnemonic": ""
   },
   {
     "id": 184,
@@ -2606,7 +2606,7 @@
         "english": "The lesson begins at nine."
       }
     ],
-    "mnemonic": "Let's BEGIN-nen this party!"
+    "mnemonic": ""
   },
   {
     "id": 185,
@@ -2620,7 +2620,7 @@
         "english": "I try to learn Dutch."
       }
     ],
-    "mnemonic": "PROBE-eren - PROBE/TRY it out"
+    "mnemonic": ""
   },
   {
     "id": 186,
@@ -2634,7 +2634,7 @@
         "english": "Can I help you?"
       }
     ],
-    "mnemonic": "HELP-en! I need somebody!"
+    "mnemonic": ""
   },
   {
     "id": 187,
@@ -2648,7 +2648,7 @@
         "english": "I always forget it."
       }
     ],
-    "mnemonic": "I For-GET things because I FORGET-en"
+    "mnemonic": ""
   },
   {
     "id": 188,
@@ -2662,7 +2662,7 @@
         "english": "I remember that."
       }
     ],
-    "mnemonic": "Her-INNER-en - REMEMBER inner thoughts"
+    "mnemonic": ""
   },
   {
     "id": 189,
@@ -2676,7 +2676,7 @@
         "english": "I feel good."
       }
     ],
-    "mnemonic": "Feelings, nothing more than FEEL-ings... VOEL-en"
+    "mnemonic": ""
   },
   {
     "id": 190,
@@ -2690,7 +2690,7 @@
         "english": "I believe you."
       }
     ],
-    "mnemonic": "Ge-LOVE = BELIEVE in love - GELOVEN"
+    "mnemonic": ""
   },
   {
     "id": 191,
@@ -2704,7 +2704,7 @@
         "english": "I hope it works."
       }
     ],
-    "mnemonic": "HOPE-en sounds like HOPE"
+    "mnemonic": ""
   },
   {
     "id": 192,
@@ -2718,7 +2718,7 @@
         "english": "I expect you at three."
       }
     ],
-    "mnemonic": "For-WATCH-en = EXPECT (watch for it)"
+    "mnemonic": ""
   },
   {
     "id": 193,
@@ -2732,7 +2732,7 @@
         "english": "We win the game."
       }
     ],
-    "mnemonic": "WIN-nen sounds like WIN"
+    "mnemonic": ""
   },
   {
     "id": 194,
@@ -2746,7 +2746,7 @@
         "english": "I lose my keys."
       }
     ],
-    "mnemonic": "ver-LOSE-en - you LOSE it"
+    "mnemonic": ""
   },
   {
     "id": 195,
@@ -2760,7 +2760,7 @@
         "english": "The situation changes."
       }
     ],
-    "mnemonic": "VARY-anderen - things VARY when they CHANGE"
+    "mnemonic": ""
   },
   {
     "id": 196,
@@ -2774,7 +2774,7 @@
         "english": "You have to choose."
       }
     ],
-    "mnemonic": "CHOOSE - kiezen"
+    "mnemonic": ""
   },
   {
     "id": 197,
@@ -2788,7 +2788,7 @@
         "english": "I can't decide."
       }
     ],
-    "mnemonic": "Be-SLIS-sen - make a DECISION"
+    "mnemonic": ""
   },
   {
     "id": 198,
@@ -2802,7 +2802,7 @@
         "english": "I open the door."
       }
     ],
-    "mnemonic": "OPEN-en sounds like OPEN"
+    "mnemonic": ""
   },
   {
     "id": 199,
@@ -2816,7 +2816,7 @@
         "english": "The shop closes at six."
       }
     ],
-    "mnemonic": "SHUT-en - CLOSE/SHUT"
+    "mnemonic": ""
   },
   {
     "id": 200,
@@ -2830,7 +2830,7 @@
         "english": "I send you a message."
       }
     ],
-    "mnemonic": "STEER-en - STEER the message, SEND it"
+    "mnemonic": ""
   },
   {
     "id": 201,
@@ -2845,7 +2845,7 @@
         "english": "The table is big."
       }
     ],
-    "mnemonic": "Flip the TABLE - TAFEL"
+    "mnemonic": ""
   },
   {
     "id": 202,
@@ -2860,7 +2860,7 @@
         "english": "Sit on the chair."
       }
     ],
-    "mnemonic": "Musical CHAIRS - grab a STOEL"
+    "mnemonic": ""
   },
   {
     "id": 203,
@@ -2875,7 +2875,7 @@
         "english": "I lie in bed."
       }
     ],
-    "mnemonic": "BED-time - same word!"
+    "mnemonic": ""
   },
   {
     "id": 204,
@@ -2890,7 +2890,7 @@
         "english": "The room is small."
       }
     ],
-    "mnemonic": "Lights, CAMERA, action! (room)"
+    "mnemonic": ""
   },
   {
     "id": 205,
@@ -2905,7 +2905,7 @@
         "english": "I cook in the kitchen."
       }
     ],
-    "mnemonic": "COOK-en in the KITCHEN - KEUKEN"
+    "mnemonic": ""
   },
   {
     "id": 206,
@@ -2920,7 +2920,7 @@
         "english": "The garden is beautiful."
       }
     ],
-    "mnemonic": "TUNE in the GARDEN"
+    "mnemonic": ""
   },
   {
     "id": 207,
@@ -2935,7 +2935,7 @@
         "english": "Open the window."
       }
     ],
-    "mnemonic": "RAM into the WINDOW - RAAM"
+    "mnemonic": ""
   },
   {
     "id": 208,
@@ -2950,7 +2950,7 @@
         "english": "The sun is shining."
       }
     ],
-    "mnemonic": "Here comes the ZON (sun)"
+    "mnemonic": ""
   },
   {
     "id": 209,
@@ -2965,7 +2965,7 @@
         "english": "The moon is full."
       }
     ],
-    "mnemonic": "Fly me to the MAAN (moon)"
+    "mnemonic": ""
   },
   {
     "id": 210,
@@ -2980,7 +2980,7 @@
         "english": "It's raining."
       }
     ],
-    "mnemonic": "Purple RAIN, purple REGEN"
+    "mnemonic": ""
   },
   {
     "id": 211,
@@ -2995,7 +2995,7 @@
         "english": "The wind blows hard."
       }
     ],
-    "mnemonic": "Blowin' in the WIND"
+    "mnemonic": ""
   },
   {
     "id": 212,
@@ -3010,7 +3010,7 @@
         "english": "It's snowing."
       }
     ],
-    "mnemonic": "Let it SNOW, let it SNEEUW"
+    "mnemonic": ""
   },
   {
     "id": 213,
@@ -3025,7 +3025,7 @@
         "english": "The tree is tall."
       }
     ],
-    "mnemonic": "The TREE fell down - BOOM!"
+    "mnemonic": ""
   },
   {
     "id": 214,
@@ -3040,7 +3040,7 @@
         "english": "The flower is red."
       }
     ],
-    "mnemonic": "BLOOM - a FLOWER blooms"
+    "mnemonic": ""
   },
   {
     "id": 215,
@@ -3055,7 +3055,7 @@
         "english": "The sea is blue."
       }
     ],
-    "mnemonic": "From SEA to shining ZEE"
+    "mnemonic": ""
   },
   {
     "id": 216,
@@ -3070,7 +3070,7 @@
         "english": "The mountain is high."
       }
     ],
-    "mnemonic": "BERG/MOUNTAIN - berg"
+    "mnemonic": ""
   },
   {
     "id": 217,
@@ -3085,7 +3085,7 @@
         "english": "I walk in the forest."
       }
     ],
-    "mnemonic": "BOSS of the FOREST"
+    "mnemonic": ""
   },
   {
     "id": 218,
@@ -3100,7 +3100,7 @@
         "english": "This is a nice photo."
       }
     ],
-    "mnemonic": "Say FOTO for the camera! (photo)"
+    "mnemonic": ""
   },
   {
     "id": 219,
@@ -3115,7 +3115,7 @@
         "english": "The movie is good."
       }
     ],
-    "mnemonic": "Lights, camera, FILM!"
+    "mnemonic": ""
   },
   {
     "id": 220,
@@ -3130,7 +3130,7 @@
         "english": "I love music."
       }
     ],
-    "mnemonic": "The Sound of MUSIC - MUZIEK"
+    "mnemonic": ""
   },
   {
     "id": 221,
@@ -3145,7 +3145,7 @@
         "english": "I have a question."
       }
     ],
-    "mnemonic": "A FROG croaks a QUESTION: \"Ribbit?\" - VRAAG"
+    "mnemonic": ""
   },
   {
     "id": 222,
@@ -3160,7 +3160,7 @@
         "english": "What is the answer?"
       }
     ],
-    "mnemonic": "ANSWER - antwoord"
+    "mnemonic": ""
   },
   {
     "id": 223,
@@ -3175,7 +3175,7 @@
         "english": "That's no problem."
       }
     ],
-    "mnemonic": "Houston, we have a PROBLEEM"
+    "mnemonic": ""
   },
   {
     "id": 224,
@@ -3190,7 +3190,7 @@
         "english": "Good idea!"
       }
     ],
-    "mnemonic": "IDEA - idee sounds like IDEA"
+    "mnemonic": ""
   },
   {
     "id": 225,
@@ -3205,7 +3205,7 @@
         "english": "It's a beautiful story."
       }
     ],
-    "mnemonic": "For-HALL - STORY in the hall"
+    "mnemonic": ""
   },
   {
     "id": 226,
@@ -3220,7 +3220,7 @@
         "english": "I write a letter."
       }
     ],
-    "mnemonic": "Keep it BRIEF - short LETTER"
+    "mnemonic": ""
   },
   {
     "id": 227,
@@ -3235,7 +3235,7 @@
         "english": "The phone is ringing."
       }
     ],
-    "mnemonic": "ET PHONE home - TELEFOON"
+    "mnemonic": ""
   },
   {
     "id": 228,
@@ -3250,7 +3250,7 @@
         "english": "I work on the computer."
       }
     ],
-    "mnemonic": "COMPUTER says no (Little Britain)"
+    "mnemonic": ""
   },
   {
     "id": 229,
@@ -3265,7 +3265,7 @@
         "english": "Have a good trip!"
       }
     ],
-    "mnemonic": "RISE and TRAVEL"
+    "mnemonic": ""
   },
   {
     "id": 230,
@@ -3280,7 +3280,7 @@
         "english": "I have vacation."
       }
     ],
-    "mnemonic": "VACANT-ie - VACATION"
+    "mnemonic": ""
   },
   {
     "id": 231,
@@ -3295,7 +3295,7 @@
         "english": "It was a fun party."
       }
     ],
-    "mnemonic": "FEAST/PARTY - feest"
+    "mnemonic": ""
   },
   {
     "id": 232,
@@ -3310,7 +3310,7 @@
         "english": "This is a present for you."
       }
     ],
-    "mnemonic": "CADEAU/GIFT - present"
+    "mnemonic": ""
   },
   {
     "id": 233,
@@ -3325,7 +3325,7 @@
         "english": "What is the price?"
       }
     ],
-    "mnemonic": "PRICE - prijs sounds like PRICE"
+    "mnemonic": ""
   },
   {
     "id": 234,
@@ -3340,7 +3340,7 @@
         "english": "The shop is open."
       }
     ],
-    "mnemonic": "WINK-el at the SHOP clerk"
+    "mnemonic": ""
   },
   {
     "id": 235,
@@ -3355,7 +3355,7 @@
         "english": "We eat in a restaurant."
       }
     ],
-    "mnemonic": "RESTAURANT is the same!"
+    "mnemonic": ""
   },
   {
     "id": 236,
@@ -3370,7 +3370,7 @@
         "english": "The hotel is expensive."
       }
     ],
-    "mnemonic": "HOTEL is the same!"
+    "mnemonic": ""
   },
   {
     "id": 237,
@@ -3385,7 +3385,7 @@
         "english": "The train leaves from the station."
       }
     ],
-    "mnemonic": "STATION is the same!"
+    "mnemonic": ""
   },
   {
     "id": 238,
@@ -3400,7 +3400,7 @@
         "english": "I take the bus."
       }
     ],
-    "mnemonic": "Magic School BUS"
+    "mnemonic": ""
   },
   {
     "id": 239,
@@ -3415,7 +3415,7 @@
         "english": "The airplane is departing."
       }
     ],
-    "mnemonic": "FLYING THING - vliegtuig (airplane)"
+    "mnemonic": ""
   },
   {
     "id": 240,
@@ -3430,7 +3430,7 @@
         "english": "What is your favorite color?"
       }
     ],
-    "mnemonic": "COLOR - kleur sounds like COLOR"
+    "mnemonic": ""
   },
   {
     "id": 241,
@@ -3444,7 +3444,7 @@
         "english": "The apple is red."
       }
     ],
-    "mnemonic": "RED - rood sounds like RED"
+    "mnemonic": ""
   },
   {
     "id": 242,
@@ -3458,7 +3458,7 @@
         "english": "The sky is blue."
       }
     ],
-    "mnemonic": "BLUE - blauw sounds like BLUE"
+    "mnemonic": ""
   },
   {
     "id": 243,
@@ -3472,7 +3472,7 @@
         "english": "The grass is green."
       }
     ],
-    "mnemonic": "GREEN - groen sounds like GREEN"
+    "mnemonic": ""
   },
   {
     "id": 244,
@@ -3486,7 +3486,7 @@
         "english": "The sun is yellow."
       }
     ],
-    "mnemonic": "YELLOW - geel"
+    "mnemonic": ""
   },
   {
     "id": 245,
@@ -3500,7 +3500,7 @@
         "english": "The snow is white."
       }
     ],
-    "mnemonic": "WHITE - wit sounds like WHITE"
+    "mnemonic": ""
   },
   {
     "id": 246,
@@ -3514,7 +3514,7 @@
         "english": "The night is black."
       }
     ],
-    "mnemonic": "SCHWARTZ/BLACK - zwart"
+    "mnemonic": ""
   },
   {
     "id": 247,
@@ -3529,7 +3529,7 @@
         "english": "Monday I go to work."
       }
     ],
-    "mnemonic": "MOON-dag - MONDAY"
+    "mnemonic": ""
   },
   {
     "id": 248,
@@ -3544,7 +3544,7 @@
         "english": "Tuesday I have an appointment."
       }
     ],
-    "mnemonic": "DINS-dag - TUESDAY (Tiw's day)"
+    "mnemonic": ""
   },
   {
     "id": 249,
@@ -3559,7 +3559,7 @@
         "english": "Wednesday is halfway."
       }
     ],
-    "mnemonic": "WODEN's-dag - WEDNESDAY"
+    "mnemonic": ""
   },
   {
     "id": 250,
@@ -3574,7 +3574,7 @@
         "english": "Thursday I go to exercise."
       }
     ],
-    "mnemonic": "THUNDER-dag - THURSDAY (Thor)"
+    "mnemonic": ""
   },
   {
     "id": 251,
@@ -3589,7 +3589,7 @@
         "english": "Friday is almost weekend."
       }
     ],
-    "mnemonic": "FRI-dag - FRIDAY (Freya)"
+    "mnemonic": ""
   },
   {
     "id": 252,
@@ -3604,7 +3604,7 @@
         "english": "Saturday I go shopping."
       }
     ],
-    "mnemonic": "SATURN-dag - SATURDAY"
+    "mnemonic": ""
   },
   {
     "id": 253,
@@ -3619,7 +3619,7 @@
         "english": "Sunday I rest."
       }
     ],
-    "mnemonic": "SUN-dag - SUNDAY"
+    "mnemonic": ""
   },
   {
     "id": 254,
@@ -3634,7 +3634,7 @@
         "english": "January is cold."
       }
     ],
-    "mnemonic": "JANUARY - januari"
+    "mnemonic": ""
   },
   {
     "id": 255,
@@ -3649,7 +3649,7 @@
         "english": "February is short."
       }
     ],
-    "mnemonic": "FEBRUARY - februari"
+    "mnemonic": ""
   },
   {
     "id": 256,
@@ -3664,7 +3664,7 @@
         "english": "In March it becomes spring."
       }
     ],
-    "mnemonic": "MARCH - maart"
+    "mnemonic": ""
   },
   {
     "id": 257,
@@ -3679,7 +3679,7 @@
         "english": "April does what it wants."
       }
     ],
-    "mnemonic": "APRIL - april"
+    "mnemonic": ""
   },
   {
     "id": 258,
@@ -3694,7 +3694,7 @@
         "english": "May is a beautiful month."
       }
     ],
-    "mnemonic": "MAY - mei"
+    "mnemonic": ""
   },
   {
     "id": 259,
@@ -3709,7 +3709,7 @@
         "english": "In June it is summer."
       }
     ],
-    "mnemonic": "JUNE - juni"
+    "mnemonic": ""
   },
   {
     "id": 260,
@@ -3724,7 +3724,7 @@
         "english": "July is often warm."
       }
     ],
-    "mnemonic": "JULY - juli"
+    "mnemonic": ""
   },
   {
     "id": 261,
@@ -3739,7 +3739,7 @@
         "english": "August is vacation time."
       }
     ],
-    "mnemonic": "AUGUST - augustus"
+    "mnemonic": ""
   },
   {
     "id": 262,
@@ -3754,7 +3754,7 @@
         "english": "September autumn begins."
       }
     ],
-    "mnemonic": "SEPTEMBER - september"
+    "mnemonic": ""
   },
   {
     "id": 263,
@@ -3769,7 +3769,7 @@
         "english": "October is autumn."
       }
     ],
-    "mnemonic": "OCTOBER - oktober"
+    "mnemonic": ""
   },
   {
     "id": 264,
@@ -3784,7 +3784,7 @@
         "english": "November is dark."
       }
     ],
-    "mnemonic": "NOVEMBER - november"
+    "mnemonic": ""
   },
   {
     "id": 265,
@@ -3799,7 +3799,7 @@
         "english": "December is a festive month."
       }
     ],
-    "mnemonic": "DECEMBER - december"
+    "mnemonic": ""
   },
   {
     "id": 266,
@@ -3814,7 +3814,7 @@
         "english": "Spring is coming."
       }
     ],
-    "mnemonic": "LENT-e comes in SPRING"
+    "mnemonic": ""
   },
   {
     "id": 267,
@@ -3829,7 +3829,7 @@
         "english": "Summer is warm."
       }
     ],
-    "mnemonic": "SUMMER - ZOMER sounds like summer"
+    "mnemonic": ""
   },
   {
     "id": 268,
@@ -3844,7 +3844,7 @@
         "english": "Autumn is colorful."
       }
     ],
-    "mnemonic": "HARVEST in AUTUMN/FALL - HERFST"
+    "mnemonic": ""
   },
   {
     "id": 269,
@@ -3859,7 +3859,7 @@
         "english": "Winter is cold."
       }
     ],
-    "mnemonic": "WINTER is WINTER - same!"
+    "mnemonic": ""
   },
   {
     "id": 270,
@@ -3874,7 +3874,7 @@
         "english": "Good morning!"
       }
     ],
-    "mnemonic": "OCH-TEND - MORNING tends"
+    "mnemonic": ""
   },
   {
     "id": 271,
@@ -3889,7 +3889,7 @@
         "english": "Good afternoon!"
       }
     ],
-    "mnemonic": "MID-DAG - AFTERNOON, mid-day"
+    "mnemonic": ""
   },
   {
     "id": 272,
@@ -3904,7 +3904,7 @@
         "english": "Good evening!"
       }
     ],
-    "mnemonic": "ADVENT - EVENING advent"
+    "mnemonic": ""
   },
   {
     "id": 273,
@@ -3919,7 +3919,7 @@
         "english": "Good night!"
       }
     ],
-    "mnemonic": "Good NACHT (night) - German style"
+    "mnemonic": ""
   },
   {
     "id": 274,
@@ -3934,7 +3934,7 @@
         "english": "My head hurts."
       }
     ],
-    "mnemonic": "Wear a HOOD on your HEAD"
+    "mnemonic": ""
   },
   {
     "id": 275,
@@ -3949,7 +3949,7 @@
         "english": "Give me your hand."
       }
     ],
-    "mnemonic": "Talk to the HAND"
+    "mnemonic": ""
   },
   {
     "id": 276,
@@ -3964,7 +3964,7 @@
         "english": "My foot hurts."
       }
     ],
-    "mnemonic": "FOOT fetish - VOET"
+    "mnemonic": ""
   },
   {
     "id": 277,
@@ -3979,7 +3979,7 @@
         "english": "His eyes are blue."
       }
     ],
-    "mnemonic": "OOH, look at that with your EYE"
+    "mnemonic": ""
   },
   {
     "id": 278,
@@ -3994,7 +3994,7 @@
         "english": "I hear nothing."
       }
     ],
-    "mnemonic": "Lend me your EAR - \"OOR you listening?\""
+    "mnemonic": ""
   },
   {
     "id": 279,
@@ -4009,7 +4009,7 @@
         "english": "Open your mouth."
       }
     ],
-    "mnemonic": "Watch your MOUTH - it's your MOND-ey maker"
+    "mnemonic": ""
   },
   {
     "id": 280,
@@ -4024,7 +4024,7 @@
         "english": "My nose is blocked."
       }
     ],
-    "mnemonic": "Pinocchio's NEWS travels through his NOSE"
+    "mnemonic": ""
   },
   {
     "id": 281,
@@ -4039,7 +4039,7 @@
         "english": "I love you with all my heart."
       }
     ],
-    "mnemonic": "Have a HEART - HART"
+    "mnemonic": ""
   },
   {
     "id": 282,
@@ -4054,7 +4054,7 @@
         "english": "My body is tired."
       }
     ],
-    "mnemonic": "LIE down your BODY"
+    "mnemonic": ""
   },
   {
     "id": 283,
@@ -4069,7 +4069,7 @@
         "english": "I wash my face."
       }
     ],
-    "mnemonic": "Ge-SIGHT = FACE (you see with it)"
+    "mnemonic": ""
   },
   {
     "id": 284,
@@ -4084,7 +4084,7 @@
         "english": "Her hair is long."
       }
     ],
-    "mnemonic": "HAIR - haar sounds like HAIR"
+    "mnemonic": ""
   },
   {
     "id": 285,
@@ -4099,7 +4099,7 @@
         "english": "My back hurts."
       }
     ],
-    "mnemonic": "RUG on your BACK"
+    "mnemonic": ""
   },
   {
     "id": 286,
@@ -4114,13 +4114,13 @@
         "english": "My leg is broken."
       }
     ],
-    "mnemonic": "BONE in your LEG - shake a leg, BEEN there"
+    "mnemonic": ""
   },
   {
     "id": 287,
     "rank": 287,
     "dutch": "arm",
-    "english": "arm",
+    "english": "arm, poor",
     "partOfSpeech": "noun",
     "gender": "de",
     "sentences": [
@@ -4129,7 +4129,7 @@
         "english": "I have strong arms."
       }
     ],
-    "mnemonic": "POOR - same as arm (limb)"
+    "mnemonic": ""
   },
   {
     "id": 288,
@@ -4144,7 +4144,7 @@
         "english": "I go to the doctor."
       }
     ],
-    "mnemonic": "DOCTOR - DOKTER"
+    "mnemonic": ""
   },
   {
     "id": 289,
@@ -4159,7 +4159,7 @@
         "english": "He is in the hospital."
       }
     ],
-    "mnemonic": "SICK-house = HOSPITAL"
+    "mnemonic": ""
   },
   {
     "id": 290,
@@ -4174,7 +4174,7 @@
         "english": "Take this medicine."
       }
     ],
-    "mnemonic": "MEDICINE - MEDICIJN"
+    "mnemonic": ""
   },
   {
     "id": 291,
@@ -4188,7 +4188,7 @@
         "english": "I am sick."
       }
     ],
-    "mnemonic": "Calling in SICK - \"I'm too ZIEK to work\""
+    "mnemonic": ""
   },
   {
     "id": 292,
@@ -4202,7 +4202,7 @@
         "english": "I feel healthy."
       }
     ],
-    "mnemonic": "Good-SOUND = HEALTHY"
+    "mnemonic": ""
   },
   {
     "id": 293,
@@ -4216,7 +4216,7 @@
         "english": "I am tired."
       }
     ],
-    "mnemonic": "MOE from the Simpsons is always TIRED"
+    "mnemonic": ""
   },
   {
     "id": 294,
@@ -4231,7 +4231,7 @@
         "english": "I am hungry."
       }
     ],
-    "mnemonic": "HUNGER - HONGER sounds like HUNGER"
+    "mnemonic": ""
   },
   {
     "id": 295,
@@ -4246,7 +4246,7 @@
         "english": "I am thirsty."
       }
     ],
-    "mnemonic": "I'm THIRSTY for a DORST-y drink"
+    "mnemonic": ""
   },
   {
     "id": 296,
@@ -4261,7 +4261,7 @@
         "english": "I eat bread."
       }
     ],
-    "mnemonic": "Inbread cats love BREAD - they're BROOD"
+    "mnemonic": ""
   },
   {
     "id": 297,
@@ -4276,7 +4276,7 @@
         "english": "I drink milk."
       }
     ],
-    "mnemonic": "Got MELK? (milk)"
+    "mnemonic": ""
   },
   {
     "id": 298,
@@ -4291,7 +4291,7 @@
         "english": "Dutch cheese is tasty."
       }
     ],
-    "mnemonic": "Say KAAS! (cheese) for the photo"
+    "mnemonic": ""
   },
   {
     "id": 299,
@@ -4306,7 +4306,7 @@
         "english": "I eat an egg."
       }
     ],
-    "mnemonic": "EGG - ei sounds like EGG (aye)"
+    "mnemonic": ""
   },
   {
     "id": 300,
@@ -4321,7 +4321,7 @@
         "english": "I don't eat meat."
       }
     ],
-    "mnemonic": "FLESH/MEAT - vlees"
+    "mnemonic": ""
   },
   {
     "id": 301,
@@ -4336,7 +4336,7 @@
         "english": "I like to eat fish."
       }
     ],
-    "mnemonic": "Finding Nemo is about a FISH who goes MIA - VIS-iting the ocean"
+    "mnemonic": ""
   },
   {
     "id": 302,
@@ -4351,7 +4351,7 @@
         "english": "Do you eat enough vegetables?"
       }
     ],
-    "mnemonic": "GREEN-te VEGETABLES"
+    "mnemonic": ""
   },
   {
     "id": 303,
@@ -4366,7 +4366,7 @@
         "english": "I eat fruit every day."
       }
     ],
-    "mnemonic": "FRUIT is the same!"
+    "mnemonic": ""
   },
   {
     "id": 304,
@@ -4381,7 +4381,7 @@
         "english": "I eat an apple."
       }
     ],
-    "mnemonic": "An APPLE a day - APPEL"
+    "mnemonic": ""
   },
   {
     "id": 305,
@@ -4396,7 +4396,7 @@
         "english": "I drink orange juice."
       }
     ],
-    "mnemonic": "CHINA-sappel - they thought oranges came from CHINA (orange)"
+    "mnemonic": ""
   },
   {
     "id": 306,
@@ -4411,7 +4411,7 @@
         "english": "The banana is yellow."
       }
     ],
-    "mnemonic": "This is BANANAS - B-A-N-A-A-N"
+    "mnemonic": ""
   },
   {
     "id": 307,
@@ -4426,7 +4426,7 @@
         "english": "We eat potatoes."
       }
     ],
-    "mnemonic": "Earth-apple? AARDAPPEL is a POTATO (literally \"earth apple\")"
+    "mnemonic": ""
   },
   {
     "id": 308,
@@ -4441,7 +4441,7 @@
         "english": "I cook rice."
       }
     ],
-    "mnemonic": "RICE - rijst sounds like RICE"
+    "mnemonic": ""
   },
   {
     "id": 309,
@@ -4456,7 +4456,7 @@
         "english": "I eat pasta with sauce."
       }
     ],
-    "mnemonic": "PASTA is PASTA - same!"
+    "mnemonic": ""
   },
   {
     "id": 310,
@@ -4471,7 +4471,7 @@
         "english": "The soup is hot."
       }
     ],
-    "mnemonic": "No SOUP for you! (Seinfeld)"
+    "mnemonic": ""
   },
   {
     "id": 311,
@@ -4486,7 +4486,7 @@
         "english": "I make a salad."
       }
     ],
-    "mnemonic": "SALAD - SALADE"
+    "mnemonic": ""
   },
   {
     "id": 312,
@@ -4501,7 +4501,7 @@
         "english": "I spread butter on bread."
       }
     ],
-    "mnemonic": "BUTTER - BOTER"
+    "mnemonic": ""
   },
   {
     "id": 313,
@@ -4516,7 +4516,7 @@
         "english": "Do you want sugar in your tea?"
       }
     ],
-    "mnemonic": "SUGAR - suiker sounds like SUGAR"
+    "mnemonic": ""
   },
   {
     "id": 314,
@@ -4531,7 +4531,7 @@
         "english": "Give me the salt."
       }
     ],
-    "mnemonic": "SALT - zout sounds like SALT"
+    "mnemonic": ""
   },
   {
     "id": 315,
@@ -4546,7 +4546,7 @@
         "english": "Do you want pepper?"
       }
     ],
-    "mnemonic": "PEPPER - PEPER"
+    "mnemonic": ""
   },
   {
     "id": 316,
@@ -4561,7 +4561,7 @@
         "english": "I eat breakfast at eight o'clock."
       }
     ],
-    "mnemonic": "ON-BITE your BREAKFAST - ONTBIJT"
+    "mnemonic": ""
   },
   {
     "id": 317,
@@ -4576,7 +4576,7 @@
         "english": "I eat lunch at the office."
       }
     ],
-    "mnemonic": "LUNCH is LUNCH - same!"
+    "mnemonic": ""
   },
   {
     "id": 318,
@@ -4591,7 +4591,7 @@
         "english": "Dinner is ready."
       }
     ],
-    "mnemonic": "AVOND (evening) + ETEN (eat) = DINNER"
+    "mnemonic": ""
   },
   {
     "id": 319,
@@ -4606,7 +4606,7 @@
         "english": "We eat in a restaurant."
       }
     ],
-    "mnemonic": "RESTAURANT is the same!"
+    "mnemonic": ""
   },
   {
     "id": 320,
@@ -4621,7 +4621,7 @@
         "english": "We meet each other in the café."
       }
     ],
-    "mnemonic": "CAFÉ is the same!"
+    "mnemonic": ""
   },
   {
     "id": 321,
@@ -4635,7 +4635,7 @@
         "english": "What are you doing?"
       }
     ],
-    "mnemonic": "WAT? WHAT did you say?"
+    "mnemonic": ""
   },
   {
     "id": 322,
@@ -4649,7 +4649,7 @@
         "english": "Who is that?"
       }
     ],
-    "mnemonic": "Doctor WHO - Doctor WIE"
+    "mnemonic": ""
   },
   {
     "id": 323,
@@ -4663,7 +4663,7 @@
         "english": "Where do you live?"
       }
     ],
-    "mnemonic": "WHERE wolf - WAAR"
+    "mnemonic": ""
   },
   {
     "id": 324,
@@ -4677,7 +4677,7 @@
         "english": "When are you coming?"
       }
     ],
-    "mnemonic": "Shakira: WHENEVER, WHEREVER - WANNEER"
+    "mnemonic": ""
   },
   {
     "id": 325,
@@ -4691,7 +4691,7 @@
         "english": "Why are you here?"
       }
     ],
-    "mnemonic": "Y tho? WAAROM (why)"
+    "mnemonic": ""
   },
   {
     "id": 326,
@@ -4705,7 +4705,7 @@
         "english": "How are you?"
       }
     ],
-    "mnemonic": "Santa's HOE HOE HOE - HOW funny!"
+    "mnemonic": ""
   },
   {
     "id": 327,
@@ -4719,7 +4719,7 @@
         "english": "How much does this cost?"
       }
     ],
-    "mnemonic": "HOW-veel - HOW MUCH/MANY"
+    "mnemonic": ""
   },
   {
     "id": 328,
@@ -4733,7 +4733,7 @@
         "english": "Which color do you want?"
       }
     ],
-    "mnemonic": "WHICH one? - WELK"
+    "mnemonic": ""
   },
   {
     "id": 329,
@@ -4747,7 +4747,7 @@
         "english": "I stay home because I'm sick."
       }
     ],
-    "mnemonic": "Om-THAT - BECAUSE of that"
+    "mnemonic": ""
   },
   {
     "id": 330,
@@ -4761,7 +4761,7 @@
         "english": "I want to come, but I can't."
       }
     ],
-    "mnemonic": "MAR/BUT - but mars it"
+    "mnemonic": ""
   },
   {
     "id": 331,
@@ -4775,7 +4775,7 @@
         "english": "My friend and I are going."
       }
     ],
-    "mnemonic": "AND - en sounds like AND"
+    "mnemonic": ""
   },
   {
     "id": 332,
@@ -4789,7 +4789,7 @@
         "english": "Do you want coffee or tea?"
       }
     ],
-    "mnemonic": "OR/OF - of sounds like OR"
+    "mnemonic": ""
   },
   {
     "id": 333,
@@ -4803,7 +4803,7 @@
         "english": "I'm going to sleep, for I am tired."
       }
     ],
-    "mnemonic": "I WANT it BECAUSE I do - WANT"
+    "mnemonic": ""
   },
   {
     "id": 334,
@@ -4817,7 +4817,7 @@
         "english": "It's raining, so I stay home."
       }
     ],
-    "mnemonic": "THUS, SO therefore - DUS"
+    "mnemonic": ""
   },
   {
     "id": 335,
@@ -4831,7 +4831,7 @@
         "english": "If it rains, I stay home."
       }
     ],
-    "mnemonic": "ALLS - IF all goes well"
+    "mnemonic": ""
   },
   {
     "id": 336,
@@ -4845,7 +4845,7 @@
         "english": "I think that it's good."
       }
     ],
-    "mnemonic": "THAT is DAT"
+    "mnemonic": ""
   },
   {
     "id": 337,
@@ -4859,7 +4859,7 @@
         "english": "When I was young, I played soccer."
       }
     ],
-    "mnemonic": "Back THEN, WHEN I was young - TOEN"
+    "mnemonic": ""
   },
   {
     "id": 338,
@@ -4873,7 +4873,7 @@
         "english": "I read while I eat."
       }
     ],
-    "mnemonic": "TER-WHILE = WHILE - TERWIJL"
+    "mnemonic": ""
   },
   {
     "id": 339,
@@ -4887,7 +4887,7 @@
         "english": "Although it's raining, I go outside."
       }
     ],
-    "mnemonic": "HOE-well? ALTHOUGH I tried - HOEWEL"
+    "mnemonic": ""
   },
   {
     "id": 340,
@@ -4901,7 +4901,7 @@
         "english": "I study so that I can pass."
       }
     ],
-    "mnemonic": "SO THAT = ZO-DAT"
+    "mnemonic": ""
   },
   {
     "id": 341,
@@ -4915,7 +4915,7 @@
         "english": "I live in Amsterdam."
       }
     ],
-    "mnemonic": "IN is IN - same!"
+    "mnemonic": ""
   },
   {
     "id": 342,
@@ -4929,7 +4929,7 @@
         "english": "The book is on the table."
       }
     ],
-    "mnemonic": "OP-en UP, get ON top - OP"
+    "mnemonic": ""
   },
   {
     "id": 343,
@@ -4943,7 +4943,7 @@
         "english": "I'm sitting at the table."
       }
     ],
-    "mnemonic": "It's ON - turn it AAN"
+    "mnemonic": ""
   },
   {
     "id": 344,
@@ -4957,7 +4957,7 @@
         "english": "I go with my friend."
       }
     ],
-    "mnemonic": "I MET someone WITH me - MET"
+    "mnemonic": ""
   },
   {
     "id": 345,
@@ -4971,7 +4971,7 @@
         "english": "This is for you."
       }
     ],
-    "mnemonic": "FORE/BEFORE - voor"
+    "mnemonic": ""
   },
   {
     "id": 346,
@@ -4985,7 +4985,7 @@
         "english": "After eating I go to sleep."
       }
     ],
-    "mnemonic": "NA-NA-NA AFTER the song - NA"
+    "mnemonic": ""
   },
   {
     "id": 347,
@@ -4999,7 +4999,7 @@
         "english": "I go to school."
       }
     ],
-    "mnemonic": "NAR-rate your journey TO somewhere - NAAR"
+    "mnemonic": ""
   },
   {
     "id": 348,
@@ -5013,7 +5013,7 @@
         "english": "I come from the Netherlands."
       }
     ],
-    "mnemonic": "VAN Gogh was FROM Netherlands - VAN"
+    "mnemonic": ""
   },
   {
     "id": 349,
@@ -5027,7 +5027,7 @@
         "english": "I am at my parents'."
       }
     ],
-    "mnemonic": "BEE - BIJ (also: at/near)"
+    "mnemonic": ""
   },
   {
     "id": 350,
@@ -5041,7 +5041,7 @@
         "english": "I work until five o'clock."
       }
     ],
-    "mnemonic": "TOT-ally UNTIL then - TOT"
+    "mnemonic": ""
   },
   {
     "id": 351,
@@ -5055,7 +5055,7 @@
         "english": "We talk about the weather."
       }
     ],
-    "mnemonic": "OVER and ABOUT - OVER"
+    "mnemonic": ""
   },
   {
     "id": 352,
@@ -5069,7 +5069,7 @@
         "english": "The cat sits under the table."
       }
     ],
-    "mnemonic": "UNDER - onder sounds like UNDER"
+    "mnemonic": ""
   },
   {
     "id": 353,
@@ -5083,7 +5083,7 @@
         "english": "The house stands between two trees."
       }
     ],
-    "mnemonic": "TWIXT/BETWEEN - tussen"
+    "mnemonic": ""
   },
   {
     "id": 354,
@@ -5097,7 +5097,7 @@
         "english": "The garden is behind the house."
       }
     ],
-    "mnemonic": "AFTER/BEHIND - achter"
+    "mnemonic": ""
   },
   {
     "id": 355,
@@ -5111,7 +5111,7 @@
         "english": "I sit next to my friend."
       }
     ],
-    "mnemonic": "NEXT to - naast"
+    "mnemonic": ""
   },
   {
     "id": 356,
@@ -5125,7 +5125,7 @@
         "english": "I drink coffee without sugar."
       }
     ],
-    "mnemonic": "I SONDER WITHOUT you (wanderlust) - ZONDER"
+    "mnemonic": ""
   },
   {
     "id": 357,
@@ -5139,7 +5139,7 @@
         "english": "I lean against the wall."
       }
     ],
-    "mnemonic": "I'm not AGAINST that - TEGEN"
+    "mnemonic": ""
   },
   {
     "id": 358,
@@ -5153,7 +5153,7 @@
         "english": "I walk through the park."
       }
     ],
-    "mnemonic": "Walk THROUGH the DOOR - DOOR"
+    "mnemonic": ""
   },
   {
     "id": 359,
@@ -5167,7 +5167,7 @@
         "english": "During class you must listen."
       }
     ],
-    "mnemonic": "TIE-dens DURING the game - TIJDENS"
+    "mnemonic": ""
   },
   {
     "id": 360,
@@ -5181,7 +5181,7 @@
         "english": "I've lived here since 2020."
       }
     ],
-    "mnemonic": "SINCE when? - SINDS"
+    "mnemonic": ""
   },
   {
     "id": 361,
@@ -5195,7 +5195,7 @@
         "english": "I want to buy a car."
       }
     ],
-    "mnemonic": "Can't COPE-en with how much I want to BUY this"
+    "mnemonic": ""
   },
   {
     "id": 362,
@@ -5209,7 +5209,7 @@
         "english": "He is selling his house."
       }
     ],
-    "mnemonic": "The FAIR-kopen (sell) price at the market"
+    "mnemonic": ""
   },
   {
     "id": 363,
@@ -5223,7 +5223,7 @@
         "english": "I want to pay."
       }
     ],
-    "mnemonic": "\"Pay the TAAL-en!\" (Pay the toll/bill)"
+    "mnemonic": ""
   },
   {
     "id": 364,
@@ -5237,7 +5237,7 @@
         "english": "How much does this cost?"
       }
     ],
-    "mnemonic": "COST-en - COSTS"
+    "mnemonic": ""
   },
   {
     "id": 365,
@@ -5251,7 +5251,7 @@
         "english": "Can you open the window?"
       }
     ],
-    "mnemonic": "OPEN-en sounds like OPEN"
+    "mnemonic": ""
   },
   {
     "id": 366,
@@ -5265,7 +5265,7 @@
         "english": "Close the door."
       }
     ],
-    "mnemonic": "SHUT-en - CLOSE/SHUT"
+    "mnemonic": ""
   },
   {
     "id": 367,
@@ -5279,7 +5279,7 @@
         "english": "The class begins at nine o'clock."
       }
     ],
-    "mnemonic": "Let's BEGIN-nen this party!"
+    "mnemonic": ""
   },
   {
     "id": 368,
@@ -5293,7 +5293,7 @@
         "english": "The movie ends at ten o'clock."
       }
     ],
-    "mnemonic": "END-igen sounds like END"
+    "mnemonic": ""
   },
   {
     "id": 369,
@@ -5307,7 +5307,7 @@
         "english": "Stop talking!"
       }
     ],
-    "mnemonic": "Hammertime! Can't touch this - STOP-pen!"
+    "mnemonic": ""
   },
   {
     "id": 370,
@@ -5321,7 +5321,7 @@
         "english": "Wait a moment."
       }
     ],
-    "mnemonic": "WATCH-ten the clock while you WAIT"
+    "mnemonic": ""
   },
   {
     "id": 371,
@@ -5335,7 +5335,7 @@
         "english": "I'm sitting on the couch."
       }
     ],
-    "mnemonic": "SIT-ten down and relax"
+    "mnemonic": ""
   },
   {
     "id": 372,
@@ -5349,7 +5349,7 @@
         "english": "I'm standing by the door."
       }
     ],
-    "mnemonic": "STAND and deliver - STAAN"
+    "mnemonic": ""
   },
   {
     "id": 373,
@@ -5363,7 +5363,7 @@
         "english": "The book lies on the table."
       }
     ],
-    "mnemonic": "LIE-gen down on the couch"
+    "mnemonic": ""
   },
   {
     "id": 374,
@@ -5377,7 +5377,7 @@
         "english": "I walk to the station."
       }
     ],
-    "mnemonic": "Forest Gump just kept LOPE-ing (walking/running)"
+    "mnemonic": ""
   },
   {
     "id": 375,
@@ -5391,7 +5391,7 @@
         "english": "The children run in the park."
       }
     ],
-    "mnemonic": "Run, Forrest, REN-nen!"
+    "mnemonic": ""
   },
   {
     "id": 376,
@@ -5405,7 +5405,7 @@
         "english": "I drive by car."
       }
     ],
-    "mnemonic": "RIDE or die - RIJD-en"
+    "mnemonic": ""
   },
   {
     "id": 377,
@@ -5419,7 +5419,7 @@
         "english": "The birds fly high."
       }
     ],
-    "mnemonic": "I believe I can FLY - VLIEG-en"
+    "mnemonic": ""
   },
   {
     "id": 378,
@@ -5433,7 +5433,7 @@
         "english": "I can swim well."
       }
     ],
-    "mnemonic": "Just keep SWIMMING, ZWEM-men"
+    "mnemonic": ""
   },
   {
     "id": 379,
@@ -5447,7 +5447,7 @@
         "english": "The children play outside."
       }
     ],
-    "mnemonic": "Game of Thrones: \"When you PLAY the game...\" SPEL-en"
+    "mnemonic": ""
   },
   {
     "id": 380,
@@ -5461,7 +5461,7 @@
         "english": "I want to win the match."
       }
     ],
-    "mnemonic": "WIN-nen sounds like WIN"
+    "mnemonic": ""
   },
   {
     "id": 381,
@@ -5475,7 +5475,7 @@
         "english": "I lost my keys."
       }
     ],
-    "mnemonic": "ver-LOSE-en - you LOSE it"
+    "mnemonic": ""
   },
   {
     "id": 382,
@@ -5489,7 +5489,7 @@
         "english": "I try again."
       }
     ],
-    "mnemonic": "PROBE-eren - PROBE/TRY it out"
+    "mnemonic": ""
   },
   {
     "id": 383,
@@ -5503,7 +5503,7 @@
         "english": "I succeeded!"
       }
     ],
-    "mnemonic": "LUCK-en into SUCCESS - LUKKEN"
+    "mnemonic": ""
   },
   {
     "id": 384,
@@ -5517,7 +5517,7 @@
         "english": "I forgot your name."
       }
     ],
-    "mnemonic": "I For-GET things because I FORGET-en"
+    "mnemonic": ""
   },
   {
     "id": 385,
@@ -5531,7 +5531,7 @@
         "english": "I remember that day."
       }
     ],
-    "mnemonic": "Her-INNER-en - REMEMBER inner thoughts"
+    "mnemonic": ""
   },
   {
     "id": 386,
@@ -5545,7 +5545,7 @@
         "english": "Choose a number."
       }
     ],
-    "mnemonic": "CHOOSE - kiezen"
+    "mnemonic": ""
   },
   {
     "id": 387,
@@ -5559,7 +5559,7 @@
         "english": "I can't decide."
       }
     ],
-    "mnemonic": "Be-SLIS-sen - make a DECISION"
+    "mnemonic": ""
   },
   {
     "id": 388,
@@ -5573,7 +5573,7 @@
         "english": "The weather changes quickly."
       }
     ],
-    "mnemonic": "VARY-anderen - things VARY when they CHANGE"
+    "mnemonic": ""
   },
   {
     "id": 389,
@@ -5587,7 +5587,7 @@
         "english": "I stay home."
       }
     ],
-    "mnemonic": "Be-LIVE-en - STAY alive, STAY here"
+    "mnemonic": ""
   },
   {
     "id": 390,
@@ -5601,7 +5601,7 @@
         "english": "The train departs at three o'clock."
       }
     ],
-    "mnemonic": "TREK-ken away - LEAVE on a trek"
+    "mnemonic": ""
   },
   {
     "id": 391,
@@ -5615,7 +5615,7 @@
         "english": "The bus arrives at four o'clock."
       }
     ],
-    "mnemonic": "On-COME-en - ARRIVE, come on!"
+    "mnemonic": ""
   },
   {
     "id": 392,
@@ -5629,7 +5629,7 @@
         "english": "Can you help me?"
       }
     ],
-    "mnemonic": "HELP-en! I need somebody!"
+    "mnemonic": ""
   },
   {
     "id": 393,
@@ -5643,7 +5643,7 @@
         "english": "I bring you home."
       }
     ],
-    "mnemonic": "BRING-en it on!"
+    "mnemonic": ""
   },
   {
     "id": 394,
@@ -5657,7 +5657,7 @@
         "english": "I get coffee."
       }
     ],
-    "mnemonic": "HAUL-en - FETCH/HAUL it"
+    "mnemonic": ""
   },
   {
     "id": 395,
@@ -5671,7 +5671,7 @@
         "english": "Put the book on the table."
       }
     ],
-    "mnemonic": "LAY-gen it down gently"
+    "mnemonic": ""
   },
   {
     "id": 396,
@@ -5685,7 +5685,7 @@
         "english": "Put the cup on the table."
       }
     ],
-    "mnemonic": "SET-ten - SET it down"
+    "mnemonic": ""
   },
   {
     "id": 397,
@@ -5699,7 +5699,7 @@
         "english": "Hold this."
       }
     ],
-    "mnemonic": "HOLD-en on for dear life"
+    "mnemonic": ""
   },
   {
     "id": 398,
@@ -5713,7 +5713,7 @@
         "english": "Leave me alone."
       }
     ],
-    "mnemonic": "Let It Be - LAAT it be"
+    "mnemonic": ""
   },
   {
     "id": 399,
@@ -5727,7 +5727,7 @@
         "english": "I feel good."
       }
     ],
-    "mnemonic": "Feelings, nothing more than FEEL-ings... VOEL-en"
+    "mnemonic": ""
   },
   {
     "id": 400,
@@ -5741,7 +5741,7 @@
         "english": "It smells good."
       }
     ],
-    "mnemonic": "REEK-en = SMELL - RUIKEN"
+    "mnemonic": ""
   },
   {
     "id": 401,
@@ -5755,7 +5755,7 @@
         "english": "Taste this."
       }
     ],
-    "mnemonic": "PROVE-en the TASTE - PROEVEN"
+    "mnemonic": ""
   },
   {
     "id": 402,
@@ -5769,7 +5769,7 @@
         "english": "I'm wearing a jacket."
       }
     ],
-    "mnemonic": "DRAG-en - CARRY/drag"
+    "mnemonic": ""
   },
   {
     "id": 403,
@@ -5783,7 +5783,7 @@
         "english": "Pull the door open."
       }
     ],
-    "mnemonic": "TREK-ken - PULL/TREK"
+    "mnemonic": ""
   },
   {
     "id": 404,
@@ -5797,7 +5797,7 @@
         "english": "Push the door closed."
       }
     ],
-    "mnemonic": "DO-wen - DO push = PUSH"
+    "mnemonic": ""
   },
   {
     "id": 405,
@@ -5811,7 +5811,7 @@
         "english": "I send you a message."
       }
     ],
-    "mnemonic": "STEER-en - STEER the message, SEND it"
+    "mnemonic": ""
   },
   {
     "id": 406,
@@ -5825,7 +5825,7 @@
         "english": "I received your message."
       }
     ],
-    "mnemonic": "ON-FANG-en = RECEIVE (grab with fangs)"
+    "mnemonic": ""
   },
   {
     "id": 407,
@@ -5839,7 +5839,7 @@
         "english": "I'll call you tomorrow."
       }
     ],
-    "mnemonic": "BELL-en - ring the BELL to CALL"
+    "mnemonic": ""
   },
   {
     "id": 408,
@@ -5853,7 +5853,7 @@
         "english": "Can you answer?"
       }
     ],
-    "mnemonic": "ANSWER-den = ANSWER - ANTWOORDEN"
+    "mnemonic": ""
   },
   {
     "id": 409,
@@ -5867,7 +5867,7 @@
         "english": "I believe you."
       }
     ],
-    "mnemonic": "Ge-LOVE = BELIEVE in love - GELOVEN"
+    "mnemonic": ""
   },
   {
     "id": 410,
@@ -5881,7 +5881,7 @@
         "english": "I hope it works out."
       }
     ],
-    "mnemonic": "HOPE-en sounds like HOPE"
+    "mnemonic": ""
   },
   {
     "id": 411,
@@ -5895,7 +5895,7 @@
         "english": "I wish you success."
       }
     ],
-    "mnemonic": "WISH-en - WISH/wensen"
+    "mnemonic": ""
   },
   {
     "id": 412,
@@ -5909,7 +5909,7 @@
         "english": "I dream of vacation."
       }
     ],
-    "mnemonic": "DREAM-en sounds like DREAM"
+    "mnemonic": ""
   },
   {
     "id": 413,
@@ -5923,7 +5923,7 @@
         "english": "The child is crying."
       }
     ],
-    "mnemonic": "HOWL-en - CRY/howl"
+    "mnemonic": ""
   },
   {
     "id": 414,
@@ -5937,7 +5937,7 @@
         "english": "Everyone laughs."
       }
     ],
-    "mnemonic": "LAUGH-en sounds like LAUGH"
+    "mnemonic": ""
   },
   {
     "id": 415,
@@ -5951,7 +5951,7 @@
         "english": "She sings beautifully."
       }
     ],
-    "mnemonic": "SING-en in the rain"
+    "mnemonic": ""
   },
   {
     "id": 416,
@@ -5965,7 +5965,7 @@
         "english": "Do you want to dance?"
       }
     ],
-    "mnemonic": "Footloose - everybody cut DANCE-en!"
+    "mnemonic": ""
   },
   {
     "id": 417,
@@ -5979,7 +5979,7 @@
         "english": "I draw a house."
       }
     ],
-    "mnemonic": "TOKEN/DRAW - tekenen"
+    "mnemonic": ""
   },
   {
     "id": 418,
@@ -5993,7 +5993,7 @@
         "english": "I paint the wall."
       }
     ],
-    "mnemonic": "SHIELD-eren - PAINT a shield"
+    "mnemonic": ""
   },
   {
     "id": 419,
@@ -6007,7 +6007,7 @@
         "english": "They're building a new house."
       }
     ],
-    "mnemonic": "BUILD - bouwen"
+    "mnemonic": ""
   },
   {
     "id": 420,
@@ -6021,7 +6021,7 @@
         "english": "I broke the glass."
       }
     ],
-    "mnemonic": "BREAK-en sounds like BREAK"
+    "mnemonic": ""
   },
   {
     "id": 421,
@@ -6035,7 +6035,7 @@
         "english": "I repair the bicycle."
       }
     ],
-    "mnemonic": "REPAIR-eren - REPAIR"
+    "mnemonic": ""
   },
   {
     "id": 422,
@@ -6049,7 +6049,7 @@
         "english": "I clean the house."
       }
     ],
-    "mnemonic": "SCHOON-MAKEN = CLEAN (make clean)"
+    "mnemonic": ""
   },
   {
     "id": 423,
@@ -6063,7 +6063,7 @@
         "english": "I wash my hands."
       }
     ],
-    "mnemonic": "WASH-en your hands"
+    "mnemonic": ""
   },
   {
     "id": 424,
@@ -6077,7 +6077,7 @@
         "english": "The laundry dries outside."
       }
     ],
-    "mnemonic": "DROUGHT-en = DRY - DROGEN"
+    "mnemonic": ""
   },
   {
     "id": 425,
@@ -6091,7 +6091,7 @@
         "english": "I like to cook."
       }
     ],
-    "mnemonic": "What's COOK-en? KOKEN"
+    "mnemonic": ""
   },
   {
     "id": 426,
@@ -6105,7 +6105,7 @@
         "english": "I bake a cake."
       }
     ],
-    "mnemonic": "BAKE-en a cake"
+    "mnemonic": ""
   },
   {
     "id": 427,
@@ -6119,7 +6119,7 @@
         "english": "I cut the bread."
       }
     ],
-    "mnemonic": "SNIDE cut - CUT snidely"
+    "mnemonic": ""
   },
   {
     "id": 428,
@@ -6133,7 +6133,7 @@
         "english": "Mix the ingredients."
       }
     ],
-    "mnemonic": "MINGLE-en - MIX/mingle"
+    "mnemonic": ""
   },
   {
     "id": 429,
@@ -6147,7 +6147,7 @@
         "english": "Fill in the form."
       }
     ],
-    "mnemonic": "IN-FULL-en = FILL IN - INVULLEN"
+    "mnemonic": ""
   },
   {
     "id": 430,
@@ -6161,7 +6161,7 @@
         "english": "Can you explain that?"
       }
     ],
-    "mnemonic": "OUT-LAY-gen - LAY OUT/EXPLAIN"
+    "mnemonic": ""
   },
   {
     "id": 431,
@@ -6175,7 +6175,7 @@
         "english": "This is a big house."
       }
     ],
-    "mnemonic": "I am GROOT = I am BIG (Guardians of the Galaxy)"
+    "mnemonic": ""
   },
   {
     "id": 432,
@@ -6189,7 +6189,7 @@
         "english": "The baby is small."
       }
     ],
-    "mnemonic": "Calvin KLEIN makes clothes for SMALL people... wait"
+    "mnemonic": ""
   },
   {
     "id": 433,
@@ -6203,7 +6203,7 @@
         "english": "He is tall."
       }
     ],
-    "mnemonic": "LONG/TALL - lang sounds like LONG"
+    "mnemonic": ""
   },
   {
     "id": 434,
@@ -6217,7 +6217,7 @@
         "english": "This is a short story."
       }
     ],
-    "mnemonic": "CUT SHORT - kort"
+    "mnemonic": ""
   },
   {
     "id": 435,
@@ -6231,7 +6231,7 @@
         "english": "The street is wide."
       }
     ],
-    "mnemonic": "BREAD is WIDE - BREED"
+    "mnemonic": ""
   },
   {
     "id": 436,
@@ -6245,7 +6245,7 @@
         "english": "The path is narrow."
       }
     ],
-    "mnemonic": "SMALL is NARROW - SMAL"
+    "mnemonic": ""
   },
   {
     "id": 437,
@@ -6259,7 +6259,7 @@
         "english": "This book is thick."
       }
     ],
-    "mnemonic": "THICK/FAT - DIK (sounds like thick)"
+    "mnemonic": ""
   },
   {
     "id": 438,
@@ -6273,7 +6273,7 @@
         "english": "The ice is thin."
       }
     ],
-    "mnemonic": "DONE being THIN - DUN"
+    "mnemonic": ""
   },
   {
     "id": 439,
@@ -6287,7 +6287,7 @@
         "english": "The bag is heavy."
       }
     ],
-    "mnemonic": "HEAVY - zwaar"
+    "mnemonic": ""
   },
   {
     "id": 440,
@@ -6301,7 +6301,7 @@
         "english": "This is light."
       }
     ],
-    "mnemonic": "LIGHT - licht sounds like LIGHT"
+    "mnemonic": ""
   },
   {
     "id": 441,
@@ -6315,7 +6315,7 @@
         "english": "The ground is hard."
       }
     ],
-    "mnemonic": "HARD - hard"
+    "mnemonic": ""
   },
   {
     "id": 442,
@@ -6329,7 +6329,7 @@
         "english": "The pillow is soft."
       }
     ],
-    "mnemonic": "SOFT - zacht sounds soft"
+    "mnemonic": ""
   },
   {
     "id": 443,
@@ -6343,7 +6343,7 @@
         "english": "It's warm today."
       }
     ],
-    "mnemonic": "WARM is universal"
+    "mnemonic": ""
   },
   {
     "id": 444,
@@ -6357,7 +6357,7 @@
         "english": "It's cold outside."
       }
     ],
-    "mnemonic": "That's COLD - KOUD"
+    "mnemonic": ""
   },
   {
     "id": 445,
@@ -6371,7 +6371,7 @@
         "english": "The soup is hot."
       }
     ],
-    "mnemonic": "HEAT = HOT - HEET"
+    "mnemonic": ""
   },
   {
     "id": 446,
@@ -6385,7 +6385,7 @@
         "english": "My clothes are wet."
       }
     ],
-    "mnemonic": "NOT dry = WET"
+    "mnemonic": ""
   },
   {
     "id": 447,
@@ -6399,7 +6399,7 @@
         "english": "It's dry today."
       }
     ],
-    "mnemonic": "DROUGHT = DRY"
+    "mnemonic": ""
   },
   {
     "id": 448,
@@ -6413,7 +6413,7 @@
         "english": "The room is clean."
       }
     ],
-    "mnemonic": "SHINE = CLEAN"
+    "mnemonic": ""
   },
   {
     "id": 449,
@@ -6427,7 +6427,7 @@
         "english": "My shoes are dirty."
       }
     ],
-    "mnemonic": "VICE is DIRTY"
+    "mnemonic": ""
   },
   {
     "id": 450,
@@ -6441,7 +6441,7 @@
         "english": "It's an old building."
       }
     ],
-    "mnemonic": "OUT with the OLD"
+    "mnemonic": ""
   },
   {
     "id": 451,
@@ -6455,7 +6455,7 @@
         "english": "She is young."
       }
     ],
-    "mnemonic": "YOUNG - jong sounds like YOUNG"
+    "mnemonic": ""
   },
   {
     "id": 452,
@@ -6469,7 +6469,7 @@
         "english": "I have a new car."
       }
     ],
-    "mnemonic": "What's NEW? NIEUW!"
+    "mnemonic": ""
   },
   {
     "id": 453,
@@ -6483,7 +6483,7 @@
         "english": "The car is fast."
       }
     ],
-    "mnemonic": "SNAIL? No! SNEL means FAST!"
+    "mnemonic": ""
   },
   {
     "id": 454,
@@ -6497,7 +6497,7 @@
         "english": "The turtle is slow."
       }
     ],
-    "mnemonic": "LONG-zaam journey - SLOW and steady"
+    "mnemonic": ""
   },
   {
     "id": 455,
@@ -6511,7 +6511,7 @@
         "english": "I get up early."
       }
     ],
-    "mnemonic": "FROG wakes EARLY"
+    "mnemonic": ""
   },
   {
     "id": 456,
@@ -6525,7 +6525,7 @@
         "english": "It's late."
       }
     ],
-    "mnemonic": "LATE - laat sounds like LATE"
+    "mnemonic": ""
   },
   {
     "id": 457,
@@ -6539,7 +6539,7 @@
         "english": "The glass is empty."
       }
     ],
-    "mnemonic": "LEAGUE of nothing - EMPTY"
+    "mnemonic": ""
   },
   {
     "id": 458,
@@ -6553,7 +6553,7 @@
         "english": "The train is full."
       }
     ],
-    "mnemonic": "VOLUME is FULL"
+    "mnemonic": ""
   },
   {
     "id": 459,
@@ -6567,7 +6567,7 @@
         "english": "The window is open."
       }
     ],
-    "mnemonic": "OPEN is the same!"
+    "mnemonic": ""
   },
   {
     "id": 460,
@@ -6581,7 +6581,7 @@
         "english": "The store is closed."
       }
     ],
-    "mnemonic": "TIGHT/CLOSED - dicht"
+    "mnemonic": ""
   },
   {
     "id": 461,
@@ -6595,7 +6595,7 @@
         "english": "Be quiet!"
       }
     ],
-    "mnemonic": "STILL/QUIET - stil"
+    "mnemonic": ""
   },
   {
     "id": 462,
@@ -6609,7 +6609,7 @@
         "english": "The music is loud."
       }
     ],
-    "mnemonic": "LOUD - luid sounds like LOUD"
+    "mnemonic": ""
   },
   {
     "id": 463,
@@ -6623,7 +6623,7 @@
         "english": "It's dark outside."
       }
     ],
-    "mnemonic": "The DARK side has DONKER cookies"
+    "mnemonic": ""
   },
   {
     "id": 464,
@@ -6637,7 +6637,7 @@
         "english": "The sky is clear."
       }
     ],
-    "mnemonic": "HELD bright - CLEAR/bright"
+    "mnemonic": ""
   },
   {
     "id": 465,
@@ -6651,7 +6651,7 @@
         "english": "This is difficult."
       }
     ],
-    "mnemonic": "MOY-lijk - DIFFICULT to enjoy"
+    "mnemonic": ""
   },
   {
     "id": 466,
@@ -6665,7 +6665,7 @@
         "english": "This is easy."
       }
     ],
-    "mnemonic": "MAKE-elijk - EASY to make"
+    "mnemonic": ""
   },
   {
     "id": 467,
@@ -6679,7 +6679,7 @@
         "english": "This is important."
       }
     ],
-    "mnemonic": "Be-LONG-rijk - IMPORTANT to belong"
+    "mnemonic": ""
   },
   {
     "id": 468,
@@ -6693,7 +6693,7 @@
         "english": "That's not necessary."
       }
     ],
-    "mnemonic": "NEED-ig - NECESSARY/needed"
+    "mnemonic": ""
   },
   {
     "id": 469,
@@ -6707,7 +6707,7 @@
         "english": "Is that possible?"
       }
     ],
-    "mnemonic": "MOGE-lijk - POSSIBLE maybe"
+    "mnemonic": ""
   },
   {
     "id": 470,
@@ -6721,7 +6721,7 @@
         "english": "I am sure."
       }
     ],
-    "mnemonic": "SECURE/CERTAIN - zeker"
+    "mnemonic": ""
   },
   {
     "id": 471,
@@ -6735,7 +6735,7 @@
         "english": "Are you ready?"
       }
     ],
-    "mnemonic": "All CLEAR! READY/DONE - KLAAR"
+    "mnemonic": ""
   },
   {
     "id": 472,
@@ -6749,7 +6749,7 @@
         "english": "I'm free today."
       }
     ],
-    "mnemonic": "FREE - vrij sounds like FREE"
+    "mnemonic": ""
   },
   {
     "id": 473,
@@ -6763,7 +6763,7 @@
         "english": "I'm busy."
       }
     ],
-    "mnemonic": "RUCK/BUSY - in a ruck"
+    "mnemonic": ""
   },
   {
     "id": 474,
@@ -6777,7 +6777,7 @@
         "english": "Stay calm."
       }
     ],
-    "mnemonic": "REST-ig = CALM/QUIET - RUSTIG"
+    "mnemonic": ""
   },
   {
     "id": 475,
@@ -6791,7 +6791,7 @@
         "english": "I'm angry at him."
       }
     ],
-    "mnemonic": "The BOSS is ANGRY - boos"
+    "mnemonic": ""
   },
   {
     "id": 476,
@@ -6805,7 +6805,7 @@
         "english": "I'm afraid of dogs."
       }
     ],
-    "mnemonic": "BANG! Scared? You should be AFRAID"
+    "mnemonic": ""
   },
   {
     "id": 477,
@@ -6819,7 +6819,7 @@
         "english": "I'm proud of you."
       }
     ],
-    "mnemonic": "TROT-s like a PROUD horse - TROTS"
+    "mnemonic": ""
   },
   {
     "id": 478,
@@ -6833,7 +6833,7 @@
         "english": "That's ugly."
       }
     ],
-    "mnemonic": "LAYLA is not UGLY - LEL-ijk"
+    "mnemonic": ""
   },
   {
     "id": 479,
@@ -6847,7 +6847,7 @@
         "english": "That was stupid."
       }
     ],
-    "mnemonic": "DUMB = STUPID - DOM"
+    "mnemonic": ""
   },
   {
     "id": 480,
@@ -6861,7 +6861,7 @@
         "english": "She is smart."
       }
     ],
-    "mnemonic": "SLIM people are SMART - SLIM"
+    "mnemonic": ""
   },
   {
     "id": 481,
@@ -6875,13 +6875,13 @@
         "english": "He is rich."
       }
     ],
-    "mnemonic": "RICH - rijk sounds like RICH"
+    "mnemonic": ""
   },
   {
     "id": 482,
     "rank": 482,
     "dutch": "arm",
-    "english": "poor",
+    "english": "arm, poor",
     "partOfSpeech": "adjective",
     "sentences": [
       {
@@ -6889,7 +6889,7 @@
         "english": "They are poor."
       }
     ],
-    "mnemonic": "POOR - same as arm (limb)"
+    "mnemonic": ""
   },
   {
     "id": 483,
@@ -6903,7 +6903,7 @@
         "english": "This is too expensive."
       }
     ],
-    "mnemonic": "That's DEAR-ly EXPENSIVE - DUUR"
+    "mnemonic": ""
   },
   {
     "id": 484,
@@ -6917,7 +6917,7 @@
         "english": "This is cheap."
       }
     ],
-    "mnemonic": "GOOD-cheap = CHEAP deal"
+    "mnemonic": ""
   },
   {
     "id": 485,
@@ -6931,7 +6931,7 @@
         "english": "It's free."
       }
     ],
-    "mnemonic": "GRATIS/FREE is the same!"
+    "mnemonic": ""
   },
   {
     "id": 486,
@@ -6945,7 +6945,7 @@
         "english": "This is tasty!"
       }
     ],
-    "mnemonic": "Finger LICK-er good - LEKKER (tasty)"
+    "mnemonic": ""
   },
   {
     "id": 487,
@@ -6959,7 +6959,7 @@
         "english": "That's strange."
       }
     ],
-    "mnemonic": "FREMD/STRANGE - foreign"
+    "mnemonic": ""
   },
   {
     "id": 488,
@@ -6973,7 +6973,7 @@
         "english": "That's normal."
       }
     ],
-    "mnemonic": "NORMAL - normaal"
+    "mnemonic": ""
   },
   {
     "id": 489,
@@ -6987,7 +6987,7 @@
         "english": "This is special for you."
       }
     ],
-    "mnemonic": "SPECIAL - speciaal"
+    "mnemonic": ""
   },
   {
     "id": 490,
@@ -7001,7 +7001,7 @@
         "english": "This is different."
       }
     ],
-    "mnemonic": "OTHER/DIFFERENT - anders"
+    "mnemonic": ""
   },
   {
     "id": 491,
@@ -7015,7 +7015,7 @@
         "english": "We have the same car."
       }
     ],
-    "mnemonic": "De-SELF-de = THE SAME"
+    "mnemonic": ""
   },
   {
     "id": 492,
@@ -7029,7 +7029,7 @@
         "english": "I have my own house."
       }
     ],
-    "mnemonic": "EIGEN = OWN (German origin)"
+    "mnemonic": ""
   },
   {
     "id": 493,
@@ -7043,7 +7043,7 @@
         "english": "This is really beautiful."
       }
     ],
-    "mnemonic": "ACTUAL/REAL - echt"
+    "mnemonic": ""
   },
   {
     "id": 494,
@@ -7057,7 +7057,7 @@
         "english": "I understand it completely."
       }
     ],
-    "mnemonic": "HELL-e-MAAL - COMPLETELY"
+    "mnemonic": ""
   },
   {
     "id": 495,
@@ -7071,7 +7071,7 @@
         "english": "I'm almost done."
       }
     ],
-    "mnemonic": "BYE-na - ALMOST bye"
+    "mnemonic": ""
   },
   {
     "id": 496,
@@ -7085,7 +7085,7 @@
         "english": "It costs approximately ten euros."
       }
     ],
-    "mnemonic": "An OGRE named VEER drove APPROXIMATELY here"
+    "mnemonic": ""
   },
   {
     "id": 497,
@@ -7099,7 +7099,7 @@
         "english": "Maybe I'll come tomorrow."
       }
     ],
-    "mnemonic": "Call Me MAYBE - MISSCHIEN"
+    "mnemonic": ""
   },
   {
     "id": 498,
@@ -7113,7 +7113,7 @@
         "english": "It's probably raining."
       }
     ],
-    "mnemonic": "WHERE-SCHIJN-lijk - PROBABLY seems"
+    "mnemonic": ""
   },
   {
     "id": 499,
@@ -7127,7 +7127,7 @@
         "english": "Of course I want to come."
       }
     ],
-    "mnemonic": "NATURAL-lijk - NATURALLY/OF COURSE"
+    "mnemonic": ""
   },
   {
     "id": 500,
@@ -7141,7 +7141,7 @@
         "english": "Actually I don't have time."
       }
     ],
-    "mnemonic": "I like my OWN egg - \"EGG-en-lijk\" = ACTUALLY"
+    "mnemonic": ""
   },
   {
     "id": 501,
@@ -7155,7 +7155,7 @@
         "english": "I often go to the cinema."
       }
     ],
-    "mnemonic": "FOCK/OFTEN - very often"
+    "mnemonic": ""
   },
   {
     "id": 502,
@@ -7169,7 +7169,7 @@
         "english": "Sometimes I eat outside."
       }
     ],
-    "mnemonic": "SOME-times"
+    "mnemonic": ""
   },
   {
     "id": 503,
@@ -7183,7 +7183,7 @@
         "english": "I've never been to Japan."
       }
     ],
-    "mnemonic": "Never say NEVER - NOOIT"
+    "mnemonic": ""
   },
   {
     "id": 504,
@@ -7197,7 +7197,7 @@
         "english": "I'm always on time."
       }
     ],
-    "mnemonic": "After ALL this TIME? ALWAYS - ALTIJD"
+    "mnemonic": ""
   },
   {
     "id": 505,
@@ -7211,7 +7211,7 @@
         "english": "Are you still here?"
       }
     ],
-    "mnemonic": "NOG another one? STILL/YET more?"
+    "mnemonic": ""
   },
   {
     "id": 506,
@@ -7225,7 +7225,7 @@
         "english": "I've already eaten."
       }
     ],
-    "mnemonic": "That's ALL? ALREADY? - AL"
+    "mnemonic": ""
   },
   {
     "id": 507,
@@ -7239,7 +7239,7 @@
         "english": "I'm leaving now."
       }
     ],
-    "mnemonic": "Do it NOW - NU"
+    "mnemonic": ""
   },
   {
     "id": 508,
@@ -7253,7 +7253,7 @@
         "english": "What do we do then?"
       }
     ],
-    "mnemonic": "THAN/THEN - dan"
+    "mnemonic": ""
   },
   {
     "id": 509,
@@ -7267,7 +7267,7 @@
         "english": "Come here!"
       }
     ],
-    "mnemonic": "HERE boy! HIER!"
+    "mnemonic": ""
   },
   {
     "id": 510,
@@ -7281,7 +7281,7 @@
         "english": "It's there."
       }
     ],
-    "mnemonic": "Over THERE - DAAR"
+    "mnemonic": ""
   },
   {
     "id": 511,
@@ -7295,7 +7295,7 @@
         "english": "It must be somewhere."
       }
     ],
-    "mnemonic": "ERG-ens = SOMEWHERE"
+    "mnemonic": ""
   },
   {
     "id": 512,
@@ -7309,7 +7309,7 @@
         "english": "I can't find it anywhere."
       }
     ],
-    "mnemonic": "NERD-gens = NOWHERE (nerds are nowhere)"
+    "mnemonic": ""
   },
   {
     "id": 513,
@@ -7323,7 +7323,7 @@
         "english": "There are people everywhere."
       }
     ],
-    "mnemonic": "OVER-AL = EVERYWHERE"
+    "mnemonic": ""
   },
   {
     "id": 514,
@@ -7337,7 +7337,7 @@
         "english": "We work together."
       }
     ],
-    "mnemonic": "SAME-n - TOGETHER, same group"
+    "mnemonic": ""
   },
   {
     "id": 515,
@@ -7351,7 +7351,7 @@
         "english": "I live alone."
       }
     ],
-    "mnemonic": "ALL-een - ALL ONE, ALONE"
+    "mnemonic": ""
   },
   {
     "id": 516,
@@ -7365,13 +7365,13 @@
         "english": "I want to come too."
       }
     ],
-    "mnemonic": "I want one TOO - \"Ook ook!\" (monkey sounds)"
+    "mnemonic": ""
   },
   {
     "id": 517,
     "rank": 517,
     "dutch": "weer",
-    "english": "again",
+    "english": "again, weather",
     "partOfSpeech": "adverb",
     "sentences": [
       {
@@ -7379,7 +7379,7 @@
         "english": "I try again."
       }
     ],
-    "mnemonic": "WEATHER - weer"
+    "mnemonic": ""
   },
   {
     "id": 518,
@@ -7393,7 +7393,7 @@
         "english": "It's going well."
       }
     ],
-    "mnemonic": "GOOD - goed sounds like GOOD"
+    "mnemonic": ""
   },
   {
     "id": 519,
@@ -7407,7 +7407,7 @@
         "english": "It's going badly."
       }
     ],
-    "mnemonic": "SLACKED off = BAD"
+    "mnemonic": ""
   },
   {
     "id": 520,
@@ -7421,7 +7421,7 @@
         "english": "It's very cold."
       }
     ],
-    "mnemonic": "ERG of energy - VERY"
+    "mnemonic": ""
   },
   {
     "id": 521,
@@ -7435,7 +7435,7 @@
         "english": "That's very beautiful."
       }
     ],
-    "mnemonic": "WHOLE/VERY - heel"
+    "mnemonic": ""
   },
   {
     "id": 522,
@@ -7449,7 +7449,7 @@
         "english": "I have a lot of work."
       }
     ],
-    "mnemonic": "FEEL how MUCH/MANY"
+    "mnemonic": ""
   },
   {
     "id": 523,
@@ -7463,7 +7463,7 @@
         "english": "I have little time."
       }
     ],
-    "mnemonic": "WANE-ig - FEW, waning"
+    "mnemonic": ""
   },
   {
     "id": 524,
@@ -7477,7 +7477,7 @@
         "english": "I want to learn more."
       }
     ],
-    "mnemonic": "MORE - meer sounds like MORE"
+    "mnemonic": ""
   },
   {
     "id": 525,
@@ -7491,7 +7491,7 @@
         "english": "I work less."
       }
     ],
-    "mnemonic": "MIND-er - LESS to mind"
+    "mnemonic": ""
   },
   {
     "id": 526,
@@ -7505,7 +7505,7 @@
         "english": "I have enough money."
       }
     ],
-    "mnemonic": "Ge-NOUGH - ENOUGH"
+    "mnemonic": ""
   },
   {
     "id": 527,
@@ -7519,7 +7519,7 @@
         "english": "It's too expensive."
       }
     ],
-    "mnemonic": "TOO - te sounds like TOO"
+    "mnemonic": ""
   },
   {
     "id": 528,
@@ -7533,7 +7533,7 @@
         "english": "It's so beautiful!"
       }
     ],
-    "mnemonic": "SO - zo sounds like SO"
+    "mnemonic": ""
   },
   {
     "id": 529,
@@ -7548,7 +7548,7 @@
         "english": "I live on this street."
       }
     ],
-    "mnemonic": "Sesame STREET - STRAAT"
+    "mnemonic": ""
   },
   {
     "id": 530,
@@ -7563,7 +7563,7 @@
         "english": "Which road do you take?"
       }
     ],
-    "mnemonic": "WAY/ROAD - weg sounds like WAY"
+    "mnemonic": ""
   },
   {
     "id": 531,
@@ -7578,7 +7578,7 @@
         "english": "The bridge is old."
       }
     ],
-    "mnemonic": "BRIDGE - brug"
+    "mnemonic": ""
   },
   {
     "id": 532,
@@ -7593,7 +7593,7 @@
         "english": "We meet at the square."
       }
     ],
-    "mnemonic": "PLAIN/SQUARE - plein"
+    "mnemonic": ""
   },
   {
     "id": 533,
@@ -7608,7 +7608,7 @@
         "english": "The store is on the corner."
       }
     ],
-    "mnemonic": "HOOK/CORNER - hoek"
+    "mnemonic": ""
   },
   {
     "id": 534,
@@ -7623,7 +7623,7 @@
         "english": "In which direction should I go?"
       }
     ],
-    "mnemonic": "RIGHT-ing - DIRECTION"
+    "mnemonic": ""
   },
   {
     "id": 535,
@@ -7637,7 +7637,7 @@
         "english": "Go left."
       }
     ],
-    "mnemonic": "LINKS to the LEFT"
+    "mnemonic": ""
   },
   {
     "id": 536,
@@ -7651,7 +7651,7 @@
         "english": "Go right."
       }
     ],
-    "mnemonic": "RECTS/RIGHT direction"
+    "mnemonic": ""
   },
   {
     "id": 537,
@@ -7665,7 +7665,7 @@
         "english": "Go straight ahead."
       }
     ],
-    "mnemonic": "RECHTDOOR → STRAIGHT AHEAD"
+    "mnemonic": ""
   },
   {
     "id": 538,
@@ -7679,7 +7679,7 @@
         "english": "I'll be back."
       }
     ],
-    "mnemonic": "T-RUG pulled you BACK - TERUG"
+    "mnemonic": ""
   },
   {
     "id": 539,
@@ -7693,7 +7693,7 @@
         "english": "Come inside!"
       }
     ],
-    "mnemonic": "BIN/INSIDE - binnen"
+    "mnemonic": ""
   },
   {
     "id": 540,
@@ -7707,7 +7707,7 @@
         "english": "It's raining outside."
       }
     ],
-    "mnemonic": "BOUT/OUTSIDE - buiten"
+    "mnemonic": ""
   },
   {
     "id": 541,
@@ -7721,7 +7721,7 @@
         "english": "I live upstairs."
       }
     ],
-    "mnemonic": "ABOVE - boven sounds similar"
+    "mnemonic": ""
   },
   {
     "id": 542,
@@ -7735,7 +7735,7 @@
         "english": "Come downstairs!"
       }
     ],
-    "mnemonic": "BENEDEN → BELOW"
+    "mnemonic": ""
   },
   {
     "id": 543,
@@ -7750,7 +7750,7 @@
         "english": "The bus is coming."
       }
     ],
-    "mnemonic": "Magic School BUS"
+    "mnemonic": ""
   },
   {
     "id": 544,
@@ -7765,7 +7765,7 @@
         "english": "The tram is full."
       }
     ],
-    "mnemonic": "TRAM is the same!"
+    "mnemonic": ""
   },
   {
     "id": 545,
@@ -7780,7 +7780,7 @@
         "english": "I take the metro."
       }
     ],
-    "mnemonic": "METRO is the same!"
+    "mnemonic": ""
   },
   {
     "id": 546,
@@ -7795,7 +7795,7 @@
         "english": "The airplane is departing."
       }
     ],
-    "mnemonic": "FLYING THING - vliegtuig (airplane)"
+    "mnemonic": ""
   },
   {
     "id": 547,
@@ -7810,7 +7810,7 @@
         "english": "We travel by boat."
       }
     ],
-    "mnemonic": "I'm on a BOAT - BOOT"
+    "mnemonic": ""
   },
   {
     "id": 548,
@@ -7825,7 +7825,7 @@
         "english": "I wait at the station."
       }
     ],
-    "mnemonic": "STATION is the same!"
+    "mnemonic": ""
   },
   {
     "id": 549,
@@ -7840,7 +7840,7 @@
         "english": "We go to the airport."
       }
     ],
-    "mnemonic": "LUCHTHAVEN → AIRPORT"
+    "mnemonic": ""
   },
   {
     "id": 550,
@@ -7855,7 +7855,7 @@
         "english": "The next stop is there."
       }
     ],
-    "mnemonic": "HALT-e - STOP"
+    "mnemonic": ""
   },
   {
     "id": 551,
@@ -7870,7 +7870,7 @@
         "english": "I buy a ticket."
       }
     ],
-    "mnemonic": "KAARTJE → TICKET"
+    "mnemonic": ""
   },
   {
     "id": 552,
@@ -7885,7 +7885,7 @@
         "english": "Do you have your passport?"
       }
     ],
-    "mnemonic": "PASSPORT - paspoort"
+    "mnemonic": ""
   },
   {
     "id": 553,
@@ -7900,7 +7900,7 @@
         "english": "Where is your luggage?"
       }
     ],
-    "mnemonic": "BAGAGE → LUGGAGE"
+    "mnemonic": ""
   },
   {
     "id": 554,
@@ -7915,7 +7915,7 @@
         "english": "I pack my suitcase."
       }
     ],
-    "mnemonic": "COFFER/SUITCASE - koffer"
+    "mnemonic": ""
   },
   {
     "id": 555,
@@ -7930,7 +7930,7 @@
         "english": "My bag is heavy."
       }
     ],
-    "mnemonic": "TOSS in a BAG"
+    "mnemonic": ""
   },
   {
     "id": 556,
@@ -7945,7 +7945,7 @@
         "english": "My wallet is gone!"
       }
     ],
-    "mnemonic": "PORTEMONNEE → WALLET"
+    "mnemonic": ""
   },
   {
     "id": 557,
@@ -7960,7 +7960,7 @@
         "english": "Where are my keys?"
       }
     ],
-    "mnemonic": "SLEUTEL → KEY"
+    "mnemonic": ""
   },
   {
     "id": 558,
@@ -7975,7 +7975,7 @@
         "english": "My phone is broken."
       }
     ],
-    "mnemonic": "ET PHONE home - TELEFOON"
+    "mnemonic": ""
   },
   {
     "id": 559,
@@ -7990,7 +7990,7 @@
         "english": "I work on the computer."
       }
     ],
-    "mnemonic": "COMPUTER says no (Little Britain)"
+    "mnemonic": ""
   },
   {
     "id": 560,
@@ -8005,7 +8005,7 @@
         "english": "Do you have internet?"
       }
     ],
-    "mnemonic": "The INTERNET is a series of tubes"
+    "mnemonic": ""
   },
   {
     "id": 561,
@@ -8020,7 +8020,7 @@
         "english": "I send you a message."
       }
     ],
-    "mnemonic": "I'll Be RIGHT back with a MESSAGE - BERICHT"
+    "mnemonic": ""
   },
   {
     "id": 562,
@@ -8035,7 +8035,7 @@
         "english": "I read my email."
       }
     ],
-    "mnemonic": "EMAIL is the same!"
+    "mnemonic": ""
   },
   {
     "id": 563,
@@ -8050,7 +8050,7 @@
         "english": "I forgot my password."
       }
     ],
-    "mnemonic": "WATCH-WORD - PASSWORD"
+    "mnemonic": ""
   },
   {
     "id": 564,
@@ -8065,7 +8065,7 @@
         "english": "I take a photo."
       }
     ],
-    "mnemonic": "Say FOTO for the camera! (photo)"
+    "mnemonic": ""
   },
   {
     "id": 565,
@@ -8080,7 +8080,7 @@
         "english": "I watch a movie."
       }
     ],
-    "mnemonic": "Lights, camera, FILM!"
+    "mnemonic": ""
   },
   {
     "id": 566,
@@ -8095,7 +8095,7 @@
         "english": "I listen to music."
       }
     ],
-    "mnemonic": "The Sound of MUSIC - MUZIEK"
+    "mnemonic": ""
   },
   {
     "id": 567,
@@ -8110,7 +8110,7 @@
         "english": "This is a beautiful song."
       }
     ],
-    "mnemonic": "LEAD a SONG"
+    "mnemonic": ""
   },
   {
     "id": 568,
@@ -8125,7 +8125,7 @@
         "english": "I love art."
       }
     ],
-    "mnemonic": "Can't miss ART - kunst"
+    "mnemonic": ""
   },
   {
     "id": 569,
@@ -8140,7 +8140,7 @@
         "english": "We visit the museum."
       }
     ],
-    "mnemonic": "MUSEUM is the same!"
+    "mnemonic": ""
   },
   {
     "id": 570,
@@ -8155,7 +8155,7 @@
         "english": "We go to the theater."
       }
     ],
-    "mnemonic": "THEATER - theater"
+    "mnemonic": ""
   },
   {
     "id": 571,
@@ -8170,7 +8170,7 @@
         "english": "We go to the cinema."
       }
     ],
-    "mnemonic": "BIO-SCOPE - CINEMA"
+    "mnemonic": ""
   },
   {
     "id": 572,
@@ -8185,7 +8185,7 @@
         "english": "The concert was great."
       }
     ],
-    "mnemonic": "CONCERT → CONCERT"
+    "mnemonic": ""
   },
   {
     "id": 573,
@@ -8200,7 +8200,7 @@
         "english": "We go to a party."
       }
     ],
-    "mnemonic": "FEAST/PARTY - feest"
+    "mnemonic": ""
   },
   {
     "id": 574,
@@ -8215,7 +8215,7 @@
         "english": "I'm going on vacation."
       }
     ],
-    "mnemonic": "VACANT-ie - VACATION"
+    "mnemonic": ""
   },
   {
     "id": 575,
@@ -8230,7 +8230,7 @@
         "english": "The trip was long."
       }
     ],
-    "mnemonic": "RISE and TRAVEL"
+    "mnemonic": ""
   },
   {
     "id": 576,
@@ -8245,7 +8245,7 @@
         "english": "We sleep in a hotel."
       }
     ],
-    "mnemonic": "HOTEL is the same!"
+    "mnemonic": ""
   },
   {
     "id": 577,
@@ -8260,7 +8260,7 @@
         "english": "The room is big."
       }
     ],
-    "mnemonic": "Lights, CAMERA, action! (room)"
+    "mnemonic": ""
   },
   {
     "id": 578,
@@ -8275,7 +8275,7 @@
         "english": "I go to bed."
       }
     ],
-    "mnemonic": "BED-time - same word!"
+    "mnemonic": ""
   },
   {
     "id": 579,
@@ -8290,7 +8290,7 @@
         "english": "Where is the bathroom?"
       }
     ],
-    "mnemonic": "BAD-KAMER = BATHROOM (bath room)"
+    "mnemonic": ""
   },
   {
     "id": 580,
@@ -8305,7 +8305,7 @@
         "english": "Where is the toilet?"
       }
     ],
-    "mnemonic": "TOILET → TOILET"
+    "mnemonic": ""
   },
   {
     "id": 581,
@@ -8320,7 +8320,7 @@
         "english": "I take a shower."
       }
     ],
-    "mnemonic": "DOUCHE → SHOWER"
+    "mnemonic": ""
   },
   {
     "id": 582,
@@ -8335,7 +8335,7 @@
         "english": "I look in the mirror."
       }
     ],
-    "mnemonic": "SPIEGEL → MIRROR"
+    "mnemonic": ""
   },
   {
     "id": 583,
@@ -8350,7 +8350,7 @@
         "english": "Give me the towel."
       }
     ],
-    "mnemonic": "HANDDOEK → TOWEL"
+    "mnemonic": ""
   },
   {
     "id": 584,
@@ -8365,7 +8365,7 @@
         "english": "Where is the soap?"
       }
     ],
-    "mnemonic": "ZEEP → SOAP"
+    "mnemonic": ""
   },
   {
     "id": 585,
@@ -8380,7 +8380,7 @@
         "english": "I brush my teeth."
       }
     ],
-    "mnemonic": "TANDENBORSTEL → TOOTHBRUSH"
+    "mnemonic": ""
   },
   {
     "id": 586,
@@ -8395,7 +8395,7 @@
         "english": "I cook in the kitchen."
       }
     ],
-    "mnemonic": "COOK-en in the KITCHEN - KEUKEN"
+    "mnemonic": ""
   },
   {
     "id": 587,
@@ -8410,7 +8410,7 @@
         "english": "We sit in the living room."
       }
     ],
-    "mnemonic": "WOON-KAMER = LIVING ROOM"
+    "mnemonic": ""
   },
   {
     "id": 588,
@@ -8425,7 +8425,7 @@
         "english": "My bedroom is small."
       }
     ],
-    "mnemonic": "SLAAP-KAMER = BEDROOM (sleep room)"
+    "mnemonic": ""
   },
   {
     "id": 589,
@@ -8440,7 +8440,7 @@
         "english": "I work in the garden."
       }
     ],
-    "mnemonic": "TUNE in the GARDEN"
+    "mnemonic": ""
   },
   {
     "id": 590,
@@ -8455,7 +8455,7 @@
         "english": "I sit on the balcony."
       }
     ],
-    "mnemonic": "BALCONY - BALKON"
+    "mnemonic": ""
   },
   {
     "id": 591,
@@ -8470,7 +8470,7 @@
         "english": "I walk up the stairs."
       }
     ],
-    "mnemonic": "It's a TRAP! (stairs) - Admiral Ackbar"
+    "mnemonic": ""
   },
   {
     "id": 592,
@@ -8485,7 +8485,7 @@
         "english": "Take the elevator."
       }
     ],
-    "mnemonic": "LIFT → ELEVATOR"
+    "mnemonic": ""
   },
   {
     "id": 593,
@@ -8500,7 +8500,7 @@
         "english": "I live on the second floor."
       }
     ],
-    "mnemonic": "DEEP-ing into another FLOOR/STORY - VERDIEPING"
+    "mnemonic": ""
   },
   {
     "id": 594,
@@ -8515,7 +8515,7 @@
         "english": "The wall is white."
       }
     ],
-    "mnemonic": "MURAL on the WALL"
+    "mnemonic": ""
   },
   {
     "id": 595,
@@ -8530,7 +8530,7 @@
         "english": "The floor is clean."
       }
     ],
-    "mnemonic": "FLOOR - vloer sounds like FLOOR"
+    "mnemonic": ""
   },
   {
     "id": 596,
@@ -8545,7 +8545,7 @@
         "english": "The ceiling is high."
       }
     ],
-    "mnemonic": "PLAFOND = CEILING (like platform above)"
+    "mnemonic": ""
   },
   {
     "id": 597,
@@ -8560,7 +8560,7 @@
         "english": "The cat sits on the roof."
       }
     ],
-    "mnemonic": "DECK/ROOF on top"
+    "mnemonic": ""
   },
   {
     "id": 598,
@@ -8575,7 +8575,7 @@
         "english": "Open the window."
       }
     ],
-    "mnemonic": "RAM into the WINDOW - RAAM"
+    "mnemonic": ""
   },
   {
     "id": 599,
@@ -8590,7 +8590,7 @@
         "english": "Close the door."
       }
     ],
-    "mnemonic": "Jim Morrison & The DOORS - DEUR"
+    "mnemonic": ""
   },
   {
     "id": 600,
@@ -8605,7 +8605,7 @@
         "english": "Sit on the chair."
       }
     ],
-    "mnemonic": "Musical CHAIRS - grab a STOEL"
+    "mnemonic": ""
   },
   {
     "id": 601,
@@ -8620,13 +8620,13 @@
         "english": "The food is on the table."
       }
     ],
-    "mnemonic": "Flip the TABLE - TAFEL"
+    "mnemonic": ""
   },
   {
     "id": 602,
     "rank": 602,
     "dutch": "bank",
-    "english": "couch, bank",
+    "english": "couch, sofa, bank",
     "partOfSpeech": "noun",
     "gender": "de",
     "sentences": [
@@ -8635,7 +8635,7 @@
         "english": "I sit on the couch."
       }
     ],
-    "mnemonic": "BANK is the same!"
+    "mnemonic": ""
   },
   {
     "id": 603,
@@ -8650,7 +8650,7 @@
         "english": "The clothes hang in the closet."
       }
     ],
-    "mnemonic": "KAST → CLOSET"
+    "mnemonic": ""
   },
   {
     "id": 604,
@@ -8665,7 +8665,7 @@
         "english": "Turn on the lamp."
       }
     ],
-    "mnemonic": "LAMP is the same!"
+    "mnemonic": ""
   },
   {
     "id": 605,
@@ -8680,7 +8680,7 @@
         "english": "I watch television."
       }
     ],
-    "mnemonic": "TELEVISIE → TELEVISION"
+    "mnemonic": ""
   },
   {
     "id": 606,
@@ -8695,7 +8695,7 @@
         "english": "The milk is in the refrigerator."
       }
     ],
-    "mnemonic": "KOELKAST → REFRIGERATOR"
+    "mnemonic": ""
   },
   {
     "id": 607,
@@ -8710,7 +8710,7 @@
         "english": "The cake is in the oven."
       }
     ],
-    "mnemonic": "OVEN → OVEN"
+    "mnemonic": ""
   },
   {
     "id": 608,
@@ -8725,7 +8725,7 @@
         "english": "I heat it in the microwave."
       }
     ],
-    "mnemonic": "MAGNETRON → MICROWAVE"
+    "mnemonic": ""
   },
   {
     "id": 609,
@@ -8740,7 +8740,7 @@
         "english": "I eat with knife and fork."
       }
     ],
-    "mnemonic": "FORK - vork sounds like FORK"
+    "mnemonic": ""
   },
   {
     "id": 610,
@@ -8755,7 +8755,7 @@
         "english": "This knife is sharp."
       }
     ],
-    "mnemonic": "MESS with a KNIFE"
+    "mnemonic": ""
   },
   {
     "id": 611,
@@ -8770,7 +8770,7 @@
         "english": "I eat soup with a spoon."
       }
     ],
-    "mnemonic": "LADLE/SPOON - lepel"
+    "mnemonic": ""
   },
   {
     "id": 612,
@@ -8785,7 +8785,7 @@
         "english": "My plate is empty."
       }
     ],
-    "mnemonic": "BOARD/PLATE - bord"
+    "mnemonic": ""
   },
   {
     "id": 613,
@@ -8800,7 +8800,7 @@
         "english": "Do you want a cup of tea?"
       }
     ],
-    "mnemonic": "KOPJE → CUP"
+    "mnemonic": ""
   },
   {
     "id": 614,
@@ -8815,7 +8815,7 @@
         "english": "I drink a glass of water."
       }
     ],
-    "mnemonic": "GLASS - glas"
+    "mnemonic": ""
   },
   {
     "id": 615,
@@ -8830,7 +8830,7 @@
         "english": "The bottle is empty."
       }
     ],
-    "mnemonic": "FLES → BOTTLE"
+    "mnemonic": ""
   },
   {
     "id": 616,
@@ -8845,7 +8845,7 @@
         "english": "I fry eggs in the pan."
       }
     ],
-    "mnemonic": "PAN → PAN"
+    "mnemonic": ""
   },
   {
     "id": 617,
@@ -8860,7 +8860,7 @@
         "english": "I boil water in the pot."
       }
     ],
-    "mnemonic": "POT → POT"
+    "mnemonic": ""
   },
   {
     "id": 618,
@@ -8875,7 +8875,7 @@
         "english": "I buy new clothing."
       }
     ],
-    "mnemonic": "KLEDING → CLOTHING"
+    "mnemonic": ""
   },
   {
     "id": 619,
@@ -8890,7 +8890,7 @@
         "english": "I wear blue pants."
       }
     ],
-    "mnemonic": "BRITCHES/PANTS - broek"
+    "mnemonic": ""
   },
   {
     "id": 620,
@@ -8905,7 +8905,7 @@
         "english": "I wear a white shirt."
       }
     ],
-    "mnemonic": "OVERHEMD → SHIRT (DRESS)"
+    "mnemonic": ""
   },
   {
     "id": 621,
@@ -8920,7 +8920,7 @@
         "english": "I wear a t-shirt."
       }
     ],
-    "mnemonic": "SHIRT → T-SHIRT"
+    "mnemonic": ""
   },
   {
     "id": 622,
@@ -8935,7 +8935,7 @@
         "english": "I wear a warm sweater."
       }
     ],
-    "mnemonic": "TRUI → SWEATER"
+    "mnemonic": ""
   },
   {
     "id": 623,
@@ -8950,7 +8950,7 @@
         "english": "Put on your coat."
       }
     ],
-    "mnemonic": "JACKET - jas sounds similar"
+    "mnemonic": ""
   },
   {
     "id": 624,
@@ -8965,7 +8965,7 @@
         "english": "She wears a skirt."
       }
     ],
-    "mnemonic": "ROCK a SKIRT"
+    "mnemonic": ""
   },
   {
     "id": 625,
@@ -8980,7 +8980,7 @@
         "english": "That dress is beautiful."
       }
     ],
-    "mnemonic": "JERK in a DRESS"
+    "mnemonic": ""
   },
   {
     "id": 626,
@@ -8995,7 +8995,7 @@
         "english": "My shoes are wet."
       }
     ],
-    "mnemonic": "SHOE - schoen sounds like SHOE"
+    "mnemonic": ""
   },
   {
     "id": 627,
@@ -9010,7 +9010,7 @@
         "english": "I wear boots."
       }
     ],
-    "mnemonic": "LAARS → BOOT"
+    "mnemonic": ""
   },
   {
     "id": 628,
@@ -9025,7 +9025,7 @@
         "english": "Where are my socks?"
       }
     ],
-    "mnemonic": "SOK → SOCK"
+    "mnemonic": ""
   },
   {
     "id": 629,
@@ -9040,7 +9040,7 @@
         "english": "Put on your hat."
       }
     ],
-    "mnemonic": "MUTS → HAT (WINTER)"
+    "mnemonic": ""
   },
   {
     "id": 630,
@@ -9055,7 +9055,7 @@
         "english": "I wear gloves."
       }
     ],
-    "mnemonic": "HANDSCHOEN → GLOVE"
+    "mnemonic": ""
   },
   {
     "id": 631,
@@ -9070,7 +9070,7 @@
         "english": "I wear a warm scarf."
       }
     ],
-    "mnemonic": "SJAAL → SCARF"
+    "mnemonic": ""
   },
   {
     "id": 632,
@@ -9085,7 +9085,7 @@
         "english": "Do you have an umbrella?"
       }
     ],
-    "mnemonic": "PARAPLU → UMBRELLA"
+    "mnemonic": ""
   },
   {
     "id": 633,
@@ -9100,7 +9100,7 @@
         "english": "I wear glasses."
       }
     ],
-    "mnemonic": "BRIL → GLASSES"
+    "mnemonic": ""
   },
   {
     "id": 634,
@@ -9115,7 +9115,7 @@
         "english": "What time is it on your watch?"
       }
     ],
-    "mnemonic": "HOUR-loge WATCH"
+    "mnemonic": ""
   },
   {
     "id": 635,
@@ -9130,7 +9130,7 @@
         "english": "She wears a gold ring."
       }
     ],
-    "mnemonic": "RING → RING"
+    "mnemonic": ""
   },
   {
     "id": 636,
@@ -9145,13 +9145,13 @@
         "english": "That necklace is beautiful."
       }
     ],
-    "mnemonic": "KETTING → NECKLACE"
+    "mnemonic": ""
   },
   {
     "id": 637,
     "rank": 637,
     "dutch": "weer",
-    "english": "weather",
+    "english": "again, weather",
     "partOfSpeech": "noun",
     "gender": "het",
     "sentences": [
@@ -9160,7 +9160,7 @@
         "english": "The weather is good."
       }
     ],
-    "mnemonic": "WEATHER - weer"
+    "mnemonic": ""
   },
   {
     "id": 638,
@@ -9175,7 +9175,7 @@
         "english": "The sun is shining."
       }
     ],
-    "mnemonic": "Here comes the ZON (sun)"
+    "mnemonic": ""
   },
   {
     "id": 639,
@@ -9190,7 +9190,7 @@
         "english": "The moon is full."
       }
     ],
-    "mnemonic": "Fly me to the MAAN (moon)"
+    "mnemonic": ""
   },
   {
     "id": 640,
@@ -9205,7 +9205,7 @@
         "english": "I see stars."
       }
     ],
-    "mnemonic": "Twinkle twinkle little STER (star)"
+    "mnemonic": ""
   },
   {
     "id": 641,
@@ -9220,7 +9220,7 @@
         "english": "The sky is blue."
       }
     ],
-    "mnemonic": "Up in the air - LUCHT (sky/air)"
+    "mnemonic": ""
   },
   {
     "id": 642,
@@ -9235,7 +9235,7 @@
         "english": "There are many clouds."
       }
     ],
-    "mnemonic": "Head in the CLOUDS - I'm on WOLK nine"
+    "mnemonic": ""
   },
   {
     "id": 643,
@@ -9250,7 +9250,7 @@
         "english": "It's raining hard."
       }
     ],
-    "mnemonic": "Purple RAIN, purple REGEN"
+    "mnemonic": ""
   },
   {
     "id": 644,
@@ -9265,7 +9265,7 @@
         "english": "It's snowing!"
       }
     ],
-    "mnemonic": "Let it SNOW, let it SNEEUW"
+    "mnemonic": ""
   },
   {
     "id": 645,
@@ -9280,7 +9280,7 @@
         "english": "The wind blows hard."
       }
     ],
-    "mnemonic": "Blowin' in the WIND"
+    "mnemonic": ""
   },
   {
     "id": 646,
@@ -9295,7 +9295,7 @@
         "english": "There's a storm coming."
       }
     ],
-    "mnemonic": "STORM → STORM"
+    "mnemonic": ""
   },
   {
     "id": 647,
@@ -9310,7 +9310,7 @@
         "english": "The temperature is low."
       }
     ],
-    "mnemonic": "TEMPERATUUR → TEMPERATURE"
+    "mnemonic": ""
   },
   {
     "id": 648,
@@ -9325,7 +9325,7 @@
         "english": "It's twenty degrees."
       }
     ],
-    "mnemonic": "GRAAD → DEGREE"
+    "mnemonic": ""
   },
   {
     "id": 649,
@@ -9340,7 +9340,7 @@
         "english": "Autumn is my favorite season."
       }
     ],
-    "mnemonic": "SEIZOEN → SEASON"
+    "mnemonic": ""
   },
   {
     "id": 650,
@@ -9355,7 +9355,7 @@
         "english": "In spring the flowers bloom."
       }
     ],
-    "mnemonic": "LENT-e comes in SPRING"
+    "mnemonic": ""
   },
   {
     "id": 651,
@@ -9370,7 +9370,7 @@
         "english": "Summer is warm."
       }
     ],
-    "mnemonic": "SUMMER - ZOMER sounds like summer"
+    "mnemonic": ""
   },
   {
     "id": 652,
@@ -9385,7 +9385,7 @@
         "english": "The leaves fall in autumn."
       }
     ],
-    "mnemonic": "HARVEST in AUTUMN/FALL - HERFST"
+    "mnemonic": ""
   },
   {
     "id": 653,
@@ -9400,7 +9400,7 @@
         "english": "Winter is cold."
       }
     ],
-    "mnemonic": "WINTER is WINTER - same!"
+    "mnemonic": ""
   },
   {
     "id": 654,
@@ -9415,7 +9415,7 @@
         "english": "I start on Monday."
       }
     ],
-    "mnemonic": "MOON-dag - MONDAY"
+    "mnemonic": ""
   },
   {
     "id": 655,
@@ -9430,7 +9430,7 @@
         "english": "We come on Tuesday."
       }
     ],
-    "mnemonic": "DINS-dag - TUESDAY (Tiw's day)"
+    "mnemonic": ""
   },
   {
     "id": 656,
@@ -9445,7 +9445,7 @@
         "english": "Wednesday is free."
       }
     ],
-    "mnemonic": "WODEN's-dag - WEDNESDAY"
+    "mnemonic": ""
   },
   {
     "id": 657,
@@ -9460,7 +9460,7 @@
         "english": "The meeting is Thursday."
       }
     ],
-    "mnemonic": "THUNDER-dag - THURSDAY (Thor)"
+    "mnemonic": ""
   },
   {
     "id": 658,
@@ -9475,7 +9475,7 @@
         "english": "It's finally Friday!"
       }
     ],
-    "mnemonic": "FRI-dag - FRIDAY (Freya)"
+    "mnemonic": ""
   },
   {
     "id": 659,
@@ -9490,7 +9490,7 @@
         "english": "I don't work on Saturday."
       }
     ],
-    "mnemonic": "SATURN-dag - SATURDAY"
+    "mnemonic": ""
   },
   {
     "id": 660,
@@ -9505,7 +9505,7 @@
         "english": "On Sunday I rest."
       }
     ],
-    "mnemonic": "SUN-dag - SUNDAY"
+    "mnemonic": ""
   },
   {
     "id": 661,
@@ -9520,7 +9520,7 @@
         "english": "January is cold."
       }
     ],
-    "mnemonic": "JANUARY - januari"
+    "mnemonic": ""
   },
   {
     "id": 662,
@@ -9535,7 +9535,7 @@
         "english": "February is short."
       }
     ],
-    "mnemonic": "FEBRUARY - februari"
+    "mnemonic": ""
   },
   {
     "id": 663,
@@ -9550,7 +9550,7 @@
         "english": "Spring starts in March."
       }
     ],
-    "mnemonic": "MARCH - maart"
+    "mnemonic": ""
   },
   {
     "id": 664,
@@ -9565,7 +9565,7 @@
         "english": "April does what it wants."
       }
     ],
-    "mnemonic": "APRIL - april"
+    "mnemonic": ""
   },
   {
     "id": 665,
@@ -9580,7 +9580,7 @@
         "english": "May is a beautiful month."
       }
     ],
-    "mnemonic": "MAY - mei"
+    "mnemonic": ""
   },
   {
     "id": 666,
@@ -9595,7 +9595,7 @@
         "english": "In June it's light for a long time."
       }
     ],
-    "mnemonic": "JUNE - juni"
+    "mnemonic": ""
   },
   {
     "id": 667,
@@ -9610,7 +9610,7 @@
         "english": "July is the warmest month."
       }
     ],
-    "mnemonic": "JULY - juli"
+    "mnemonic": ""
   },
   {
     "id": 668,
@@ -9625,7 +9625,7 @@
         "english": "I go on vacation in August."
       }
     ],
-    "mnemonic": "AUGUST - augustus"
+    "mnemonic": ""
   },
   {
     "id": 669,
@@ -9640,7 +9640,7 @@
         "english": "School starts in September."
       }
     ],
-    "mnemonic": "SEPTEMBER - september"
+    "mnemonic": ""
   },
   {
     "id": 670,
@@ -9655,7 +9655,7 @@
         "english": "October is autumn."
       }
     ],
-    "mnemonic": "OCTOBER - oktober"
+    "mnemonic": ""
   },
   {
     "id": 671,
@@ -9670,7 +9670,7 @@
         "english": "November is grey."
       }
     ],
-    "mnemonic": "NOVEMBER - november"
+    "mnemonic": ""
   },
   {
     "id": 672,
@@ -9685,7 +9685,7 @@
         "english": "December is festive."
       }
     ],
-    "mnemonic": "DECEMBER - december"
+    "mnemonic": ""
   },
   {
     "id": 673,
@@ -9699,7 +9699,7 @@
         "english": "Today is a beautiful day."
       }
     ],
-    "mnemonic": "VAN-dag - of this DAY, TODAY"
+    "mnemonic": ""
   },
   {
     "id": 674,
@@ -9713,7 +9713,7 @@
         "english": "See you tomorrow!"
       }
     ],
-    "mnemonic": "MORNING - TOMORROW morning"
+    "mnemonic": ""
   },
   {
     "id": 675,
@@ -9727,7 +9727,7 @@
         "english": "Yesterday it was warm."
       }
     ],
-    "mnemonic": "YESTER-en - YESTERDAY"
+    "mnemonic": ""
   },
   {
     "id": 676,
@@ -9741,7 +9741,7 @@
         "english": "I'll come the day after tomorrow."
       }
     ],
-    "mnemonic": "OVER-MORNING - DAY AFTER TOMORROW"
+    "mnemonic": ""
   },
   {
     "id": 677,
@@ -9755,7 +9755,7 @@
         "english": "The day before yesterday it rained."
       }
     ],
-    "mnemonic": "ERE-GISTEREN - DAY BEFORE YESTERDAY"
+    "mnemonic": ""
   },
   {
     "id": 678,
@@ -9770,7 +9770,7 @@
         "english": "Good morning! It's morning."
       }
     ],
-    "mnemonic": "OCH-TEND - MORNING tends"
+    "mnemonic": ""
   },
   {
     "id": 679,
@@ -9785,7 +9785,7 @@
         "english": "We eat in the afternoon."
       }
     ],
-    "mnemonic": "MID-DAG - AFTERNOON, mid-day"
+    "mnemonic": ""
   },
   {
     "id": 680,
@@ -9800,7 +9800,7 @@
         "english": "Good evening!"
       }
     ],
-    "mnemonic": "ADVENT - EVENING advent"
+    "mnemonic": ""
   },
   {
     "id": 681,
@@ -9815,7 +9815,7 @@
         "english": "The night is dark."
       }
     ],
-    "mnemonic": "Good NACHT (night) - German style"
+    "mnemonic": ""
   },
   {
     "id": 682,
@@ -9830,13 +9830,13 @@
         "english": "Have a nice weekend!"
       }
     ],
-    "mnemonic": "WEEKEND is the same!"
+    "mnemonic": ""
   },
   {
     "id": 683,
     "rank": 683,
     "dutch": "een",
-    "english": "one, a/an",
+    "english": "one, a, an",
     "partOfSpeech": "number",
     "sentences": [
       {
@@ -9844,7 +9844,7 @@
         "english": "I have one question."
       }
     ],
-    "mnemonic": "ONE is the loneliest number - EEN"
+    "mnemonic": ""
   },
   {
     "id": 684,
@@ -9858,7 +9858,7 @@
         "english": "I have two children."
       }
     ],
-    "mnemonic": "It takes TWEE to tango"
+    "mnemonic": ""
   },
   {
     "id": 685,
@@ -9872,7 +9872,7 @@
         "english": "There are three chairs."
       }
     ],
-    "mnemonic": "DRIE strikes and you're out"
+    "mnemonic": ""
   },
   {
     "id": 686,
@@ -9886,7 +9886,7 @@
         "english": "I work four days."
       }
     ],
-    "mnemonic": "FOUR - vier sounds like FOUR"
+    "mnemonic": ""
   },
   {
     "id": 687,
@@ -9900,7 +9900,7 @@
         "english": "It's five o'clock."
       }
     ],
-    "mnemonic": "FIVE - vijf sounds like FIVE"
+    "mnemonic": ""
   },
   {
     "id": 688,
@@ -9914,7 +9914,7 @@
         "english": "I have six apples."
       }
     ],
-    "mnemonic": "SIX - zes sounds similar"
+    "mnemonic": ""
   },
   {
     "id": 689,
@@ -9928,7 +9928,7 @@
         "english": "There are seven days in a week."
       }
     ],
-    "mnemonic": "SEVEN - zeven sounds like SEVEN"
+    "mnemonic": ""
   },
   {
     "id": 690,
@@ -9942,7 +9942,7 @@
         "english": "I work eight hours per day."
       }
     ],
-    "mnemonic": "EIGHT - acht sounds like EIGHT"
+    "mnemonic": ""
   },
   {
     "id": 691,
@@ -9956,7 +9956,7 @@
         "english": "The class starts at nine o'clock."
       }
     ],
-    "mnemonic": "NINE - negen sounds like NINE"
+    "mnemonic": ""
   },
   {
     "id": 692,
@@ -9970,7 +9970,7 @@
         "english": "I count to ten."
       }
     ],
-    "mnemonic": "Perfect TEN - TIEN"
+    "mnemonic": ""
   },
   {
     "id": 693,
@@ -9984,7 +9984,7 @@
         "english": "There are eleven players."
       }
     ],
-    "mnemonic": "ELEVEN - elf sounds like ELEVEN"
+    "mnemonic": ""
   },
   {
     "id": 694,
@@ -9998,7 +9998,7 @@
         "english": "It's twelve o'clock."
       }
     ],
-    "mnemonic": "TWELVE - twaalf sounds like TWELVE"
+    "mnemonic": ""
   },
   {
     "id": 695,
@@ -10012,7 +10012,7 @@
         "english": "I am thirteen years old."
       }
     ],
-    "mnemonic": "THIRTEEN - dertien"
+    "mnemonic": ""
   },
   {
     "id": 696,
@@ -10026,7 +10026,7 @@
         "english": "There are fourteen students."
       }
     ],
-    "mnemonic": "FOURTEEN - veertien"
+    "mnemonic": ""
   },
   {
     "id": 697,
@@ -10040,7 +10040,7 @@
         "english": "It takes fifteen minutes."
       }
     ],
-    "mnemonic": "FIFTEEN - vijftien"
+    "mnemonic": ""
   },
   {
     "id": 698,
@@ -10054,7 +10054,7 @@
         "english": "I have twenty euros."
       }
     ],
-    "mnemonic": "TWENTY - twintig sounds like TWENTY"
+    "mnemonic": ""
   },
   {
     "id": 699,
@@ -10068,7 +10068,7 @@
         "english": "It costs thirty euros."
       }
     ],
-    "mnemonic": "THIRTY - dertig"
+    "mnemonic": ""
   },
   {
     "id": 700,
@@ -10082,7 +10082,7 @@
         "english": "He is forty years old."
       }
     ],
-    "mnemonic": "FORTY - veertig"
+    "mnemonic": ""
   },
   {
     "id": 701,
@@ -10096,7 +10096,7 @@
         "english": "The store is fifty years old."
       }
     ],
-    "mnemonic": "FIFTY - vijftig"
+    "mnemonic": ""
   },
   {
     "id": 702,
@@ -10110,7 +10110,7 @@
         "english": "It costs a hundred euros."
       }
     ],
-    "mnemonic": "HUNDRED - honderd sounds like HUNDRED"
+    "mnemonic": ""
   },
   {
     "id": 703,
@@ -10124,7 +10124,7 @@
         "english": "A thousand people live there."
       }
     ],
-    "mnemonic": "THOUSAND - duizend"
+    "mnemonic": ""
   },
   {
     "id": 704,
@@ -10138,7 +10138,7 @@
         "english": "This is my first day."
       }
     ],
-    "mnemonic": "EERSTE → FIRST"
+    "mnemonic": ""
   },
   {
     "id": 705,
@@ -10152,7 +10152,7 @@
         "english": "I live on the second floor."
       }
     ],
-    "mnemonic": "TWEEDE → SECOND"
+    "mnemonic": ""
   },
   {
     "id": 706,
@@ -10166,7 +10166,7 @@
         "english": "This is the third time."
       }
     ],
-    "mnemonic": "DERDE → THIRD"
+    "mnemonic": ""
   },
   {
     "id": 707,
@@ -10180,7 +10180,7 @@
         "english": "This is the last chance."
       }
     ],
-    "mnemonic": "LAATSTE → LAST"
+    "mnemonic": ""
   },
   {
     "id": 708,
@@ -10194,7 +10194,7 @@
         "english": "The next bus comes in ten minutes."
       }
     ],
-    "mnemonic": "VOLGENDE → NEXT"
+    "mnemonic": ""
   },
   {
     "id": 709,
@@ -10208,7 +10208,7 @@
         "english": "Last week I was sick."
       }
     ],
-    "mnemonic": "VORIGE → PREVIOUS"
+    "mnemonic": ""
   },
   {
     "id": 710,
@@ -10222,7 +10222,7 @@
         "english": "I am here."
       }
     ],
-    "mnemonic": "ICK! I don't like that - IK (I)"
+    "mnemonic": ""
   },
   {
     "id": 711,
@@ -10236,7 +10236,7 @@
         "english": "You are smart."
       }
     ],
-    "mnemonic": "Hey YOU - YAY it's JIJ!"
+    "mnemonic": ""
   },
   {
     "id": 712,
@@ -10250,7 +10250,7 @@
         "english": "What is your name?"
       }
     ],
-    "mnemonic": "U → YOU (FORMAL)"
+    "mnemonic": ""
   },
   {
     "id": 713,
@@ -10264,7 +10264,7 @@
         "english": "He works hard."
       }
     ],
-    "mnemonic": "HEY, HE's over there - HIJ"
+    "mnemonic": ""
   },
   {
     "id": 714,
@@ -10278,13 +10278,13 @@
         "english": "She is my sister."
       }
     ],
-    "mnemonic": "ZAY what? SHE said that - ZIJ"
+    "mnemonic": ""
   },
   {
     "id": 715,
     "rank": 715,
     "dutch": "het",
-    "english": "it",
+    "english": "it, the",
     "partOfSpeech": "pronoun",
     "sentences": [
       {
@@ -10292,7 +10292,7 @@
         "english": "It's raining."
       }
     ],
-    "mnemonic": "HET → IT"
+    "mnemonic": ""
   },
   {
     "id": 716,
@@ -10306,7 +10306,7 @@
         "english": "We go together."
       }
     ],
-    "mnemonic": "WE are the champions - WIJ"
+    "mnemonic": ""
   },
   {
     "id": 717,
@@ -10320,7 +10320,7 @@
         "english": "Are you coming too?"
       }
     ],
-    "mnemonic": "YOU-LIE! All of YOU (plural) - JULLIE"
+    "mnemonic": ""
   },
   {
     "id": 718,
@@ -10334,7 +10334,7 @@
         "english": "This is my book."
       }
     ],
-    "mnemonic": "That's MINE - MIJN"
+    "mnemonic": ""
   },
   {
     "id": 719,
@@ -10348,7 +10348,7 @@
         "english": "Is this your bag?"
       }
     ],
-    "mnemonic": "Is that YOURS? - JOUW"
+    "mnemonic": ""
   },
   {
     "id": 720,
@@ -10362,13 +10362,13 @@
         "english": "What is your name?"
       }
     ],
-    "mnemonic": "UW → YOUR (FORMAL)"
+    "mnemonic": ""
   },
   {
     "id": 721,
     "rank": 721,
     "dutch": "zijn",
-    "english": "his",
+    "english": "to be, his",
     "partOfSpeech": "pronoun",
     "sentences": [
       {
@@ -10376,7 +10376,7 @@
         "english": "This is his car."
       }
     ],
-    "mnemonic": "To BE or not to BE - that is the ZIJN"
+    "mnemonic": ""
   },
   {
     "id": 722,
@@ -10390,7 +10390,7 @@
         "english": "This is her house."
       }
     ],
-    "mnemonic": "HAIR - haar sounds like HAIR"
+    "mnemonic": ""
   },
   {
     "id": 723,
@@ -10404,7 +10404,7 @@
         "english": "This is our house."
       }
     ],
-    "mnemonic": "It's ON US - ONS (our)"
+    "mnemonic": ""
   },
   {
     "id": 724,
@@ -10418,7 +10418,7 @@
         "english": "This is their car."
       }
     ],
-    "mnemonic": "The Huns owned THEIR empire - HUN"
+    "mnemonic": ""
   },
   {
     "id": 725,
@@ -10432,7 +10432,7 @@
         "english": "This is good."
       }
     ],
-    "mnemonic": "DIT → THIS"
+    "mnemonic": ""
   },
   {
     "id": 726,
@@ -10446,7 +10446,7 @@
         "english": "What is that?"
       }
     ],
-    "mnemonic": "THAT is DAT"
+    "mnemonic": ""
   },
   {
     "id": 727,
@@ -10460,7 +10460,7 @@
         "english": "This apple is tasty."
       }
     ],
-    "mnemonic": "DEZE → THIS"
+    "mnemonic": ""
   },
   {
     "id": 728,
@@ -10474,7 +10474,7 @@
         "english": "That man is my father."
       }
     ],
-    "mnemonic": "DIE → THAT"
+    "mnemonic": ""
   },
   {
     "id": 729,
@@ -10488,7 +10488,7 @@
         "english": "Do you want something to drink?"
       }
     ],
-    "mnemonic": "IT'S SOMETHING - iets"
+    "mnemonic": ""
   },
   {
     "id": 730,
@@ -10502,7 +10502,7 @@
         "english": "I have nothing to do."
       }
     ],
-    "mnemonic": "NYET/NOTHING - niets"
+    "mnemonic": ""
   },
   {
     "id": 731,
@@ -10516,7 +10516,7 @@
         "english": "Everything is fine."
       }
     ],
-    "mnemonic": "ALL-es - EVERYTHING"
+    "mnemonic": ""
   },
   {
     "id": 732,
@@ -10530,7 +10530,7 @@
         "english": "Someone is ringing at the door."
       }
     ],
-    "mnemonic": "I-MAND - SOMEONE I demand"
+    "mnemonic": ""
   },
   {
     "id": 733,
@@ -10544,7 +10544,7 @@
         "english": "No one is home."
       }
     ],
-    "mnemonic": "NO-MAND - NOBODY demanded"
+    "mnemonic": ""
   },
   {
     "id": 734,
@@ -10558,7 +10558,7 @@
         "english": "Everyone is welcome."
       }
     ],
-    "mnemonic": "IEDEREEN → EVERYONE"
+    "mnemonic": ""
   },
   {
     "id": 735,
@@ -10572,7 +10572,7 @@
         "english": "We help each other."
       }
     ],
-    "mnemonic": "ELKAAR → EACH OTHER"
+    "mnemonic": ""
   },
   {
     "id": 736,
@@ -10586,7 +10586,7 @@
         "english": "I do it myself."
       }
     ],
-    "mnemonic": "ZELF → SELF"
+    "mnemonic": ""
   },
   {
     "id": 737,
@@ -10600,13 +10600,13 @@
         "english": "The man walks."
       }
     ],
-    "mnemonic": "DE → THE (COMMON)"
+    "mnemonic": ""
   },
   {
     "id": 738,
     "rank": 738,
     "dutch": "het",
-    "english": "the (neuter)",
+    "english": "it, the",
     "partOfSpeech": "article",
     "sentences": [
       {
@@ -10614,13 +10614,13 @@
         "english": "The child plays."
       }
     ],
-    "mnemonic": "HET → THE (NEUTER)"
+    "mnemonic": ""
   },
   {
     "id": 739,
     "rank": 739,
     "dutch": "een",
-    "english": "a/an",
+    "english": "one, a, an",
     "partOfSpeech": "article",
     "sentences": [
       {
@@ -10628,7 +10628,7 @@
         "english": "I have a book."
       }
     ],
-    "mnemonic": "ONE is the loneliest number - EEN"
+    "mnemonic": ""
   },
   {
     "id": 740,
@@ -10642,7 +10642,7 @@
         "english": "Yes, that's right."
       }
     ],
-    "mnemonic": "JA, you betcha! (yes)"
+    "mnemonic": ""
   },
   {
     "id": 741,
@@ -10656,7 +10656,7 @@
         "english": "No, thank you."
       }
     ],
-    "mnemonic": "NAY means NO - NEE"
+    "mnemonic": ""
   },
   {
     "id": 742,
@@ -10670,7 +10670,7 @@
         "english": "Please help me."
       }
     ],
-    "mnemonic": "ALS-je-BELIEVE - PLEASE believe"
+    "mnemonic": ""
   },
   {
     "id": 743,
@@ -10684,7 +10684,7 @@
         "english": "Could you please repeat that?"
       }
     ],
-    "mnemonic": "ALSTUBLIEFT → PLEASE (FORMAL)"
+    "mnemonic": ""
   },
   {
     "id": 744,
@@ -10698,7 +10698,7 @@
         "english": "Thank you very much!"
       }
     ],
-    "mnemonic": "DANK JE → THANK YOU (INFORMAL)"
+    "mnemonic": ""
   },
   {
     "id": 745,
@@ -10712,7 +10712,7 @@
         "english": "Thank you very much."
       }
     ],
-    "mnemonic": "DANK U → THANK YOU (FORMAL)"
+    "mnemonic": ""
   },
   {
     "id": 746,
@@ -10726,7 +10726,7 @@
         "english": "Sorry, I'm late."
       }
     ],
-    "mnemonic": "SORRY is the same!"
+    "mnemonic": ""
   },
   {
     "id": 747,
@@ -10740,7 +10740,7 @@
         "english": "Excuse me, may I pass?"
       }
     ],
-    "mnemonic": "PARDON → EXCUSE ME"
+    "mnemonic": ""
   },
   {
     "id": 748,
@@ -10754,13 +10754,13 @@
         "english": "Hello, how are you?"
       }
     ],
-    "mnemonic": "HALLO → HELLO"
+    "mnemonic": ""
   },
   {
     "id": 749,
     "rank": 749,
     "dutch": "dag",
-    "english": "goodbye/hello",
+    "english": "day, hello, goodbye",
     "partOfSpeech": "interjection",
     "sentences": [
       {
@@ -10768,7 +10768,7 @@
         "english": "Bye, see you!"
       }
     ],
-    "mnemonic": "Seize the DAG (day)! Carpe DAG!"
+    "mnemonic": ""
   },
   {
     "id": 750,
@@ -10782,7 +10782,7 @@
         "english": "Bye!"
       }
     ],
-    "mnemonic": "DOEI → BYE"
+    "mnemonic": ""
   },
   {
     "id": 751,
@@ -10796,7 +10796,7 @@
         "english": "Welcome to the Netherlands!"
       }
     ],
-    "mnemonic": "WELCOME - welkom sounds like WELCOME"
+    "mnemonic": ""
   },
   {
     "id": 752,
@@ -10810,7 +10810,7 @@
         "english": "Happy birthday!"
       }
     ],
-    "mnemonic": "GEFELICITEERD → CONGRATULATIONS"
+    "mnemonic": ""
   },
   {
     "id": 753,
@@ -10825,7 +10825,7 @@
         "english": "I go to school."
       }
     ],
-    "mnemonic": "Old SCHOOL - same word"
+    "mnemonic": ""
   },
   {
     "id": 754,
@@ -10840,7 +10840,7 @@
         "english": "I study at the university."
       }
     ],
-    "mnemonic": "UNIVERSITY - universiteit"
+    "mnemonic": ""
   },
   {
     "id": 755,
@@ -10855,7 +10855,7 @@
         "english": "The class starts at nine o'clock."
       }
     ],
-    "mnemonic": "LESSON - les"
+    "mnemonic": ""
   },
   {
     "id": 756,
@@ -10870,7 +10870,7 @@
         "english": "I'm taking a Dutch course."
       }
     ],
-    "mnemonic": "COURSE - cursus"
+    "mnemonic": ""
   },
   {
     "id": 757,
@@ -10885,7 +10885,7 @@
         "english": "I have an exam tomorrow."
       }
     ],
-    "mnemonic": "EXAM - examen"
+    "mnemonic": ""
   },
   {
     "id": 758,
@@ -10900,7 +10900,7 @@
         "english": "I do my homework."
       }
     ],
-    "mnemonic": "HUISWERK → HOMEWORK"
+    "mnemonic": ""
   },
   {
     "id": 759,
@@ -10915,7 +10915,7 @@
         "english": "This is a difficult exercise."
       }
     ],
-    "mnemonic": "OEFENING → EXERCISE"
+    "mnemonic": ""
   },
   {
     "id": 760,
@@ -10930,7 +10930,7 @@
         "english": "What is the answer?"
       }
     ],
-    "mnemonic": "ANSWER - antwoord"
+    "mnemonic": ""
   },
   {
     "id": 761,
@@ -10945,7 +10945,7 @@
         "english": "I have a question."
       }
     ],
-    "mnemonic": "A FROG croaks a QUESTION: \"Ribbit?\" - VRAAG"
+    "mnemonic": ""
   },
   {
     "id": 762,
@@ -10960,7 +10960,7 @@
         "english": "The teacher explains it."
       }
     ],
-    "mnemonic": "LERAAR → TEACHER (M)"
+    "mnemonic": ""
   },
   {
     "id": 763,
@@ -10975,7 +10975,7 @@
         "english": "The teacher is friendly."
       }
     ],
-    "mnemonic": "LERARES → TEACHER (F)"
+    "mnemonic": ""
   },
   {
     "id": 764,
@@ -10990,7 +10990,7 @@
         "english": "I am a student."
       }
     ],
-    "mnemonic": "STUDENT → STUDENT"
+    "mnemonic": ""
   },
   {
     "id": 765,
@@ -11005,7 +11005,7 @@
         "english": "The pupil learns quickly."
       }
     ],
-    "mnemonic": "LEERLING → PUPIL"
+    "mnemonic": ""
   },
   {
     "id": 766,
@@ -11020,7 +11020,7 @@
         "english": "I work at the office."
       }
     ],
-    "mnemonic": "The Office - KANTOOR edition"
+    "mnemonic": ""
   },
   {
     "id": 767,
@@ -11035,7 +11035,7 @@
         "english": "I work at a big company."
       }
     ],
-    "mnemonic": "Be-DRIVE - COMPANY drives business"
+    "mnemonic": ""
   },
   {
     "id": 768,
@@ -11050,7 +11050,7 @@
         "english": "My boss is strict."
       }
     ],
-    "mnemonic": "Like a BOSS - like a BAAS"
+    "mnemonic": ""
   },
   {
     "id": 769,
@@ -11065,7 +11065,7 @@
         "english": "My colleague helps me."
       }
     ],
-    "mnemonic": "COLLEAGUE - collega"
+    "mnemonic": ""
   },
   {
     "id": 770,
@@ -11080,7 +11080,7 @@
         "english": "The meeting is at three o'clock."
       }
     ],
-    "mnemonic": "For-GATHER-ing - MEETING"
+    "mnemonic": ""
   },
   {
     "id": 771,
@@ -11095,7 +11095,7 @@
         "english": "My salary is good."
       }
     ],
-    "mnemonic": "SALARY - salaris"
+    "mnemonic": ""
   },
   {
     "id": 772,
@@ -11110,7 +11110,7 @@
         "english": "I'm looking for a job."
       }
     ],
-    "mnemonic": "On the right track - JOB/career path"
+    "mnemonic": ""
   },
   {
     "id": 773,
@@ -11125,7 +11125,7 @@
         "english": "I have a lot of experience."
       }
     ],
-    "mnemonic": "Ex-FARING - EXPERIENCE"
+    "mnemonic": ""
   },
   {
     "id": 774,
@@ -11140,7 +11140,7 @@
         "english": "The customer is always right."
       }
     ],
-    "mnemonic": "CLIENT - klant"
+    "mnemonic": ""
   },
   {
     "id": 775,
@@ -11155,7 +11155,7 @@
         "english": "The shop is open."
       }
     ],
-    "mnemonic": "WINK-el at the SHOP clerk"
+    "mnemonic": ""
   },
   {
     "id": 776,
@@ -11170,7 +11170,7 @@
         "english": "I go to the supermarket."
       }
     ],
-    "mnemonic": "SUPERMARKT → SUPERMARKET"
+    "mnemonic": ""
   },
   {
     "id": 777,
@@ -11185,13 +11185,13 @@
         "english": "On Saturday I go to the market."
       }
     ],
-    "mnemonic": "MARKET - markt sounds like MARKET"
+    "mnemonic": ""
   },
   {
     "id": 778,
     "rank": 778,
     "dutch": "bank",
-    "english": "bank",
+    "english": "couch, sofa, bank",
     "partOfSpeech": "noun",
     "gender": "de",
     "sentences": [
@@ -11200,7 +11200,7 @@
         "english": "The bank closes at five."
       }
     ],
-    "mnemonic": "BANK is the same!"
+    "mnemonic": ""
   },
   {
     "id": 779,
@@ -11215,7 +11215,7 @@
         "english": "I have no money."
       }
     ],
-    "mnemonic": "GELD the golden goose for MONEY"
+    "mnemonic": ""
   },
   {
     "id": 780,
@@ -11230,7 +11230,7 @@
         "english": "What is the price?"
       }
     ],
-    "mnemonic": "PRICE - prijs sounds like PRICE"
+    "mnemonic": ""
   },
   {
     "id": 781,
@@ -11245,7 +11245,7 @@
         "english": "May I have the bill?"
       }
     ],
-    "mnemonic": "RECKONING - ACCOUNT/BILL"
+    "mnemonic": ""
   },
   {
     "id": 782,
@@ -11260,7 +11260,7 @@
         "english": "There's a twenty percent discount."
       }
     ],
-    "mnemonic": "KORTING → DISCOUNT"
+    "mnemonic": ""
   },
   {
     "id": 783,
@@ -11275,7 +11275,7 @@
         "english": "I do a lot of sports."
       }
     ],
-    "mnemonic": "SPORT is the same!"
+    "mnemonic": ""
   },
   {
     "id": 784,
@@ -11290,7 +11290,7 @@
         "english": "I like to watch soccer."
       }
     ],
-    "mnemonic": "VOETBAL → SOCCER"
+    "mnemonic": ""
   },
   {
     "id": 785,
@@ -11305,7 +11305,7 @@
         "english": "The match is starting."
       }
     ],
-    "mnemonic": "WED-strijd - MATCH/wedding of teams"
+    "mnemonic": ""
   },
   {
     "id": 786,
@@ -11320,7 +11320,7 @@
         "english": "Our team won."
       }
     ],
-    "mnemonic": "TEAM is the same!"
+    "mnemonic": ""
   },
   {
     "id": 787,
@@ -11334,7 +11334,7 @@
         "english": "Dutch people cycle a lot."
       }
     ],
-    "mnemonic": "Tour de France - FIETS-en (cycling) through France"
+    "mnemonic": ""
   },
   {
     "id": 788,
@@ -11348,7 +11348,7 @@
         "english": "I walk in the forest."
       }
     ],
-    "mnemonic": "WANDELEN → TO WALK"
+    "mnemonic": ""
   },
   {
     "id": 789,
@@ -11362,7 +11362,7 @@
         "english": "I go running every morning."
       }
     ],
-    "mnemonic": "HARDLOPEN → TO RUN (EXERCISE)"
+    "mnemonic": ""
   },
   {
     "id": 790,
@@ -11377,7 +11377,7 @@
         "english": "The Netherlands is a small country."
       }
     ],
-    "mnemonic": "This LAND is your LAND"
+    "mnemonic": ""
   },
   {
     "id": 791,
@@ -11392,7 +11392,7 @@
         "english": "Amsterdam is a beautiful city."
       }
     ],
-    "mnemonic": "Sex and the CITY - STAD"
+    "mnemonic": ""
   },
   {
     "id": 792,
@@ -11407,7 +11407,7 @@
         "english": "I live in a small village."
       }
     ],
-    "mnemonic": "DORP → VILLAGE"
+    "mnemonic": ""
   },
   {
     "id": 793,
@@ -11422,7 +11422,7 @@
         "english": "This is a nice neighborhood."
       }
     ],
-    "mnemonic": "WICK of NEIGHBORHOOD"
+    "mnemonic": ""
   },
   {
     "id": 794,
@@ -11437,7 +11437,7 @@
         "english": "We go to the center."
       }
     ],
-    "mnemonic": "CENTER - centrum"
+    "mnemonic": ""
   },
   {
     "id": 795,
@@ -11452,7 +11452,7 @@
         "english": "I like to walk in the forest."
       }
     ],
-    "mnemonic": "BOSS of the FOREST"
+    "mnemonic": ""
   },
   {
     "id": 796,
@@ -11467,7 +11467,7 @@
         "english": "We go to the beach."
       }
     ],
-    "mnemonic": "STRAND of BEACH"
+    "mnemonic": ""
   },
   {
     "id": 797,
@@ -11482,7 +11482,7 @@
         "english": "The sea is beautiful."
       }
     ],
-    "mnemonic": "From SEA to shining ZEE"
+    "mnemonic": ""
   },
   {
     "id": 798,
@@ -11497,7 +11497,7 @@
         "english": "The river flows through the city."
       }
     ],
-    "mnemonic": "RIVER - rivier sounds like RIVER"
+    "mnemonic": ""
   },
   {
     "id": 799,
@@ -11512,7 +11512,7 @@
         "english": "The Netherlands has no mountains."
       }
     ],
-    "mnemonic": "BERG/MOUNTAIN - berg"
+    "mnemonic": ""
   },
   {
     "id": 800,
@@ -11527,7 +11527,7 @@
         "english": "I love nature."
       }
     ],
-    "mnemonic": "NATURE - natuur sounds like NATURE"
+    "mnemonic": ""
   },
   {
     "id": 801,
@@ -11542,7 +11542,7 @@
         "english": "What animal is this?"
       }
     ],
-    "mnemonic": "DIER → ANIMAL"
+    "mnemonic": ""
   },
   {
     "id": 802,
@@ -11557,7 +11557,7 @@
         "english": "I have a dog."
       }
     ],
-    "mnemonic": "Sherlock's HOUND of the Baskervilles (dog)"
+    "mnemonic": ""
   },
   {
     "id": 803,
@@ -11572,7 +11572,7 @@
         "english": "The cat is sleeping."
       }
     ],
-    "mnemonic": "A KAT always lands on its feet"
+    "mnemonic": ""
   },
   {
     "id": 804,
@@ -11587,7 +11587,7 @@
         "english": "The bird sings."
       }
     ],
-    "mnemonic": "FOGEL from Superbad is a total BIRD-brain"
+    "mnemonic": ""
   },
   {
     "id": 805,
@@ -11602,7 +11602,7 @@
         "english": "The cow stands in the meadow."
       }
     ],
-    "mnemonic": "COW - KOE sounds like COW"
+    "mnemonic": ""
   },
   {
     "id": 806,
@@ -11617,7 +11617,7 @@
         "english": "The horse runs fast."
       }
     ],
-    "mnemonic": "PART horse = HORSE - PAARD"
+    "mnemonic": ""
   },
   {
     "id": 807,
@@ -11632,7 +11632,7 @@
         "english": "The tree is big."
       }
     ],
-    "mnemonic": "The TREE fell down - BOOM!"
+    "mnemonic": ""
   },
   {
     "id": 808,
@@ -11647,7 +11647,7 @@
         "english": "Tulips are beautiful flowers."
       }
     ],
-    "mnemonic": "BLOOM - a FLOWER blooms"
+    "mnemonic": ""
   },
   {
     "id": 809,
@@ -11662,7 +11662,7 @@
         "english": "I give water to the plant."
       }
     ],
-    "mnemonic": "PLANT - same!"
+    "mnemonic": ""
   },
   {
     "id": 810,
@@ -11677,7 +11677,7 @@
         "english": "The grass is green."
       }
     ],
-    "mnemonic": "GRASS - GRAS"
+    "mnemonic": ""
   },
   {
     "id": 811,
@@ -11692,7 +11692,7 @@
         "english": "The leaf falls from the tree."
       }
     ],
-    "mnemonic": "BLADE of grass / LEAF - BLAD"
+    "mnemonic": ""
   },
   {
     "id": 812,
@@ -11707,7 +11707,7 @@
         "english": "Which color do you want?"
       }
     ],
-    "mnemonic": "COLOR - kleur sounds like COLOR"
+    "mnemonic": ""
   },
   {
     "id": 813,
@@ -11721,7 +11721,7 @@
         "english": "The apple is red."
       }
     ],
-    "mnemonic": "RED - rood sounds like RED"
+    "mnemonic": ""
   },
   {
     "id": 814,
@@ -11735,7 +11735,7 @@
         "english": "The sky is blue."
       }
     ],
-    "mnemonic": "BLUE - blauw sounds like BLUE"
+    "mnemonic": ""
   },
   {
     "id": 815,
@@ -11749,7 +11749,7 @@
         "english": "The grass is green."
       }
     ],
-    "mnemonic": "GREEN - groen sounds like GREEN"
+    "mnemonic": ""
   },
   {
     "id": 816,
@@ -11763,7 +11763,7 @@
         "english": "The sun is yellow."
       }
     ],
-    "mnemonic": "YELLOW - geel"
+    "mnemonic": ""
   },
   {
     "id": 817,
@@ -11777,7 +11777,7 @@
         "english": "Orange is the color of the Netherlands."
       }
     ],
-    "mnemonic": "ORANGE - oranje"
+    "mnemonic": ""
   },
   {
     "id": 818,
@@ -11791,7 +11791,7 @@
         "english": "The flower is purple."
       }
     ],
-    "mnemonic": "PURPLE - paars"
+    "mnemonic": ""
   },
   {
     "id": 819,
@@ -11805,7 +11805,7 @@
         "english": "The shirt is pink."
       }
     ],
-    "mnemonic": "ROSE/PINK - roze"
+    "mnemonic": ""
   },
   {
     "id": 820,
@@ -11819,7 +11819,7 @@
         "english": "The snow is white."
       }
     ],
-    "mnemonic": "WHITE - wit sounds like WHITE"
+    "mnemonic": ""
   },
   {
     "id": 821,
@@ -11833,7 +11833,7 @@
         "english": "The cat is black."
       }
     ],
-    "mnemonic": "SCHWARTZ/BLACK - zwart"
+    "mnemonic": ""
   },
   {
     "id": 822,
@@ -11847,7 +11847,7 @@
         "english": "The sky is grey."
       }
     ],
-    "mnemonic": "GRAY - grijs sounds like GRAY"
+    "mnemonic": ""
   },
   {
     "id": 823,
@@ -11861,7 +11861,7 @@
         "english": "The dog is brown."
       }
     ],
-    "mnemonic": "BROWN - bruin sounds like BROWN"
+    "mnemonic": ""
   },
   {
     "id": 824,
@@ -11876,7 +11876,7 @@
         "english": "There is a problem."
       }
     ],
-    "mnemonic": "Houston, we have a PROBLEEM"
+    "mnemonic": ""
   },
   {
     "id": 825,
@@ -11891,7 +11891,7 @@
         "english": "This is the solution."
       }
     ],
-    "mnemonic": "Op-LOSS-ing - SOLUTION to loss"
+    "mnemonic": ""
   },
   {
     "id": 826,
@@ -11906,7 +11906,7 @@
         "english": "I have an idea."
       }
     ],
-    "mnemonic": "IDEA - idee sounds like IDEA"
+    "mnemonic": ""
   },
   {
     "id": 827,
@@ -11921,7 +11921,7 @@
         "english": "What is your opinion?"
       }
     ],
-    "mnemonic": "MEAN-ing - OPINION/meaning"
+    "mnemonic": ""
   },
   {
     "id": 828,
@@ -11936,7 +11936,7 @@
         "english": "What is the reason?"
       }
     ],
-    "mnemonic": "What's the REASON you're RED-en? - REDEN"
+    "mnemonic": ""
   },
   {
     "id": 829,
@@ -11951,7 +11951,7 @@
         "english": "What is your goal?"
       }
     ],
-    "mnemonic": "DUAL GOAL - doel"
+    "mnemonic": ""
   },
   {
     "id": 830,
@@ -11966,7 +11966,7 @@
         "english": "I have a plan."
       }
     ],
-    "mnemonic": "PLAN is the same!"
+    "mnemonic": ""
   },
   {
     "id": 831,
@@ -11981,7 +11981,7 @@
         "english": "This is your chance."
       }
     ],
-    "mnemonic": "CHANCE - kans sounds like CHANCE"
+    "mnemonic": ""
   },
   {
     "id": 832,
@@ -11996,7 +11996,7 @@
         "english": "The choice is yours."
       }
     ],
-    "mnemonic": "KEUZE → CHOICE"
+    "mnemonic": ""
   },
   {
     "id": 833,
@@ -12011,7 +12011,7 @@
         "english": "What is the difference?"
       }
     ],
-    "mnemonic": "For-SKILL - DIFFERENCE in skill"
+    "mnemonic": ""
   },
   {
     "id": 834,
@@ -12026,7 +12026,7 @@
         "english": "Give me an example."
       }
     ],
-    "mnemonic": "FORE-BEELD - EXAMPLE before you"
+    "mnemonic": ""
   },
   {
     "id": 835,
@@ -12041,7 +12041,7 @@
         "english": "What is the result?"
       }
     ],
-    "mnemonic": "RESULT-aat - RESULT"
+    "mnemonic": ""
   },
   {
     "id": 836,
@@ -12056,7 +12056,7 @@
         "english": "Good luck with your exam!"
       }
     ],
-    "mnemonic": "SUCCESS! We did it - SUCCES"
+    "mnemonic": ""
   },
   {
     "id": 837,
@@ -12071,7 +12071,7 @@
         "english": "I made a mistake."
       }
     ],
-    "mnemonic": "FOUL! That's a MISTAKE - FOUT"
+    "mnemonic": ""
   },
   {
     "id": 838,
@@ -12086,7 +12086,7 @@
         "english": "I need help."
       }
     ],
-    "mnemonic": "HULP → HELP"
+    "mnemonic": ""
   },
   {
     "id": 839,
@@ -12101,7 +12101,7 @@
         "english": "I'm looking for information."
       }
     ],
-    "mnemonic": "INFORMATION - informatie"
+    "mnemonic": ""
   },
   {
     "id": 840,
@@ -12116,7 +12116,7 @@
         "english": "I watch the news."
       }
     ],
-    "mnemonic": "NEWS - nieuws sounds like NEWS"
+    "mnemonic": ""
   },
   {
     "id": 841,
@@ -12131,7 +12131,7 @@
         "english": "I read the newspaper."
       }
     ],
-    "mnemonic": "GRANT me the NEWSPAPER - KRANT"
+    "mnemonic": ""
   },
   {
     "id": 842,
@@ -12146,7 +12146,7 @@
         "english": "This is an interesting story."
       }
     ],
-    "mnemonic": "For-HALL - STORY in the hall"
+    "mnemonic": ""
   },
   {
     "id": 843,
@@ -12161,7 +12161,7 @@
         "english": "What does this word mean?"
       }
     ],
-    "mnemonic": "WORD - WOORD sounds like WORD"
+    "mnemonic": ""
   },
   {
     "id": 844,
@@ -12176,7 +12176,7 @@
         "english": "Make a sentence."
       }
     ],
-    "mnemonic": "SENSE in a SENTENCE - ZIN"
+    "mnemonic": ""
   },
   {
     "id": 845,
@@ -12191,7 +12191,7 @@
         "english": "What languages do you speak?"
       }
     ],
-    "mnemonic": "TALE in your LANGUAGE - TAAL"
+    "mnemonic": ""
   },
   {
     "id": 846,
@@ -12206,7 +12206,7 @@
         "english": "What is the meaning?"
       }
     ],
-    "mnemonic": "Be-TOKEN-is - MEANING/token"
+    "mnemonic": ""
   },
   {
     "id": 847,
@@ -12221,7 +12221,7 @@
         "english": "My pronunciation is not perfect."
       }
     ],
-    "mnemonic": "UITSPRAAK → PRONUNCIATION"
+    "mnemonic": ""
   },
   {
     "id": 848,
@@ -12236,7 +12236,7 @@
         "english": "Dutch grammar is difficult."
       }
     ],
-    "mnemonic": "GRAMMATICA → GRAMMAR"
+    "mnemonic": ""
   },
   {
     "id": 849,
@@ -12251,7 +12251,7 @@
         "english": "Life is beautiful."
       }
     ],
-    "mnemonic": "LIVE-en sounds like LIVE"
+    "mnemonic": ""
   },
   {
     "id": 850,
@@ -12266,7 +12266,7 @@
         "english": "That is death."
       }
     ],
-    "mnemonic": "DEAD - dood sounds like DEAD"
+    "mnemonic": ""
   },
   {
     "id": 851,
@@ -12281,7 +12281,7 @@
         "english": "The birth went well."
       }
     ],
-    "mnemonic": "GEBOORTE → BIRTH"
+    "mnemonic": ""
   },
   {
     "id": 852,
@@ -12296,7 +12296,7 @@
         "english": "Today is my birthday."
       }
     ],
-    "mnemonic": "For-YEAR-dag - BIRTHDAY yearly"
+    "mnemonic": ""
   },
   {
     "id": 853,
@@ -12311,7 +12311,7 @@
         "english": "The wedding was beautiful."
       }
     ],
-    "mnemonic": "BRUILOFT → WEDDING"
+    "mnemonic": ""
   },
   {
     "id": 854,
@@ -12326,7 +12326,7 @@
         "english": "Love is important."
       }
     ],
-    "mnemonic": "All you need is LOVE - LIEFDE"
+    "mnemonic": ""
   },
   {
     "id": 855,
@@ -12341,7 +12341,7 @@
         "english": "I wish you much happiness."
       }
     ],
-    "mnemonic": "Good LUCK with your HAPPINESS - GELUK means both!"
+    "mnemonic": ""
   },
   {
     "id": 856,
@@ -12356,7 +12356,7 @@
         "english": "I feel sadness."
       }
     ],
-    "mnemonic": "For-DRIP - SORROW dripping tears"
+    "mnemonic": ""
   },
   {
     "id": 857,
@@ -12371,7 +12371,7 @@
         "english": "I have a fear of spiders."
       }
     ],
-    "mnemonic": "ANGST/FEAR - angst"
+    "mnemonic": ""
   },
   {
     "id": 858,
@@ -12386,7 +12386,7 @@
         "english": "I feel anger."
       }
     ],
-    "mnemonic": "BOOSHEID → ANGER"
+    "mnemonic": ""
   },
   {
     "id": 859,
@@ -12401,7 +12401,7 @@
         "english": "I feel joy."
       }
     ],
-    "mnemonic": "FRAUD-less JOY - vreugde"
+    "mnemonic": ""
   },
   {
     "id": 860,
@@ -12416,7 +12416,7 @@
         "english": "I have hope."
       }
     ],
-    "mnemonic": "HOPE - hoop sounds like HOPE"
+    "mnemonic": ""
   },
   {
     "id": 861,
@@ -12431,7 +12431,7 @@
         "english": "I want peace."
       }
     ],
-    "mnemonic": "FREED from war - PEACE"
+    "mnemonic": ""
   },
   {
     "id": 862,
@@ -12446,7 +12446,7 @@
         "english": "War is terrible."
       }
     ],
-    "mnemonic": "OAR-log - WAR log"
+    "mnemonic": ""
   },
   {
     "id": 863,
@@ -12461,7 +12461,7 @@
         "english": "The government makes decisions."
       }
     ],
-    "mnemonic": "REIGNING - GOVERNMENT"
+    "mnemonic": ""
   },
   {
     "id": 864,
@@ -12476,7 +12476,7 @@
         "english": "Call the police!"
       }
     ],
-    "mnemonic": "POLICE - politie"
+    "mnemonic": ""
   },
   {
     "id": 865,
@@ -12491,7 +12491,7 @@
         "english": "You must follow the law."
       }
     ],
-    "mnemonic": "What the law WETS - LAW"
+    "mnemonic": ""
   },
   {
     "id": 866,
@@ -12506,7 +12506,7 @@
         "english": "Everyone has rights."
       }
     ],
-    "mnemonic": "RIGHT/LAW - recht"
+    "mnemonic": ""
   },
   {
     "id": 867,
@@ -12521,7 +12521,7 @@
         "english": "It is my duty."
       }
     ],
-    "mnemonic": "A knight's PLIGHT is his DUTY - PLICHT"
+    "mnemonic": ""
   },
   {
     "id": 868,
@@ -12536,7 +12536,7 @@
         "english": "Freedom is important."
       }
     ],
-    "mnemonic": "FREE-heid - FREEDOM"
+    "mnemonic": ""
   },
   {
     "id": 869,
@@ -12551,7 +12551,7 @@
         "english": "Dutch culture is interesting."
       }
     ],
-    "mnemonic": "CULTUUR → CULTURE"
+    "mnemonic": ""
   },
   {
     "id": 870,
@@ -12566,7 +12566,7 @@
         "english": "Religion is personal."
       }
     ],
-    "mnemonic": "RELIGIE → RELIGION"
+    "mnemonic": ""
   },
   {
     "id": 871,
@@ -12581,7 +12581,7 @@
         "english": "The church is old."
       }
     ],
-    "mnemonic": "KIRK/CHURCH - kerk"
+    "mnemonic": ""
   },
   {
     "id": 872,
@@ -12596,7 +12596,7 @@
         "english": "Do you believe in God?"
       }
     ],
-    "mnemonic": "GOD → GOD"
+    "mnemonic": ""
   },
   {
     "id": 873,
@@ -12611,7 +12611,7 @@
         "english": "Music is good for the soul."
       }
     ],
-    "mnemonic": "ZIEL → SOUL"
+    "mnemonic": ""
   },
   {
     "id": 874,
@@ -12626,7 +12626,7 @@
         "english": "Train your mind."
       }
     ],
-    "mnemonic": "GEEST → SPIRIT"
+    "mnemonic": ""
   },
   {
     "id": 875,
@@ -12641,7 +12641,7 @@
         "english": "I have a thought."
       }
     ],
-    "mnemonic": "Ge-THOUGHT - a THOUGHT"
+    "mnemonic": ""
   },
   {
     "id": 876,
@@ -12656,7 +12656,7 @@
         "english": "I have a good feeling."
       }
     ],
-    "mnemonic": "Ge-FEEL - FEELING"
+    "mnemonic": ""
   },
   {
     "id": 877,
@@ -12671,7 +12671,7 @@
         "english": "Follow your heart."
       }
     ],
-    "mnemonic": "Have a HEART - HART"
+    "mnemonic": ""
   },
   {
     "id": 878,
@@ -12686,7 +12686,7 @@
         "english": "Tell the truth."
       }
     ],
-    "mnemonic": "WHERE-heid - TRUTH is where"
+    "mnemonic": ""
   },
   {
     "id": 879,
@@ -12701,7 +12701,7 @@
         "english": "That is a lie."
       }
     ],
-    "mnemonic": "LAY-gen - LIE laid down"
+    "mnemonic": ""
   },
   {
     "id": 880,
@@ -12716,7 +12716,7 @@
         "english": "I have a secret."
       }
     ],
-    "mnemonic": "Ge-HIDE - SECRET hidden"
+    "mnemonic": ""
   },
   {
     "id": 881,
@@ -12731,7 +12731,7 @@
         "english": "I keep my promise."
       }
     ],
-    "mnemonic": "BELOFTE → PROMISE"
+    "mnemonic": ""
   },
   {
     "id": 882,
@@ -12746,7 +12746,7 @@
         "english": "I have an appointment."
       }
     ],
-    "mnemonic": "AF-SPRAAK - APPOINTMENT to speak"
+    "mnemonic": ""
   },
   {
     "id": 883,
@@ -12761,7 +12761,7 @@
         "english": "It was a nice encounter."
       }
     ],
-    "mnemonic": "ONTMOETING → MEETING"
+    "mnemonic": ""
   },
   {
     "id": 884,
@@ -12776,7 +12776,7 @@
         "english": "We had a good conversation."
       }
     ],
-    "mnemonic": "Ge-SPEAK - CONVERSATION"
+    "mnemonic": ""
   },
   {
     "id": 885,
@@ -12791,7 +12791,7 @@
         "english": "There was a discussion."
       }
     ],
-    "mnemonic": "DISCUSSION - discussie"
+    "mnemonic": ""
   },
   {
     "id": 886,
@@ -12806,7 +12806,7 @@
         "english": "What is your name?"
       }
     ],
-    "mnemonic": "NAME - naam sounds like NAME"
+    "mnemonic": ""
   },
   {
     "id": 887,
@@ -12821,7 +12821,7 @@
         "english": "What is your address?"
       }
     ],
-    "mnemonic": "ADDRESS - adres"
+    "mnemonic": ""
   },
   {
     "id": 888,
@@ -12836,7 +12836,7 @@
         "english": "What is your phone number?"
       }
     ],
-    "mnemonic": "NUMBER - nummer sounds like NUMBER"
+    "mnemonic": ""
   },
   {
     "id": 889,
@@ -12851,7 +12851,7 @@
         "english": "What is your age?"
       }
     ],
-    "mnemonic": "LEEFTIJD → AGE"
+    "mnemonic": ""
   },
   {
     "id": 890,
@@ -12866,7 +12866,7 @@
         "english": "What is your nationality?"
       }
     ],
-    "mnemonic": "NATIONALITEIT → NATIONALITY"
+    "mnemonic": ""
   },
   {
     "id": 891,
@@ -12881,7 +12881,7 @@
         "english": "May I see your passport?"
       }
     ],
-    "mnemonic": "PASSPORT - paspoort"
+    "mnemonic": ""
   },
   {
     "id": 892,
@@ -12896,7 +12896,7 @@
         "english": "Fill in this form."
       }
     ],
-    "mnemonic": "FORM-ulier - FORM"
+    "mnemonic": ""
   },
   {
     "id": 893,
@@ -12911,7 +12911,7 @@
         "english": "Put your signature here."
       }
     ],
-    "mnemonic": "HAND-TAKEN-ing - SIGNATURE"
+    "mnemonic": ""
   },
   {
     "id": 894,
@@ -12926,7 +12926,7 @@
         "english": "Do you have all the documents?"
       }
     ],
-    "mnemonic": "DOCUMENT is the same!"
+    "mnemonic": ""
   },
   {
     "id": 895,
@@ -12941,7 +12941,7 @@
         "english": "I sign the contract."
       }
     ],
-    "mnemonic": "CONTRACT is the same!"
+    "mnemonic": ""
   },
   {
     "id": 896,
@@ -12955,7 +12955,7 @@
         "english": "I am worried."
       }
     ],
-    "mnemonic": "BEZORGD → WORRIED"
+    "mnemonic": ""
   },
   {
     "id": 897,
@@ -12969,7 +12969,7 @@
         "english": "I'm so excited!"
       }
     ],
-    "mnemonic": "OPGEWONDEN → EXCITED"
+    "mnemonic": ""
   },
   {
     "id": 898,
@@ -12983,7 +12983,7 @@
         "english": "I am satisfied."
       }
     ],
-    "mnemonic": "TEVREDEN → SATISFIED"
+    "mnemonic": ""
   },
   {
     "id": 899,
@@ -12997,7 +12997,7 @@
         "english": "I am disappointed."
       }
     ],
-    "mnemonic": "TELEURGESTELD → DISAPPOINTED"
+    "mnemonic": ""
   },
   {
     "id": 900,
@@ -13011,6 +13011,6 @@
         "english": "I am grateful."
       }
     ],
-    "mnemonic": "DANKBAAR → GRATEFUL"
+    "mnemonic": ""
   }
 ]
