@@ -133,6 +133,7 @@ const SYNONYMS: string[][] = [
   ['line', 'queue'],
   ['couch', 'sofa'],
   ['hello', 'hi', 'goodbye', 'bye'],
+  ['stupid', 'dumb'],
 ];
 
 // Build synonym map
