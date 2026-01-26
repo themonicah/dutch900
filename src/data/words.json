@@ -265,7 +265,7 @@
         "english": "May I ask you something?"
       }
     ],
-    "mnemonic": "FRA-gen - the FRA asks a question"
+    "mnemonic": "FROG-en keeps ASKING questions - VRAGEN"
   },
   {
     "id": 20,
@@ -599,7 +599,7 @@
         "english": "My mother cooks well."
       }
     ],
-    "mnemonic": "How I Met Your MOEDER (mother)"
+    "mnemonic": "How I Met Your MOEDER (Mother)"
   },
   {
     "id": 43,
@@ -629,7 +629,7 @@
         "english": "My daughter is studying."
       }
     ],
-    "mnemonic": "DOCTOR's DAUGHTER - DOCHTER"
+    "mnemonic": "The DOCTOR's DAUGHTER - DOCHTER"
   },
   {
     "id": 45,
@@ -1443,7 +1443,8 @@
         "dutch": "Dat is wel waar.",
         "english": "That is true indeed."
       }
-    ]
+    ],
+    "mnemonic": "Oh WELL, INDEED - WEL"
   },
   {
     "id": 102,
@@ -1456,7 +1457,8 @@
         "dutch": "Ik weet het niet.",
         "english": "I don't know."
       }
-    ]
+    ],
+    "mnemonic": "This is NOT it - NIET"
   },
   {
     "id": 103,
@@ -1469,7 +1471,8 @@
         "dutch": "Ik wil ook mee.",
         "english": "I also want to come."
       }
-    ]
+    ],
+    "mnemonic": "I want one TOO - \"Ook ook!\" (monkey sounds)"
   },
   {
     "id": 104,
@@ -1482,7 +1485,8 @@
         "dutch": "Ben je nog wakker?",
         "english": "Are you still awake?"
       }
-    ]
+    ],
+    "mnemonic": "NOG another one? STILL/YET more?"
   },
   {
     "id": 105,
@@ -1495,7 +1499,8 @@
         "dutch": "Ik heb al gegeten.",
         "english": "I have already eaten."
       }
-    ]
+    ],
+    "mnemonic": "That's ALL? ALREADY? - AL"
   },
   {
     "id": 106,
@@ -1550,7 +1555,8 @@
         "dutch": "Ik heet Jan.",
         "english": "My name is Jan."
       }
-    ]
+    ],
+    "mnemonic": "ICK! I don't like that - IK (I)"
   },
   {
     "id": 110,
@@ -1563,7 +1569,8 @@
         "dutch": "Jij bent aardig.",
         "english": "You are nice."
       }
-    ]
+    ],
+    "mnemonic": "Hey YOU - YAY it's JIJ!"
   },
   {
     "id": 111,
@@ -1576,7 +1583,8 @@
         "dutch": "Hij is mijn broer.",
         "english": "He is my brother."
       }
-    ]
+    ],
+    "mnemonic": "HEY, HE's over there - HIJ"
   },
   {
     "id": 112,
@@ -1589,7 +1597,8 @@
         "dutch": "Zij is mijn zus.",
         "english": "She is my sister."
       }
-    ]
+    ],
+    "mnemonic": "ZAY what? SHE said that - ZIJ"
   },
   {
     "id": 113,
@@ -1602,7 +1611,8 @@
         "dutch": "Wij gaan naar huis.",
         "english": "We go home."
       }
-    ]
+    ],
+    "mnemonic": "WE are the champions - WIJ"
   },
   {
     "id": 114,
@@ -1615,7 +1625,8 @@
         "dutch": "Jullie zijn welkom.",
         "english": "You are welcome."
       }
-    ]
+    ],
+    "mnemonic": "YOU-LIE! All of YOU (plural) - JULLIE"
   },
   {
     "id": 115,
@@ -1628,7 +1639,8 @@
         "dutch": "Dit is mijn boek.",
         "english": "This is my book."
       }
-    ]
+    ],
+    "mnemonic": "That's MINE - MIJN"
   },
   {
     "id": 116,
@@ -1641,7 +1653,8 @@
         "dutch": "Waar is jouw auto?",
         "english": "Where is your car?"
       }
-    ]
+    ],
+    "mnemonic": "Is that YOURS? - JOUW"
   },
   {
     "id": 117,
@@ -1696,7 +1709,8 @@
         "dutch": "Ik ben thuis.",
         "english": "I am at home."
       }
-    ]
+    ],
+    "mnemonic": "T-HOUSE = AT HOME - THUIS"
   },
   {
     "id": 121,
@@ -1737,7 +1751,8 @@
         "dutch": "Ik kom zo terug.",
         "english": "I'll be right back."
       }
-    ]
+    ],
+    "mnemonic": "T-RUG pulled you BACK - TERUG"
   },
   {
     "id": 124,
@@ -1806,7 +1821,8 @@
         "dutch": "Eigenlijk wil ik niet.",
         "english": "Actually I don't want to."
       }
-    ]
+    ],
+    "mnemonic": "I like my OWN egg - \"EGG-en-lijk\" = ACTUALLY"
   },
   {
     "id": 129,
@@ -1819,7 +1835,8 @@
         "dutch": "Helaas kan ik niet komen.",
         "english": "Unfortunately I can't come."
       }
-    ]
+    ],
+    "mnemonic": "HE-LAAS = UNFORTUNATELY (alas!)"
   },
   {
     "id": 130,
@@ -1832,7 +1849,8 @@
         "dutch": "Gelukkig ben ik op tijd.",
         "english": "Fortunately I'm on time."
       }
-    ]
+    ],
+    "mnemonic": "Ge-LUCKY = FORTUNATELY/HAPPY"
   },
   {
     "id": 131,
@@ -1845,7 +1863,8 @@
         "dutch": "Ik woon in Nederland.",
         "english": "I live in the Netherlands."
       }
-    ]
+    ],
+    "mnemonic": "IN is IN - same!"
   },
   {
     "id": 132,
@@ -1858,7 +1877,8 @@
         "dutch": "Het boek ligt op de tafel.",
         "english": "The book is on the table."
       }
-    ]
+    ],
+    "mnemonic": "OP-en UP, get ON top - OP"
   },
   {
     "id": 133,
@@ -1871,7 +1891,8 @@
         "dutch": "Ik ga met de trein.",
         "english": "I go by train."
       }
-    ]
+    ],
+    "mnemonic": "I MET someone WITH me - MET"
   },
   {
     "id": 134,
@@ -1898,7 +1919,8 @@
         "dutch": "Ik ga naar school.",
         "english": "I go to school."
       }
-    ]
+    ],
+    "mnemonic": "NAR-rate your journey TO somewhere - NAAR"
   },
   {
     "id": 136,
@@ -1911,7 +1933,8 @@
         "dutch": "Ik kom van Amsterdam.",
         "english": "I come from Amsterdam."
       }
-    ]
+    ],
+    "mnemonic": "VAN Gogh was FROM Netherlands - VAN"
   },
   {
     "id": 137,
@@ -1924,7 +1947,8 @@
         "dutch": "Denk aan mij.",
         "english": "Think of me."
       }
-    ]
+    ],
+    "mnemonic": "It's ON - turn it AAN"
   },
   {
     "id": 138,
@@ -1937,7 +1961,8 @@
         "dutch": "Ik woon bij mijn ouders.",
         "english": "I live with my parents."
       }
-    ]
+    ],
+    "mnemonic": "BEE - BIJ (also: at/near)"
   },
   {
     "id": 139,
@@ -1950,7 +1975,8 @@
         "dutch": "Ik kom uit Nederland.",
         "english": "I come from the Netherlands."
       }
-    ]
+    ],
+    "mnemonic": "Get OUT! - UIT"
   },
   {
     "id": 140,
@@ -1963,7 +1989,8 @@
         "dutch": "Ga door de deur.",
         "english": "Go through the door."
       }
-    ]
+    ],
+    "mnemonic": "Walk THROUGH the DOOR - DOOR"
   },
   {
     "id": 141,
@@ -1976,7 +2003,8 @@
         "dutch": "We praten over het weer.",
         "english": "We talk about the weather."
       }
-    ]
+    ],
+    "mnemonic": "OVER and ABOUT - OVER"
   },
   {
     "id": 142,
@@ -1989,7 +2017,8 @@
         "dutch": "Tot morgen!",
         "english": "Until tomorrow!"
       }
-    ]
+    ],
+    "mnemonic": "TOT-ally UNTIL then - TOT"
   },
   {
     "id": 143,
@@ -2002,7 +2031,8 @@
         "dutch": "Na het eten ga ik slapen.",
         "english": "After eating I go to sleep."
       }
-    ]
+    ],
+    "mnemonic": "NA-NA-NA AFTER the song - NA"
   },
   {
     "id": 144,
@@ -2057,7 +2087,8 @@
         "dutch": "Koffie zonder suiker.",
         "english": "Coffee without sugar."
       }
-    ]
+    ],
+    "mnemonic": "I SONDER WITHOUT you (wanderlust) - ZONDER"
   },
   {
     "id": 148,
@@ -2070,7 +2101,8 @@
         "dutch": "Ik leun tegen de muur.",
         "english": "I lean against the wall."
       }
-    ]
+    ],
+    "mnemonic": "I'm not AGAINST that - TEGEN"
   },
   {
     "id": 149,
@@ -2083,7 +2115,8 @@
         "dutch": "Sinds vorig jaar.",
         "english": "Since last year."
       }
-    ]
+    ],
+    "mnemonic": "SINCE when? - SINDS"
   },
   {
     "id": 150,
@@ -2096,7 +2129,8 @@
         "dutch": "Tijdens de les.",
         "english": "During the lesson."
       }
-    ]
+    ],
+    "mnemonic": "TIE-dens DURING the game - TIJDENS"
   },
   {
     "id": 151,
@@ -2109,7 +2143,8 @@
         "dutch": "Ik heb één vraag.",
         "english": "I have one question."
       }
-    ]
+    ],
+    "mnemonic": "ONE and only - ÉÉN"
   },
   {
     "id": 152,
@@ -2654,7 +2689,8 @@
         "dutch": "Ik geloof je.",
         "english": "I believe you."
       }
-    ]
+    ],
+    "mnemonic": "Ge-LOVE = BELIEVE in love - GELOVEN"
   },
   {
     "id": 191,
@@ -2681,7 +2717,8 @@
         "dutch": "Ik verwacht je om drie uur.",
         "english": "I expect you at three."
       }
-    ]
+    ],
+    "mnemonic": "For-WATCH-en = EXPECT (watch for it)"
   },
   {
     "id": 193,
@@ -2867,7 +2904,8 @@
         "dutch": "Ik kook in de keuken.",
         "english": "I cook in the kitchen."
       }
-    ]
+    ],
+    "mnemonic": "COOK-en in the KITCHEN - KEUKEN"
   },
   {
     "id": 206,
@@ -3107,7 +3145,7 @@
         "english": "I have a question."
       }
     ],
-    "mnemonic": "FRAAG/QUESTION - I ask"
+    "mnemonic": "A FROG croaks a QUESTION: \"Ribbit?\" - VRAAG"
   },
   {
     "id": 222,
@@ -3775,7 +3813,8 @@
         "dutch": "De lente komt eraan.",
         "english": "Spring is coming."
       }
-    ]
+    ],
+    "mnemonic": "LENT-e comes in SPRING"
   },
   {
     "id": 267,
@@ -3789,7 +3828,8 @@
         "dutch": "De zomer is warm.",
         "english": "Summer is warm."
       }
-    ]
+    ],
+    "mnemonic": "SUMMER - ZOMER sounds like summer"
   },
   {
     "id": 268,
@@ -3803,7 +3843,8 @@
         "dutch": "De herfst is kleurrijk.",
         "english": "Autumn is colorful."
       }
-    ]
+    ],
+    "mnemonic": "HARVEST in AUTUMN/FALL - HERFST"
   },
   {
     "id": 269,
@@ -3817,7 +3858,8 @@
         "dutch": "De winter is koud.",
         "english": "Winter is cold."
       }
-    ]
+    ],
+    "mnemonic": "WINTER is WINTER - same!"
   },
   {
     "id": 270,
@@ -4026,7 +4068,8 @@
         "dutch": "Ik was mijn gezicht.",
         "english": "I wash my face."
       }
-    ]
+    ],
+    "mnemonic": "Ge-SIGHT = FACE (you see with it)"
   },
   {
     "id": 284,
@@ -4055,7 +4098,8 @@
         "dutch": "Mijn rug doet pijn.",
         "english": "My back hurts."
       }
-    ]
+    ],
+    "mnemonic": "RUG on your BACK"
   },
   {
     "id": 286,
@@ -4099,7 +4143,8 @@
         "dutch": "Ik ga naar de dokter.",
         "english": "I go to the doctor."
       }
-    ]
+    ],
+    "mnemonic": "DOCTOR - DOKTER"
   },
   {
     "id": 289,
@@ -4128,7 +4173,8 @@
         "dutch": "Neem dit medicijn.",
         "english": "Take this medicine."
       }
-    ]
+    ],
+    "mnemonic": "MEDICINE - MEDICIJN"
   },
   {
     "id": 291,
@@ -4184,7 +4230,8 @@
         "dutch": "Ik heb honger.",
         "english": "I am hungry."
       }
-    ]
+    ],
+    "mnemonic": "HUNGER - HONGER sounds like HUNGER"
   },
   {
     "id": 295,
@@ -4198,7 +4245,8 @@
         "dutch": "Ik heb dorst.",
         "english": "I am thirsty."
       }
-    ]
+    ],
+    "mnemonic": "I'm THIRSTY for a DORST-y drink"
   },
   {
     "id": 296,
@@ -4407,7 +4455,8 @@
         "dutch": "Ik eet pasta met saus.",
         "english": "I eat pasta with sauce."
       }
-    ]
+    ],
+    "mnemonic": "PASTA is PASTA - same!"
   },
   {
     "id": 310,
@@ -4436,7 +4485,8 @@
         "dutch": "Ik maak een salade.",
         "english": "I make a salad."
       }
-    ]
+    ],
+    "mnemonic": "SALAD - SALADE"
   },
   {
     "id": 312,
@@ -4450,7 +4500,8 @@
         "dutch": "Ik smeer boter op brood.",
         "english": "I spread butter on bread."
       }
-    ]
+    ],
+    "mnemonic": "BUTTER - BOTER"
   },
   {
     "id": 313,
@@ -4494,7 +4545,8 @@
         "dutch": "Wil je peper?",
         "english": "Do you want pepper?"
       }
-    ]
+    ],
+    "mnemonic": "PEPPER - PEPER"
   },
   {
     "id": 316,
@@ -4508,7 +4560,8 @@
         "dutch": "Ik eet ontbijt om acht uur.",
         "english": "I eat breakfast at eight o'clock."
       }
-    ]
+    ],
+    "mnemonic": "ON-BITE your BREAKFAST - ONTBIJT"
   },
   {
     "id": 317,
@@ -4522,7 +4575,8 @@
         "dutch": "Ik eet lunch op kantoor.",
         "english": "I eat lunch at the office."
       }
-    ]
+    ],
+    "mnemonic": "LUNCH is LUNCH - same!"
   },
   {
     "id": 318,
@@ -4536,7 +4590,8 @@
         "dutch": "Het avondeten is klaar.",
         "english": "Dinner is ready."
       }
-    ]
+    ],
+    "mnemonic": "AVOND (evening) + ETEN (eat) = DINNER"
   },
   {
     "id": 319,
@@ -4677,7 +4732,8 @@
         "dutch": "Welke kleur wil je?",
         "english": "Which color do you want?"
       }
-    ]
+    ],
+    "mnemonic": "WHICH one? - WELK"
   },
   {
     "id": 329,
@@ -4746,7 +4802,8 @@
         "dutch": "Ik ga slapen, want ik ben moe.",
         "english": "I'm going to sleep, for I am tired."
       }
-    ]
+    ],
+    "mnemonic": "I WANT it BECAUSE I do - WANT"
   },
   {
     "id": 334,
@@ -4759,7 +4816,8 @@
         "dutch": "Het regent, dus ik blijf thuis.",
         "english": "It's raining, so I stay home."
       }
-    ]
+    ],
+    "mnemonic": "THUS, SO therefore - DUS"
   },
   {
     "id": 335,
@@ -4786,7 +4844,8 @@
         "dutch": "Ik denk dat het goed is.",
         "english": "I think that it's good."
       }
-    ]
+    ],
+    "mnemonic": "THAT is DAT"
   },
   {
     "id": 337,
@@ -4799,7 +4858,8 @@
         "dutch": "Toen ik jong was, speelde ik voetbal.",
         "english": "When I was young, I played soccer."
       }
-    ]
+    ],
+    "mnemonic": "Back THEN, WHEN I was young - TOEN"
   },
   {
     "id": 338,
@@ -4812,7 +4872,8 @@
         "dutch": "Ik lees terwijl ik eet.",
         "english": "I read while I eat."
       }
-    ]
+    ],
+    "mnemonic": "TER-WHILE = WHILE - TERWIJL"
   },
   {
     "id": 339,
@@ -4825,7 +4886,8 @@
         "dutch": "Hoewel het regent, ga ik naar buiten.",
         "english": "Although it's raining, I go outside."
       }
-    ]
+    ],
+    "mnemonic": "HOE-well? ALTHOUGH I tried - HOEWEL"
   },
   {
     "id": 340,
@@ -4838,7 +4900,8 @@
         "dutch": "Ik studeer zodat ik kan slagen.",
         "english": "I study so that I can pass."
       }
-    ]
+    ],
+    "mnemonic": "SO THAT = ZO-DAT"
   },
   {
     "id": 341,
@@ -4851,7 +4914,8 @@
         "dutch": "Ik woon in Amsterdam.",
         "english": "I live in Amsterdam."
       }
-    ]
+    ],
+    "mnemonic": "IN is IN - same!"
   },
   {
     "id": 342,
@@ -4864,7 +4928,8 @@
         "dutch": "Het boek ligt op de tafel.",
         "english": "The book is on the table."
       }
-    ]
+    ],
+    "mnemonic": "OP-en UP, get ON top - OP"
   },
   {
     "id": 343,
@@ -4877,7 +4942,8 @@
         "dutch": "Ik zit aan tafel.",
         "english": "I'm sitting at the table."
       }
-    ]
+    ],
+    "mnemonic": "It's ON - turn it AAN"
   },
   {
     "id": 344,
@@ -4890,7 +4956,8 @@
         "dutch": "Ik ga met mijn vriend.",
         "english": "I go with my friend."
       }
-    ]
+    ],
+    "mnemonic": "I MET someone WITH me - MET"
   },
   {
     "id": 345,
@@ -4917,7 +4984,8 @@
         "dutch": "Na het eten ga ik slapen.",
         "english": "After eating I go to sleep."
       }
-    ]
+    ],
+    "mnemonic": "NA-NA-NA AFTER the song - NA"
   },
   {
     "id": 347,
@@ -4930,7 +4998,8 @@
         "dutch": "Ik ga naar school.",
         "english": "I go to school."
       }
-    ]
+    ],
+    "mnemonic": "NAR-rate your journey TO somewhere - NAAR"
   },
   {
     "id": 348,
@@ -4943,7 +5012,8 @@
         "dutch": "Ik kom van Nederland.",
         "english": "I come from the Netherlands."
       }
-    ]
+    ],
+    "mnemonic": "VAN Gogh was FROM Netherlands - VAN"
   },
   {
     "id": 349,
@@ -4956,7 +5026,8 @@
         "dutch": "Ik ben bij mijn ouders.",
         "english": "I am at my parents'."
       }
-    ]
+    ],
+    "mnemonic": "BEE - BIJ (also: at/near)"
   },
   {
     "id": 350,
@@ -4969,7 +5040,8 @@
         "dutch": "Ik werk tot vijf uur.",
         "english": "I work until five o'clock."
       }
-    ]
+    ],
+    "mnemonic": "TOT-ally UNTIL then - TOT"
   },
   {
     "id": 351,
@@ -4982,7 +5054,8 @@
         "dutch": "We praten over het weer.",
         "english": "We talk about the weather."
       }
-    ]
+    ],
+    "mnemonic": "OVER and ABOUT - OVER"
   },
   {
     "id": 352,
@@ -5051,7 +5124,8 @@
         "dutch": "Ik drink koffie zonder suiker.",
         "english": "I drink coffee without sugar."
       }
-    ]
+    ],
+    "mnemonic": "I SONDER WITHOUT you (wanderlust) - ZONDER"
   },
   {
     "id": 357,
@@ -5064,7 +5138,8 @@
         "dutch": "Ik leun tegen de muur.",
         "english": "I lean against the wall."
       }
-    ]
+    ],
+    "mnemonic": "I'm not AGAINST that - TEGEN"
   },
   {
     "id": 358,
@@ -5077,7 +5152,8 @@
         "dutch": "Ik loop door het park.",
         "english": "I walk through the park."
       }
-    ]
+    ],
+    "mnemonic": "Walk THROUGH the DOOR - DOOR"
   },
   {
     "id": 359,
@@ -5090,7 +5166,8 @@
         "dutch": "Tijdens de les moet je luisteren.",
         "english": "During class you must listen."
       }
-    ]
+    ],
+    "mnemonic": "TIE-dens DURING the game - TIJDENS"
   },
   {
     "id": 360,
@@ -5103,7 +5180,8 @@
         "dutch": "Ik woon hier sinds 2020.",
         "english": "I've lived here since 2020."
       }
-    ]
+    ],
+    "mnemonic": "SINCE when? - SINDS"
   },
   {
     "id": 361,
@@ -5424,7 +5502,8 @@
         "dutch": "Het is me gelukt!",
         "english": "I succeeded!"
       }
-    ]
+    ],
+    "mnemonic": "LUCK-en into SUCCESS - LUKKEN"
   },
   {
     "id": 384,
@@ -5661,7 +5740,8 @@
         "dutch": "Het ruikt lekker.",
         "english": "It smells good."
       }
-    ]
+    ],
+    "mnemonic": "REEK-en = SMELL - RUIKEN"
   },
   {
     "id": 401,
@@ -5674,7 +5754,8 @@
         "dutch": "Proef dit eens.",
         "english": "Taste this."
       }
-    ]
+    ],
+    "mnemonic": "PROVE-en the TASTE - PROEVEN"
   },
   {
     "id": 402,
@@ -5743,7 +5824,8 @@
         "dutch": "Ik heb je bericht ontvangen.",
         "english": "I received your message."
       }
-    ]
+    ],
+    "mnemonic": "ON-FANG-en = RECEIVE (grab with fangs)"
   },
   {
     "id": 407,
@@ -5770,7 +5852,8 @@
         "dutch": "Kun je antwoorden?",
         "english": "Can you answer?"
       }
-    ]
+    ],
+    "mnemonic": "ANSWER-den = ANSWER - ANTWOORDEN"
   },
   {
     "id": 409,
@@ -5783,7 +5866,8 @@
         "dutch": "Ik geloof je.",
         "english": "I believe you."
       }
-    ]
+    ],
+    "mnemonic": "Ge-LOVE = BELIEVE in love - GELOVEN"
   },
   {
     "id": 410,
@@ -5964,7 +6048,8 @@
         "dutch": "Ik maak het huis schoon.",
         "english": "I clean the house."
       }
-    ]
+    ],
+    "mnemonic": "SCHOON-MAKEN = CLEAN (make clean)"
   },
   {
     "id": 423,
@@ -5991,7 +6076,8 @@
         "dutch": "Het wasgoed droogt buiten.",
         "english": "The laundry dries outside."
       }
-    ]
+    ],
+    "mnemonic": "DROUGHT-en = DRY - DROGEN"
   },
   {
     "id": 425,
@@ -6060,7 +6146,8 @@
         "dutch": "Vul het formulier in.",
         "english": "Fill in the form."
       }
-    ]
+    ],
+    "mnemonic": "IN-FULL-en = FILL IN - INVULLEN"
   },
   {
     "id": 430,
@@ -6143,7 +6230,8 @@
         "dutch": "De straat is breed.",
         "english": "The street is wide."
       }
-    ]
+    ],
+    "mnemonic": "BREAD is WIDE - BREED"
   },
   {
     "id": 436,
@@ -6156,7 +6244,8 @@
         "dutch": "Het pad is smal.",
         "english": "The path is narrow."
       }
-    ]
+    ],
+    "mnemonic": "SMALL is NARROW - SMAL"
   },
   {
     "id": 437,
@@ -6169,7 +6258,8 @@
         "dutch": "Dit boek is dik.",
         "english": "This book is thick."
       }
-    ]
+    ],
+    "mnemonic": "THICK/FAT - DIK (sounds like thick)"
   },
   {
     "id": 438,
@@ -6182,7 +6272,8 @@
         "dutch": "Het ijs is dun.",
         "english": "The ice is thin."
       }
-    ]
+    ],
+    "mnemonic": "DONE being THIN - DUN"
   },
   {
     "id": 439,
@@ -6279,7 +6370,8 @@
         "dutch": "De soep is heet.",
         "english": "The soup is hot."
       }
-    ]
+    ],
+    "mnemonic": "HEAT = HOT - HEET"
   },
   {
     "id": 446,
@@ -6642,7 +6734,8 @@
         "dutch": "Ben je klaar?",
         "english": "Are you ready?"
       }
-    ]
+    ],
+    "mnemonic": "All CLEAR! READY/DONE - KLAAR"
   },
   {
     "id": 472,
@@ -6683,7 +6776,8 @@
         "dutch": "Blijf rustig.",
         "english": "Stay calm."
       }
-    ]
+    ],
+    "mnemonic": "REST-ig = CALM/QUIET - RUSTIG"
   },
   {
     "id": 475,
@@ -6724,7 +6818,8 @@
         "dutch": "Ik ben trots op je.",
         "english": "I'm proud of you."
       }
-    ]
+    ],
+    "mnemonic": "TROT-s like a PROUD horse - TROTS"
   },
   {
     "id": 478,
@@ -6737,7 +6832,8 @@
         "dutch": "Dat is lelijk.",
         "english": "That's ugly."
       }
-    ]
+    ],
+    "mnemonic": "LAYLA is not UGLY - LEL-ijk"
   },
   {
     "id": 479,
@@ -6750,7 +6846,8 @@
         "dutch": "Dat was dom.",
         "english": "That was stupid."
       }
-    ]
+    ],
+    "mnemonic": "DUMB = STUPID - DOM"
   },
   {
     "id": 480,
@@ -6763,7 +6860,8 @@
         "dutch": "Zij is slim.",
         "english": "She is smart."
       }
-    ]
+    ],
+    "mnemonic": "SLIM people are SMART - SLIM"
   },
   {
     "id": 481,
@@ -6916,7 +7014,8 @@
         "dutch": "We hebben dezelfde auto.",
         "english": "We have the same car."
       }
-    ]
+    ],
+    "mnemonic": "De-SELF-de = THE SAME"
   },
   {
     "id": 492,
@@ -6929,7 +7028,8 @@
         "dutch": "Ik heb mijn eigen huis.",
         "english": "I have my own house."
       }
-    ]
+    ],
+    "mnemonic": "EIGEN = OWN (German origin)"
   },
   {
     "id": 493,
@@ -6985,7 +7085,7 @@
         "english": "It costs approximately ten euros."
       }
     ],
-    "mnemonic": "The OGRE VEERs APPROXIMATELY left"
+    "mnemonic": "An OGRE named VEER drove APPROXIMATELY here"
   },
   {
     "id": 497,
@@ -7040,7 +7140,8 @@
         "dutch": "Eigenlijk heb ik geen tijd.",
         "english": "Actually I don't have time."
       }
-    ]
+    ],
+    "mnemonic": "I like my OWN egg - \"EGG-en-lijk\" = ACTUALLY"
   },
   {
     "id": 501,
@@ -7109,7 +7210,8 @@
         "dutch": "Ben je nog hier?",
         "english": "Are you still here?"
       }
-    ]
+    ],
+    "mnemonic": "NOG another one? STILL/YET more?"
   },
   {
     "id": 506,
@@ -7122,7 +7224,8 @@
         "dutch": "Ik heb al gegeten.",
         "english": "I've already eaten."
       }
-    ]
+    ],
+    "mnemonic": "That's ALL? ALREADY? - AL"
   },
   {
     "id": 507,
@@ -7191,7 +7294,8 @@
         "dutch": "Het moet ergens zijn.",
         "english": "It must be somewhere."
       }
-    ]
+    ],
+    "mnemonic": "ERG-ens = SOMEWHERE"
   },
   {
     "id": 512,
@@ -7204,7 +7308,8 @@
         "dutch": "Ik kan het nergens vinden.",
         "english": "I can't find it anywhere."
       }
-    ]
+    ],
+    "mnemonic": "NERD-gens = NOWHERE (nerds are nowhere)"
   },
   {
     "id": 513,
@@ -7217,7 +7322,8 @@
         "dutch": "Er zijn mensen overal.",
         "english": "There are people everywhere."
       }
-    ]
+    ],
+    "mnemonic": "OVER-AL = EVERYWHERE"
   },
   {
     "id": 514,
@@ -7258,7 +7364,8 @@
         "dutch": "Ik wil ook komen.",
         "english": "I want to come too."
       }
-    ]
+    ],
+    "mnemonic": "I want one TOO - \"Ook ook!\" (monkey sounds)"
   },
   {
     "id": 517,
@@ -7557,7 +7664,8 @@
         "dutch": "Ga rechtdoor.",
         "english": "Go straight ahead."
       }
-    ]
+    ],
+    "mnemonic": "RECHTDOOR → STRAIGHT AHEAD"
   },
   {
     "id": 538,
@@ -7570,7 +7678,8 @@
         "dutch": "Ik kom terug.",
         "english": "I'll be back."
       }
-    ]
+    ],
+    "mnemonic": "T-RUG pulled you BACK - TERUG"
   },
   {
     "id": 539,
@@ -7625,7 +7734,8 @@
         "dutch": "Kom naar beneden!",
         "english": "Come downstairs!"
       }
-    ]
+    ],
+    "mnemonic": "BENEDEN → BELOW"
   },
   {
     "id": 543,
@@ -7729,7 +7839,8 @@
         "dutch": "We gaan naar de luchthaven.",
         "english": "We go to the airport."
       }
-    ]
+    ],
+    "mnemonic": "LUCHTHAVEN → AIRPORT"
   },
   {
     "id": 550,
@@ -7758,7 +7869,8 @@
         "dutch": "Ik koop een kaartje.",
         "english": "I buy a ticket."
       }
-    ]
+    ],
+    "mnemonic": "KAARTJE → TICKET"
   },
   {
     "id": 552,
@@ -7787,7 +7899,8 @@
         "dutch": "Waar is je bagage?",
         "english": "Where is your luggage?"
       }
-    ]
+    ],
+    "mnemonic": "BAGAGE → LUGGAGE"
   },
   {
     "id": 554,
@@ -7831,7 +7944,8 @@
         "dutch": "Mijn portemonnee is weg!",
         "english": "My wallet is gone!"
       }
-    ]
+    ],
+    "mnemonic": "PORTEMONNEE → WALLET"
   },
   {
     "id": 557,
@@ -7845,7 +7959,8 @@
         "dutch": "Waar zijn mijn sleutels?",
         "english": "Where are my keys?"
       }
-    ]
+    ],
+    "mnemonic": "SLEUTEL → KEY"
   },
   {
     "id": 558,
@@ -7905,7 +8020,7 @@
         "english": "I send you a message."
       }
     ],
-    "mnemonic": "You've got MAIL - a MESSAGE (bericht)"
+    "mnemonic": "I'll Be RIGHT back with a MESSAGE - BERICHT"
   },
   {
     "id": 562,
@@ -8069,7 +8184,8 @@
         "dutch": "Het concert was geweldig.",
         "english": "The concert was great."
       }
-    ]
+    ],
+    "mnemonic": "CONCERT → CONCERT"
   },
   {
     "id": 573,
@@ -8173,7 +8289,8 @@
         "dutch": "Waar is de badkamer?",
         "english": "Where is the bathroom?"
       }
-    ]
+    ],
+    "mnemonic": "BAD-KAMER = BATHROOM (bath room)"
   },
   {
     "id": 580,
@@ -8187,7 +8304,8 @@
         "dutch": "Waar is het toilet?",
         "english": "Where is the toilet?"
       }
-    ]
+    ],
+    "mnemonic": "TOILET → TOILET"
   },
   {
     "id": 581,
@@ -8201,7 +8319,8 @@
         "dutch": "Ik neem een douche.",
         "english": "I take a shower."
       }
-    ]
+    ],
+    "mnemonic": "DOUCHE → SHOWER"
   },
   {
     "id": 582,
@@ -8215,7 +8334,8 @@
         "dutch": "Ik kijk in de spiegel.",
         "english": "I look in the mirror."
       }
-    ]
+    ],
+    "mnemonic": "SPIEGEL → MIRROR"
   },
   {
     "id": 583,
@@ -8229,7 +8349,8 @@
         "dutch": "Geef me de handdoek.",
         "english": "Give me the towel."
       }
-    ]
+    ],
+    "mnemonic": "HANDDOEK → TOWEL"
   },
   {
     "id": 584,
@@ -8243,7 +8364,8 @@
         "dutch": "Waar is de zeep?",
         "english": "Where is the soap?"
       }
-    ]
+    ],
+    "mnemonic": "ZEEP → SOAP"
   },
   {
     "id": 585,
@@ -8257,7 +8379,8 @@
         "dutch": "Ik poets mijn tanden.",
         "english": "I brush my teeth."
       }
-    ]
+    ],
+    "mnemonic": "TANDENBORSTEL → TOOTHBRUSH"
   },
   {
     "id": 586,
@@ -8271,7 +8394,8 @@
         "dutch": "Ik kook in de keuken.",
         "english": "I cook in the kitchen."
       }
-    ]
+    ],
+    "mnemonic": "COOK-en in the KITCHEN - KEUKEN"
   },
   {
     "id": 587,
@@ -8285,7 +8409,8 @@
         "dutch": "We zitten in de woonkamer.",
         "english": "We sit in the living room."
       }
-    ]
+    ],
+    "mnemonic": "WOON-KAMER = LIVING ROOM"
   },
   {
     "id": 588,
@@ -8299,7 +8424,8 @@
         "dutch": "Mijn slaapkamer is klein.",
         "english": "My bedroom is small."
       }
-    ]
+    ],
+    "mnemonic": "SLAAP-KAMER = BEDROOM (sleep room)"
   },
   {
     "id": 589,
@@ -8328,7 +8454,8 @@
         "dutch": "Ik zit op het balkon.",
         "english": "I sit on the balcony."
       }
-    ]
+    ],
+    "mnemonic": "BALCONY - BALKON"
   },
   {
     "id": 591,
@@ -8357,7 +8484,8 @@
         "dutch": "Neem de lift.",
         "english": "Take the elevator."
       }
-    ]
+    ],
+    "mnemonic": "LIFT → ELEVATOR"
   },
   {
     "id": 593,
@@ -8371,7 +8499,8 @@
         "dutch": "Ik woon op de tweede verdieping.",
         "english": "I live on the second floor."
       }
-    ]
+    ],
+    "mnemonic": "DEEP-ing into another FLOOR/STORY - VERDIEPING"
   },
   {
     "id": 594,
@@ -8415,7 +8544,8 @@
         "dutch": "Het plafond is hoog.",
         "english": "The ceiling is high."
       }
-    ]
+    ],
+    "mnemonic": "PLAFOND = CEILING (like platform above)"
   },
   {
     "id": 597,
@@ -8519,7 +8649,8 @@
         "dutch": "De kleren hangen in de kast.",
         "english": "The clothes hang in the closet."
       }
-    ]
+    ],
+    "mnemonic": "KAST → CLOSET"
   },
   {
     "id": 604,
@@ -8548,7 +8679,8 @@
         "dutch": "Ik kijk televisie.",
         "english": "I watch television."
       }
-    ]
+    ],
+    "mnemonic": "TELEVISIE → TELEVISION"
   },
   {
     "id": 606,
@@ -8562,7 +8694,8 @@
         "dutch": "De melk staat in de koelkast.",
         "english": "The milk is in the refrigerator."
       }
-    ]
+    ],
+    "mnemonic": "KOELKAST → REFRIGERATOR"
   },
   {
     "id": 607,
@@ -8576,7 +8709,8 @@
         "dutch": "De taart zit in de oven.",
         "english": "The cake is in the oven."
       }
-    ]
+    ],
+    "mnemonic": "OVEN → OVEN"
   },
   {
     "id": 608,
@@ -8590,7 +8724,8 @@
         "dutch": "Ik warm het op in de magnetron.",
         "english": "I heat it in the microwave."
       }
-    ]
+    ],
+    "mnemonic": "MAGNETRON → MICROWAVE"
   },
   {
     "id": 609,
@@ -8664,7 +8799,8 @@
         "dutch": "Wil je een kopje thee?",
         "english": "Do you want a cup of tea?"
       }
-    ]
+    ],
+    "mnemonic": "KOPJE → CUP"
   },
   {
     "id": 614,
@@ -8693,7 +8829,8 @@
         "dutch": "De fles is leeg.",
         "english": "The bottle is empty."
       }
-    ]
+    ],
+    "mnemonic": "FLES → BOTTLE"
   },
   {
     "id": 616,
@@ -8707,7 +8844,8 @@
         "dutch": "Ik bak eieren in de pan.",
         "english": "I fry eggs in the pan."
       }
-    ]
+    ],
+    "mnemonic": "PAN → PAN"
   },
   {
     "id": 617,
@@ -8721,7 +8859,8 @@
         "dutch": "Ik kook water in de pot.",
         "english": "I boil water in the pot."
       }
-    ]
+    ],
+    "mnemonic": "POT → POT"
   },
   {
     "id": 618,
@@ -8735,7 +8874,8 @@
         "dutch": "Ik koop nieuwe kleding.",
         "english": "I buy new clothing."
       }
-    ]
+    ],
+    "mnemonic": "KLEDING → CLOTHING"
   },
   {
     "id": 619,
@@ -8764,7 +8904,8 @@
         "dutch": "Ik draag een wit overhemd.",
         "english": "I wear a white shirt."
       }
-    ]
+    ],
+    "mnemonic": "OVERHEMD → SHIRT (DRESS)"
   },
   {
     "id": 621,
@@ -8778,7 +8919,8 @@
         "dutch": "Ik draag een shirt.",
         "english": "I wear a t-shirt."
       }
-    ]
+    ],
+    "mnemonic": "SHIRT → T-SHIRT"
   },
   {
     "id": 622,
@@ -8792,7 +8934,8 @@
         "dutch": "Ik draag een warme trui.",
         "english": "I wear a warm sweater."
       }
-    ]
+    ],
+    "mnemonic": "TRUI → SWEATER"
   },
   {
     "id": 623,
@@ -8866,7 +9009,8 @@
         "dutch": "Ik draag laarzen.",
         "english": "I wear boots."
       }
-    ]
+    ],
+    "mnemonic": "LAARS → BOOT"
   },
   {
     "id": 628,
@@ -8880,7 +9024,8 @@
         "dutch": "Waar zijn mijn sokken?",
         "english": "Where are my socks?"
       }
-    ]
+    ],
+    "mnemonic": "SOK → SOCK"
   },
   {
     "id": 629,
@@ -8894,7 +9039,8 @@
         "dutch": "Zet je muts op.",
         "english": "Put on your hat."
       }
-    ]
+    ],
+    "mnemonic": "MUTS → HAT (WINTER)"
   },
   {
     "id": 630,
@@ -8908,7 +9054,8 @@
         "dutch": "Ik draag handschoenen.",
         "english": "I wear gloves."
       }
-    ]
+    ],
+    "mnemonic": "HANDSCHOEN → GLOVE"
   },
   {
     "id": 631,
@@ -8922,7 +9069,8 @@
         "dutch": "Ik draag een warme sjaal.",
         "english": "I wear a warm scarf."
       }
-    ]
+    ],
+    "mnemonic": "SJAAL → SCARF"
   },
   {
     "id": 632,
@@ -8936,7 +9084,8 @@
         "dutch": "Heb je een paraplu?",
         "english": "Do you have an umbrella?"
       }
-    ]
+    ],
+    "mnemonic": "PARAPLU → UMBRELLA"
   },
   {
     "id": 633,
@@ -8950,7 +9099,8 @@
         "dutch": "Ik draag een bril.",
         "english": "I wear glasses."
       }
-    ]
+    ],
+    "mnemonic": "BRIL → GLASSES"
   },
   {
     "id": 634,
@@ -8979,7 +9129,8 @@
         "dutch": "Zij draagt een gouden ring.",
         "english": "She wears a gold ring."
       }
-    ]
+    ],
+    "mnemonic": "RING → RING"
   },
   {
     "id": 636,
@@ -8993,7 +9144,8 @@
         "dutch": "Die ketting is mooi.",
         "english": "That necklace is beautiful."
       }
-    ]
+    ],
+    "mnemonic": "KETTING → NECKLACE"
   },
   {
     "id": 637,
@@ -9142,7 +9294,8 @@
         "dutch": "Er komt een storm.",
         "english": "There's a storm coming."
       }
-    ]
+    ],
+    "mnemonic": "STORM → STORM"
   },
   {
     "id": 647,
@@ -9156,7 +9309,8 @@
         "dutch": "De temperatuur is laag.",
         "english": "The temperature is low."
       }
-    ]
+    ],
+    "mnemonic": "TEMPERATUUR → TEMPERATURE"
   },
   {
     "id": 648,
@@ -9170,7 +9324,8 @@
         "dutch": "Het is twintig graden.",
         "english": "It's twenty degrees."
       }
-    ]
+    ],
+    "mnemonic": "GRAAD → DEGREE"
   },
   {
     "id": 649,
@@ -9184,7 +9339,8 @@
         "dutch": "De herfst is mijn favoriete seizoen.",
         "english": "Autumn is my favorite season."
       }
-    ]
+    ],
+    "mnemonic": "SEIZOEN → SEASON"
   },
   {
     "id": 650,
@@ -9198,7 +9354,8 @@
         "dutch": "In de lente bloeien de bloemen.",
         "english": "In spring the flowers bloom."
       }
-    ]
+    ],
+    "mnemonic": "LENT-e comes in SPRING"
   },
   {
     "id": 651,
@@ -9212,7 +9369,8 @@
         "dutch": "De zomer is warm.",
         "english": "Summer is warm."
       }
-    ]
+    ],
+    "mnemonic": "SUMMER - ZOMER sounds like summer"
   },
   {
     "id": 652,
@@ -9226,7 +9384,8 @@
         "dutch": "De bladeren vallen in de herfst.",
         "english": "The leaves fall in autumn."
       }
-    ]
+    ],
+    "mnemonic": "HARVEST in AUTUMN/FALL - HERFST"
   },
   {
     "id": 653,
@@ -9240,7 +9399,8 @@
         "dutch": "De winter is koud.",
         "english": "Winter is cold."
       }
-    ]
+    ],
+    "mnemonic": "WINTER is WINTER - same!"
   },
   {
     "id": 654,
@@ -9977,7 +10137,8 @@
         "dutch": "Dit is mijn eerste dag.",
         "english": "This is my first day."
       }
-    ]
+    ],
+    "mnemonic": "EERSTE → FIRST"
   },
   {
     "id": 705,
@@ -9990,7 +10151,8 @@
         "dutch": "Ik woon op de tweede verdieping.",
         "english": "I live on the second floor."
       }
-    ]
+    ],
+    "mnemonic": "TWEEDE → SECOND"
   },
   {
     "id": 706,
@@ -10003,7 +10165,8 @@
         "dutch": "Dit is de derde keer.",
         "english": "This is the third time."
       }
-    ]
+    ],
+    "mnemonic": "DERDE → THIRD"
   },
   {
     "id": 707,
@@ -10016,7 +10179,8 @@
         "dutch": "Dit is de laatste kans.",
         "english": "This is the last chance."
       }
-    ]
+    ],
+    "mnemonic": "LAATSTE → LAST"
   },
   {
     "id": 708,
@@ -10029,7 +10193,8 @@
         "dutch": "De volgende bus komt over tien minuten.",
         "english": "The next bus comes in ten minutes."
       }
-    ]
+    ],
+    "mnemonic": "VOLGENDE → NEXT"
   },
   {
     "id": 709,
@@ -10042,7 +10207,8 @@
         "dutch": "Vorige week was ik ziek.",
         "english": "Last week I was sick."
       }
-    ]
+    ],
+    "mnemonic": "VORIGE → PREVIOUS"
   },
   {
     "id": 710,
@@ -10055,7 +10221,8 @@
         "dutch": "Ik ben hier.",
         "english": "I am here."
       }
-    ]
+    ],
+    "mnemonic": "ICK! I don't like that - IK (I)"
   },
   {
     "id": 711,
@@ -10068,7 +10235,8 @@
         "dutch": "Jij bent slim.",
         "english": "You are smart."
       }
-    ]
+    ],
+    "mnemonic": "Hey YOU - YAY it's JIJ!"
   },
   {
     "id": 712,
@@ -10081,7 +10249,8 @@
         "dutch": "Hoe heet u?",
         "english": "What is your name?"
       }
-    ]
+    ],
+    "mnemonic": "U → YOU (FORMAL)"
   },
   {
     "id": 713,
@@ -10094,7 +10263,8 @@
         "dutch": "Hij werkt hard.",
         "english": "He works hard."
       }
-    ]
+    ],
+    "mnemonic": "HEY, HE's over there - HIJ"
   },
   {
     "id": 714,
@@ -10107,7 +10277,8 @@
         "dutch": "Zij is mijn zus.",
         "english": "She is my sister."
       }
-    ]
+    ],
+    "mnemonic": "ZAY what? SHE said that - ZIJ"
   },
   {
     "id": 715,
@@ -10120,7 +10291,8 @@
         "dutch": "Het regent.",
         "english": "It's raining."
       }
-    ]
+    ],
+    "mnemonic": "HET → IT"
   },
   {
     "id": 716,
@@ -10133,7 +10305,8 @@
         "dutch": "Wij gaan samen.",
         "english": "We go together."
       }
-    ]
+    ],
+    "mnemonic": "WE are the champions - WIJ"
   },
   {
     "id": 717,
@@ -10146,7 +10319,8 @@
         "dutch": "Komen jullie ook?",
         "english": "Are you coming too?"
       }
-    ]
+    ],
+    "mnemonic": "YOU-LIE! All of YOU (plural) - JULLIE"
   },
   {
     "id": 718,
@@ -10159,7 +10333,8 @@
         "dutch": "Dit is mijn boek.",
         "english": "This is my book."
       }
-    ]
+    ],
+    "mnemonic": "That's MINE - MIJN"
   },
   {
     "id": 719,
@@ -10172,7 +10347,8 @@
         "dutch": "Is dit jouw tas?",
         "english": "Is this your bag?"
       }
-    ]
+    ],
+    "mnemonic": "Is that YOURS? - JOUW"
   },
   {
     "id": 720,
@@ -10185,7 +10361,8 @@
         "dutch": "Wat is uw naam?",
         "english": "What is your name?"
       }
-    ]
+    ],
+    "mnemonic": "UW → YOUR (FORMAL)"
   },
   {
     "id": 721,
@@ -10226,7 +10403,8 @@
         "dutch": "Dit is ons huis.",
         "english": "This is our house."
       }
-    ]
+    ],
+    "mnemonic": "It's ON US - ONS (our)"
   },
   {
     "id": 724,
@@ -10239,7 +10417,8 @@
         "dutch": "Dit is hun auto.",
         "english": "This is their car."
       }
-    ]
+    ],
+    "mnemonic": "The Huns owned THEIR empire - HUN"
   },
   {
     "id": 725,
@@ -10252,7 +10431,8 @@
         "dutch": "Dit is goed.",
         "english": "This is good."
       }
-    ]
+    ],
+    "mnemonic": "DIT → THIS"
   },
   {
     "id": 726,
@@ -10265,7 +10445,8 @@
         "dutch": "Wat is dat?",
         "english": "What is that?"
       }
-    ]
+    ],
+    "mnemonic": "THAT is DAT"
   },
   {
     "id": 727,
@@ -10278,7 +10459,8 @@
         "dutch": "Deze appel is lekker.",
         "english": "This apple is tasty."
       }
-    ]
+    ],
+    "mnemonic": "DEZE → THIS"
   },
   {
     "id": 728,
@@ -10291,7 +10473,8 @@
         "dutch": "Die man is mijn vader.",
         "english": "That man is my father."
       }
-    ]
+    ],
+    "mnemonic": "DIE → THAT"
   },
   {
     "id": 729,
@@ -10374,7 +10557,8 @@
         "dutch": "Iedereen is welkom.",
         "english": "Everyone is welcome."
       }
-    ]
+    ],
+    "mnemonic": "IEDEREEN → EVERYONE"
   },
   {
     "id": 735,
@@ -10387,7 +10571,8 @@
         "dutch": "Wij helpen elkaar.",
         "english": "We help each other."
       }
-    ]
+    ],
+    "mnemonic": "ELKAAR → EACH OTHER"
   },
   {
     "id": 736,
@@ -10400,7 +10585,8 @@
         "dutch": "Ik doe het zelf.",
         "english": "I do it myself."
       }
-    ]
+    ],
+    "mnemonic": "ZELF → SELF"
   },
   {
     "id": 737,
@@ -10413,7 +10599,8 @@
         "dutch": "De man loopt.",
         "english": "The man walks."
       }
-    ]
+    ],
+    "mnemonic": "DE → THE (COMMON)"
   },
   {
     "id": 738,
@@ -10426,7 +10613,8 @@
         "dutch": "Het kind speelt.",
         "english": "The child plays."
       }
-    ]
+    ],
+    "mnemonic": "HET → THE (NEUTER)"
   },
   {
     "id": 739,
@@ -10495,7 +10683,8 @@
         "dutch": "Kunt u dat alstublieft herhalen?",
         "english": "Could you please repeat that?"
       }
-    ]
+    ],
+    "mnemonic": "ALSTUBLIEFT → PLEASE (FORMAL)"
   },
   {
     "id": 744,
@@ -10508,7 +10697,8 @@
         "dutch": "Dank je wel!",
         "english": "Thank you very much!"
       }
-    ]
+    ],
+    "mnemonic": "DANK JE → THANK YOU (INFORMAL)"
   },
   {
     "id": 745,
@@ -10521,7 +10711,8 @@
         "dutch": "Dank u wel.",
         "english": "Thank you very much."
       }
-    ]
+    ],
+    "mnemonic": "DANK U → THANK YOU (FORMAL)"
   },
   {
     "id": 746,
@@ -10548,7 +10739,8 @@
         "dutch": "Pardon, mag ik erdoor?",
         "english": "Excuse me, may I pass?"
       }
-    ]
+    ],
+    "mnemonic": "PARDON → EXCUSE ME"
   },
   {
     "id": 748,
@@ -10561,7 +10753,8 @@
         "dutch": "Hallo, hoe gaat het?",
         "english": "Hello, how are you?"
       }
-    ]
+    ],
+    "mnemonic": "HALLO → HELLO"
   },
   {
     "id": 749,
@@ -10588,7 +10781,8 @@
         "dutch": "Doei!",
         "english": "Bye!"
       }
-    ]
+    ],
+    "mnemonic": "DOEI → BYE"
   },
   {
     "id": 751,
@@ -10615,7 +10809,8 @@
         "dutch": "Gefeliciteerd met je verjaardag!",
         "english": "Happy birthday!"
       }
-    ]
+    ],
+    "mnemonic": "GEFELICITEERD → CONGRATULATIONS"
   },
   {
     "id": 753,
@@ -10704,7 +10899,8 @@
         "dutch": "Ik maak mijn huiswerk.",
         "english": "I do my homework."
       }
-    ]
+    ],
+    "mnemonic": "HUISWERK → HOMEWORK"
   },
   {
     "id": 759,
@@ -10718,7 +10914,8 @@
         "dutch": "Dit is een moeilijke oefening.",
         "english": "This is a difficult exercise."
       }
-    ]
+    ],
+    "mnemonic": "OEFENING → EXERCISE"
   },
   {
     "id": 760,
@@ -10748,7 +10945,7 @@
         "english": "I have a question."
       }
     ],
-    "mnemonic": "FRAAG/QUESTION - I ask"
+    "mnemonic": "A FROG croaks a QUESTION: \"Ribbit?\" - VRAAG"
   },
   {
     "id": 762,
@@ -10762,7 +10959,8 @@
         "dutch": "De leraar legt het uit.",
         "english": "The teacher explains it."
       }
-    ]
+    ],
+    "mnemonic": "LERAAR → TEACHER (M)"
   },
   {
     "id": 763,
@@ -10776,7 +10974,8 @@
         "dutch": "De lerares is vriendelijk.",
         "english": "The teacher is friendly."
       }
-    ]
+    ],
+    "mnemonic": "LERARES → TEACHER (F)"
   },
   {
     "id": 764,
@@ -10790,7 +10989,8 @@
         "dutch": "Ik ben student.",
         "english": "I am a student."
       }
-    ]
+    ],
+    "mnemonic": "STUDENT → STUDENT"
   },
   {
     "id": 765,
@@ -10804,7 +11004,8 @@
         "dutch": "De leerling leert snel.",
         "english": "The pupil learns quickly."
       }
-    ]
+    ],
+    "mnemonic": "LEERLING → PUPIL"
   },
   {
     "id": 766,
@@ -10968,7 +11169,8 @@
         "dutch": "Ik ga naar de supermarkt.",
         "english": "I go to the supermarket."
       }
-    ]
+    ],
+    "mnemonic": "SUPERMARKT → SUPERMARKET"
   },
   {
     "id": 777,
@@ -11057,7 +11259,8 @@
         "dutch": "Er is twintig procent korting.",
         "english": "There's a twenty percent discount."
       }
-    ]
+    ],
+    "mnemonic": "KORTING → DISCOUNT"
   },
   {
     "id": 783,
@@ -11086,7 +11289,8 @@
         "dutch": "Ik kijk graag voetbal.",
         "english": "I like to watch soccer."
       }
-    ]
+    ],
+    "mnemonic": "VOETBAL → SOCCER"
   },
   {
     "id": 785,
@@ -11143,7 +11347,8 @@
         "dutch": "Ik wandel in het bos.",
         "english": "I walk in the forest."
       }
-    ]
+    ],
+    "mnemonic": "WANDELEN → TO WALK"
   },
   {
     "id": 789,
@@ -11156,7 +11361,8 @@
         "dutch": "Ik ga elke ochtend hardlopen.",
         "english": "I go running every morning."
       }
-    ]
+    ],
+    "mnemonic": "HARDLOPEN → TO RUN (EXERCISE)"
   },
   {
     "id": 790,
@@ -11200,7 +11406,8 @@
         "dutch": "Ik woon in een klein dorp.",
         "english": "I live in a small village."
       }
-    ]
+    ],
+    "mnemonic": "DORP → VILLAGE"
   },
   {
     "id": 793,
@@ -11334,7 +11541,8 @@
         "dutch": "Welk dier is dit?",
         "english": "What animal is this?"
       }
-    ]
+    ],
+    "mnemonic": "DIER → ANIMAL"
   },
   {
     "id": 802,
@@ -11393,7 +11601,8 @@
         "dutch": "De koe staat in de wei.",
         "english": "The cow stands in the meadow."
       }
-    ]
+    ],
+    "mnemonic": "COW - KOE sounds like COW"
   },
   {
     "id": 806,
@@ -11407,7 +11616,8 @@
         "dutch": "Het paard rent snel.",
         "english": "The horse runs fast."
       }
-    ]
+    ],
+    "mnemonic": "PART horse = HORSE - PAARD"
   },
   {
     "id": 807,
@@ -11451,7 +11661,8 @@
         "dutch": "Ik geef water aan de plant.",
         "english": "I give water to the plant."
       }
-    ]
+    ],
+    "mnemonic": "PLANT - same!"
   },
   {
     "id": 810,
@@ -11465,7 +11676,8 @@
         "dutch": "Het gras is groen.",
         "english": "The grass is green."
       }
-    ]
+    ],
+    "mnemonic": "GRASS - GRAS"
   },
   {
     "id": 811,
@@ -11479,7 +11691,8 @@
         "dutch": "Het blad valt van de boom.",
         "english": "The leaf falls from the tree."
       }
-    ]
+    ],
+    "mnemonic": "BLADE of grass / LEAF - BLAD"
   },
   {
     "id": 812,
@@ -11723,7 +11936,7 @@
         "english": "What is the reason?"
       }
     ],
-    "mnemonic": "Everything happens for a REASON - REDEN"
+    "mnemonic": "What's the REASON you're RED-en? - REDEN"
   },
   {
     "id": 829,
@@ -11782,7 +11995,8 @@
         "dutch": "De keuze is aan jou.",
         "english": "The choice is yours."
       }
-    ]
+    ],
+    "mnemonic": "KEUZE → CHOICE"
   },
   {
     "id": 833,
@@ -11856,7 +12070,8 @@
         "dutch": "Ik maakte een fout.",
         "english": "I made a mistake."
       }
-    ]
+    ],
+    "mnemonic": "FOUL! That's a MISTAKE - FOUT"
   },
   {
     "id": 838,
@@ -11870,7 +12085,8 @@
         "dutch": "Ik heb hulp nodig.",
         "english": "I need help."
       }
-    ]
+    ],
+    "mnemonic": "HULP → HELP"
   },
   {
     "id": 839,
@@ -11914,7 +12130,8 @@
         "dutch": "Ik lees de krant.",
         "english": "I read the newspaper."
       }
-    ]
+    ],
+    "mnemonic": "GRANT me the NEWSPAPER - KRANT"
   },
   {
     "id": 842,
@@ -11943,7 +12160,8 @@
         "dutch": "Wat betekent dit woord?",
         "english": "What does this word mean?"
       }
-    ]
+    ],
+    "mnemonic": "WORD - WOORD sounds like WORD"
   },
   {
     "id": 844,
@@ -11957,7 +12175,8 @@
         "dutch": "Maak een zin.",
         "english": "Make a sentence."
       }
-    ]
+    ],
+    "mnemonic": "SENSE in a SENTENCE - ZIN"
   },
   {
     "id": 845,
@@ -11971,7 +12190,8 @@
         "dutch": "Welke talen spreek je?",
         "english": "What languages do you speak?"
       }
-    ]
+    ],
+    "mnemonic": "TALE in your LANGUAGE - TAAL"
   },
   {
     "id": 846,
@@ -12000,7 +12220,8 @@
         "dutch": "Mijn uitspraak is niet perfect.",
         "english": "My pronunciation is not perfect."
       }
-    ]
+    ],
+    "mnemonic": "UITSPRAAK → PRONUNCIATION"
   },
   {
     "id": 848,
@@ -12014,7 +12235,8 @@
         "dutch": "Nederlandse grammatica is moeilijk.",
         "english": "Dutch grammar is difficult."
       }
-    ]
+    ],
+    "mnemonic": "GRAMMATICA → GRAMMAR"
   },
   {
     "id": 849,
@@ -12058,7 +12280,8 @@
         "dutch": "De geboorte was goed.",
         "english": "The birth went well."
       }
-    ]
+    ],
+    "mnemonic": "GEBOORTE → BIRTH"
   },
   {
     "id": 852,
@@ -12087,7 +12310,8 @@
         "dutch": "De bruiloft was mooi.",
         "english": "The wedding was beautiful."
       }
-    ]
+    ],
+    "mnemonic": "BRUILOFT → WEDDING"
   },
   {
     "id": 854,
@@ -12161,7 +12385,8 @@
         "dutch": "Ik voel boosheid.",
         "english": "I feel anger."
       }
-    ]
+    ],
+    "mnemonic": "BOOSHEID → ANGER"
   },
   {
     "id": 859,
@@ -12296,7 +12521,7 @@
         "english": "It is my duty."
       }
     ],
-    "mnemonic": "With great power comes great responsibility - it's your PLIGHT/DUTY (plicht)"
+    "mnemonic": "A knight's PLIGHT is his DUTY - PLICHT"
   },
   {
     "id": 868,
@@ -12325,7 +12550,8 @@
         "dutch": "De Nederlandse cultuur is interessant.",
         "english": "Dutch culture is interesting."
       }
-    ]
+    ],
+    "mnemonic": "CULTUUR → CULTURE"
   },
   {
     "id": 870,
@@ -12339,7 +12565,8 @@
         "dutch": "Religie is persoonlijk.",
         "english": "Religion is personal."
       }
-    ]
+    ],
+    "mnemonic": "RELIGIE → RELIGION"
   },
   {
     "id": 871,
@@ -12368,7 +12595,8 @@
         "dutch": "Geloof je in God?",
         "english": "Do you believe in God?"
       }
-    ]
+    ],
+    "mnemonic": "GOD → GOD"
   },
   {
     "id": 873,
@@ -12382,7 +12610,8 @@
         "dutch": "Muziek is goed voor de ziel.",
         "english": "Music is good for the soul."
       }
-    ]
+    ],
+    "mnemonic": "ZIEL → SOUL"
   },
   {
     "id": 874,
@@ -12396,7 +12625,8 @@
         "dutch": "Train je geest.",
         "english": "Train your mind."
       }
-    ]
+    ],
+    "mnemonic": "GEEST → SPIRIT"
   },
   {
     "id": 875,
@@ -12500,7 +12730,8 @@
         "dutch": "Ik houd mijn belofte.",
         "english": "I keep my promise."
       }
-    ]
+    ],
+    "mnemonic": "BELOFTE → PROMISE"
   },
   {
     "id": 882,
@@ -12529,7 +12760,8 @@
         "dutch": "Het was een leuke ontmoeting.",
         "english": "It was a nice encounter."
       }
-    ]
+    ],
+    "mnemonic": "ONTMOETING → MEETING"
   },
   {
     "id": 884,
@@ -12618,7 +12850,8 @@
         "dutch": "Wat is je leeftijd?",
         "english": "What is your age?"
       }
-    ]
+    ],
+    "mnemonic": "LEEFTIJD → AGE"
   },
   {
     "id": 890,
@@ -12632,7 +12865,8 @@
         "dutch": "Wat is je nationaliteit?",
         "english": "What is your nationality?"
       }
-    ]
+    ],
+    "mnemonic": "NATIONALITEIT → NATIONALITY"
   },
   {
     "id": 891,
@@ -12720,7 +12954,8 @@
         "dutch": "Ik ben bezorgd.",
         "english": "I am worried."
       }
-    ]
+    ],
+    "mnemonic": "BEZORGD → WORRIED"
   },
   {
     "id": 897,
@@ -12733,7 +12968,8 @@
         "dutch": "Ik ben zo opgewonden!",
         "english": "I'm so excited!"
       }
-    ]
+    ],
+    "mnemonic": "OPGEWONDEN → EXCITED"
   },
   {
     "id": 898,
@@ -12746,7 +12982,8 @@
         "dutch": "Ik ben tevreden.",
         "english": "I am satisfied."
       }
-    ]
+    ],
+    "mnemonic": "TEVREDEN → SATISFIED"
   },
   {
     "id": 899,
@@ -12759,7 +12996,8 @@
         "dutch": "Ik ben teleurgesteld.",
         "english": "I am disappointed."
       }
-    ]
+    ],
+    "mnemonic": "TELEURGESTELD → DISAPPOINTED"
   },
   {
     "id": 900,
@@ -12772,6 +13010,7 @@
         "dutch": "Ik ben dankbaar.",
         "english": "I am grateful."
       }
-    ]
+    ],
+    "mnemonic": "DANKBAAR → GRATEFUL"
   }
 ]
