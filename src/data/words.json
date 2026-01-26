@@ -1109,7 +1109,8 @@
         "english": "It's easy."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "-lijk = -ly suffix. Opposite: moeilijk (#78)"
   },
   {
     "id": 78,
@@ -1123,7 +1124,8 @@
         "english": "Dutch is difficult."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "From moeite (effort) + -lijk. Opposite: makkelijk (#77)"
   },
   {
     "id": 79,
@@ -1809,7 +1811,8 @@
         "english": "Of course I'll help you."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "natuur (nature) + -lijk = 'naturally' → of course"
   },
   {
     "id": 128,
@@ -1823,7 +1826,8 @@
         "english": "Actually I don't want to."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "eigen (own) + -lijk = 'in own right' → actually"
   },
   {
     "id": 129,
@@ -2412,7 +2416,8 @@
         "english": "He sells cars."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "ver- (away) + kopen (buy) = 'buy away from you' → sell"
   },
   {
     "id": 171,
@@ -2665,7 +2670,8 @@
         "english": "I remember that."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "her- (re-) + inner (inside) = 'bring back inside' → remember"
   },
   {
     "id": 189,
@@ -2763,7 +2769,8 @@
         "english": "The situation changes."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "ver- + ander (other) = 'to make other' → change"
   },
   {
     "id": 196,
@@ -3208,7 +3215,8 @@
         "english": "It's a beautiful story."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "ver- + halen (to fetch) = something 'recounted/fetched' → story"
   },
   {
     "id": 226,
@@ -4205,7 +4213,8 @@
         "english": "I feel healthy."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Cognate with English 'sound' (as in 'safe and sound')"
   },
   {
     "id": 293,
@@ -4564,7 +4573,8 @@
         "english": "I eat breakfast at eight o'clock."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "ont- (un-) + bijten (bite) = 'un-bite' → break-fast!"
   },
   {
     "id": 317,
@@ -5604,7 +5614,8 @@
         "english": "The train departs at three o'clock."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "ver- (away) + trekken (pull) = 'pull away' → depart"
   },
   {
     "id": 391,
@@ -5618,6 +5629,7 @@
         "english": "The bus arrives at four o'clock."
       }
     ],
+    "note": "aan- (at/to) + komen (come) = 'come to' → arrive",
     "mnemonic": ""
   },
   {
@@ -5828,7 +5840,8 @@
         "english": "I received your message."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "ont- (towards) + vangen (catch) = 'catch towards you' → receive"
   },
   {
     "id": 407,
