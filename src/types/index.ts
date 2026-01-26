@@ -26,6 +26,7 @@ export interface Word {
   gender?: 'de' | 'het';
   sentences: Sentence[];
   mnemonic?: string;  // Memory trick connecting Dutch sound to English meaning
+  note?: string;      // Etymology, compound word breakdown, or related words
 }
 
 // Card progress status

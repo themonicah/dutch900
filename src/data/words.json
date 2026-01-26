@@ -391,7 +391,8 @@
         "english": "I don't understand."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "be- + grijpen (to grasp) = 'to grasp completely' → understand"
   },
   {
     "id": 29,
@@ -1850,7 +1851,8 @@
         "english": "Fortunately I'm on time."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "geluk (luck/happiness) + -ig = lucky/happy. Opposite: ongelukkig"
   },
   {
     "id": 131,
@@ -2648,7 +2650,8 @@
         "english": "I always forget it."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "ver- prefix often means 'away/completely'. Opposite: herinneren (#188)"
   },
   {
     "id": 188,
@@ -6679,7 +6682,8 @@
         "english": "This is important."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "belang (interest) + -rijk (rich in) = 'rich in importance'"
   },
   {
     "id": 468,
@@ -6707,7 +6711,8 @@
         "english": "Is that possible?"
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "From mogen (may) + -elijk (-able) = 'may-able' → possible"
   },
   {
     "id": 470,
@@ -12431,7 +12436,8 @@
         "english": "I want peace."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Root of tevreden (#898) = 'te vrede' (at peace) → satisfied"
   },
   {
     "id": 862,
@@ -12983,7 +12989,8 @@
         "english": "I am satisfied."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "te + vrede = 'at peace' → satisfied. Related to vrede (#861)"
   },
   {
     "id": 899,
