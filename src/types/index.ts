@@ -25,6 +25,7 @@ export interface Word {
   partOfSpeech: PartOfSpeech;
   gender?: 'de' | 'het';
   sentences: Sentence[];
+  mnemonic?: string;  // Memory trick connecting Dutch sound to English meaning
 }
 
 // Card progress status

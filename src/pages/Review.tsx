@@ -526,24 +526,31 @@ function Review() {
             </div>
           )}
 
-          {/* Mnemonic hint sentence - shown after reveal, cycles through available sentences */}
-          {showResult && settings.showMnemonics && currentWord.sentences && currentWord.sentences.length > 0 && (
-            <div className="mt-3 px-4 py-2">
-              {(() => {
-                // Pick a sentence based on word ID + current attempts to cycle through them
+          {/* Hints shown after reveal */}
+          {showResult && settings.showMnemonics && (
+            <div className="mt-3 px-4 py-2 space-y-3">
+              {/* Example sentence - cycles through available sentences */}
+              {currentWord.sentences && currentWord.sentences.length > 0 && (() => {
                 const sentenceIndex = (currentWord.id + (progressMap.get(currentWord.id)?.attempts || 0)) % currentWord.sentences.length;
                 const sentence = currentWord.sentences[sentenceIndex];
                 return (
-                  <>
+                  <div>
                     <p className="text-sm text-gray-600 dark:text-gray-300 text-center italic">
                       "{sentence.dutch}"
                     </p>
                     <p className="text-xs text-gray-500 dark:text-gray-400 text-center mt-1">
                       {sentence.english}
                     </p>
-                  </>
+                  </div>
                 );
               })()}
+
+              {/* Memory trick */}
+              {currentWord.mnemonic && (
+                <p className="text-sm text-center text-indigo-600 dark:text-indigo-400">
+                  💡 {currentWord.mnemonic}
+                </p>
+              )}
             </div>
           )}
         </div>

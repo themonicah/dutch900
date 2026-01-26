@@ -19,7 +19,8 @@
         "dutch": "De huis is mooi.",
         "english": "The house is beautiful."
       }
-    ]
+    ],
+    "mnemonic": "HOUSE sounds like HUIS"
   },
   {
     "id": 2,
@@ -41,7 +42,8 @@
         "dutch": "De water is mooi.",
         "english": "The water is beautiful."
       }
-    ]
+    ],
+    "mnemonic": "WATER is the same!"
   },
   {
     "id": 3,
@@ -62,7 +64,8 @@
         "dutch": "Wat eet je het liefst?",
         "english": "What do you like to eat most?"
       }
-    ]
+    ],
+    "mnemonic": "ATE-en, you ATE your food"
   },
   {
     "id": 4,
@@ -83,7 +86,8 @@
         "dutch": "Drink je water of sap?",
         "english": "Do you drink water or juice?"
       }
-    ]
+    ],
+    "mnemonic": "DRINK-en sounds like DRINK"
   },
   {
     "id": 5,
@@ -104,7 +108,8 @@
         "dutch": "Waar ga je naartoe?",
         "english": "Where are you going?"
       }
-    ]
+    ],
+    "mnemonic": "GONE - I'm GONE, I GO"
   },
   {
     "id": 6,
@@ -125,7 +130,8 @@
         "dutch": "Kom je naar het feest?",
         "english": "Are you coming to the party?"
       }
-    ]
+    ],
+    "mnemonic": "COME-en sounds like COME"
   },
   {
     "id": 7,
@@ -146,7 +152,8 @@
         "dutch": "Heb je honger?",
         "english": "Are you hungry?"
       }
-    ]
+    ],
+    "mnemonic": "HAVE-ben, I HAVE it"
   },
   {
     "id": 8,
@@ -167,7 +174,8 @@
         "dutch": "Ben je klaar?",
         "english": "Are you ready?"
       }
-    ]
+    ],
+    "mnemonic": "ZINE - to BE in a magazine/zine"
   },
   {
     "id": 9,
@@ -188,7 +196,8 @@
         "dutch": "Wij willen een huis kopen.",
         "english": "We want to buy a house."
       }
-    ]
+    ],
+    "mnemonic": "WILL-en, I WILL do what I WANT"
   },
   {
     "id": 10,
@@ -209,7 +218,8 @@
         "dutch": "Zij kan goed koken.",
         "english": "She can cook well."
       }
-    ]
+    ],
+    "mnemonic": "CAN-nen, I CAN do it"
   },
   {
     "id": 11,
@@ -230,7 +240,8 @@
         "dutch": "Wij moeten nu vertrekken.",
         "english": "We have to leave now."
       }
-    ]
+    ],
+    "mnemonic": "MOOT-en point - you MUST decide"
   },
   {
     "id": 12,
@@ -251,7 +262,8 @@
         "dutch": "Mogen we naar binnen?",
         "english": "May we come inside?"
       }
-    ]
+    ],
+    "mnemonic": "MAY-gen, you MAY go"
   },
   {
     "id": 13,
@@ -272,7 +284,8 @@
         "dutch": "Kun je het zien?",
         "english": "Can you see it?"
       }
-    ]
+    ],
+    "mnemonic": "SEEN - I have SEEN it"
   },
   {
     "id": 14,
@@ -293,7 +306,8 @@
         "dutch": "Ik hoor graag van je.",
         "english": "I like to hear from you."
       }
-    ]
+    ],
+    "mnemonic": "HEAR-en sounds like HEAR"
   },
   {
     "id": 15,
@@ -314,7 +328,8 @@
         "dutch": "Niemand weet het antwoord.",
         "english": "Nobody knows the answer."
       }
-    ]
+    ],
+    "mnemonic": "WIT-en, use your WIT to KNOW"
   },
   {
     "id": 16,
@@ -335,7 +350,8 @@
         "dutch": "Ken je dat restaurant?",
         "english": "Do you know that restaurant?"
       }
-    ]
+    ],
+    "mnemonic": "KEN someone - to KNOW a person"
   },
   {
     "id": 17,
@@ -356,7 +372,8 @@
         "dutch": "Ik denk vaak aan haar.",
         "english": "I often think of her."
       }
-    ]
+    ],
+    "mnemonic": "THINK-en sounds like THINK"
   },
   {
     "id": 18,
@@ -377,7 +394,8 @@
         "dutch": "Kun je dat nog een keer zeggen?",
         "english": "Can you say that again?"
       }
-    ]
+    ],
+    "mnemonic": "SAY-gen, SAY something"
   },
   {
     "id": 19,
@@ -398,7 +416,8 @@
         "dutch": "Vraag het maar!",
         "english": "Just ask!"
       }
-    ]
+    ],
+    "mnemonic": "FRA-gen - the FRA asks a question"
   },
   {
     "id": 20,
@@ -419,7 +438,8 @@
         "dutch": "Zij geeft altijd goede adviezen.",
         "english": "She always gives good advice."
       }
-    ]
+    ],
+    "mnemonic": "GIVE-en sounds like GIVE"
   },
   {
     "id": 21,
@@ -440,7 +460,8 @@
         "dutch": "Ik neem de bus naar het werk.",
         "english": "I take the bus to work."
       }
-    ]
+    ],
+    "mnemonic": "NAME-en - TAKE down their NAME"
   },
   {
     "id": 22,
@@ -461,7 +482,8 @@
         "dutch": "Maak je geen zorgen.",
         "english": "Don't worry."
       }
-    ]
+    ],
+    "mnemonic": "MAKE-en sounds like MAKE"
   },
   {
     "id": 23,
@@ -482,7 +504,8 @@
         "dutch": "De computer werkt niet.",
         "english": "The computer doesn't work."
       }
-    ]
+    ],
+    "mnemonic": "WORK-en sounds like WORK"
   },
   {
     "id": 24,
@@ -503,7 +526,8 @@
         "dutch": "Ik leer elke dag nieuwe woorden.",
         "english": "I learn new words every day."
       }
-    ]
+    ],
+    "mnemonic": "LEARN-en sounds like LEARN"
   },
   {
     "id": 25,
@@ -524,7 +548,8 @@
         "dutch": "Hij schrijft een boek.",
         "english": "He is writing a book."
       }
-    ]
+    ],
+    "mnemonic": "SCRIBE-ven - a SCRIBE WRITES"
   },
   {
     "id": 26,
@@ -545,7 +570,8 @@
         "dutch": "Kun je dit voor me lezen?",
         "english": "Can you read this for me?"
       }
-    ]
+    ],
+    "mnemonic": "LAYS-en - she LAYS down to READ"
   },
   {
     "id": 27,
@@ -566,7 +592,8 @@
         "dutch": "Kun je langzamer spreken?",
         "english": "Can you speak more slowly?"
       }
-    ]
+    ],
+    "mnemonic": "SPEAK-en sounds like SPEAK"
   },
   {
     "id": 28,
@@ -587,7 +614,8 @@
         "dutch": "Ik begrijp je helemaal.",
         "english": "I understand you completely."
       }
-    ]
+    ],
+    "mnemonic": "Be-GRIP-en - GRIP the concept, UNDERSTAND"
   },
   {
     "id": 29,
@@ -608,7 +636,8 @@
         "dutch": "Ik kan mijn telefoon niet vinden.",
         "english": "I can't find my phone."
       }
-    ]
+    ],
+    "mnemonic": "FIND-en sounds like FIND"
   },
   {
     "id": 30,
@@ -629,7 +658,8 @@
         "dutch": "Ik zoek een baan.",
         "english": "I'm looking for a job."
       }
-    ]
+    ],
+    "mnemonic": "SEEK-en - SEEK/SEARCH"
   },
   {
     "id": 31,
@@ -651,7 +681,8 @@
         "dutch": "De dag is mooi.",
         "english": "The day is beautiful."
       }
-    ]
+    ],
+    "mnemonic": "DAY - dag sounds like day"
   },
   {
     "id": 32,
@@ -673,7 +704,8 @@
         "dutch": "De week is mooi.",
         "english": "The week is beautiful."
       }
-    ]
+    ],
+    "mnemonic": "WEEK is the same!"
   },
   {
     "id": 33,
@@ -695,7 +727,8 @@
         "dutch": "De maand is mooi.",
         "english": "The month is beautiful."
       }
-    ]
+    ],
+    "mnemonic": "MONTH - maand sounds like MONTH"
   },
   {
     "id": 34,
@@ -717,7 +750,8 @@
         "dutch": "De jaar is mooi.",
         "english": "The year is beautiful."
       }
-    ]
+    ],
+    "mnemonic": "YEAR - jaar sounds like YEAR"
   },
   {
     "id": 35,
@@ -739,7 +773,8 @@
         "dutch": "De tijd is mooi.",
         "english": "The time is beautiful."
       }
-    ]
+    ],
+    "mnemonic": "TIDE of TIME - tijd"
   },
   {
     "id": 36,
@@ -761,7 +796,8 @@
         "dutch": "De uur is mooi.",
         "english": "The hour is beautiful."
       }
-    ]
+    ],
+    "mnemonic": "HOUR - uur sounds like OUR/HOUR"
   },
   {
     "id": 37,
@@ -783,7 +819,8 @@
         "dutch": "De minuut is mooi.",
         "english": "The minute is beautiful."
       }
-    ]
+    ],
+    "mnemonic": "MINUTE sounds like minuut"
   },
   {
     "id": 38,
@@ -805,7 +842,8 @@
         "dutch": "De man is mooi.",
         "english": "The man is beautiful."
       }
-    ]
+    ],
+    "mnemonic": "MAN is the same!"
   },
   {
     "id": 39,
@@ -827,7 +865,8 @@
         "dutch": "De vrouw is mooi.",
         "english": "The woman is beautiful."
       }
-    ]
+    ],
+    "mnemonic": "FRAU/FROW - a WOMAN/WIFE"
   },
   {
     "id": 40,
@@ -849,7 +888,8 @@
         "dutch": "De kind is mooi.",
         "english": "The child is beautiful."
       }
-    ]
+    ],
+    "mnemonic": "KIND to the CHILD"
   },
   {
     "id": 41,
@@ -871,7 +911,8 @@
         "dutch": "De vader is mooi.",
         "english": "The father is beautiful."
       }
-    ]
+    ],
+    "mnemonic": "FATHER - vader like Darth Vader"
   },
   {
     "id": 42,
@@ -893,7 +934,8 @@
         "dutch": "De moeder is mooi.",
         "english": "The mother is beautiful."
       }
-    ]
+    ],
+    "mnemonic": "MOTHER - moeder sounds similar"
   },
   {
     "id": 43,
@@ -915,7 +957,8 @@
         "dutch": "De zoon is mooi.",
         "english": "The son is beautiful."
       }
-    ]
+    ],
+    "mnemonic": "SON - zoon sounds like SON"
   },
   {
     "id": 44,
@@ -937,7 +980,8 @@
         "dutch": "De dochter is mooi.",
         "english": "The daughter is beautiful."
       }
-    ]
+    ],
+    "mnemonic": "DAUGHTER - dochter sounds similar"
   },
   {
     "id": 45,
@@ -959,7 +1003,8 @@
         "dutch": "De vriend is mooi.",
         "english": "The friend (male) is beautiful."
       }
-    ]
+    ],
+    "mnemonic": "FRIEND - vriend sounds like FRIEND"
   },
   {
     "id": 46,
@@ -981,7 +1026,8 @@
         "dutch": "De boek is mooi.",
         "english": "The book is beautiful."
       }
-    ]
+    ],
+    "mnemonic": "BOOK - boek sounds like BOOK"
   },
   {
     "id": 47,
@@ -1003,7 +1049,8 @@
         "dutch": "De auto is mooi.",
         "english": "The car is beautiful."
       }
-    ]
+    ],
+    "mnemonic": "AUTO/CAR - auto"
   },
   {
     "id": 48,
@@ -1025,7 +1072,8 @@
         "dutch": "De fiets is mooi.",
         "english": "The bicycle is beautiful."
       }
-    ]
+    ],
+    "mnemonic": "FEATS on a BICYCLE"
   },
   {
     "id": 49,
@@ -1047,7 +1095,8 @@
         "dutch": "De trein is mooi.",
         "english": "The train is beautiful."
       }
-    ]
+    ],
+    "mnemonic": "TRAIN - trein sounds like TRAIN"
   },
   {
     "id": 50,
@@ -1069,7 +1118,8 @@
         "dutch": "De school is mooi.",
         "english": "The school is beautiful."
       }
-    ]
+    ],
+    "mnemonic": "SCHOOL is the same!"
   },
   {
     "id": 51,
@@ -1091,7 +1141,8 @@
         "dutch": "De werk is mooi.",
         "english": "The work is beautiful."
       }
-    ]
+    ],
+    "mnemonic": "WORK - werk sounds like WORK"
   },
   {
     "id": 52,
@@ -1113,7 +1164,8 @@
         "dutch": "De geld is mooi.",
         "english": "The money is beautiful."
       }
-    ]
+    ],
+    "mnemonic": "GOLD/GELD - MONEY"
   },
   {
     "id": 53,
@@ -1135,7 +1187,8 @@
         "dutch": "De stad is mooi.",
         "english": "The city is beautiful."
       }
-    ]
+    ],
+    "mnemonic": "STADT - a CITY/state"
   },
   {
     "id": 54,
@@ -1157,7 +1210,8 @@
         "dutch": "De land is mooi.",
         "english": "The country is beautiful."
       }
-    ]
+    ],
+    "mnemonic": "LAND/COUNTRY is the same!"
   },
   {
     "id": 55,
@@ -1179,7 +1233,8 @@
         "dutch": "De koffie is mooi.",
         "english": "The coffee is beautiful."
       }
-    ]
+    ],
+    "mnemonic": "COFFEE - koffie sounds like COFFEE"
   },
   {
     "id": 56,
@@ -1201,7 +1256,8 @@
         "dutch": "De thee is mooi.",
         "english": "The tea is beautiful."
       }
-    ]
+    ],
+    "mnemonic": "TEA - thee sounds like TEA"
   },
   {
     "id": 57,
@@ -1223,7 +1279,8 @@
         "dutch": "De weg is mooi.",
         "english": "The road is beautiful."
       }
-    ]
+    ],
+    "mnemonic": "WAY/ROAD - weg sounds like WAY"
   },
   {
     "id": 58,
@@ -1245,7 +1302,8 @@
         "dutch": "De straat is mooi.",
         "english": "The street is beautiful."
       }
-    ]
+    ],
+    "mnemonic": "STREET - straat sounds like STREET"
   },
   {
     "id": 59,
@@ -1267,7 +1325,8 @@
         "dutch": "De deur is mooi.",
         "english": "The door is beautiful."
       }
-    ]
+    ],
+    "mnemonic": "DOOR - deur sounds like DOOR"
   },
   {
     "id": 60,
@@ -1289,7 +1348,8 @@
         "dutch": "De hond is mooi.",
         "english": "The dog is beautiful."
       }
-    ]
+    ],
+    "mnemonic": "HOUND/DOG - hond sounds like HOUND"
   },
   {
     "id": 61,
@@ -1311,7 +1371,8 @@
         "dutch": "De kat is mooi.",
         "english": "The cat is beautiful."
       }
-    ]
+    ],
+    "mnemonic": "CAT - kat sounds like CAT"
   },
   {
     "id": 62,
@@ -1332,7 +1393,8 @@
         "dutch": "Dat is niet groot.",
         "english": "That is not big."
       }
-    ]
+    ],
+    "mnemonic": "GREAT/BIG - groot"
   },
   {
     "id": 63,
@@ -1353,7 +1415,8 @@
         "dutch": "Dat is niet klein.",
         "english": "That is not small."
       }
-    ]
+    ],
+    "mnemonic": "Clean and SMALL"
   },
   {
     "id": 64,
@@ -1374,7 +1437,8 @@
         "dutch": "Dat is niet goed.",
         "english": "That is not good."
       }
-    ]
+    ],
+    "mnemonic": "GOOD - goed sounds like GOOD"
   },
   {
     "id": 65,
@@ -1395,7 +1459,8 @@
         "dutch": "Dat is niet slecht.",
         "english": "That is not bad."
       }
-    ]
+    ],
+    "mnemonic": "SLACKED off = BAD"
   },
   {
     "id": 66,
@@ -1416,7 +1481,8 @@
         "dutch": "Dat is niet mooi.",
         "english": "That is not beautiful."
       }
-    ]
+    ],
+    "mnemonic": "MOO-y BEAUTIFUL cow"
   },
   {
     "id": 67,
@@ -1437,7 +1503,8 @@
         "dutch": "Dat is niet lekker.",
         "english": "That is not tasty."
       }
-    ]
+    ],
+    "mnemonic": "LICK-er - TASTY, lick it!"
   },
   {
     "id": 68,
@@ -1458,7 +1525,8 @@
         "dutch": "Dat is niet warm.",
         "english": "That is not warm."
       }
-    ]
+    ],
+    "mnemonic": "WARM is the same!"
   },
   {
     "id": 69,
@@ -1479,7 +1547,8 @@
         "dutch": "Dat is niet koud.",
         "english": "That is not cold."
       }
-    ]
+    ],
+    "mnemonic": "COLD - koud sounds like COLD"
   },
   {
     "id": 70,
@@ -1500,7 +1569,8 @@
         "dutch": "Dat is niet nieuw.",
         "english": "That is not new."
       }
-    ]
+    ],
+    "mnemonic": "NEW - nieuw sounds like NEW"
   },
   {
     "id": 71,
@@ -1521,7 +1591,8 @@
         "dutch": "Dat is niet oud.",
         "english": "That is not old."
       }
-    ]
+    ],
+    "mnemonic": "OLD - oud sounds like OLD"
   },
   {
     "id": 72,
@@ -1542,7 +1613,8 @@
         "dutch": "Dat is niet jong.",
         "english": "That is not young."
       }
-    ]
+    ],
+    "mnemonic": "YOUNG - jong sounds like YOUNG"
   },
   {
     "id": 73,
@@ -1563,7 +1635,8 @@
         "dutch": "Dat is niet lang.",
         "english": "That is not long."
       }
-    ]
+    ],
+    "mnemonic": "LONG/TALL - lang sounds like LONG"
   },
   {
     "id": 74,
@@ -1584,7 +1657,8 @@
         "dutch": "Dat is niet kort.",
         "english": "That is not short."
       }
-    ]
+    ],
+    "mnemonic": "CUT SHORT - kort"
   },
   {
     "id": 75,
@@ -1605,7 +1679,8 @@
         "dutch": "Dat is niet snel.",
         "english": "That is not fast."
       }
-    ]
+    ],
+    "mnemonic": "Like a SNAIL? No, FAST!"
   },
   {
     "id": 76,
@@ -1626,7 +1701,8 @@
         "dutch": "Dat is niet blij.",
         "english": "That is not happy."
       }
-    ]
+    ],
+    "mnemonic": "Be-LIE - I'm HAPPY, no lie!"
   },
   {
     "id": 77,
@@ -1647,7 +1723,8 @@
         "dutch": "Dat is niet makkelijk.",
         "english": "That is not easy."
       }
-    ]
+    ],
+    "mnemonic": "MAKE-elijk - EASY to make"
   },
   {
     "id": 78,
@@ -1668,7 +1745,8 @@
         "dutch": "Dat is niet moeilijk.",
         "english": "That is not difficult."
       }
-    ]
+    ],
+    "mnemonic": "MOY-lijk - DIFFICULT to enjoy"
   },
   {
     "id": 79,
@@ -1689,7 +1767,8 @@
         "dutch": "Dat is niet interessant.",
         "english": "That is not interesting."
       }
-    ]
+    ],
+    "mnemonic": "INTERESTING is the same!"
   },
   {
     "id": 80,
@@ -1710,7 +1789,8 @@
         "dutch": "Dat is niet duur.",
         "english": "That is not expensive."
       }
-    ]
+    ],
+    "mnemonic": "DEAR/EXPENSIVE - costs dear"
   },
   {
     "id": 81,
@@ -1723,7 +1803,8 @@
         "dutch": "Wat is dat?",
         "english": "What is that?"
       }
-    ]
+    ],
+    "mnemonic": "WHAT - wat sounds like WHAT"
   },
   {
     "id": 82,
@@ -1736,7 +1817,8 @@
         "dutch": "Wie is dat?",
         "english": "Who is that?"
       }
-    ]
+    ],
+    "mnemonic": "WE/WHO - who are we"
   },
   {
     "id": 83,
@@ -1757,7 +1839,8 @@
         "dutch": "Zij komt waar.",
         "english": "She comes where."
       }
-    ]
+    ],
+    "mnemonic": "WHERE - waar sounds like WHERE"
   },
   {
     "id": 84,
@@ -1778,7 +1861,8 @@
         "dutch": "Zij komt wanneer.",
         "english": "She comes when."
       }
-    ]
+    ],
+    "mnemonic": "WHEN-eer sounds like WHEN"
   },
   {
     "id": 85,
@@ -1799,7 +1883,8 @@
         "dutch": "Zij komt waarom.",
         "english": "She comes why."
       }
-    ]
+    ],
+    "mnemonic": "WHERE-om - WHY/wherefore"
   },
   {
     "id": 86,
@@ -1820,7 +1905,8 @@
         "dutch": "Zij komt hoe.",
         "english": "She comes how."
       }
-    ]
+    ],
+    "mnemonic": "HOW - hoe sounds like HOW"
   },
   {
     "id": 87,
@@ -1841,7 +1927,8 @@
         "dutch": "Zij komt hoeveel.",
         "english": "She comes how much."
       }
-    ]
+    ],
+    "mnemonic": "HOW-veel - HOW MUCH/MANY"
   },
   {
     "id": 88,
@@ -1854,7 +1941,8 @@
         "dutch": "Ik blijf thuis omdat ik ziek ben.",
         "english": "I stay home because I'm sick."
       }
-    ]
+    ],
+    "mnemonic": "Om-THAT - BECAUSE of that"
   },
   {
     "id": 89,
@@ -1867,7 +1955,8 @@
         "dutch": "Ik wil wel, maar ik kan niet.",
         "english": "I want to, but I can't."
       }
-    ]
+    ],
+    "mnemonic": "MAR/BUT - but mars it"
   },
   {
     "id": 90,
@@ -1880,7 +1969,8 @@
         "dutch": "Jij en ik.",
         "english": "You and I."
       }
-    ]
+    ],
+    "mnemonic": "AND - en sounds like AND"
   },
   {
     "id": 91,
@@ -1893,7 +1983,8 @@
         "dutch": "Koffie of thee?",
         "english": "Coffee or tea?"
       }
-    ]
+    ],
+    "mnemonic": "OR/OF - of sounds like OR"
   },
   {
     "id": 92,
@@ -1906,7 +1997,8 @@
         "dutch": "Als het regent, blijf ik thuis.",
         "english": "If it rains, I stay home."
       }
-    ]
+    ],
+    "mnemonic": "ALLS - IF all goes well"
   },
   {
     "id": 93,
@@ -1927,7 +2019,8 @@
         "dutch": "Zij komt dan.",
         "english": "She comes then."
       }
-    ]
+    ],
+    "mnemonic": "THAN/THEN - dan"
   },
   {
     "id": 94,
@@ -1944,7 +2037,8 @@
         "dutch": "Zij komt nu.",
         "english": "She comes now."
       }
-    ]
+    ],
+    "mnemonic": "NOW - nu sounds like NOW"
   },
   {
     "id": 95,
@@ -1965,7 +2059,8 @@
         "dutch": "Zij komt altijd.",
         "english": "She comes always."
       }
-    ]
+    ],
+    "mnemonic": "ALL-tijd - ALL TIME, ALWAYS"
   },
   {
     "id": 96,
@@ -1986,7 +2081,8 @@
         "dutch": "Zij komt nooit.",
         "english": "She comes never."
       }
-    ]
+    ],
+    "mnemonic": "NO-it - NEVER, no way"
   },
   {
     "id": 97,
@@ -2007,7 +2103,8 @@
         "dutch": "Zij komt soms.",
         "english": "She comes sometimes."
       }
-    ]
+    ],
+    "mnemonic": "SOME-times"
   },
   {
     "id": 98,
@@ -2028,7 +2125,8 @@
         "dutch": "Zij komt vaak.",
         "english": "She comes often."
       }
-    ]
+    ],
+    "mnemonic": "FOCK/OFTEN - very often"
   },
   {
     "id": 99,
@@ -2049,7 +2147,8 @@
         "dutch": "Zij komt hier.",
         "english": "She comes here."
       }
-    ]
+    ],
+    "mnemonic": "HERE - hier sounds like HERE"
   },
   {
     "id": 100,
@@ -2070,7 +2169,8 @@
         "dutch": "Zij komt daar.",
         "english": "She comes there."
       }
-    ]
+    ],
+    "mnemonic": "THERE - daar sounds like THERE"
   },
   {
     "id": 101,
@@ -2196,7 +2296,8 @@
         "dutch": "Zij komt heel.",
         "english": "She comes very."
       }
-    ]
+    ],
+    "mnemonic": "WHOLE/VERY - heel"
   },
   {
     "id": 107,
@@ -2217,7 +2318,8 @@
         "dutch": "Zij komt veel.",
         "english": "She comes much."
       }
-    ]
+    ],
+    "mnemonic": "FEEL how MUCH/MANY"
   },
   {
     "id": 108,
@@ -2238,7 +2340,8 @@
         "dutch": "Zij komt weinig.",
         "english": "She comes little."
       }
-    ]
+    ],
+    "mnemonic": "WANE-ig - FEW, waning"
   },
   {
     "id": 109,
@@ -2363,7 +2466,8 @@
         "dutch": "Zij komt vandaag.",
         "english": "She comes today."
       }
-    ]
+    ],
+    "mnemonic": "VAN-dag - of this DAY, TODAY"
   },
   {
     "id": 118,
@@ -2384,7 +2488,8 @@
         "dutch": "Zij komt morgen.",
         "english": "She comes tomorrow."
       }
-    ]
+    ],
+    "mnemonic": "MORNING - TOMORROW morning"
   },
   {
     "id": 119,
@@ -2405,7 +2510,8 @@
         "dutch": "Zij komt gisteren.",
         "english": "She comes yesterday."
       }
-    ]
+    ],
+    "mnemonic": "YESTER-en - YESTERDAY"
   },
   {
     "id": 120,
@@ -2447,7 +2553,8 @@
         "dutch": "Zij komt buiten.",
         "english": "She comes outside."
       }
-    ]
+    ],
+    "mnemonic": "BOUT/OUTSIDE - buiten"
   },
   {
     "id": 122,
@@ -2468,7 +2575,8 @@
         "dutch": "Zij komt binnen.",
         "english": "She comes inside."
       }
-    ]
+    ],
+    "mnemonic": "BIN/INSIDE - binnen"
   },
   {
     "id": 123,
@@ -2510,7 +2618,8 @@
         "dutch": "Zij komt samen.",
         "english": "She comes together."
       }
-    ]
+    ],
+    "mnemonic": "SAME-n - TOGETHER, same group"
   },
   {
     "id": 125,
@@ -2531,7 +2640,8 @@
         "dutch": "Zij komt alleen.",
         "english": "She comes alone."
       }
-    ]
+    ],
+    "mnemonic": "ALL-een - ALL ONE, ALONE"
   },
   {
     "id": 126,
@@ -2552,7 +2662,8 @@
         "dutch": "Zij komt misschien.",
         "english": "She comes maybe."
       }
-    ]
+    ],
+    "mnemonic": "MISS-schien - MAYBE miss it"
   },
   {
     "id": 127,
@@ -2573,7 +2684,8 @@
         "dutch": "Zij komt natuurlijk.",
         "english": "She comes of course."
       }
-    ]
+    ],
+    "mnemonic": "NATURAL-lijk - NATURALLY/OF COURSE"
   },
   {
     "id": 128,
@@ -2688,7 +2800,8 @@
         "dutch": "Dit is voor jou.",
         "english": "This is for you."
       }
-    ]
+    ],
+    "mnemonic": "FORE/BEFORE - voor"
   },
   {
     "id": 135,
@@ -2818,7 +2931,8 @@
         "dutch": "De kat zit onder de tafel.",
         "english": "The cat sits under the table."
       }
-    ]
+    ],
+    "mnemonic": "UNDER - onder sounds like UNDER"
   },
   {
     "id": 145,
@@ -2831,7 +2945,8 @@
         "dutch": "De lamp hangt boven de tafel.",
         "english": "The lamp hangs above the table."
       }
-    ]
+    ],
+    "mnemonic": "ABOVE - boven sounds similar"
   },
   {
     "id": 146,
@@ -2844,7 +2959,8 @@
         "dutch": "Tussen jou en mij.",
         "english": "Between you and me."
       }
-    ]
+    ],
+    "mnemonic": "TWIXT/BETWEEN - tussen"
   },
   {
     "id": 147,
@@ -2922,7 +3038,8 @@
         "dutch": "Ik heb twee kinderen.",
         "english": "I have two children."
       }
-    ]
+    ],
+    "mnemonic": "TWO - twee sounds like TWO"
   },
   {
     "id": 153,
@@ -2935,7 +3052,8 @@
         "dutch": "Het is drie uur.",
         "english": "It's three o'clock."
       }
-    ]
+    ],
+    "mnemonic": "THREE - drie sounds like THREE"
   },
   {
     "id": 154,
@@ -2948,7 +3066,8 @@
         "dutch": "Vier seizoenen.",
         "english": "Four seasons."
       }
-    ]
+    ],
+    "mnemonic": "FOUR - vier sounds like FOUR"
   },
   {
     "id": 155,
@@ -2961,7 +3080,8 @@
         "dutch": "Vijf minuten.",
         "english": "Five minutes."
       }
-    ]
+    ],
+    "mnemonic": "FIVE - vijf sounds like FIVE"
   },
   {
     "id": 156,
@@ -2974,7 +3094,8 @@
         "dutch": "Zes dagen.",
         "english": "Six days."
       }
-    ]
+    ],
+    "mnemonic": "SIX - zes sounds similar"
   },
   {
     "id": 157,
@@ -2987,7 +3108,8 @@
         "dutch": "Zeven dagen in een week.",
         "english": "Seven days in a week."
       }
-    ]
+    ],
+    "mnemonic": "SEVEN - zeven sounds like SEVEN"
   },
   {
     "id": 158,
@@ -3000,7 +3122,8 @@
         "dutch": "Acht uur.",
         "english": "Eight o'clock."
       }
-    ]
+    ],
+    "mnemonic": "EIGHT - acht sounds like EIGHT"
   },
   {
     "id": 159,
@@ -3013,7 +3136,8 @@
         "dutch": "Negen maanden.",
         "english": "Nine months."
       }
-    ]
+    ],
+    "mnemonic": "NINE - negen sounds like NINE"
   },
   {
     "id": 160,
@@ -3026,7 +3150,8 @@
         "dutch": "Tien euro.",
         "english": "Ten euros."
       }
-    ]
+    ],
+    "mnemonic": "TEN - tien sounds like TEN"
   },
   {
     "id": 161,
@@ -3047,7 +3172,8 @@
         "dutch": "De hond loopt snel.",
         "english": "The dog walks fast."
       }
-    ]
+    ],
+    "mnemonic": "LOPE-en - LOPE means to WALK"
   },
   {
     "id": 162,
@@ -3068,7 +3194,8 @@
         "dutch": "De kat zit op de stoel.",
         "english": "The cat sits on the chair."
       }
-    ]
+    ],
+    "mnemonic": "SIT-ten sounds like SIT"
   },
   {
     "id": 163,
@@ -3089,7 +3216,8 @@
         "dutch": "Sta niet in de weg!",
         "english": "Don't stand in the way!"
       }
-    ]
+    ],
+    "mnemonic": "STAND - staan sounds like STAND"
   },
   {
     "id": 164,
@@ -3110,7 +3238,8 @@
         "dutch": "Amsterdam ligt in Nederland.",
         "english": "Amsterdam is in the Netherlands."
       }
-    ]
+    ],
+    "mnemonic": "LIE-gen down, LIE there"
   },
   {
     "id": 165,
@@ -3131,7 +3260,8 @@
         "dutch": "Slaap je goed?",
         "english": "Do you sleep well?"
       }
-    ]
+    ],
+    "mnemonic": "SLAP-en yourself awake from SLEEP"
   },
   {
     "id": 166,
@@ -3152,7 +3282,8 @@
         "dutch": "Wij wonen in het centrum.",
         "english": "We live in the center."
       }
-    ]
+    ],
+    "mnemonic": "WON a house to LIVE in"
   },
   {
     "id": 167,
@@ -3173,7 +3304,8 @@
         "dutch": "Wij blijven twee nachten.",
         "english": "We stay for two nights."
       }
-    ]
+    ],
+    "mnemonic": "Be-LIVE-en - STAY alive, STAY here"
   },
   {
     "id": 168,
@@ -3194,7 +3326,8 @@
         "dutch": "Ik wacht al een uur.",
         "english": "I've been waiting for an hour."
       }
-    ]
+    ],
+    "mnemonic": "WATCH-en the clock while you WAIT"
   },
   {
     "id": 169,
@@ -3215,7 +3348,8 @@
         "dutch": "Zij koopt nieuwe schoenen.",
         "english": "She is buying new shoes."
       }
-    ]
+    ],
+    "mnemonic": "COPE-en - COPE with the cost when you BUY"
   },
   {
     "id": 170,
@@ -3236,7 +3370,8 @@
         "dutch": "Waar verkopen ze bloemen?",
         "english": "Where do they sell flowers?"
       }
-    ]
+    ],
+    "mnemonic": "For-KOPEN - for sale, SELL"
   },
   {
     "id": 171,
@@ -3257,7 +3392,8 @@
         "dutch": "Wie betaalt de rekening?",
         "english": "Who pays the bill?"
       }
-    ]
+    ],
+    "mnemonic": "Pay-TAHL-en - PAY the bill"
   },
   {
     "id": 172,
@@ -3278,7 +3414,8 @@
         "dutch": "Ik kijk graag films.",
         "english": "I like to watch movies."
       }
-    ]
+    ],
+    "mnemonic": "KIKE-en - LOOK with your eyes"
   },
   {
     "id": 173,
@@ -3299,7 +3436,8 @@
         "dutch": "Ik luister naar de radio.",
         "english": "I'm listening to the radio."
       }
-    ]
+    ],
+    "mnemonic": "LUST-eren to LISTEN with desire"
   },
   {
     "id": 174,
@@ -3320,7 +3458,8 @@
         "dutch": "Kun je piano spelen?",
         "english": "Can you play piano?"
       }
-    ]
+    ],
+    "mnemonic": "PLAY-en - sPELen sounds like PLAY"
   },
   {
     "id": 175,
@@ -3337,7 +3476,8 @@
         "dutch": "Wat krijg je voor je verjaardag?",
         "english": "What do you get for your birthday?"
       }
-    ]
+    ],
+    "mnemonic": "CRY when you don't GET what you want"
   },
   {
     "id": 176,
@@ -3350,7 +3490,8 @@
         "dutch": "Ik breng je naar huis.",
         "english": "I bring you home."
       }
-    ]
+    ],
+    "mnemonic": "BRING-en sounds like BRING"
   },
   {
     "id": 177,
@@ -3363,7 +3504,8 @@
         "dutch": "Ik haal koffie.",
         "english": "I get coffee."
       }
-    ]
+    ],
+    "mnemonic": "HAUL-en - FETCH/HAUL it"
   },
   {
     "id": 178,
@@ -3376,7 +3518,8 @@
         "dutch": "Ik leg het boek op tafel.",
         "english": "I put the book on the table."
       }
-    ]
+    ],
+    "mnemonic": "LAY-gen - LAY it down"
   },
   {
     "id": 179,
@@ -3389,7 +3532,8 @@
         "dutch": "Ik zet koffie.",
         "english": "I make coffee."
       }
-    ]
+    ],
+    "mnemonic": "SET-ten - SET it down"
   },
   {
     "id": 180,
@@ -3410,7 +3554,8 @@
         "dutch": "Hij rijdt naar zijn werk.",
         "english": "He drives to his work."
       }
-    ]
+    ],
+    "mnemonic": "RIDE-en sounds like RIDE/DRIVE"
   },
   {
     "id": 181,
@@ -3423,7 +3568,8 @@
         "dutch": "Ik vlieg naar Spanje.",
         "english": "I fly to Spain."
       }
-    ]
+    ],
+    "mnemonic": "FLY-gen sounds like FLY"
   },
   {
     "id": 182,
@@ -3444,7 +3590,8 @@
         "dutch": "Kun je goed zwemmen?",
         "english": "Can you swim well?"
       }
-    ]
+    ],
+    "mnemonic": "SWIM-men sounds like SWIM"
   },
   {
     "id": 183,
@@ -3461,7 +3608,8 @@
         "dutch": "Stop met praten!",
         "english": "Stop talking!"
       }
-    ]
+    ],
+    "mnemonic": "STOP-pen sounds like STOP"
   },
   {
     "id": 184,
@@ -3482,7 +3630,8 @@
         "dutch": "Laten we beginnen!",
         "english": "Let's begin!"
       }
-    ]
+    ],
+    "mnemonic": "BEGIN-nen sounds like BEGIN"
   },
   {
     "id": 185,
@@ -3503,7 +3652,8 @@
         "dutch": "Ik probeer gezond te eten.",
         "english": "I try to eat healthy."
       }
-    ]
+    ],
+    "mnemonic": "PROBE-eren - PROBE/TRY it out"
   },
   {
     "id": 186,
@@ -3520,7 +3670,8 @@
         "dutch": "Zij helpt me altijd.",
         "english": "She always helps me."
       }
-    ]
+    ],
+    "mnemonic": "HELP-en sounds like HELP"
   },
   {
     "id": 187,
@@ -3541,7 +3692,8 @@
         "dutch": "Ik vergeet altijd namen.",
         "english": "I always forget names."
       }
-    ]
+    ],
+    "mnemonic": "For-GET-en - FORGET it"
   },
   {
     "id": 188,
@@ -3554,7 +3706,8 @@
         "dutch": "Ik herinner me dat.",
         "english": "I remember that."
       }
-    ]
+    ],
+    "mnemonic": "Her-INNER-en - REMEMBER inner thoughts"
   },
   {
     "id": 189,
@@ -3575,7 +3728,8 @@
         "dutch": "Ik voel me goed vandaag.",
         "english": "I feel good today."
       }
-    ]
+    ],
+    "mnemonic": "FEEL-en sounds like FEEL"
   },
   {
     "id": 190,
@@ -3601,7 +3755,8 @@
         "dutch": "Ik hoop dat het lukt.",
         "english": "I hope it works."
       }
-    ]
+    ],
+    "mnemonic": "HOPE-en sounds like HOPE"
   },
   {
     "id": 192,
@@ -3635,7 +3790,8 @@
         "dutch": "We willen winnen!",
         "english": "We want to win!"
       }
-    ]
+    ],
+    "mnemonic": "WIN-nen sounds like WIN"
   },
   {
     "id": 194,
@@ -3656,7 +3812,8 @@
         "dutch": "Het team verloor de wedstrijd.",
         "english": "The team lost the match."
       }
-    ]
+    ],
+    "mnemonic": "ver-LOSE-en - you LOSE it"
   },
   {
     "id": 195,
@@ -3677,7 +3834,8 @@
         "dutch": "Mensen veranderen.",
         "english": "People change."
       }
-    ]
+    ],
+    "mnemonic": "VARY-anderen - things VARY when they CHANGE"
   },
   {
     "id": 196,
@@ -3690,7 +3848,8 @@
         "dutch": "Je moet kiezen.",
         "english": "You have to choose."
       }
-    ]
+    ],
+    "mnemonic": "CHOOSE - kiezen"
   },
   {
     "id": 197,
@@ -3703,7 +3862,8 @@
         "dutch": "Ik kan niet beslissen.",
         "english": "I can't decide."
       }
-    ]
+    ],
+    "mnemonic": "Be-SLIS-sen - make a DECISION"
   },
   {
     "id": 198,
@@ -3716,7 +3876,8 @@
         "dutch": "Ik open de deur.",
         "english": "I open the door."
       }
-    ]
+    ],
+    "mnemonic": "OPEN-en sounds like OPEN"
   },
   {
     "id": 199,
@@ -3729,7 +3890,8 @@
         "dutch": "De winkel sluit om zes uur.",
         "english": "The shop closes at six."
       }
-    ]
+    ],
+    "mnemonic": "SHUT-en - CLOSE/SHUT"
   },
   {
     "id": 200,
@@ -3746,7 +3908,8 @@
         "dutch": "Kun je een email sturen?",
         "english": "Can you send an email?"
       }
-    ]
+    ],
+    "mnemonic": "STEER-en - STEER the message, SEND it"
   },
   {
     "id": 201,
@@ -3768,7 +3931,8 @@
         "dutch": "De tafel is mooi.",
         "english": "The table is beautiful."
       }
-    ]
+    ],
+    "mnemonic": "TABLE - tafel sounds like TABLE"
   },
   {
     "id": 202,
@@ -3790,7 +3954,8 @@
         "dutch": "De stoel is mooi.",
         "english": "The chair is beautiful."
       }
-    ]
+    ],
+    "mnemonic": "STOOL/CHAIR - stoel sounds like STOOL"
   },
   {
     "id": 203,
@@ -3812,7 +3977,8 @@
         "dutch": "De bed is mooi.",
         "english": "The bed is beautiful."
       }
-    ]
+    ],
+    "mnemonic": "BED is the same!"
   },
   {
     "id": 204,
@@ -3834,7 +4000,8 @@
         "dutch": "De kamer is mooi.",
         "english": "The room is beautiful."
       }
-    ]
+    ],
+    "mnemonic": "CAMERA in the ROOM"
   },
   {
     "id": 205,
@@ -3874,7 +4041,8 @@
         "dutch": "Ik heb een tuin.",
         "english": "I have a garden."
       }
-    ]
+    ],
+    "mnemonic": "TUNE in the GARDEN"
   },
   {
     "id": 207,
@@ -3896,7 +4064,8 @@
         "dutch": "De raam is mooi.",
         "english": "The window is beautiful."
       }
-    ]
+    ],
+    "mnemonic": "FRAME of a WINDOW"
   },
   {
     "id": 208,
@@ -3918,7 +4087,8 @@
         "dutch": "De zon is mooi.",
         "english": "The sun is beautiful."
       }
-    ]
+    ],
+    "mnemonic": "SUN - zon sounds like SUN"
   },
   {
     "id": 209,
@@ -3940,7 +4110,8 @@
         "dutch": "De maan is mooi.",
         "english": "The moon is beautiful."
       }
-    ]
+    ],
+    "mnemonic": "MOON - maan sounds like MOON"
   },
   {
     "id": 210,
@@ -3962,7 +4133,8 @@
         "dutch": "De regen is mooi.",
         "english": "The rain is beautiful."
       }
-    ]
+    ],
+    "mnemonic": "RAIN - regen sounds like RAIN"
   },
   {
     "id": 211,
@@ -3984,7 +4156,8 @@
         "dutch": "De wind is mooi.",
         "english": "The wind is beautiful."
       }
-    ]
+    ],
+    "mnemonic": "WIND is the same!"
   },
   {
     "id": 212,
@@ -4006,7 +4179,8 @@
         "dutch": "De sneeuw is mooi.",
         "english": "The snow is beautiful."
       }
-    ]
+    ],
+    "mnemonic": "SNOW - sneeuw sounds like SNOW"
   },
   {
     "id": 213,
@@ -4028,7 +4202,8 @@
         "dutch": "De boom is mooi.",
         "english": "The tree is beautiful."
       }
-    ]
+    ],
+    "mnemonic": "A tree goes BOOM when it falls"
   },
   {
     "id": 214,
@@ -4050,7 +4225,8 @@
         "dutch": "De bloem is mooi.",
         "english": "The flower is beautiful."
       }
-    ]
+    ],
+    "mnemonic": "BLOOM - a FLOWER blooms"
   },
   {
     "id": 215,
@@ -4072,7 +4248,8 @@
         "dutch": "De zee is mooi.",
         "english": "The sea is beautiful."
       }
-    ]
+    ],
+    "mnemonic": "SEA - zee sounds like SEA"
   },
   {
     "id": 216,
@@ -4094,7 +4271,8 @@
         "dutch": "De berg is mooi.",
         "english": "The mountain is beautiful."
       }
-    ]
+    ],
+    "mnemonic": "BERG/MOUNTAIN - berg"
   },
   {
     "id": 217,
@@ -4116,7 +4294,8 @@
         "dutch": "De bos is mooi.",
         "english": "The forest is beautiful."
       }
-    ]
+    ],
+    "mnemonic": "BOSS of the FOREST"
   },
   {
     "id": 218,
@@ -4138,7 +4317,8 @@
         "dutch": "De foto is mooi.",
         "english": "The photo is beautiful."
       }
-    ]
+    ],
+    "mnemonic": "PHOTO - foto sounds like PHOTO"
   },
   {
     "id": 219,
@@ -4160,7 +4340,8 @@
         "dutch": "De film is mooi.",
         "english": "The film is beautiful."
       }
-    ]
+    ],
+    "mnemonic": "FILM is the same!"
   },
   {
     "id": 220,
@@ -4182,7 +4363,8 @@
         "dutch": "De muziek is mooi.",
         "english": "The music is beautiful."
       }
-    ]
+    ],
+    "mnemonic": "MUSIC - muziek sounds like MUSIC"
   },
   {
     "id": 221,
@@ -4200,7 +4382,8 @@
         "dutch": "De vraag is mooi.",
         "english": "The question is beautiful."
       }
-    ]
+    ],
+    "mnemonic": "FRAAG/QUESTION - I ask"
   },
   {
     "id": 222,
@@ -4222,7 +4405,8 @@
         "dutch": "De antwoord is mooi.",
         "english": "The answer is beautiful."
       }
-    ]
+    ],
+    "mnemonic": "ANSWER - antwoord"
   },
   {
     "id": 223,
@@ -4244,7 +4428,8 @@
         "dutch": "De probleem is mooi.",
         "english": "The problem is beautiful."
       }
-    ]
+    ],
+    "mnemonic": "PROBLEM - probleem sounds like PROBLEM"
   },
   {
     "id": 224,
@@ -4266,7 +4451,8 @@
         "dutch": "De idee is mooi.",
         "english": "The idea is beautiful."
       }
-    ]
+    ],
+    "mnemonic": "IDEA - idee sounds like IDEA"
   },
   {
     "id": 225,
@@ -4288,7 +4474,8 @@
         "dutch": "De verhaal is mooi.",
         "english": "The story is beautiful."
       }
-    ]
+    ],
+    "mnemonic": "For-HALL - STORY in the hall"
   },
   {
     "id": 226,
@@ -4310,7 +4497,8 @@
         "dutch": "De brief is mooi.",
         "english": "The letter is beautiful."
       }
-    ]
+    ],
+    "mnemonic": "BRIEF LETTER - brief"
   },
   {
     "id": 227,
@@ -4332,7 +4520,8 @@
         "dutch": "De telefoon is mooi.",
         "english": "The telephone is beautiful."
       }
-    ]
+    ],
+    "mnemonic": "TELEPHONE is the same!"
   },
   {
     "id": 228,
@@ -4354,7 +4543,8 @@
         "dutch": "De computer is mooi.",
         "english": "The computer is beautiful."
       }
-    ]
+    ],
+    "mnemonic": "COMPUTER is the same!"
   },
   {
     "id": 229,
@@ -4376,7 +4566,8 @@
         "dutch": "De reis is mooi.",
         "english": "The trip is beautiful."
       }
-    ]
+    ],
+    "mnemonic": "RISE and TRAVEL"
   },
   {
     "id": 230,
@@ -4398,7 +4589,8 @@
         "dutch": "De vakantie is mooi.",
         "english": "The vacation is beautiful."
       }
-    ]
+    ],
+    "mnemonic": "VACANT-ie - VACATION"
   },
   {
     "id": 231,
@@ -4420,7 +4612,8 @@
         "dutch": "De feest is mooi.",
         "english": "The party is beautiful."
       }
-    ]
+    ],
+    "mnemonic": "FEAST/PARTY - feest"
   },
   {
     "id": 232,
@@ -4442,7 +4635,8 @@
         "dutch": "De cadeau is mooi.",
         "english": "The present is beautiful."
       }
-    ]
+    ],
+    "mnemonic": "CADEAU/GIFT - present"
   },
   {
     "id": 233,
@@ -4464,7 +4658,8 @@
         "dutch": "De prijs is mooi.",
         "english": "The price is beautiful."
       }
-    ]
+    ],
+    "mnemonic": "PRICE - prijs sounds like PRICE"
   },
   {
     "id": 234,
@@ -4486,7 +4681,8 @@
         "dutch": "De winkel is mooi.",
         "english": "The shop is beautiful."
       }
-    ]
+    ],
+    "mnemonic": "WINK-el - SHOP wink"
   },
   {
     "id": 235,
@@ -4508,7 +4704,8 @@
         "dutch": "De restaurant is mooi.",
         "english": "The restaurant is beautiful."
       }
-    ]
+    ],
+    "mnemonic": "RESTAURANT is the same!"
   },
   {
     "id": 236,
@@ -4530,7 +4727,8 @@
         "dutch": "De hotel is mooi.",
         "english": "The hotel is beautiful."
       }
-    ]
+    ],
+    "mnemonic": "HOTEL is the same!"
   },
   {
     "id": 237,
@@ -4552,7 +4750,8 @@
         "dutch": "De station is mooi.",
         "english": "The station is beautiful."
       }
-    ]
+    ],
+    "mnemonic": "STATION is the same!"
   },
   {
     "id": 238,
@@ -4574,7 +4773,8 @@
         "dutch": "De bus is mooi.",
         "english": "The bus is beautiful."
       }
-    ]
+    ],
+    "mnemonic": "BUS is the same!"
   },
   {
     "id": 239,
@@ -4596,7 +4796,8 @@
         "dutch": "De vliegtuig is mooi.",
         "english": "The airplane is beautiful."
       }
-    ]
+    ],
+    "mnemonic": "FLY-THING - AIRPLANE"
   },
   {
     "id": 240,
@@ -4766,7 +4967,8 @@
         "dutch": "De maandag is mooi.",
         "english": "The Monday is beautiful."
       }
-    ]
+    ],
+    "mnemonic": "MOON-dag - MONDAY"
   },
   {
     "id": 248,
@@ -4788,7 +4990,8 @@
         "dutch": "De dinsdag is mooi.",
         "english": "The Tuesday is beautiful."
       }
-    ]
+    ],
+    "mnemonic": "DINS-dag - TUESDAY (Tiw's day)"
   },
   {
     "id": 249,
@@ -4810,7 +5013,8 @@
         "dutch": "De woensdag is mooi.",
         "english": "The Wednesday is beautiful."
       }
-    ]
+    ],
+    "mnemonic": "WODEN's-dag - WEDNESDAY"
   },
   {
     "id": 250,
@@ -4832,7 +5036,8 @@
         "dutch": "De donderdag is mooi.",
         "english": "The Thursday is beautiful."
       }
-    ]
+    ],
+    "mnemonic": "THUNDER-dag - THURSDAY (Thor)"
   },
   {
     "id": 251,
@@ -4854,7 +5059,8 @@
         "dutch": "De vrijdag is mooi.",
         "english": "The Friday is beautiful."
       }
-    ]
+    ],
+    "mnemonic": "FRI-dag - FRIDAY (Freya)"
   },
   {
     "id": 252,
@@ -4876,7 +5082,8 @@
         "dutch": "De zaterdag is mooi.",
         "english": "The Saturday is beautiful."
       }
-    ]
+    ],
+    "mnemonic": "SATURN-dag - SATURDAY"
   },
   {
     "id": 253,
@@ -4898,7 +5105,8 @@
         "dutch": "De zondag is mooi.",
         "english": "The Sunday is beautiful."
       }
-    ]
+    ],
+    "mnemonic": "SUN-dag - SUNDAY"
   },
   {
     "id": 254,
@@ -4920,7 +5128,8 @@
         "dutch": "De januari is mooi.",
         "english": "The January is beautiful."
       }
-    ]
+    ],
+    "mnemonic": "JANUARY - januari"
   },
   {
     "id": 255,
@@ -4942,7 +5151,8 @@
         "dutch": "De februari is mooi.",
         "english": "The February is beautiful."
       }
-    ]
+    ],
+    "mnemonic": "FEBRUARY - februari"
   },
   {
     "id": 256,
@@ -4964,7 +5174,8 @@
         "dutch": "De maart is mooi.",
         "english": "The March is beautiful."
       }
-    ]
+    ],
+    "mnemonic": "MARCH - maart"
   },
   {
     "id": 257,
@@ -4986,7 +5197,8 @@
         "dutch": "De april is mooi.",
         "english": "The April is beautiful."
       }
-    ]
+    ],
+    "mnemonic": "APRIL - april"
   },
   {
     "id": 258,
@@ -5008,7 +5220,8 @@
         "dutch": "De mei is mooi.",
         "english": "The May is beautiful."
       }
-    ]
+    ],
+    "mnemonic": "MAY - mei"
   },
   {
     "id": 259,
@@ -5030,7 +5243,8 @@
         "dutch": "De juni is mooi.",
         "english": "The June is beautiful."
       }
-    ]
+    ],
+    "mnemonic": "JUNE - juni"
   },
   {
     "id": 260,
@@ -5052,7 +5266,8 @@
         "dutch": "De juli is mooi.",
         "english": "The July is beautiful."
       }
-    ]
+    ],
+    "mnemonic": "JULY - juli"
   },
   {
     "id": 261,
@@ -5074,7 +5289,8 @@
         "dutch": "De augustus is mooi.",
         "english": "The August is beautiful."
       }
-    ]
+    ],
+    "mnemonic": "AUGUST - augustus"
   },
   {
     "id": 262,
@@ -5096,7 +5312,8 @@
         "dutch": "De september is mooi.",
         "english": "The September is beautiful."
       }
-    ]
+    ],
+    "mnemonic": "SEPTEMBER - september"
   },
   {
     "id": 263,
@@ -5118,7 +5335,8 @@
         "dutch": "De oktober is mooi.",
         "english": "The October is beautiful."
       }
-    ]
+    ],
+    "mnemonic": "OCTOBER - oktober"
   },
   {
     "id": 264,
@@ -5140,7 +5358,8 @@
         "dutch": "De november is mooi.",
         "english": "The November is beautiful."
       }
-    ]
+    ],
+    "mnemonic": "NOVEMBER - november"
   },
   {
     "id": 265,
@@ -5162,7 +5381,8 @@
         "dutch": "De december is mooi.",
         "english": "The December is beautiful."
       }
-    ]
+    ],
+    "mnemonic": "DECEMBER - december"
   },
   {
     "id": 266,
@@ -5272,7 +5492,8 @@
         "dutch": "De ochtend is mooi.",
         "english": "The morning is beautiful."
       }
-    ]
+    ],
+    "mnemonic": "OCH-TEND - MORNING tends"
   },
   {
     "id": 271,
@@ -5294,7 +5515,8 @@
         "dutch": "De middag is mooi.",
         "english": "The afternoon is beautiful."
       }
-    ]
+    ],
+    "mnemonic": "MID-DAG - AFTERNOON, mid-day"
   },
   {
     "id": 272,
@@ -5316,7 +5538,8 @@
         "dutch": "De avond is mooi.",
         "english": "The evening is beautiful."
       }
-    ]
+    ],
+    "mnemonic": "ADVENT - EVENING advent"
   },
   {
     "id": 273,
@@ -5338,7 +5561,8 @@
         "dutch": "De nacht is mooi.",
         "english": "The night is beautiful."
       }
-    ]
+    ],
+    "mnemonic": "NIGHT - nacht sounds like NIGHT"
   },
   {
     "id": 274,
@@ -5360,7 +5584,8 @@
         "dutch": "De hoofd is mooi.",
         "english": "The head is beautiful."
       }
-    ]
+    ],
+    "mnemonic": "HOOD on your HEAD"
   },
   {
     "id": 275,
@@ -5382,7 +5607,8 @@
         "dutch": "De hand is mooi.",
         "english": "The hand is beautiful."
       }
-    ]
+    ],
+    "mnemonic": "HAND is the same!"
   },
   {
     "id": 276,
@@ -5404,7 +5630,8 @@
         "dutch": "De voet is mooi.",
         "english": "The foot is beautiful."
       }
-    ]
+    ],
+    "mnemonic": "FOOT - voet sounds like FOOT"
   },
   {
     "id": 277,
@@ -5426,7 +5653,8 @@
         "dutch": "De oog is mooi.",
         "english": "The eye is beautiful."
       }
-    ]
+    ],
+    "mnemonic": "OOH look with your EYE"
   },
   {
     "id": 278,
@@ -5448,7 +5676,8 @@
         "dutch": "De oor is mooi.",
         "english": "The ear is beautiful."
       }
-    ]
+    ],
+    "mnemonic": "EAR - oor sounds similar"
   },
   {
     "id": 279,
@@ -5470,7 +5699,8 @@
         "dutch": "De mond is mooi.",
         "english": "The mouth is beautiful."
       }
-    ]
+    ],
+    "mnemonic": "MOUTH - mond sounds like MOUTH"
   },
   {
     "id": 280,
@@ -5492,7 +5722,8 @@
         "dutch": "De neus is mooi.",
         "english": "The nose is beautiful."
       }
-    ]
+    ],
+    "mnemonic": "NOSE - neus sounds similar"
   },
   {
     "id": 281,
@@ -5514,7 +5745,8 @@
         "dutch": "De hart is mooi.",
         "english": "The heart is beautiful."
       }
-    ]
+    ],
+    "mnemonic": "HEART - hart sounds like HEART"
   },
   {
     "id": 282,
@@ -5536,7 +5768,8 @@
         "dutch": "De lichaam is mooi.",
         "english": "The body is beautiful."
       }
-    ]
+    ],
+    "mnemonic": "LIE down your BODY"
   },
   {
     "id": 283,
@@ -5580,7 +5813,8 @@
         "dutch": "De haar is mooi.",
         "english": "The hair is beautiful."
       }
-    ]
+    ],
+    "mnemonic": "HAIR - haar sounds like HAIR"
   },
   {
     "id": 285,
@@ -5624,7 +5858,8 @@
         "dutch": "De been is mooi.",
         "english": "The leg is beautiful."
       }
-    ]
+    ],
+    "mnemonic": "BONE in your LEG"
   },
   {
     "id": 287,
@@ -5646,7 +5881,8 @@
         "dutch": "De arm is mooi.",
         "english": "The arm is beautiful."
       }
-    ]
+    ],
+    "mnemonic": "POOR - same as arm (limb)"
   },
   {
     "id": 288,
@@ -5690,7 +5926,8 @@
         "dutch": "De ziekenhuis is mooi.",
         "english": "The hospital is beautiful."
       }
-    ]
+    ],
+    "mnemonic": "SICK-en-HOUSE - HOSPITAL"
   },
   {
     "id": 290,
@@ -5733,7 +5970,8 @@
         "dutch": "Dat is niet ziek.",
         "english": "That is not sick."
       }
-    ]
+    ],
+    "mnemonic": "SICK - ziek sounds like SICK"
   },
   {
     "id": 292,
@@ -5754,7 +5992,8 @@
         "dutch": "Dat is niet gezond.",
         "english": "That is not healthy."
       }
-    ]
+    ],
+    "mnemonic": "Good-SOUND = HEALTHY"
   },
   {
     "id": 293,
@@ -5775,7 +6014,8 @@
         "dutch": "Dat is niet moe.",
         "english": "That is not tired."
       }
-    ]
+    ],
+    "mnemonic": "MOE tired - so TIRED"
   },
   {
     "id": 294,
@@ -5841,7 +6081,8 @@
         "dutch": "De brood is mooi.",
         "english": "The bread is beautiful."
       }
-    ]
+    ],
+    "mnemonic": "BREAD - brood sounds like BREAD"
   },
   {
     "id": 297,
@@ -5863,7 +6104,8 @@
         "dutch": "De melk is mooi.",
         "english": "The milk is beautiful."
       }
-    ]
+    ],
+    "mnemonic": "MILK - melk sounds like MILK"
   },
   {
     "id": 298,
@@ -5885,7 +6127,8 @@
         "dutch": "De kaas is mooi.",
         "english": "The cheese is beautiful."
       }
-    ]
+    ],
+    "mnemonic": "CHEESE - say KAAS for photos!"
   },
   {
     "id": 299,
@@ -5907,7 +6150,8 @@
         "dutch": "De ei is mooi.",
         "english": "The egg is beautiful."
       }
-    ]
+    ],
+    "mnemonic": "EGG - ei sounds like EGG (aye)"
   },
   {
     "id": 300,
@@ -5929,7 +6173,8 @@
         "dutch": "De vlees is mooi.",
         "english": "The meat is beautiful."
       }
-    ]
+    ],
+    "mnemonic": "FLESH/MEAT - vlees"
   },
   {
     "id": 301,
@@ -5951,7 +6196,8 @@
         "dutch": "De vis is mooi.",
         "english": "The fish is beautiful."
       }
-    ]
+    ],
+    "mnemonic": "FISH - vis sounds like FISH"
   },
   {
     "id": 302,
@@ -5973,7 +6219,8 @@
         "dutch": "De groente is mooi.",
         "english": "The vegetable is beautiful."
       }
-    ]
+    ],
+    "mnemonic": "GREEN-te VEGETABLES"
   },
   {
     "id": 303,
@@ -5995,7 +6242,8 @@
         "dutch": "De fruit is mooi.",
         "english": "The fruit is beautiful."
       }
-    ]
+    ],
+    "mnemonic": "FRUIT is the same!"
   },
   {
     "id": 304,
@@ -6017,7 +6265,8 @@
         "dutch": "De appel is mooi.",
         "english": "The apple is beautiful."
       }
-    ]
+    ],
+    "mnemonic": "APPLE - appel sounds like APPLE"
   },
   {
     "id": 305,
@@ -6039,7 +6288,8 @@
         "dutch": "De sinaasappel is mooi.",
         "english": "The orange is beautiful."
       }
-    ]
+    ],
+    "mnemonic": "Sinas-APPLE - ORANGE"
   },
   {
     "id": 306,
@@ -6061,7 +6311,8 @@
         "dutch": "De banaan is mooi.",
         "english": "The banana is beautiful."
       }
-    ]
+    ],
+    "mnemonic": "BANANA - banaan sounds like BANANA"
   },
   {
     "id": 307,
@@ -6083,7 +6334,8 @@
         "dutch": "De aardappel is mooi.",
         "english": "The potato is beautiful."
       }
-    ]
+    ],
+    "mnemonic": "EARTH-APPLE - POTATO"
   },
   {
     "id": 308,
@@ -6105,7 +6357,8 @@
         "dutch": "De rijst is mooi.",
         "english": "The rice is beautiful."
       }
-    ]
+    ],
+    "mnemonic": "RICE - rijst sounds like RICE"
   },
   {
     "id": 309,
@@ -6149,7 +6402,8 @@
         "dutch": "De soep is mooi.",
         "english": "The soup is beautiful."
       }
-    ]
+    ],
+    "mnemonic": "SOUP - soep sounds like SOUP"
   },
   {
     "id": 311,
@@ -6215,7 +6469,8 @@
         "dutch": "De suiker is mooi.",
         "english": "The sugar is beautiful."
       }
-    ]
+    ],
+    "mnemonic": "SUGAR - suiker sounds like SUGAR"
   },
   {
     "id": 314,
@@ -6237,7 +6492,8 @@
         "dutch": "De zout is mooi.",
         "english": "The salt is beautiful."
       }
-    ]
+    ],
+    "mnemonic": "SALT - zout sounds like SALT"
   },
   {
     "id": 315,
@@ -6347,7 +6603,8 @@
         "dutch": "De restaurant is mooi.",
         "english": "The restaurant is beautiful."
       }
-    ]
+    ],
+    "mnemonic": "RESTAURANT is the same!"
   },
   {
     "id": 320,
@@ -6369,7 +6626,8 @@
         "dutch": "De café is mooi.",
         "english": "The café is beautiful."
       }
-    ]
+    ],
+    "mnemonic": "CAFÉ is the same!"
   },
   {
     "id": 321,
@@ -6382,7 +6640,8 @@
         "dutch": "Wat doe je?",
         "english": "What are you doing?"
       }
-    ]
+    ],
+    "mnemonic": "WHAT - wat sounds like WHAT"
   },
   {
     "id": 322,
@@ -6395,7 +6654,8 @@
         "dutch": "Wie is dat?",
         "english": "Who is that?"
       }
-    ]
+    ],
+    "mnemonic": "WE/WHO - who are we"
   },
   {
     "id": 323,
@@ -6416,7 +6676,8 @@
         "dutch": "Zij komt waar.",
         "english": "She comes where."
       }
-    ]
+    ],
+    "mnemonic": "WHERE - waar sounds like WHERE"
   },
   {
     "id": 324,
@@ -6437,7 +6698,8 @@
         "dutch": "Zij komt wanneer.",
         "english": "She comes when."
       }
-    ]
+    ],
+    "mnemonic": "WHEN-eer sounds like WHEN"
   },
   {
     "id": 325,
@@ -6458,7 +6720,8 @@
         "dutch": "Zij komt waarom.",
         "english": "She comes why."
       }
-    ]
+    ],
+    "mnemonic": "WHERE-om - WHY/wherefore"
   },
   {
     "id": 326,
@@ -6479,7 +6742,8 @@
         "dutch": "Zij komt hoe.",
         "english": "She comes how."
       }
-    ]
+    ],
+    "mnemonic": "HOW - hoe sounds like HOW"
   },
   {
     "id": 327,
@@ -6500,7 +6764,8 @@
         "dutch": "Zij komt hoeveel.",
         "english": "She comes how much."
       }
-    ]
+    ],
+    "mnemonic": "HOW-veel - HOW MUCH/MANY"
   },
   {
     "id": 328,
@@ -6526,7 +6791,8 @@
         "dutch": "Ik blijf thuis omdat ik ziek ben.",
         "english": "I stay home because I'm sick."
       }
-    ]
+    ],
+    "mnemonic": "Om-THAT - BECAUSE of that"
   },
   {
     "id": 330,
@@ -6539,7 +6805,8 @@
         "dutch": "Ik wil komen, maar ik kan niet.",
         "english": "I want to come, but I can't."
       }
-    ]
+    ],
+    "mnemonic": "MAR/BUT - but mars it"
   },
   {
     "id": 331,
@@ -6552,7 +6819,8 @@
         "dutch": "Ik en mijn vriend gaan.",
         "english": "My friend and I are going."
       }
-    ]
+    ],
+    "mnemonic": "AND - en sounds like AND"
   },
   {
     "id": 332,
@@ -6565,7 +6833,8 @@
         "dutch": "Wil je koffie of thee?",
         "english": "Do you want coffee or tea?"
       }
-    ]
+    ],
+    "mnemonic": "OR/OF - of sounds like OR"
   },
   {
     "id": 333,
@@ -6604,7 +6873,8 @@
         "dutch": "Als het regent, blijf ik thuis.",
         "english": "If it rains, I stay home."
       }
-    ]
+    ],
+    "mnemonic": "ALLS - IF all goes well"
   },
   {
     "id": 336,
@@ -6734,7 +7004,8 @@
         "dutch": "Dit is voor jou.",
         "english": "This is for you."
       }
-    ]
+    ],
+    "mnemonic": "FORE/BEFORE - voor"
   },
   {
     "id": 346,
@@ -6825,7 +7096,8 @@
         "dutch": "De kat zit onder de tafel.",
         "english": "The cat sits under the table."
       }
-    ]
+    ],
+    "mnemonic": "UNDER - onder sounds like UNDER"
   },
   {
     "id": 353,
@@ -6838,7 +7110,8 @@
         "dutch": "Het huis staat tussen twee bomen.",
         "english": "The house stands between two trees."
       }
-    ]
+    ],
+    "mnemonic": "TWIXT/BETWEEN - tussen"
   },
   {
     "id": 354,
@@ -6851,7 +7124,8 @@
         "dutch": "De tuin is achter het huis.",
         "english": "The garden is behind the house."
       }
-    ]
+    ],
+    "mnemonic": "AFTER/BEHIND - achter"
   },
   {
     "id": 355,
@@ -6864,7 +7138,8 @@
         "dutch": "Ik zit naast mijn vriend.",
         "english": "I sit next to my friend."
       }
-    ]
+    ],
+    "mnemonic": "NEXT to - naast"
   },
   {
     "id": 356,
@@ -6950,7 +7225,8 @@
         "dutch": "Zij koopt nieuwe schoenen.",
         "english": "She is buying new shoes."
       }
-    ]
+    ],
+    "mnemonic": "COPE-en - COPE with the cost when you BUY"
   },
   {
     "id": 362,
@@ -6971,7 +7247,8 @@
         "dutch": "Waar verkopen ze bloemen?",
         "english": "Where do they sell flowers?"
       }
-    ]
+    ],
+    "mnemonic": "For-KOPEN - for sale, SELL"
   },
   {
     "id": 363,
@@ -6992,7 +7269,8 @@
         "dutch": "Wie betaalt de rekening?",
         "english": "Who pays the bill?"
       }
-    ]
+    ],
+    "mnemonic": "Pay-TAHL-en - PAY the bill"
   },
   {
     "id": 364,
@@ -7018,7 +7296,8 @@
         "dutch": "Kun je het raam openen?",
         "english": "Can you open the window?"
       }
-    ]
+    ],
+    "mnemonic": "OPEN-en sounds like OPEN"
   },
   {
     "id": 366,
@@ -7031,7 +7310,8 @@
         "dutch": "Sluit de deur.",
         "english": "Close the door."
       }
-    ]
+    ],
+    "mnemonic": "SHUT-en - CLOSE/SHUT"
   },
   {
     "id": 367,
@@ -7052,7 +7332,8 @@
         "dutch": "Laten we beginnen!",
         "english": "Let's begin!"
       }
-    ]
+    ],
+    "mnemonic": "BEGIN-nen sounds like BEGIN"
   },
   {
     "id": 368,
@@ -7073,7 +7354,8 @@
         "dutch": "Wanneer eindigt de les?",
         "english": "When does the lesson end?"
       }
-    ]
+    ],
+    "mnemonic": "END-igen sounds like END"
   },
   {
     "id": 369,
@@ -7090,7 +7372,8 @@
         "dutch": "De bus stopt hier.",
         "english": "The bus stops here."
       }
-    ]
+    ],
+    "mnemonic": "STOP-pen sounds like STOP"
   },
   {
     "id": 370,
@@ -7111,7 +7394,8 @@
         "dutch": "Ik wacht al een uur.",
         "english": "I've been waiting for an hour."
       }
-    ]
+    ],
+    "mnemonic": "WATCH-en the clock while you WAIT"
   },
   {
     "id": 371,
@@ -7132,7 +7416,8 @@
         "dutch": "De kat zit op de stoel.",
         "english": "The cat sits on the chair."
       }
-    ]
+    ],
+    "mnemonic": "SIT-ten sounds like SIT"
   },
   {
     "id": 372,
@@ -7153,7 +7438,8 @@
         "dutch": "Sta niet in de weg!",
         "english": "Don't stand in the way!"
       }
-    ]
+    ],
+    "mnemonic": "STAND - staan sounds like STAND"
   },
   {
     "id": 373,
@@ -7174,7 +7460,8 @@
         "dutch": "Amsterdam ligt in Nederland.",
         "english": "Amsterdam is in the Netherlands."
       }
-    ]
+    ],
+    "mnemonic": "LIE-gen down, LIE there"
   },
   {
     "id": 374,
@@ -7195,7 +7482,8 @@
         "dutch": "De hond loopt snel.",
         "english": "The dog walks fast."
       }
-    ]
+    ],
+    "mnemonic": "LOPE-en - LOPE means to WALK"
   },
   {
     "id": 375,
@@ -7212,7 +7500,8 @@
         "dutch": "Ren niet in de gang!",
         "english": "Don't run in the hallway!"
       }
-    ]
+    ],
+    "mnemonic": "RUN-nen sounds like RUN"
   },
   {
     "id": 376,
@@ -7233,7 +7522,8 @@
         "dutch": "Hij rijdt naar zijn werk.",
         "english": "He drives to his work."
       }
-    ]
+    ],
+    "mnemonic": "RIDE-en sounds like RIDE/DRIVE"
   },
   {
     "id": 377,
@@ -7246,7 +7536,8 @@
         "dutch": "De vogels vliegen hoog.",
         "english": "The birds fly high."
       }
-    ]
+    ],
+    "mnemonic": "FLY-gen sounds like FLY"
   },
   {
     "id": 378,
@@ -7267,7 +7558,8 @@
         "dutch": "Kun je goed zwemmen?",
         "english": "Can you swim well?"
       }
-    ]
+    ],
+    "mnemonic": "SWIM-men sounds like SWIM"
   },
   {
     "id": 379,
@@ -7284,7 +7576,8 @@
         "dutch": "Kun je piano spelen?",
         "english": "Can you play piano?"
       }
-    ]
+    ],
+    "mnemonic": "PLAY-en - sPELen sounds like PLAY"
   },
   {
     "id": 380,
@@ -7305,7 +7598,8 @@
         "dutch": "We willen winnen!",
         "english": "We want to win!"
       }
-    ]
+    ],
+    "mnemonic": "WIN-nen sounds like WIN"
   },
   {
     "id": 381,
@@ -7326,7 +7620,8 @@
         "dutch": "Het team verloor de wedstrijd.",
         "english": "The team lost the match."
       }
-    ]
+    ],
+    "mnemonic": "ver-LOSE-en - you LOSE it"
   },
   {
     "id": 382,
@@ -7347,7 +7642,8 @@
         "dutch": "Ik probeer gezond te eten.",
         "english": "I try to eat healthy."
       }
-    ]
+    ],
+    "mnemonic": "PROBE-eren - PROBE/TRY it out"
   },
   {
     "id": 383,
@@ -7381,7 +7677,8 @@
         "dutch": "Ik vergeet altijd namen.",
         "english": "I always forget names."
       }
-    ]
+    ],
+    "mnemonic": "For-GET-en - FORGET it"
   },
   {
     "id": 385,
@@ -7394,7 +7691,8 @@
         "dutch": "Ik herinner me die dag.",
         "english": "I remember that day."
       }
-    ]
+    ],
+    "mnemonic": "Her-INNER-en - REMEMBER inner thoughts"
   },
   {
     "id": 386,
@@ -7407,7 +7705,8 @@
         "dutch": "Kies een nummer.",
         "english": "Choose a number."
       }
-    ]
+    ],
+    "mnemonic": "CHOOSE - kiezen"
   },
   {
     "id": 387,
@@ -7420,7 +7719,8 @@
         "dutch": "Ik kan niet beslissen.",
         "english": "I can't decide."
       }
-    ]
+    ],
+    "mnemonic": "Be-SLIS-sen - make a DECISION"
   },
   {
     "id": 388,
@@ -7437,7 +7737,8 @@
         "dutch": "Mensen veranderen.",
         "english": "People change."
       }
-    ]
+    ],
+    "mnemonic": "VARY-anderen - things VARY when they CHANGE"
   },
   {
     "id": 389,
@@ -7458,7 +7759,8 @@
         "dutch": "Wij blijven twee nachten.",
         "english": "We stay for two nights."
       }
-    ]
+    ],
+    "mnemonic": "Be-LIVE-en - STAY alive, STAY here"
   },
   {
     "id": 390,
@@ -7479,7 +7781,8 @@
         "dutch": "Wij vertrekken morgenochtend.",
         "english": "We leave tomorrow morning."
       }
-    ]
+    ],
+    "mnemonic": "TREK-ken away - LEAVE on a trek"
   },
   {
     "id": 391,
@@ -7500,7 +7803,8 @@
         "dutch": "De trein komt te laat aan.",
         "english": "The train arrives late."
       }
-    ]
+    ],
+    "mnemonic": "On-COME-en - ARRIVE, come on!"
   },
   {
     "id": 392,
@@ -7521,7 +7825,8 @@
         "dutch": "Zij helpt me altijd.",
         "english": "She always helps me."
       }
-    ]
+    ],
+    "mnemonic": "HELP-en sounds like HELP"
   },
   {
     "id": 393,
@@ -7534,7 +7839,8 @@
         "dutch": "Ik breng je naar huis.",
         "english": "I bring you home."
       }
-    ]
+    ],
+    "mnemonic": "BRING-en sounds like BRING"
   },
   {
     "id": 394,
@@ -7547,7 +7853,8 @@
         "dutch": "Ik haal koffie.",
         "english": "I get coffee."
       }
-    ]
+    ],
+    "mnemonic": "HAUL-en - FETCH/HAUL it"
   },
   {
     "id": 395,
@@ -7560,7 +7867,8 @@
         "dutch": "Leg het boek op tafel.",
         "english": "Put the book on the table."
       }
-    ]
+    ],
+    "mnemonic": "LAY-gen - LAY it down"
   },
   {
     "id": 396,
@@ -7573,7 +7881,8 @@
         "dutch": "Zet de kop op tafel.",
         "english": "Put the cup on the table."
       }
-    ]
+    ],
+    "mnemonic": "SET-ten - SET it down"
   },
   {
     "id": 397,
@@ -7594,7 +7903,8 @@
         "dutch": "Houd je van kaas?",
         "english": "Do you like cheese?"
       }
-    ]
+    ],
+    "mnemonic": "HOLD-en sounds like HOLD"
   },
   {
     "id": 398,
@@ -7607,7 +7917,8 @@
         "dutch": "Laat me met rust.",
         "english": "Leave me alone."
       }
-    ]
+    ],
+    "mnemonic": "LET-en - LET it be"
   },
   {
     "id": 399,
@@ -7628,7 +7939,8 @@
         "dutch": "Ik voel me goed vandaag.",
         "english": "I feel good today."
       }
-    ]
+    ],
+    "mnemonic": "FEEL-en sounds like FEEL"
   },
   {
     "id": 400,
@@ -7691,7 +8003,8 @@
         "dutch": "Kun je dit dragen?",
         "english": "Can you carry this?"
       }
-    ]
+    ],
+    "mnemonic": "DRAG-en - CARRY/drag"
   },
   {
     "id": 403,
@@ -7704,7 +8017,8 @@
         "dutch": "Trek de deur open.",
         "english": "Pull the door open."
       }
-    ]
+    ],
+    "mnemonic": "TREK-ken - PULL/TREK"
   },
   {
     "id": 404,
@@ -7717,7 +8031,8 @@
         "dutch": "Duw de deur dicht.",
         "english": "Push the door closed."
       }
-    ]
+    ],
+    "mnemonic": "DO-wen - DO push = PUSH"
   },
   {
     "id": 405,
@@ -7734,7 +8049,8 @@
         "dutch": "Kun je een email sturen?",
         "english": "Can you send an email?"
       }
-    ]
+    ],
+    "mnemonic": "STEER-en - STEER the message, SEND it"
   },
   {
     "id": 406,
@@ -7764,7 +8080,8 @@
         "dutch": "Wie belt er?",
         "english": "Who is calling?"
       }
-    ]
+    ],
+    "mnemonic": "BELL-en - ring the BELL to CALL"
   },
   {
     "id": 408,
@@ -7803,7 +8120,8 @@
         "dutch": "Ik hoop dat het lukt.",
         "english": "I hope it works out."
       }
-    ]
+    ],
+    "mnemonic": "HOPE-en sounds like HOPE"
   },
   {
     "id": 411,
@@ -7816,7 +8134,8 @@
         "dutch": "Ik wens je succes.",
         "english": "I wish you success."
       }
-    ]
+    ],
+    "mnemonic": "WISH-en - WISH/wensen"
   },
   {
     "id": 412,
@@ -7829,7 +8148,8 @@
         "dutch": "Ik droom van vakantie.",
         "english": "I dream of vacation."
       }
-    ]
+    ],
+    "mnemonic": "DREAM-en sounds like DREAM"
   },
   {
     "id": 413,
@@ -7842,7 +8162,8 @@
         "dutch": "Het kind huilt.",
         "english": "The child is crying."
       }
-    ]
+    ],
+    "mnemonic": "HOWL-en - CRY/howl"
   },
   {
     "id": 414,
@@ -7855,7 +8176,8 @@
         "dutch": "Iedereen lacht.",
         "english": "Everyone laughs."
       }
-    ]
+    ],
+    "mnemonic": "LAUGH-en sounds like LAUGH"
   },
   {
     "id": 415,
@@ -7876,7 +8198,8 @@
         "dutch": "Ik kan niet zingen.",
         "english": "I can't sing."
       }
-    ]
+    ],
+    "mnemonic": "SING-en sounds like SING"
   },
   {
     "id": 416,
@@ -7897,7 +8220,8 @@
         "dutch": "Zij danst heel goed.",
         "english": "She dances very well."
       }
-    ]
+    ],
+    "mnemonic": "DANCE-en sounds like DANCE"
   },
   {
     "id": 417,
@@ -7910,7 +8234,8 @@
         "dutch": "Ik teken een huis.",
         "english": "I draw a house."
       }
-    ]
+    ],
+    "mnemonic": "TOKEN/DRAW - tekenen"
   },
   {
     "id": 418,
@@ -7923,7 +8248,8 @@
         "dutch": "Ik schilder de muur.",
         "english": "I paint the wall."
       }
-    ]
+    ],
+    "mnemonic": "SHIELD-eren - PAINT a shield"
   },
   {
     "id": 419,
@@ -7936,7 +8262,8 @@
         "dutch": "Ze bouwen een nieuw huis.",
         "english": "They're building a new house."
       }
-    ]
+    ],
+    "mnemonic": "BUILD - bouwen"
   },
   {
     "id": 420,
@@ -7949,7 +8276,8 @@
         "dutch": "Ik brak het glas.",
         "english": "I broke the glass."
       }
-    ]
+    ],
+    "mnemonic": "BREAK-en sounds like BREAK"
   },
   {
     "id": 421,
@@ -7962,7 +8290,8 @@
         "dutch": "Ik repareer de fiets.",
         "english": "I repair the bicycle."
       }
-    ]
+    ],
+    "mnemonic": "REPAIR-eren - REPAIR"
   },
   {
     "id": 422,
@@ -7996,7 +8325,8 @@
         "dutch": "De was moet gedaan worden.",
         "english": "The laundry needs to be done."
       }
-    ]
+    ],
+    "mnemonic": "WASH-en sounds like WASH"
   },
   {
     "id": 424,
@@ -8030,7 +8360,8 @@
         "dutch": "Ik kook graag Italiaans.",
         "english": "I like to cook Italian."
       }
-    ]
+    ],
+    "mnemonic": "COOK-en sounds like COOK"
   },
   {
     "id": 426,
@@ -8051,7 +8382,8 @@
         "dutch": "Kun je pannenkoeken bakken?",
         "english": "Can you make pancakes?"
       }
-    ]
+    ],
+    "mnemonic": "BAKE-en sounds like BAKE"
   },
   {
     "id": 427,
@@ -8064,7 +8396,8 @@
         "dutch": "Ik snijd het brood.",
         "english": "I cut the bread."
       }
-    ]
+    ],
+    "mnemonic": "SNIDE cut - CUT snidely"
   },
   {
     "id": 428,
@@ -8077,7 +8410,8 @@
         "dutch": "Meng de ingrediënten.",
         "english": "Mix the ingredients."
       }
-    ]
+    ],
+    "mnemonic": "MINGLE-en - MIX/mingle"
   },
   {
     "id": 429,
@@ -8103,7 +8437,8 @@
         "dutch": "Kun je dat uitleggen?",
         "english": "Can you explain that?"
       }
-    ]
+    ],
+    "mnemonic": "OUT-LAY-gen - LAY OUT/EXPLAIN"
   },
   {
     "id": 431,
@@ -8124,7 +8459,8 @@
         "dutch": "Dat is niet groot.",
         "english": "That is not big."
       }
-    ]
+    ],
+    "mnemonic": "GREAT/BIG - groot"
   },
   {
     "id": 432,
@@ -8145,7 +8481,8 @@
         "dutch": "Dat is niet klein.",
         "english": "That is not small."
       }
-    ]
+    ],
+    "mnemonic": "Clean and SMALL"
   },
   {
     "id": 433,
@@ -8166,7 +8503,8 @@
         "dutch": "Dat is niet lang.",
         "english": "That is not long."
       }
-    ]
+    ],
+    "mnemonic": "LONG/TALL - lang sounds like LONG"
   },
   {
     "id": 434,
@@ -8187,7 +8525,8 @@
         "dutch": "Dat is niet kort.",
         "english": "That is not short."
       }
-    ]
+    ],
+    "mnemonic": "CUT SHORT - kort"
   },
   {
     "id": 435,
@@ -8313,7 +8652,8 @@
         "dutch": "Dat is niet licht.",
         "english": "That is not light (weight."
       }
-    ]
+    ],
+    "mnemonic": "LIGHT - licht sounds like LIGHT"
   },
   {
     "id": 441,
@@ -8376,7 +8716,8 @@
         "dutch": "Dat is niet warm.",
         "english": "That is not warm."
       }
-    ]
+    ],
+    "mnemonic": "WARM is the same!"
   },
   {
     "id": 444,
@@ -8397,7 +8738,8 @@
         "dutch": "Dat is niet koud.",
         "english": "That is not cold."
       }
-    ]
+    ],
+    "mnemonic": "COLD - koud sounds like COLD"
   },
   {
     "id": 445,
@@ -8439,7 +8781,8 @@
         "dutch": "Dat is niet nat.",
         "english": "That is not wet."
       }
-    ]
+    ],
+    "mnemonic": "NOT dry = WET"
   },
   {
     "id": 447,
@@ -8460,7 +8803,8 @@
         "dutch": "Dat is niet droog.",
         "english": "That is not dry."
       }
-    ]
+    ],
+    "mnemonic": "DROUGHT = DRY"
   },
   {
     "id": 448,
@@ -8481,7 +8825,8 @@
         "dutch": "Dat is niet schoon.",
         "english": "That is not clean."
       }
-    ]
+    ],
+    "mnemonic": "SHINE = CLEAN"
   },
   {
     "id": 449,
@@ -8502,7 +8847,8 @@
         "dutch": "Dat is niet vies.",
         "english": "That is not dirty."
       }
-    ]
+    ],
+    "mnemonic": "VICE is DIRTY"
   },
   {
     "id": 450,
@@ -8523,7 +8869,8 @@
         "dutch": "Dat is niet oud.",
         "english": "That is not old."
       }
-    ]
+    ],
+    "mnemonic": "OLD - oud sounds like OLD"
   },
   {
     "id": 451,
@@ -8544,7 +8891,8 @@
         "dutch": "Dat is niet jong.",
         "english": "That is not young."
       }
-    ]
+    ],
+    "mnemonic": "YOUNG - jong sounds like YOUNG"
   },
   {
     "id": 452,
@@ -8565,7 +8913,8 @@
         "dutch": "Dat is niet nieuw.",
         "english": "That is not new."
       }
-    ]
+    ],
+    "mnemonic": "NEW - nieuw sounds like NEW"
   },
   {
     "id": 453,
@@ -8586,7 +8935,8 @@
         "dutch": "Dat is niet snel.",
         "english": "That is not fast."
       }
-    ]
+    ],
+    "mnemonic": "Like a SNAIL? No, FAST!"
   },
   {
     "id": 454,
@@ -8607,7 +8957,8 @@
         "dutch": "Dat is niet langzaam.",
         "english": "That is not slow."
       }
-    ]
+    ],
+    "mnemonic": "LONG-zaam - SLOWLY, long time"
   },
   {
     "id": 455,
@@ -8628,7 +8979,8 @@
         "dutch": "Dat is niet vroeg.",
         "english": "That is not early."
       }
-    ]
+    ],
+    "mnemonic": "FROG wakes EARLY"
   },
   {
     "id": 456,
@@ -8649,7 +9001,8 @@
         "dutch": "Dat is niet laat.",
         "english": "That is not late."
       }
-    ]
+    ],
+    "mnemonic": "LATE - laat sounds like LATE"
   },
   {
     "id": 457,
@@ -8670,7 +9023,8 @@
         "dutch": "Dat is niet leeg.",
         "english": "That is not empty."
       }
-    ]
+    ],
+    "mnemonic": "LEAGUE of nothing - EMPTY"
   },
   {
     "id": 458,
@@ -8691,7 +9045,8 @@
         "dutch": "Dat is niet vol.",
         "english": "That is not full."
       }
-    ]
+    ],
+    "mnemonic": "VOLUME is FULL"
   },
   {
     "id": 459,
@@ -8712,7 +9067,8 @@
         "dutch": "Dat is niet open.",
         "english": "That is not open."
       }
-    ]
+    ],
+    "mnemonic": "OPEN is the same!"
   },
   {
     "id": 460,
@@ -8733,7 +9089,8 @@
         "dutch": "Dat is niet dicht.",
         "english": "That is not closed."
       }
-    ]
+    ],
+    "mnemonic": "TIGHT/CLOSED - dicht"
   },
   {
     "id": 461,
@@ -8754,7 +9111,8 @@
         "dutch": "Dat is niet stil.",
         "english": "That is not quiet."
       }
-    ]
+    ],
+    "mnemonic": "STILL/QUIET - stil"
   },
   {
     "id": 462,
@@ -8775,7 +9133,8 @@
         "dutch": "Dat is niet luid.",
         "english": "That is not loud."
       }
-    ]
+    ],
+    "mnemonic": "LOUD - luid sounds like LOUD"
   },
   {
     "id": 463,
@@ -8796,7 +9155,8 @@
         "dutch": "Dat is niet donker.",
         "english": "That is not dark."
       }
-    ]
+    ],
+    "mnemonic": "DUNKER in the DARK"
   },
   {
     "id": 464,
@@ -8838,7 +9198,8 @@
         "dutch": "Dat is niet moeilijk.",
         "english": "That is not difficult."
       }
-    ]
+    ],
+    "mnemonic": "MOY-lijk - DIFFICULT to enjoy"
   },
   {
     "id": 466,
@@ -8859,7 +9220,8 @@
         "dutch": "Dat is niet makkelijk.",
         "english": "That is not easy."
       }
-    ]
+    ],
+    "mnemonic": "MAKE-elijk - EASY to make"
   },
   {
     "id": 467,
@@ -8880,7 +9242,8 @@
         "dutch": "Dat is niet belangrijk.",
         "english": "That is not important."
       }
-    ]
+    ],
+    "mnemonic": "Be-LONG-rijk - IMPORTANT to belong"
   },
   {
     "id": 468,
@@ -8897,7 +9260,8 @@
         "dutch": "Het is heel nodig.",
         "english": "It is very necessary."
       }
-    ]
+    ],
+    "mnemonic": "NEED-ig - NECESSARY/needed"
   },
   {
     "id": 469,
@@ -8918,7 +9282,8 @@
         "dutch": "Dat is niet mogelijk.",
         "english": "That is not possible."
       }
-    ]
+    ],
+    "mnemonic": "MOGE-lijk - POSSIBLE maybe"
   },
   {
     "id": 470,
@@ -8939,7 +9304,8 @@
         "dutch": "Dat is niet zeker.",
         "english": "That is not certain."
       }
-    ]
+    ],
+    "mnemonic": "SECURE/CERTAIN - zeker"
   },
   {
     "id": 471,
@@ -9002,7 +9368,8 @@
         "dutch": "Dat is niet druk.",
         "english": "That is not busy."
       }
-    ]
+    ],
+    "mnemonic": "RUCK/BUSY - in a ruck"
   },
   {
     "id": 474,
@@ -9170,7 +9537,8 @@
         "dutch": "Dat is niet rijk.",
         "english": "That is not rich."
       }
-    ]
+    ],
+    "mnemonic": "RICH - rijk sounds like RICH"
   },
   {
     "id": 482,
@@ -9191,7 +9559,8 @@
         "dutch": "Dat is niet arm.",
         "english": "That is not poor."
       }
-    ]
+    ],
+    "mnemonic": "POOR - same as arm (limb)"
   },
   {
     "id": 483,
@@ -9212,7 +9581,8 @@
         "dutch": "Dat is niet duur.",
         "english": "That is not expensive."
       }
-    ]
+    ],
+    "mnemonic": "DEAR/EXPENSIVE - costs dear"
   },
   {
     "id": 484,
@@ -9233,7 +9603,8 @@
         "dutch": "Dat is niet goedkoop.",
         "english": "That is not cheap."
       }
-    ]
+    ],
+    "mnemonic": "GOOD-koop - GOOD deal, CHEAP"
   },
   {
     "id": 485,
@@ -9254,7 +9625,8 @@
         "dutch": "Dat is niet gratis.",
         "english": "That is not free (no cost)."
       }
-    ]
+    ],
+    "mnemonic": "GRATIS/FREE is the same!"
   },
   {
     "id": 486,
@@ -9275,7 +9647,8 @@
         "dutch": "Dat is niet lekker.",
         "english": "That is not tasty."
       }
-    ]
+    ],
+    "mnemonic": "LICK-er - TASTY, lick it!"
   },
   {
     "id": 487,
@@ -9296,7 +9669,8 @@
         "dutch": "Dat is niet vreemd.",
         "english": "That is not strange."
       }
-    ]
+    ],
+    "mnemonic": "FREMD/STRANGE - foreign"
   },
   {
     "id": 488,
@@ -9359,7 +9733,8 @@
         "dutch": "Dat is niet anders.",
         "english": "That is not different."
       }
-    ]
+    ],
+    "mnemonic": "OTHER/DIFFERENT - anders"
   },
   {
     "id": 491,
@@ -9414,7 +9789,8 @@
         "dutch": "Dat is niet echt.",
         "english": "That is not real."
       }
-    ]
+    ],
+    "mnemonic": "ACTUAL/REAL - echt"
   },
   {
     "id": 494,
@@ -9435,7 +9811,8 @@
         "dutch": "Zij komt helemaal.",
         "english": "She comes completely."
       }
-    ]
+    ],
+    "mnemonic": "HELL-e-MAAL - COMPLETELY"
   },
   {
     "id": 495,
@@ -9456,7 +9833,8 @@
         "dutch": "Zij komt bijna.",
         "english": "She comes almost."
       }
-    ]
+    ],
+    "mnemonic": "BYE-na - ALMOST bye"
   },
   {
     "id": 496,
@@ -9477,7 +9855,8 @@
         "dutch": "Zij komt ongeveer.",
         "english": "She comes approximately."
       }
-    ]
+    ],
+    "mnemonic": "On-ge-FAIR - APPROXIMATELY fair"
   },
   {
     "id": 497,
@@ -9498,7 +9877,8 @@
         "dutch": "Zij komt misschien.",
         "english": "She comes maybe."
       }
-    ]
+    ],
+    "mnemonic": "MISS-schien - MAYBE miss it"
   },
   {
     "id": 498,
@@ -9540,7 +9920,8 @@
         "dutch": "Zij komt natuurlijk.",
         "english": "She comes of course."
       }
-    ]
+    ],
+    "mnemonic": "NATURAL-lijk - NATURALLY/OF COURSE"
   },
   {
     "id": 500,
@@ -9582,7 +9963,8 @@
         "dutch": "Zij komt vaak.",
         "english": "She comes often."
       }
-    ]
+    ],
+    "mnemonic": "FOCK/OFTEN - very often"
   },
   {
     "id": 502,
@@ -9603,7 +9985,8 @@
         "dutch": "Zij komt soms.",
         "english": "She comes sometimes."
       }
-    ]
+    ],
+    "mnemonic": "SOME-times"
   },
   {
     "id": 503,
@@ -9624,7 +10007,8 @@
         "dutch": "Zij komt nooit.",
         "english": "She comes never."
       }
-    ]
+    ],
+    "mnemonic": "NO-it - NEVER, no way"
   },
   {
     "id": 504,
@@ -9645,7 +10029,8 @@
         "dutch": "Zij komt altijd.",
         "english": "She comes always."
       }
-    ]
+    ],
+    "mnemonic": "ALL-tijd - ALL TIME, ALWAYS"
   },
   {
     "id": 505,
@@ -9708,7 +10093,8 @@
         "dutch": "Zij komt nu.",
         "english": "She comes now."
       }
-    ]
+    ],
+    "mnemonic": "NOW - nu sounds like NOW"
   },
   {
     "id": 508,
@@ -9729,7 +10115,8 @@
         "dutch": "Zij komt dan.",
         "english": "She comes then."
       }
-    ]
+    ],
+    "mnemonic": "THAN/THEN - dan"
   },
   {
     "id": 509,
@@ -9750,7 +10137,8 @@
         "dutch": "Zij komt hier.",
         "english": "She comes here."
       }
-    ]
+    ],
+    "mnemonic": "HERE - hier sounds like HERE"
   },
   {
     "id": 510,
@@ -9771,7 +10159,8 @@
         "dutch": "Zij komt daar.",
         "english": "She comes there."
       }
-    ]
+    ],
+    "mnemonic": "THERE - daar sounds like THERE"
   },
   {
     "id": 511,
@@ -9855,7 +10244,8 @@
         "dutch": "Zij komt samen.",
         "english": "She comes together."
       }
-    ]
+    ],
+    "mnemonic": "SAME-n - TOGETHER, same group"
   },
   {
     "id": 515,
@@ -9876,7 +10266,8 @@
         "dutch": "Zij komt alleen.",
         "english": "She comes alone."
       }
-    ]
+    ],
+    "mnemonic": "ALL-een - ALL ONE, ALONE"
   },
   {
     "id": 516,
@@ -9918,7 +10309,8 @@
         "dutch": "Zij komt weer.",
         "english": "She comes again."
       }
-    ]
+    ],
+    "mnemonic": "WEATHER - weer"
   },
   {
     "id": 518,
@@ -9939,7 +10331,8 @@
         "dutch": "Zij komt goed.",
         "english": "She comes good."
       }
-    ]
+    ],
+    "mnemonic": "GOOD - goed sounds like GOOD"
   },
   {
     "id": 519,
@@ -9960,7 +10353,8 @@
         "dutch": "Zij komt slecht.",
         "english": "She comes bad."
       }
-    ]
+    ],
+    "mnemonic": "SLACKED off = BAD"
   },
   {
     "id": 520,
@@ -9981,7 +10375,8 @@
         "dutch": "Zij komt erg.",
         "english": "She comes very."
       }
-    ]
+    ],
+    "mnemonic": "ERG of energy - VERY"
   },
   {
     "id": 521,
@@ -10002,7 +10397,8 @@
         "dutch": "Zij komt heel.",
         "english": "She comes very."
       }
-    ]
+    ],
+    "mnemonic": "WHOLE/VERY - heel"
   },
   {
     "id": 522,
@@ -10023,7 +10419,8 @@
         "dutch": "Zij komt veel.",
         "english": "She comes much."
       }
-    ]
+    ],
+    "mnemonic": "FEEL how MUCH/MANY"
   },
   {
     "id": 523,
@@ -10044,7 +10441,8 @@
         "dutch": "Zij komt weinig.",
         "english": "She comes little."
       }
-    ]
+    ],
+    "mnemonic": "WANE-ig - FEW, waning"
   },
   {
     "id": 524,
@@ -10065,7 +10463,8 @@
         "dutch": "Zij komt meer.",
         "english": "She comes more."
       }
-    ]
+    ],
+    "mnemonic": "MORE - meer sounds like MORE"
   },
   {
     "id": 525,
@@ -10086,7 +10485,8 @@
         "dutch": "Zij komt minder.",
         "english": "She comes less."
       }
-    ]
+    ],
+    "mnemonic": "MIND-er - LESS to mind"
   },
   {
     "id": 526,
@@ -10107,7 +10507,8 @@
         "dutch": "Zij komt genoeg.",
         "english": "She comes enough."
       }
-    ]
+    ],
+    "mnemonic": "Ge-NOUGH - ENOUGH"
   },
   {
     "id": 527,
@@ -10128,7 +10529,8 @@
         "dutch": "Zij komt te.",
         "english": "She comes too."
       }
-    ]
+    ],
+    "mnemonic": "TOO - te sounds like TOO"
   },
   {
     "id": 528,
@@ -10149,7 +10551,8 @@
         "dutch": "Zij komt zo.",
         "english": "She comes so."
       }
-    ]
+    ],
+    "mnemonic": "SO - zo sounds like SO"
   },
   {
     "id": 529,
@@ -10171,7 +10574,8 @@
         "dutch": "De straat is mooi.",
         "english": "The street is beautiful."
       }
-    ]
+    ],
+    "mnemonic": "STREET - straat sounds like STREET"
   },
   {
     "id": 530,
@@ -10193,7 +10597,8 @@
         "dutch": "De weg is mooi.",
         "english": "The road is beautiful."
       }
-    ]
+    ],
+    "mnemonic": "WAY/ROAD - weg sounds like WAY"
   },
   {
     "id": 531,
@@ -10215,7 +10620,8 @@
         "dutch": "De brug is mooi.",
         "english": "The bridge is beautiful."
       }
-    ]
+    ],
+    "mnemonic": "BRIDGE - brug"
   },
   {
     "id": 532,
@@ -10237,7 +10643,8 @@
         "dutch": "De plein is mooi.",
         "english": "The square is beautiful."
       }
-    ]
+    ],
+    "mnemonic": "PLAIN/SQUARE - plein"
   },
   {
     "id": 533,
@@ -10259,7 +10666,8 @@
         "dutch": "De hoek is mooi.",
         "english": "The corner is beautiful."
       }
-    ]
+    ],
+    "mnemonic": "HOOK/CORNER - hoek"
   },
   {
     "id": 534,
@@ -10281,7 +10689,8 @@
         "dutch": "De richting is mooi.",
         "english": "The direction is beautiful."
       }
-    ]
+    ],
+    "mnemonic": "RIGHT-ing - DIRECTION"
   },
   {
     "id": 535,
@@ -10302,7 +10711,8 @@
         "dutch": "Zij komt links.",
         "english": "She comes left."
       }
-    ]
+    ],
+    "mnemonic": "LINKS to the LEFT"
   },
   {
     "id": 536,
@@ -10323,7 +10733,8 @@
         "dutch": "Zij komt rechts.",
         "english": "She comes right."
       }
-    ]
+    ],
+    "mnemonic": "RECTS/RIGHT direction"
   },
   {
     "id": 537,
@@ -10386,7 +10797,8 @@
         "dutch": "Zij komt binnen.",
         "english": "She comes inside."
       }
-    ]
+    ],
+    "mnemonic": "BIN/INSIDE - binnen"
   },
   {
     "id": 540,
@@ -10407,7 +10819,8 @@
         "dutch": "Zij komt buiten.",
         "english": "She comes outside."
       }
-    ]
+    ],
+    "mnemonic": "BOUT/OUTSIDE - buiten"
   },
   {
     "id": 541,
@@ -10428,7 +10841,8 @@
         "dutch": "Zij komt boven.",
         "english": "She comes above."
       }
-    ]
+    ],
+    "mnemonic": "ABOVE - boven sounds similar"
   },
   {
     "id": 542,
@@ -10471,7 +10885,8 @@
         "dutch": "De bus is mooi.",
         "english": "The bus is beautiful."
       }
-    ]
+    ],
+    "mnemonic": "BUS is the same!"
   },
   {
     "id": 544,
@@ -10493,7 +10908,8 @@
         "dutch": "De tram is mooi.",
         "english": "The tram is beautiful."
       }
-    ]
+    ],
+    "mnemonic": "TRAM is the same!"
   },
   {
     "id": 545,
@@ -10515,7 +10931,8 @@
         "dutch": "De metro is mooi.",
         "english": "The metro is beautiful."
       }
-    ]
+    ],
+    "mnemonic": "METRO is the same!"
   },
   {
     "id": 546,
@@ -10537,7 +10954,8 @@
         "dutch": "De vliegtuig is mooi.",
         "english": "The airplane is beautiful."
       }
-    ]
+    ],
+    "mnemonic": "FLY-THING - AIRPLANE"
   },
   {
     "id": 547,
@@ -10559,7 +10977,8 @@
         "dutch": "De boot is mooi.",
         "english": "The boat is beautiful."
       }
-    ]
+    ],
+    "mnemonic": "BOAT - boot sounds like BOAT"
   },
   {
     "id": 548,
@@ -10581,7 +11000,8 @@
         "dutch": "De station is mooi.",
         "english": "The station is beautiful."
       }
-    ]
+    ],
+    "mnemonic": "STATION is the same!"
   },
   {
     "id": 549,
@@ -10625,7 +11045,8 @@
         "dutch": "De halte is mooi.",
         "english": "The stop (bus is beautiful."
       }
-    ]
+    ],
+    "mnemonic": "HALT-e - STOP"
   },
   {
     "id": 551,
@@ -10669,7 +11090,8 @@
         "dutch": "De paspoort is mooi.",
         "english": "The passport is beautiful."
       }
-    ]
+    ],
+    "mnemonic": "PASSPORT - paspoort"
   },
   {
     "id": 553,
@@ -10713,7 +11135,8 @@
         "dutch": "De koffer is mooi.",
         "english": "The suitcase is beautiful."
       }
-    ]
+    ],
+    "mnemonic": "COFFER/SUITCASE - koffer"
   },
   {
     "id": 555,
@@ -10735,7 +11158,8 @@
         "dutch": "De tas is mooi.",
         "english": "The bag is beautiful."
       }
-    ]
+    ],
+    "mnemonic": "TOSS in a BAG"
   },
   {
     "id": 556,
@@ -10801,7 +11225,8 @@
         "dutch": "De telefoon is mooi.",
         "english": "The telephone is beautiful."
       }
-    ]
+    ],
+    "mnemonic": "TELEPHONE is the same!"
   },
   {
     "id": 559,
@@ -10823,7 +11248,8 @@
         "dutch": "De computer is mooi.",
         "english": "The computer is beautiful."
       }
-    ]
+    ],
+    "mnemonic": "COMPUTER is the same!"
   },
   {
     "id": 560,
@@ -10845,7 +11271,8 @@
         "dutch": "De internet is mooi.",
         "english": "The internet is beautiful."
       }
-    ]
+    ],
+    "mnemonic": "INTERNET is the same!"
   },
   {
     "id": 561,
@@ -10867,7 +11294,8 @@
         "dutch": "De bericht is mooi.",
         "english": "The message is beautiful."
       }
-    ]
+    ],
+    "mnemonic": "Be-REPORT - MESSAGE/REPORT"
   },
   {
     "id": 562,
@@ -10889,7 +11317,8 @@
         "dutch": "De email is mooi.",
         "english": "The email is beautiful."
       }
-    ]
+    ],
+    "mnemonic": "EMAIL is the same!"
   },
   {
     "id": 563,
@@ -10911,7 +11340,8 @@
         "dutch": "De wachtwoord is mooi.",
         "english": "The password is beautiful."
       }
-    ]
+    ],
+    "mnemonic": "WATCH-WORD - PASSWORD"
   },
   {
     "id": 564,
@@ -10933,7 +11363,8 @@
         "dutch": "De foto is mooi.",
         "english": "The photo is beautiful."
       }
-    ]
+    ],
+    "mnemonic": "PHOTO - foto sounds like PHOTO"
   },
   {
     "id": 565,
@@ -10955,7 +11386,8 @@
         "dutch": "De film is mooi.",
         "english": "The movie is beautiful."
       }
-    ]
+    ],
+    "mnemonic": "FILM is the same!"
   },
   {
     "id": 566,
@@ -10977,7 +11409,8 @@
         "dutch": "De muziek is mooi.",
         "english": "The music is beautiful."
       }
-    ]
+    ],
+    "mnemonic": "MUSIC - muziek sounds like MUSIC"
   },
   {
     "id": 567,
@@ -10999,7 +11432,8 @@
         "dutch": "De lied is mooi.",
         "english": "The song is beautiful."
       }
-    ]
+    ],
+    "mnemonic": "LEAD a SONG"
   },
   {
     "id": 568,
@@ -11021,7 +11455,8 @@
         "dutch": "De kunst is mooi.",
         "english": "The art is beautiful."
       }
-    ]
+    ],
+    "mnemonic": "Can't miss ART - kunst"
   },
   {
     "id": 569,
@@ -11043,7 +11478,8 @@
         "dutch": "De museum is mooi.",
         "english": "The museum is beautiful."
       }
-    ]
+    ],
+    "mnemonic": "MUSEUM is the same!"
   },
   {
     "id": 570,
@@ -11065,7 +11501,8 @@
         "dutch": "De theater is mooi.",
         "english": "The theater is beautiful."
       }
-    ]
+    ],
+    "mnemonic": "THEATER - theater"
   },
   {
     "id": 571,
@@ -11087,7 +11524,8 @@
         "dutch": "De bioscoop is mooi.",
         "english": "The cinema is beautiful."
       }
-    ]
+    ],
+    "mnemonic": "BIO-SCOPE - CINEMA"
   },
   {
     "id": 572,
@@ -11131,7 +11569,8 @@
         "dutch": "De feest is mooi.",
         "english": "The party is beautiful."
       }
-    ]
+    ],
+    "mnemonic": "FEAST/PARTY - feest"
   },
   {
     "id": 574,
@@ -11153,7 +11592,8 @@
         "dutch": "De vakantie is mooi.",
         "english": "The vacation is beautiful."
       }
-    ]
+    ],
+    "mnemonic": "VACANT-ie - VACATION"
   },
   {
     "id": 575,
@@ -11175,7 +11615,8 @@
         "dutch": "De reis is mooi.",
         "english": "The trip is beautiful."
       }
-    ]
+    ],
+    "mnemonic": "RISE and TRAVEL"
   },
   {
     "id": 576,
@@ -11197,7 +11638,8 @@
         "dutch": "De hotel is mooi.",
         "english": "The hotel is beautiful."
       }
-    ]
+    ],
+    "mnemonic": "HOTEL is the same!"
   },
   {
     "id": 577,
@@ -11219,7 +11661,8 @@
         "dutch": "De kamer is mooi.",
         "english": "The room is beautiful."
       }
-    ]
+    ],
+    "mnemonic": "CAMERA in the ROOM"
   },
   {
     "id": 578,
@@ -11241,7 +11684,8 @@
         "dutch": "De bed is mooi.",
         "english": "The bed is beautiful."
       }
-    ]
+    ],
+    "mnemonic": "BED is the same!"
   },
   {
     "id": 579,
@@ -11483,7 +11927,8 @@
         "dutch": "De tuin is mooi.",
         "english": "The garden is beautiful."
       }
-    ]
+    ],
+    "mnemonic": "TUNE in the GARDEN"
   },
   {
     "id": 590,
@@ -11527,7 +11972,8 @@
         "dutch": "De trap is mooi.",
         "english": "The stairs is beautiful."
       }
-    ]
+    ],
+    "mnemonic": "TRAP door on STAIRS"
   },
   {
     "id": 592,
@@ -11593,7 +12039,8 @@
         "dutch": "De muur is mooi.",
         "english": "The wall is beautiful."
       }
-    ]
+    ],
+    "mnemonic": "MURAL on the WALL"
   },
   {
     "id": 595,
@@ -11615,7 +12062,8 @@
         "dutch": "De vloer is mooi.",
         "english": "The floor is beautiful."
       }
-    ]
+    ],
+    "mnemonic": "FLOOR - vloer sounds like FLOOR"
   },
   {
     "id": 596,
@@ -11659,7 +12107,8 @@
         "dutch": "De dak is mooi.",
         "english": "The roof is beautiful."
       }
-    ]
+    ],
+    "mnemonic": "DECK/ROOF on top"
   },
   {
     "id": 598,
@@ -11681,7 +12130,8 @@
         "dutch": "De raam is mooi.",
         "english": "The window is beautiful."
       }
-    ]
+    ],
+    "mnemonic": "FRAME of a WINDOW"
   },
   {
     "id": 599,
@@ -11703,7 +12153,8 @@
         "dutch": "De deur is mooi.",
         "english": "The door is beautiful."
       }
-    ]
+    ],
+    "mnemonic": "DOOR - deur sounds like DOOR"
   },
   {
     "id": 600,
@@ -11725,7 +12176,8 @@
         "dutch": "De stoel is mooi.",
         "english": "The chair is beautiful."
       }
-    ]
+    ],
+    "mnemonic": "STOOL/CHAIR - stoel sounds like STOOL"
   },
   {
     "id": 601,
@@ -11747,7 +12199,8 @@
         "dutch": "De tafel is mooi.",
         "english": "The table is beautiful."
       }
-    ]
+    ],
+    "mnemonic": "TABLE - tafel sounds like TABLE"
   },
   {
     "id": 602,
@@ -11769,7 +12222,8 @@
         "dutch": "De bank is mooi.",
         "english": "The couch is beautiful."
       }
-    ]
+    ],
+    "mnemonic": "BANK is the same!"
   },
   {
     "id": 603,
@@ -11813,7 +12267,8 @@
         "dutch": "De lamp is mooi.",
         "english": "The lamp is beautiful."
       }
-    ]
+    ],
+    "mnemonic": "LAMP is the same!"
   },
   {
     "id": 605,
@@ -11923,7 +12378,8 @@
         "dutch": "De vork is mooi.",
         "english": "The fork is beautiful."
       }
-    ]
+    ],
+    "mnemonic": "FORK - vork sounds like FORK"
   },
   {
     "id": 610,
@@ -11945,7 +12401,8 @@
         "dutch": "De mes is mooi.",
         "english": "The knife is beautiful."
       }
-    ]
+    ],
+    "mnemonic": "MESS with a KNIFE"
   },
   {
     "id": 611,
@@ -11967,7 +12424,8 @@
         "dutch": "De lepel is mooi.",
         "english": "The spoon is beautiful."
       }
-    ]
+    ],
+    "mnemonic": "LADLE/SPOON - lepel"
   },
   {
     "id": 612,
@@ -11989,7 +12447,8 @@
         "dutch": "De bord is mooi.",
         "english": "The plate is beautiful."
       }
-    ]
+    ],
+    "mnemonic": "BOARD/PLATE - bord"
   },
   {
     "id": 613,
@@ -12033,7 +12492,8 @@
         "dutch": "De glas is mooi.",
         "english": "The glass is beautiful."
       }
-    ]
+    ],
+    "mnemonic": "GLASS - glas"
   },
   {
     "id": 615,
@@ -12143,7 +12603,8 @@
         "dutch": "De broek is mooi.",
         "english": "The pants is beautiful."
       }
-    ]
+    ],
+    "mnemonic": "BRITCHES/PANTS - broek"
   },
   {
     "id": 620,
@@ -12231,7 +12692,8 @@
         "dutch": "De jas is mooi.",
         "english": "The coat is beautiful."
       }
-    ]
+    ],
+    "mnemonic": "JACKET - jas sounds similar"
   },
   {
     "id": 624,
@@ -12253,7 +12715,8 @@
         "dutch": "De rok is mooi.",
         "english": "The skirt is beautiful."
       }
-    ]
+    ],
+    "mnemonic": "ROCK a SKIRT"
   },
   {
     "id": 625,
@@ -12275,7 +12738,8 @@
         "dutch": "De jurk is mooi.",
         "english": "The dress is beautiful."
       }
-    ]
+    ],
+    "mnemonic": "JERK in a DRESS"
   },
   {
     "id": 626,
@@ -12297,7 +12761,8 @@
         "dutch": "De schoen is mooi.",
         "english": "The shoe is beautiful."
       }
-    ]
+    ],
+    "mnemonic": "SHOE - schoen sounds like SHOE"
   },
   {
     "id": 627,
@@ -12473,7 +12938,8 @@
         "dutch": "De horloge is mooi.",
         "english": "The watch is beautiful."
       }
-    ]
+    ],
+    "mnemonic": "HOUR-loge WATCH"
   },
   {
     "id": 635,
@@ -12539,7 +13005,8 @@
         "dutch": "De weer is mooi.",
         "english": "The weather is beautiful."
       }
-    ]
+    ],
+    "mnemonic": "WEATHER - weer"
   },
   {
     "id": 638,
@@ -12561,7 +13028,8 @@
         "dutch": "De zon is mooi.",
         "english": "The sun is beautiful."
       }
-    ]
+    ],
+    "mnemonic": "SUN - zon sounds like SUN"
   },
   {
     "id": 639,
@@ -12583,7 +13051,8 @@
         "dutch": "De maan is mooi.",
         "english": "The moon is beautiful."
       }
-    ]
+    ],
+    "mnemonic": "MOON - maan sounds like MOON"
   },
   {
     "id": 640,
@@ -12605,7 +13074,8 @@
         "dutch": "De ster is mooi.",
         "english": "The star is beautiful."
       }
-    ]
+    ],
+    "mnemonic": "STAR - ster sounds like STAR"
   },
   {
     "id": 641,
@@ -12627,7 +13097,8 @@
         "dutch": "De lucht is mooi.",
         "english": "The air is beautiful."
       }
-    ]
+    ],
+    "mnemonic": "LUFT/AIR - lucht"
   },
   {
     "id": 642,
@@ -12649,7 +13120,8 @@
         "dutch": "De wolk is mooi.",
         "english": "The cloud is beautiful."
       }
-    ]
+    ],
+    "mnemonic": "WALK through CLOUDS"
   },
   {
     "id": 643,
@@ -12671,7 +13143,8 @@
         "dutch": "De regen is mooi.",
         "english": "The rain is beautiful."
       }
-    ]
+    ],
+    "mnemonic": "RAIN - regen sounds like RAIN"
   },
   {
     "id": 644,
@@ -12693,7 +13166,8 @@
         "dutch": "De sneeuw is mooi.",
         "english": "The snow is beautiful."
       }
-    ]
+    ],
+    "mnemonic": "SNOW - sneeuw sounds like SNOW"
   },
   {
     "id": 645,
@@ -12715,7 +13189,8 @@
         "dutch": "De wind is mooi.",
         "english": "The wind is beautiful."
       }
-    ]
+    ],
+    "mnemonic": "WIND is the same!"
   },
   {
     "id": 646,
@@ -12913,7 +13388,8 @@
         "dutch": "De maandag is mooi.",
         "english": "The Monday is beautiful."
       }
-    ]
+    ],
+    "mnemonic": "MOON-dag - MONDAY"
   },
   {
     "id": 655,
@@ -12935,7 +13411,8 @@
         "dutch": "De dinsdag is mooi.",
         "english": "The Tuesday is beautiful."
       }
-    ]
+    ],
+    "mnemonic": "DINS-dag - TUESDAY (Tiw's day)"
   },
   {
     "id": 656,
@@ -12957,7 +13434,8 @@
         "dutch": "De woensdag is mooi.",
         "english": "The Wednesday is beautiful."
       }
-    ]
+    ],
+    "mnemonic": "WODEN's-dag - WEDNESDAY"
   },
   {
     "id": 657,
@@ -12979,7 +13457,8 @@
         "dutch": "De donderdag is mooi.",
         "english": "The Thursday is beautiful."
       }
-    ]
+    ],
+    "mnemonic": "THUNDER-dag - THURSDAY (Thor)"
   },
   {
     "id": 658,
@@ -13001,7 +13480,8 @@
         "dutch": "De vrijdag is mooi.",
         "english": "The Friday is beautiful."
       }
-    ]
+    ],
+    "mnemonic": "FRI-dag - FRIDAY (Freya)"
   },
   {
     "id": 659,
@@ -13023,7 +13503,8 @@
         "dutch": "De zaterdag is mooi.",
         "english": "The Saturday is beautiful."
       }
-    ]
+    ],
+    "mnemonic": "SATURN-dag - SATURDAY"
   },
   {
     "id": 660,
@@ -13045,7 +13526,8 @@
         "dutch": "De zondag is mooi.",
         "english": "The Sunday is beautiful."
       }
-    ]
+    ],
+    "mnemonic": "SUN-dag - SUNDAY"
   },
   {
     "id": 661,
@@ -13067,7 +13549,8 @@
         "dutch": "De januari is mooi.",
         "english": "The January is beautiful."
       }
-    ]
+    ],
+    "mnemonic": "JANUARY - januari"
   },
   {
     "id": 662,
@@ -13089,7 +13572,8 @@
         "dutch": "De februari is mooi.",
         "english": "The February is beautiful."
       }
-    ]
+    ],
+    "mnemonic": "FEBRUARY - februari"
   },
   {
     "id": 663,
@@ -13111,7 +13595,8 @@
         "dutch": "De maart is mooi.",
         "english": "The March is beautiful."
       }
-    ]
+    ],
+    "mnemonic": "MARCH - maart"
   },
   {
     "id": 664,
@@ -13133,7 +13618,8 @@
         "dutch": "De april is mooi.",
         "english": "The April is beautiful."
       }
-    ]
+    ],
+    "mnemonic": "APRIL - april"
   },
   {
     "id": 665,
@@ -13155,7 +13641,8 @@
         "dutch": "De mei is mooi.",
         "english": "The May is beautiful."
       }
-    ]
+    ],
+    "mnemonic": "MAY - mei"
   },
   {
     "id": 666,
@@ -13177,7 +13664,8 @@
         "dutch": "De juni is mooi.",
         "english": "The June is beautiful."
       }
-    ]
+    ],
+    "mnemonic": "JUNE - juni"
   },
   {
     "id": 667,
@@ -13199,7 +13687,8 @@
         "dutch": "De juli is mooi.",
         "english": "The July is beautiful."
       }
-    ]
+    ],
+    "mnemonic": "JULY - juli"
   },
   {
     "id": 668,
@@ -13221,7 +13710,8 @@
         "dutch": "De augustus is mooi.",
         "english": "The August is beautiful."
       }
-    ]
+    ],
+    "mnemonic": "AUGUST - augustus"
   },
   {
     "id": 669,
@@ -13243,7 +13733,8 @@
         "dutch": "De september is mooi.",
         "english": "The September is beautiful."
       }
-    ]
+    ],
+    "mnemonic": "SEPTEMBER - september"
   },
   {
     "id": 670,
@@ -13265,7 +13756,8 @@
         "dutch": "De oktober is mooi.",
         "english": "The October is beautiful."
       }
-    ]
+    ],
+    "mnemonic": "OCTOBER - oktober"
   },
   {
     "id": 671,
@@ -13287,7 +13779,8 @@
         "dutch": "De november is mooi.",
         "english": "The November is beautiful."
       }
-    ]
+    ],
+    "mnemonic": "NOVEMBER - november"
   },
   {
     "id": 672,
@@ -13309,7 +13802,8 @@
         "dutch": "De december is mooi.",
         "english": "The December is beautiful."
       }
-    ]
+    ],
+    "mnemonic": "DECEMBER - december"
   },
   {
     "id": 673,
@@ -13330,7 +13824,8 @@
         "dutch": "Zij komt vandaag.",
         "english": "She comes today."
       }
-    ]
+    ],
+    "mnemonic": "VAN-dag - of this DAY, TODAY"
   },
   {
     "id": 674,
@@ -13351,7 +13846,8 @@
         "dutch": "Zij komt morgen.",
         "english": "She comes tomorrow."
       }
-    ]
+    ],
+    "mnemonic": "MORNING - TOMORROW morning"
   },
   {
     "id": 675,
@@ -13372,7 +13868,8 @@
         "dutch": "Zij komt gisteren.",
         "english": "She comes yesterday."
       }
-    ]
+    ],
+    "mnemonic": "YESTER-en - YESTERDAY"
   },
   {
     "id": 676,
@@ -13393,7 +13890,8 @@
         "dutch": "Zij komt overmorgen.",
         "english": "She comes day after tomorrow."
       }
-    ]
+    ],
+    "mnemonic": "OVER-MORNING - DAY AFTER TOMORROW"
   },
   {
     "id": 677,
@@ -13414,7 +13912,8 @@
         "dutch": "Zij komt eergisteren.",
         "english": "She comes day before yesterday."
       }
-    ]
+    ],
+    "mnemonic": "ERE-GISTEREN - DAY BEFORE YESTERDAY"
   },
   {
     "id": 678,
@@ -13436,7 +13935,8 @@
         "dutch": "De ochtend is mooi.",
         "english": "The morning is beautiful."
       }
-    ]
+    ],
+    "mnemonic": "OCH-TEND - MORNING tends"
   },
   {
     "id": 679,
@@ -13458,7 +13958,8 @@
         "dutch": "De middag is mooi.",
         "english": "The afternoon is beautiful."
       }
-    ]
+    ],
+    "mnemonic": "MID-DAG - AFTERNOON, mid-day"
   },
   {
     "id": 680,
@@ -13480,7 +13981,8 @@
         "dutch": "De avond is mooi.",
         "english": "The evening is beautiful."
       }
-    ]
+    ],
+    "mnemonic": "ADVENT - EVENING advent"
   },
   {
     "id": 681,
@@ -13502,7 +14004,8 @@
         "dutch": "De nacht is mooi.",
         "english": "The night is beautiful."
       }
-    ]
+    ],
+    "mnemonic": "NIGHT - nacht sounds like NIGHT"
   },
   {
     "id": 682,
@@ -13524,7 +14027,8 @@
         "dutch": "De weekend is mooi.",
         "english": "The weekend is beautiful."
       }
-    ]
+    ],
+    "mnemonic": "WEEKEND is the same!"
   },
   {
     "id": 683,
@@ -13537,7 +14041,8 @@
         "dutch": "Ik heb een vraag.",
         "english": "I have one question."
       }
-    ]
+    ],
+    "mnemonic": "ONE - een sounds like ONE"
   },
   {
     "id": 684,
@@ -13550,7 +14055,8 @@
         "dutch": "Ik heb twee kinderen.",
         "english": "I have two children."
       }
-    ]
+    ],
+    "mnemonic": "TWO - twee sounds like TWO"
   },
   {
     "id": 685,
@@ -13563,7 +14069,8 @@
         "dutch": "Er zijn drie stoelen.",
         "english": "There are three chairs."
       }
-    ]
+    ],
+    "mnemonic": "THREE - drie sounds like THREE"
   },
   {
     "id": 686,
@@ -13576,7 +14083,8 @@
         "dutch": "Ik werk vier dagen.",
         "english": "I work four days."
       }
-    ]
+    ],
+    "mnemonic": "FOUR - vier sounds like FOUR"
   },
   {
     "id": 687,
@@ -13589,7 +14097,8 @@
         "dutch": "Het is vijf uur.",
         "english": "It's five o'clock."
       }
-    ]
+    ],
+    "mnemonic": "FIVE - vijf sounds like FIVE"
   },
   {
     "id": 688,
@@ -13602,7 +14111,8 @@
         "dutch": "Ik heb zes appels.",
         "english": "I have six apples."
       }
-    ]
+    ],
+    "mnemonic": "SIX - zes sounds similar"
   },
   {
     "id": 689,
@@ -13615,7 +14125,8 @@
         "dutch": "Er zijn zeven dagen in een week.",
         "english": "There are seven days in a week."
       }
-    ]
+    ],
+    "mnemonic": "SEVEN - zeven sounds like SEVEN"
   },
   {
     "id": 690,
@@ -13628,7 +14139,8 @@
         "dutch": "Ik werk acht uur per dag.",
         "english": "I work eight hours per day."
       }
-    ]
+    ],
+    "mnemonic": "EIGHT - acht sounds like EIGHT"
   },
   {
     "id": 691,
@@ -13641,7 +14153,8 @@
         "dutch": "De les begint om negen uur.",
         "english": "The class starts at nine o'clock."
       }
-    ]
+    ],
+    "mnemonic": "NINE - negen sounds like NINE"
   },
   {
     "id": 692,
@@ -13654,7 +14167,8 @@
         "dutch": "Ik tel tot tien.",
         "english": "I count to ten."
       }
-    ]
+    ],
+    "mnemonic": "TEN - tien sounds like TEN"
   },
   {
     "id": 693,
@@ -13667,7 +14181,8 @@
         "dutch": "Er zijn elf spelers.",
         "english": "There are eleven players."
       }
-    ]
+    ],
+    "mnemonic": "ELEVEN - elf sounds like ELEVEN"
   },
   {
     "id": 694,
@@ -13680,7 +14195,8 @@
         "dutch": "Het is twaalf uur.",
         "english": "It's twelve o'clock."
       }
-    ]
+    ],
+    "mnemonic": "TWELVE - twaalf sounds like TWELVE"
   },
   {
     "id": 695,
@@ -13693,7 +14209,8 @@
         "dutch": "Ik ben dertien jaar oud.",
         "english": "I am thirteen years old."
       }
-    ]
+    ],
+    "mnemonic": "THIRTEEN - dertien"
   },
   {
     "id": 696,
@@ -13706,7 +14223,8 @@
         "dutch": "Er zijn veertien leerlingen.",
         "english": "There are fourteen students."
       }
-    ]
+    ],
+    "mnemonic": "FOURTEEN - veertien"
   },
   {
     "id": 697,
@@ -13719,7 +14237,8 @@
         "dutch": "Het duurt vijftien minuten.",
         "english": "It takes fifteen minutes."
       }
-    ]
+    ],
+    "mnemonic": "FIFTEEN - vijftien"
   },
   {
     "id": 698,
@@ -13732,7 +14251,8 @@
         "dutch": "Ik heb twintig euro.",
         "english": "I have twenty euros."
       }
-    ]
+    ],
+    "mnemonic": "TWENTY - twintig sounds like TWENTY"
   },
   {
     "id": 699,
@@ -13745,7 +14265,8 @@
         "dutch": "Het kost dertig euro.",
         "english": "It costs thirty euros."
       }
-    ]
+    ],
+    "mnemonic": "THIRTY - dertig"
   },
   {
     "id": 700,
@@ -13758,7 +14279,8 @@
         "dutch": "Hij is veertig jaar.",
         "english": "He is forty years old."
       }
-    ]
+    ],
+    "mnemonic": "FORTY - veertig"
   },
   {
     "id": 701,
@@ -13771,7 +14293,8 @@
         "dutch": "De winkel sluit om vijftig jaar.",
         "english": "The store is fifty years old."
       }
-    ]
+    ],
+    "mnemonic": "FIFTY - vijftig"
   },
   {
     "id": 702,
@@ -13784,7 +14307,8 @@
         "dutch": "Het kost honderd euro.",
         "english": "It costs a hundred euros."
       }
-    ]
+    ],
+    "mnemonic": "HUNDRED - honderd sounds like HUNDRED"
   },
   {
     "id": 703,
@@ -13797,7 +14321,8 @@
         "dutch": "Er wonen duizend mensen.",
         "english": "A thousand people live there."
       }
-    ]
+    ],
+    "mnemonic": "THOUSAND - duizend"
   },
   {
     "id": 704,
@@ -14087,7 +14612,8 @@
         "dutch": "Ben je klaar?",
         "english": "Are you ready?"
       }
-    ]
+    ],
+    "mnemonic": "ZINE - to BE in a magazine/zine"
   },
   {
     "id": 722,
@@ -14100,7 +14626,8 @@
         "dutch": "Dit is haar huis.",
         "english": "This is her house."
       }
-    ]
+    ],
+    "mnemonic": "HAIR - haar sounds like HAIR"
   },
   {
     "id": 723,
@@ -14191,7 +14718,8 @@
         "dutch": "Wil je iets drinken?",
         "english": "Do you want something to drink?"
       }
-    ]
+    ],
+    "mnemonic": "IT'S SOMETHING - iets"
   },
   {
     "id": 730,
@@ -14204,7 +14732,8 @@
         "dutch": "Ik heb niets te doen.",
         "english": "I have nothing to do."
       }
-    ]
+    ],
+    "mnemonic": "NYET/NOTHING - niets"
   },
   {
     "id": 731,
@@ -14217,7 +14746,8 @@
         "dutch": "Alles is goed.",
         "english": "Everything is fine."
       }
-    ]
+    ],
+    "mnemonic": "ALL-es - EVERYTHING"
   },
   {
     "id": 732,
@@ -14230,7 +14760,8 @@
         "dutch": "Iemand belt aan de deur.",
         "english": "Someone is ringing at the door."
       }
-    ]
+    ],
+    "mnemonic": "I-MAND - SOMEONE I demand"
   },
   {
     "id": 733,
@@ -14243,7 +14774,8 @@
         "dutch": "Niemand is thuis.",
         "english": "No one is home."
       }
-    ]
+    ],
+    "mnemonic": "NO-MAND - NOBODY demanded"
   },
   {
     "id": 734,
@@ -14321,7 +14853,8 @@
         "dutch": "Ik heb een boek.",
         "english": "I have a book."
       }
-    ]
+    ],
+    "mnemonic": "ONE - een sounds like ONE"
   },
   {
     "id": 740,
@@ -14334,7 +14867,8 @@
         "dutch": "Ja, dat klopt.",
         "english": "Yes, that's right."
       }
-    ]
+    ],
+    "mnemonic": "YA/YES - ja"
   },
   {
     "id": 741,
@@ -14347,7 +14881,8 @@
         "dutch": "Nee, dank je.",
         "english": "No, thank you."
       }
-    ]
+    ],
+    "mnemonic": "NAY/NO - nee"
   },
   {
     "id": 742,
@@ -14360,7 +14895,8 @@
         "dutch": "Help me alsjeblieft.",
         "english": "Please help me."
       }
-    ]
+    ],
+    "mnemonic": "ALS-je-BELIEVE - PLEASE believe"
   },
   {
     "id": 743,
@@ -14412,7 +14948,8 @@
         "dutch": "Sorry, ik ben te laat.",
         "english": "Sorry, I'm late."
       }
-    ]
+    ],
+    "mnemonic": "SORRY is the same!"
   },
   {
     "id": 747,
@@ -14451,7 +14988,8 @@
         "dutch": "Dag, tot ziens!",
         "english": "Bye, see you!"
       }
-    ]
+    ],
+    "mnemonic": "DAY - dag sounds like day"
   },
   {
     "id": 750,
@@ -14477,7 +15015,8 @@
         "dutch": "Welkom in Nederland!",
         "english": "Welcome to the Netherlands!"
       }
-    ]
+    ],
+    "mnemonic": "WELCOME - welkom sounds like WELCOME"
   },
   {
     "id": 752,
@@ -14512,7 +15051,8 @@
         "dutch": "De school is mooi.",
         "english": "The school is beautiful."
       }
-    ]
+    ],
+    "mnemonic": "SCHOOL is the same!"
   },
   {
     "id": 754,
@@ -14534,7 +15074,8 @@
         "dutch": "De universiteit is mooi.",
         "english": "The university is beautiful."
       }
-    ]
+    ],
+    "mnemonic": "UNIVERSITY - universiteit"
   },
   {
     "id": 755,
@@ -14556,7 +15097,8 @@
         "dutch": "De les is mooi.",
         "english": "The lesson is beautiful."
       }
-    ]
+    ],
+    "mnemonic": "LESSON - les"
   },
   {
     "id": 756,
@@ -14578,7 +15120,8 @@
         "dutch": "De cursus is mooi.",
         "english": "The course is beautiful."
       }
-    ]
+    ],
+    "mnemonic": "COURSE - cursus"
   },
   {
     "id": 757,
@@ -14600,7 +15143,8 @@
         "dutch": "De examen is mooi.",
         "english": "The exam is beautiful."
       }
-    ]
+    ],
+    "mnemonic": "EXAM - examen"
   },
   {
     "id": 758,
@@ -14666,7 +15210,8 @@
         "dutch": "De antwoord is mooi.",
         "english": "The answer is beautiful."
       }
-    ]
+    ],
+    "mnemonic": "ANSWER - antwoord"
   },
   {
     "id": 761,
@@ -14684,7 +15229,8 @@
         "dutch": "De vraag is mooi.",
         "english": "The question is beautiful."
       }
-    ]
+    ],
+    "mnemonic": "FRAAG/QUESTION - I ask"
   },
   {
     "id": 762,
@@ -14794,7 +15340,8 @@
         "dutch": "De kantoor is mooi.",
         "english": "The office is beautiful."
       }
-    ]
+    ],
+    "mnemonic": "CANTOR/OFFICE - kantoor"
   },
   {
     "id": 767,
@@ -14816,7 +15363,8 @@
         "dutch": "De bedrijf is mooi.",
         "english": "The company is beautiful."
       }
-    ]
+    ],
+    "mnemonic": "Be-DRIVE - COMPANY drives business"
   },
   {
     "id": 768,
@@ -14838,7 +15386,8 @@
         "dutch": "De baas is mooi.",
         "english": "The boss is beautiful."
       }
-    ]
+    ],
+    "mnemonic": "BOSS - baas sounds like BOSS"
   },
   {
     "id": 769,
@@ -14860,7 +15409,8 @@
         "dutch": "De collega is mooi.",
         "english": "The colleague is beautiful."
       }
-    ]
+    ],
+    "mnemonic": "COLLEAGUE - collega"
   },
   {
     "id": 770,
@@ -14882,7 +15432,8 @@
         "dutch": "De vergadering is mooi.",
         "english": "The meeting is beautiful."
       }
-    ]
+    ],
+    "mnemonic": "For-GATHER-ing - MEETING"
   },
   {
     "id": 771,
@@ -14904,7 +15455,8 @@
         "dutch": "De salaris is mooi.",
         "english": "The salary is beautiful."
       }
-    ]
+    ],
+    "mnemonic": "SALARY - salaris"
   },
   {
     "id": 772,
@@ -14926,7 +15478,8 @@
         "dutch": "De baan is mooi.",
         "english": "The job is beautiful."
       }
-    ]
+    ],
+    "mnemonic": "On the right track - JOB/career path"
   },
   {
     "id": 773,
@@ -14948,7 +15501,8 @@
         "dutch": "De ervaring is mooi.",
         "english": "The experience is beautiful."
       }
-    ]
+    ],
+    "mnemonic": "Ex-FARING - EXPERIENCE"
   },
   {
     "id": 774,
@@ -14970,7 +15524,8 @@
         "dutch": "De klant is mooi.",
         "english": "The customer is beautiful."
       }
-    ]
+    ],
+    "mnemonic": "CLIENT - klant"
   },
   {
     "id": 775,
@@ -14992,7 +15547,8 @@
         "dutch": "De winkel is mooi.",
         "english": "The shop is beautiful."
       }
-    ]
+    ],
+    "mnemonic": "WINK-el - SHOP wink"
   },
   {
     "id": 776,
@@ -15036,7 +15592,8 @@
         "dutch": "De markt is mooi.",
         "english": "The market is beautiful."
       }
-    ]
+    ],
+    "mnemonic": "MARKET - markt sounds like MARKET"
   },
   {
     "id": 778,
@@ -15058,7 +15615,8 @@
         "dutch": "De bank is mooi.",
         "english": "The bank is beautiful."
       }
-    ]
+    ],
+    "mnemonic": "BANK is the same!"
   },
   {
     "id": 779,
@@ -15080,7 +15638,8 @@
         "dutch": "De geld is mooi.",
         "english": "The money is beautiful."
       }
-    ]
+    ],
+    "mnemonic": "GOLD/GELD - MONEY"
   },
   {
     "id": 780,
@@ -15102,7 +15661,8 @@
         "dutch": "De prijs is mooi.",
         "english": "The price is beautiful."
       }
-    ]
+    ],
+    "mnemonic": "PRICE - prijs sounds like PRICE"
   },
   {
     "id": 781,
@@ -15124,7 +15684,8 @@
         "dutch": "De rekening is mooi.",
         "english": "The bill is beautiful."
       }
-    ]
+    ],
+    "mnemonic": "RECKONING - ACCOUNT/BILL"
   },
   {
     "id": 782,
@@ -15168,7 +15729,8 @@
         "dutch": "De sport is mooi.",
         "english": "The sport is beautiful."
       }
-    ]
+    ],
+    "mnemonic": "SPORT is the same!"
   },
   {
     "id": 784,
@@ -15212,7 +15774,8 @@
         "dutch": "De wedstrijd is mooi.",
         "english": "The match is beautiful."
       }
-    ]
+    ],
+    "mnemonic": "WED-strijd - MATCH/wedding of teams"
   },
   {
     "id": 786,
@@ -15234,7 +15797,8 @@
         "dutch": "De team is mooi.",
         "english": "The team is beautiful."
       }
-    ]
+    ],
+    "mnemonic": "TEAM is the same!"
   },
   {
     "id": 787,
@@ -15255,7 +15819,8 @@
         "dutch": "In Nederland fietst iedereen.",
         "english": "In the Netherlands everyone cycles."
       }
-    ]
+    ],
+    "mnemonic": "FEATS-en on a bike - cycling FEATS"
   },
   {
     "id": 788,
@@ -15303,7 +15868,8 @@
         "dutch": "De land is mooi.",
         "english": "The country is beautiful."
       }
-    ]
+    ],
+    "mnemonic": "LAND/COUNTRY is the same!"
   },
   {
     "id": 791,
@@ -15325,7 +15891,8 @@
         "dutch": "De stad is mooi.",
         "english": "The city is beautiful."
       }
-    ]
+    ],
+    "mnemonic": "STADT - a CITY/state"
   },
   {
     "id": 792,
@@ -15369,7 +15936,8 @@
         "dutch": "De wijk is mooi.",
         "english": "The neighborhood is beautiful."
       }
-    ]
+    ],
+    "mnemonic": "WICK of NEIGHBORHOOD"
   },
   {
     "id": 794,
@@ -15391,7 +15959,8 @@
         "dutch": "De centrum is mooi.",
         "english": "The center is beautiful."
       }
-    ]
+    ],
+    "mnemonic": "CENTER - centrum"
   },
   {
     "id": 795,
@@ -15413,7 +15982,8 @@
         "dutch": "De bos is mooi.",
         "english": "The forest is beautiful."
       }
-    ]
+    ],
+    "mnemonic": "BOSS of the FOREST"
   },
   {
     "id": 796,
@@ -15435,7 +16005,8 @@
         "dutch": "De strand is mooi.",
         "english": "The beach is beautiful."
       }
-    ]
+    ],
+    "mnemonic": "STRAND of BEACH"
   },
   {
     "id": 797,
@@ -15453,7 +16024,8 @@
         "dutch": "Ik heb een zee.",
         "english": "I have a sea."
       }
-    ]
+    ],
+    "mnemonic": "SEA - zee sounds like SEA"
   },
   {
     "id": 798,
@@ -15475,7 +16047,8 @@
         "dutch": "De rivier is mooi.",
         "english": "The river is beautiful."
       }
-    ]
+    ],
+    "mnemonic": "RIVER - rivier sounds like RIVER"
   },
   {
     "id": 799,
@@ -15497,7 +16070,8 @@
         "dutch": "De berg is mooi.",
         "english": "The mountain is beautiful."
       }
-    ]
+    ],
+    "mnemonic": "BERG/MOUNTAIN - berg"
   },
   {
     "id": 800,
@@ -15519,7 +16093,8 @@
         "dutch": "De natuur is mooi.",
         "english": "The nature is beautiful."
       }
-    ]
+    ],
+    "mnemonic": "NATURE - natuur sounds like NATURE"
   },
   {
     "id": 801,
@@ -15559,7 +16134,8 @@
         "dutch": "De hond is mooi.",
         "english": "The dog is beautiful."
       }
-    ]
+    ],
+    "mnemonic": "HOUND/DOG - hond sounds like HOUND"
   },
   {
     "id": 803,
@@ -15581,7 +16157,8 @@
         "dutch": "De kat is mooi.",
         "english": "The cat is beautiful."
       }
-    ]
+    ],
+    "mnemonic": "CAT - kat sounds like CAT"
   },
   {
     "id": 804,
@@ -15669,7 +16246,8 @@
         "dutch": "De boom is mooi.",
         "english": "The tree is beautiful."
       }
-    ]
+    ],
+    "mnemonic": "A tree goes BOOM when it falls"
   },
   {
     "id": 808,
@@ -15691,7 +16269,8 @@
         "dutch": "De bloem is mooi.",
         "english": "The flower is beautiful."
       }
-    ]
+    ],
+    "mnemonic": "BLOOM - a FLOWER blooms"
   },
   {
     "id": 809,
@@ -16032,7 +16611,8 @@
         "dutch": "De probleem is mooi.",
         "english": "The problem is beautiful."
       }
-    ]
+    ],
+    "mnemonic": "PROBLEM - probleem sounds like PROBLEM"
   },
   {
     "id": 825,
@@ -16072,7 +16652,8 @@
         "dutch": "De idee is mooi.",
         "english": "The idea is beautiful."
       }
-    ]
+    ],
+    "mnemonic": "IDEA - idee sounds like IDEA"
   },
   {
     "id": 827,
@@ -16138,7 +16719,8 @@
         "dutch": "De doel is mooi.",
         "english": "The goal is beautiful."
       }
-    ]
+    ],
+    "mnemonic": "DUAL GOAL - doel"
   },
   {
     "id": 830,
@@ -16156,7 +16738,8 @@
         "dutch": "De plan is mooi.",
         "english": "The plan is beautiful."
       }
-    ]
+    ],
+    "mnemonic": "PLAN is the same!"
   },
   {
     "id": 831,
@@ -16266,7 +16849,8 @@
         "dutch": "De resultaat is mooi.",
         "english": "The result is beautiful."
       }
-    ]
+    ],
+    "mnemonic": "RESULT-aat - RESULT"
   },
   {
     "id": 836,
@@ -16288,7 +16872,8 @@
         "dutch": "De succes is mooi.",
         "english": "The success is beautiful."
       }
-    ]
+    ],
+    "mnemonic": "SUCCESS - succes"
   },
   {
     "id": 837,
@@ -16354,7 +16939,8 @@
         "dutch": "De informatie is mooi.",
         "english": "The information is beautiful."
       }
-    ]
+    ],
+    "mnemonic": "INFORMATION - informatie"
   },
   {
     "id": 840,
@@ -16376,7 +16962,8 @@
         "dutch": "De nieuws is mooi.",
         "english": "The news is beautiful."
       }
-    ]
+    ],
+    "mnemonic": "NEWS - nieuws sounds like NEWS"
   },
   {
     "id": 841,
@@ -16420,7 +17007,8 @@
         "dutch": "De verhaal is mooi.",
         "english": "The story is beautiful."
       }
-    ]
+    ],
+    "mnemonic": "For-HALL - STORY in the hall"
   },
   {
     "id": 843,
@@ -16574,7 +17162,8 @@
         "dutch": "Lang leve de koning!",
         "english": "Long live the king!"
       }
-    ]
+    ],
+    "mnemonic": "LIVE-en sounds like LIVE"
   },
   {
     "id": 850,
@@ -16640,7 +17229,8 @@
         "dutch": "De verjaardag is mooi.",
         "english": "The birthday is beautiful."
       }
-    ]
+    ],
+    "mnemonic": "For-YEAR-dag - BIRTHDAY yearly"
   },
   {
     "id": 853,
@@ -16838,7 +17428,8 @@
         "dutch": "De vrede is mooi.",
         "english": "The peace is beautiful."
       }
-    ]
+    ],
+    "mnemonic": "FREED from war - PEACE"
   },
   {
     "id": 862,
@@ -16860,7 +17451,8 @@
         "dutch": "De oorlog is mooi.",
         "english": "The war is beautiful."
       }
-    ]
+    ],
+    "mnemonic": "OAR-log - WAR log"
   },
   {
     "id": 863,
@@ -16882,7 +17474,8 @@
         "dutch": "De regering is mooi.",
         "english": "The government is beautiful."
       }
-    ]
+    ],
+    "mnemonic": "REIGNING - GOVERNMENT"
   },
   {
     "id": 864,
@@ -16904,7 +17497,8 @@
         "dutch": "De politie is mooi.",
         "english": "The police is beautiful."
       }
-    ]
+    ],
+    "mnemonic": "POLICE - politie"
   },
   {
     "id": 865,
@@ -16926,7 +17520,8 @@
         "dutch": "De wet is mooi.",
         "english": "The law is beautiful."
       }
-    ]
+    ],
+    "mnemonic": "What the law WETS - LAW"
   },
   {
     "id": 866,
@@ -16948,7 +17543,8 @@
         "dutch": "De recht is mooi.",
         "english": "The right (legal) is beautiful."
       }
-    ]
+    ],
+    "mnemonic": "RIGHT/LAW - recht"
   },
   {
     "id": 867,
@@ -16992,7 +17588,8 @@
         "dutch": "De vrijheid is mooi.",
         "english": "The freedom is beautiful."
       }
-    ]
+    ],
+    "mnemonic": "FREE-heid - FREEDOM"
   },
   {
     "id": 869,
@@ -17058,7 +17655,8 @@
         "dutch": "De kerk is mooi.",
         "english": "The church is beautiful."
       }
-    ]
+    ],
+    "mnemonic": "KIRK/CHURCH - kerk"
   },
   {
     "id": 872,
@@ -17186,7 +17784,8 @@
         "dutch": "De hart is mooi.",
         "english": "The heart is beautiful."
       }
-    ]
+    ],
+    "mnemonic": "HEART - hart sounds like HEART"
   },
   {
     "id": 878,
@@ -17376,7 +17975,8 @@
         "dutch": "De naam is mooi.",
         "english": "The name is beautiful."
       }
-    ]
+    ],
+    "mnemonic": "NAME - naam sounds like NAME"
   },
   {
     "id": 887,
@@ -17398,7 +17998,8 @@
         "dutch": "De adres is mooi.",
         "english": "The address is beautiful."
       }
-    ]
+    ],
+    "mnemonic": "ADDRESS - adres"
   },
   {
     "id": 888,
@@ -17420,7 +18021,8 @@
         "dutch": "De nummer is mooi.",
         "english": "The number is beautiful."
       }
-    ]
+    ],
+    "mnemonic": "NUMBER - nummer sounds like NUMBER"
   },
   {
     "id": 889,
@@ -17486,7 +18088,8 @@
         "dutch": "De paspoort is mooi.",
         "english": "The passport is beautiful."
       }
-    ]
+    ],
+    "mnemonic": "PASSPORT - paspoort"
   },
   {
     "id": 892,
@@ -17508,7 +18111,8 @@
         "dutch": "De formulier is mooi.",
         "english": "The form is beautiful."
       }
-    ]
+    ],
+    "mnemonic": "FORM-ulier - FORM"
   },
   {
     "id": 893,
@@ -17530,7 +18134,8 @@
         "dutch": "De handtekening is mooi.",
         "english": "The signature is beautiful."
       }
-    ]
+    ],
+    "mnemonic": "HAND-TAKEN-ing - SIGNATURE"
   },
   {
     "id": 894,
@@ -17552,7 +18157,8 @@
         "dutch": "De document is mooi.",
         "english": "The document is beautiful."
       }
-    ]
+    ],
+    "mnemonic": "DOCUMENT is the same!"
   },
   {
     "id": 895,
@@ -17574,7 +18180,8 @@
         "dutch": "De contract is mooi.",
         "english": "The contract is beautiful."
       }
-    ]
+    ],
+    "mnemonic": "CONTRACT is the same!"
   },
   {
     "id": 896,

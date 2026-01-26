@@ -10,6 +10,13 @@ export interface TroubledWord {
   addedDate: string;           // When it was added to troubled words
 }
 
+// Custom mnemonic - user's own memory trick for a word
+export interface CustomMnemonic {
+  wordId: number;
+  mnemonic: string;            // User's custom memory sentence
+  createdDate: string;
+}
+
 // Define the database schema
 interface Dutch900DB {
   progress: EntityTable<CardProgress, 'wordId'>;
