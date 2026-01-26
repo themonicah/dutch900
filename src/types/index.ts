@@ -93,6 +93,8 @@ export interface UserSettings {
   dailyGoal: number;
   // Wave system - words progress through stages in batches
   waveSize: number; // Max words in "active" state before needing to progress them
+  // Show mnemonic sentences to help remember words
+  showMnemonics: boolean;
 }
 
 // SM-2 Algorithm types

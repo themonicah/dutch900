@@ -4,7 +4,7 @@ import { useStore } from '../store';
 import { exportAllData, importAllData } from '../lib/db';
 
 function Layout() {
-  const { stats } = useStore();
+  const { stats, settings, updateSettings } = useStore();
   const fileInputRef = useRef<HTMLInputElement>(null);
 
   const handleExportData = async () => {
@@ -107,37 +107,57 @@ function Layout() {
       </main>
 
       {/* Footer */}
-      <footer className="py-4 text-center space-x-4">
-        <button
-          onClick={handleExportData}
-          className="text-xs text-gray-400 hover:text-gray-600 dark:hover:text-gray-300 transition-colors"
-        >
-          Backup my learning
-        </button>
-        <button
-          onClick={() => fileInputRef.current?.click()}
-          className="text-xs text-gray-400 hover:text-gray-600 dark:hover:text-gray-300 transition-colors"
-        >
-          Restore from backup
-        </button>
-        <button
-          onClick={() => {
-            if (confirm('Clear all progress? This cannot be undone.')) {
-              indexedDB.deleteDatabase('dutch900');
-              window.location.reload();
-            }
-          }}
-          className="text-xs text-red-400 hover:text-red-600 transition-colors"
-        >
-          Clear data
-        </button>
-        <input
-          ref={fileInputRef}
-          type="file"
-          accept=".json"
-          onChange={handleImportData}
-          className="hidden"
-        />
+      <footer className="py-4 space-y-3">
+        {/* Mnemonic toggle */}
+        <div className="flex items-center justify-center gap-2">
+          <span className="text-xs text-gray-500 dark:text-gray-400">Hints</span>
+          <button
+            onClick={() => updateSettings({ showMnemonics: !settings.showMnemonics })}
+            className={`relative w-10 h-5 rounded-full transition-colors ${
+              settings.showMnemonics ? 'bg-duo-green' : 'bg-gray-300 dark:bg-gray-600'
+            }`}
+          >
+            <span
+              className={`absolute top-0.5 left-0.5 w-4 h-4 bg-white rounded-full transition-transform ${
+                settings.showMnemonics ? 'translate-x-5' : ''
+              }`}
+            />
+          </button>
+        </div>
+
+        {/* Links */}
+        <div className="text-center space-x-4">
+          <button
+            onClick={handleExportData}
+            className="text-xs text-gray-400 hover:text-gray-600 dark:hover:text-gray-300 transition-colors"
+          >
+            Backup my learning
+          </button>
+          <button
+            onClick={() => fileInputRef.current?.click()}
+            className="text-xs text-gray-400 hover:text-gray-600 dark:hover:text-gray-300 transition-colors"
+          >
+            Restore from backup
+          </button>
+          <button
+            onClick={() => {
+              if (confirm('Clear all progress? This cannot be undone.')) {
+                indexedDB.deleteDatabase('dutch900');
+                window.location.reload();
+              }
+            }}
+            className="text-xs text-red-400 hover:text-red-600 transition-colors"
+          >
+            Clear data
+          </button>
+          <input
+            ref={fileInputRef}
+            type="file"
+            accept=".json"
+            onChange={handleImportData}
+            className="hidden"
+          />
+        </div>
       </footer>
     </div>
   );

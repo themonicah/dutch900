@@ -106,6 +106,7 @@ export const defaultSettings: UserSettings = {
   theme: 'system',
   dailyGoal: 20,
   waveSize: 20, // Progress 20 words at a time through all stages
+  showMnemonics: false, // Show mnemonic sentences to help remember
 };
 
 // Default stats
