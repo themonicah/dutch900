@@ -158,6 +158,13 @@ function Layout() {
             className="hidden"
           />
         </div>
+
+        {/* Build timestamp */}
+        <div className="text-right pr-4">
+          <span className="text-xs text-gray-400">
+            {new Date(__BUILD_TIME__).toLocaleString()}
+          </span>
+        </div>
       </footer>
     </div>
   );

@@ -547,8 +547,8 @@ function Review() {
 
               {/* Memory trick */}
               {currentWord.mnemonic && (
-                <p className="text-sm text-center text-indigo-600 dark:text-indigo-400">
-                  💡 {currentWord.mnemonic}
+                <p className="text-xs text-gray-500 dark:text-gray-400 text-center">
+                  {currentWord.mnemonic}
                 </p>
               )}
             </div>
