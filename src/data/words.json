@@ -3391,7 +3391,8 @@
         "dutch": "Wat is je lievelingskleur?",
         "english": "What is your favorite color?"
       }
-    ]
+    ],
+    "mnemonic": "COLOR - kleur sounds like COLOR"
   },
   {
     "id": 241,
@@ -3404,7 +3405,8 @@
         "dutch": "De appel is rood.",
         "english": "The apple is red."
       }
-    ]
+    ],
+    "mnemonic": "RED - rood sounds like RED"
   },
   {
     "id": 242,
@@ -3417,7 +3419,8 @@
         "dutch": "De lucht is blauw.",
         "english": "The sky is blue."
       }
-    ]
+    ],
+    "mnemonic": "BLUE - blauw sounds like BLUE"
   },
   {
     "id": 243,
@@ -3430,7 +3433,8 @@
         "dutch": "Het gras is groen.",
         "english": "The grass is green."
       }
-    ]
+    ],
+    "mnemonic": "GREEN - groen sounds like GREEN"
   },
   {
     "id": 244,
@@ -3443,7 +3447,8 @@
         "dutch": "De zon is geel.",
         "english": "The sun is yellow."
       }
-    ]
+    ],
+    "mnemonic": "YELLOW - geel"
   },
   {
     "id": 245,
@@ -3456,7 +3461,8 @@
         "dutch": "De sneeuw is wit.",
         "english": "The snow is white."
       }
-    ]
+    ],
+    "mnemonic": "WHITE - wit sounds like WHITE"
   },
   {
     "id": 246,
@@ -3469,7 +3475,8 @@
         "dutch": "De nacht is zwart.",
         "english": "The night is black."
       }
-    ]
+    ],
+    "mnemonic": "SCHWARTZ/BLACK - zwart"
   },
   {
     "id": 247,
@@ -5151,7 +5158,8 @@
         "dutch": "Hoeveel kost dit?",
         "english": "How much does this cost?"
       }
-    ]
+    ],
+    "mnemonic": "COST-en - COSTS"
   },
   {
     "id": 365,
@@ -6187,7 +6195,8 @@
         "dutch": "De tas is zwaar.",
         "english": "The bag is heavy."
       }
-    ]
+    ],
+    "mnemonic": "HEAVY - zwaar"
   },
   {
     "id": 440,
@@ -6214,7 +6223,8 @@
         "dutch": "De grond is hard.",
         "english": "The ground is hard."
       }
-    ]
+    ],
+    "mnemonic": "HARD - hard"
   },
   {
     "id": 442,
@@ -6227,7 +6237,8 @@
         "dutch": "Het kussen is zacht.",
         "english": "The pillow is soft."
       }
-    ]
+    ],
+    "mnemonic": "SOFT - zacht sounds soft"
   },
   {
     "id": 443,
@@ -6533,7 +6544,8 @@
         "dutch": "De lucht is helder.",
         "english": "The sky is clear."
       }
-    ]
+    ],
+    "mnemonic": "HELD bright - CLEAR/bright"
   },
   {
     "id": 465,
@@ -6643,7 +6655,8 @@
         "dutch": "Ik ben vrij vandaag.",
         "english": "I'm free today."
       }
-    ]
+    ],
+    "mnemonic": "FREE - vrij sounds like FREE"
   },
   {
     "id": 473,
@@ -6859,7 +6872,8 @@
         "dutch": "Dat is normaal.",
         "english": "That's normal."
       }
-    ]
+    ],
+    "mnemonic": "NORMAL - normaal"
   },
   {
     "id": 489,
@@ -6872,7 +6886,8 @@
         "dutch": "Dit is speciaal voor jou.",
         "english": "This is special for you."
       }
-    ]
+    ],
+    "mnemonic": "SPECIAL - speciaal"
   },
   {
     "id": 490,
@@ -6995,7 +7010,8 @@
         "dutch": "Het regent waarschijnlijk.",
         "english": "It's probably raining."
       }
-    ]
+    ],
+    "mnemonic": "WHERE-SCHIJN-lijk - PROBABLY seems"
   },
   {
     "id": 499,
@@ -11474,7 +11490,8 @@
         "dutch": "Welke kleur wil je?",
         "english": "Which color do you want?"
       }
-    ]
+    ],
+    "mnemonic": "COLOR - kleur sounds like COLOR"
   },
   {
     "id": 813,
@@ -11487,7 +11504,8 @@
         "dutch": "De appel is rood.",
         "english": "The apple is red."
       }
-    ]
+    ],
+    "mnemonic": "RED - rood sounds like RED"
   },
   {
     "id": 814,
@@ -11500,7 +11518,8 @@
         "dutch": "De lucht is blauw.",
         "english": "The sky is blue."
       }
-    ]
+    ],
+    "mnemonic": "BLUE - blauw sounds like BLUE"
   },
   {
     "id": 815,
@@ -11513,7 +11532,8 @@
         "dutch": "Het gras is groen.",
         "english": "The grass is green."
       }
-    ]
+    ],
+    "mnemonic": "GREEN - groen sounds like GREEN"
   },
   {
     "id": 816,
@@ -11526,7 +11546,8 @@
         "dutch": "De zon is geel.",
         "english": "The sun is yellow."
       }
-    ]
+    ],
+    "mnemonic": "YELLOW - geel"
   },
   {
     "id": 817,
@@ -11539,7 +11560,8 @@
         "dutch": "Oranje is de kleur van Nederland.",
         "english": "Orange is the color of the Netherlands."
       }
-    ]
+    ],
+    "mnemonic": "ORANGE - oranje"
   },
   {
     "id": 818,
@@ -11552,7 +11574,8 @@
         "dutch": "De bloem is paars.",
         "english": "The flower is purple."
       }
-    ]
+    ],
+    "mnemonic": "PURPLE - paars"
   },
   {
     "id": 819,
@@ -11565,7 +11588,8 @@
         "dutch": "Het shirt is roze.",
         "english": "The shirt is pink."
       }
-    ]
+    ],
+    "mnemonic": "ROSE/PINK - roze"
   },
   {
     "id": 820,
@@ -11578,7 +11602,8 @@
         "dutch": "De sneeuw is wit.",
         "english": "The snow is white."
       }
-    ]
+    ],
+    "mnemonic": "WHITE - wit sounds like WHITE"
   },
   {
     "id": 821,
@@ -11591,7 +11616,8 @@
         "dutch": "De kat is zwart.",
         "english": "The cat is black."
       }
-    ]
+    ],
+    "mnemonic": "SCHWARTZ/BLACK - zwart"
   },
   {
     "id": 822,
@@ -11604,7 +11630,8 @@
         "dutch": "De lucht is grijs.",
         "english": "The sky is grey."
       }
-    ]
+    ],
+    "mnemonic": "GRAY - grijs sounds like GRAY"
   },
   {
     "id": 823,
@@ -11617,7 +11644,8 @@
         "dutch": "De hond is bruin.",
         "english": "The dog is brown."
       }
-    ]
+    ],
+    "mnemonic": "BROWN - bruin sounds like BROWN"
   },
   {
     "id": 824,
@@ -11646,7 +11674,8 @@
         "dutch": "Dit is de oplossing.",
         "english": "This is the solution."
       }
-    ]
+    ],
+    "mnemonic": "Op-LOSS-ing - SOLUTION to loss"
   },
   {
     "id": 826,
@@ -11675,7 +11704,8 @@
         "dutch": "Wat is jouw mening?",
         "english": "What is your opinion?"
       }
-    ]
+    ],
+    "mnemonic": "MEAN-ing - OPINION/meaning"
   },
   {
     "id": 828,
@@ -11689,7 +11719,8 @@
         "dutch": "Wat is de reden?",
         "english": "What is the reason?"
       }
-    ]
+    ],
+    "mnemonic": "REASON - reden sounds like REASON"
   },
   {
     "id": 829,
@@ -11733,7 +11764,8 @@
         "dutch": "Dit is je kans.",
         "english": "This is your chance."
       }
-    ]
+    ],
+    "mnemonic": "CHANCE - kans sounds like CHANCE"
   },
   {
     "id": 832,
@@ -11761,7 +11793,8 @@
         "dutch": "Wat is het verschil?",
         "english": "What is the difference?"
       }
-    ]
+    ],
+    "mnemonic": "For-SKILL - DIFFERENCE in skill"
   },
   {
     "id": 834,
@@ -11775,7 +11808,8 @@
         "dutch": "Geef me een voorbeeld.",
         "english": "Give me an example."
       }
-    ]
+    ],
+    "mnemonic": "FORE-BEELD - EXAMPLE before you"
   },
   {
     "id": 835,
@@ -11948,7 +11982,8 @@
         "dutch": "Wat is de betekenis?",
         "english": "What is the meaning?"
       }
-    ]
+    ],
+    "mnemonic": "Be-TOKEN-is - MEANING/token"
   },
   {
     "id": 847,
@@ -12005,7 +12040,8 @@
         "dutch": "Dat is de dood.",
         "english": "That is death."
       }
-    ]
+    ],
+    "mnemonic": "DEAD - dood sounds like DEAD"
   },
   {
     "id": 851,
@@ -12062,7 +12098,8 @@
         "dutch": "Liefde is belangrijk.",
         "english": "Love is important."
       }
-    ]
+    ],
+    "mnemonic": "LIFE-de - LOVE of life"
   },
   {
     "id": 855,
@@ -12090,7 +12127,8 @@
         "dutch": "Ik voel verdriet.",
         "english": "I feel sadness."
       }
-    ]
+    ],
+    "mnemonic": "For-DRIP - SORROW dripping tears"
   },
   {
     "id": 857,
@@ -12104,7 +12142,8 @@
         "dutch": "Ik heb angst voor spinnen.",
         "english": "I have a fear of spiders."
       }
-    ]
+    ],
+    "mnemonic": "ANGST/FEAR - angst"
   },
   {
     "id": 858,
@@ -12132,7 +12171,8 @@
         "dutch": "Ik voel vreugde.",
         "english": "I feel joy."
       }
-    ]
+    ],
+    "mnemonic": "FRAUD-less JOY - vreugde"
   },
   {
     "id": 860,
@@ -12146,7 +12186,8 @@
         "dutch": "Ik heb hoop.",
         "english": "I have hope."
       }
-    ]
+    ],
+    "mnemonic": "HOPE - hoop sounds like HOPE"
   },
   {
     "id": 861,
@@ -12250,7 +12291,8 @@
         "dutch": "Het is mijn plicht.",
         "english": "It is my duty."
       }
-    ]
+    ],
+    "mnemonic": "PLIGHT of DUTY - your plight is your duty"
   },
   {
     "id": 868,
@@ -12364,7 +12406,8 @@
         "dutch": "Ik heb een gedachte.",
         "english": "I have a thought."
       }
-    ]
+    ],
+    "mnemonic": "Ge-THOUGHT - a THOUGHT"
   },
   {
     "id": 876,
@@ -12378,7 +12421,8 @@
         "dutch": "Ik heb een goed gevoel.",
         "english": "I have a good feeling."
       }
-    ]
+    ],
+    "mnemonic": "Ge-FEEL - FEELING"
   },
   {
     "id": 877,
@@ -12407,7 +12451,8 @@
         "dutch": "Vertel de waarheid.",
         "english": "Tell the truth."
       }
-    ]
+    ],
+    "mnemonic": "WHERE-heid - TRUTH is where"
   },
   {
     "id": 879,
@@ -12421,7 +12466,8 @@
         "dutch": "Dat is een leugen.",
         "english": "That is a lie."
       }
-    ]
+    ],
+    "mnemonic": "LAY-gen - LIE laid down"
   },
   {
     "id": 880,
@@ -12435,7 +12481,8 @@
         "dutch": "Ik heb een geheim.",
         "english": "I have a secret."
       }
-    ]
+    ],
+    "mnemonic": "Ge-HIDE - SECRET hidden"
   },
   {
     "id": 881,
@@ -12463,7 +12510,8 @@
         "dutch": "Ik heb een afspraak.",
         "english": "I have an appointment."
       }
-    ]
+    ],
+    "mnemonic": "AF-SPRAAK - APPOINTMENT to speak"
   },
   {
     "id": 883,
@@ -12491,7 +12539,8 @@
         "dutch": "We hadden een goed gesprek.",
         "english": "We had a good conversation."
       }
-    ]
+    ],
+    "mnemonic": "Ge-SPEAK - CONVERSATION"
   },
   {
     "id": 885,
@@ -12505,7 +12554,8 @@
         "dutch": "Er was een discussie.",
         "english": "There was a discussion."
       }
-    ]
+    ],
+    "mnemonic": "DISCUSSION - discussie"
   },
   {
     "id": 886,
