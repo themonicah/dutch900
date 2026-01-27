@@ -12979,7 +12979,8 @@
         "english": "I am worried."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Past participle of bezorgen (be- + zorgen = to worry). Infinitive: zorgen = to care"
   },
   {
     "id": 897,
@@ -12987,6 +12988,7 @@
     "dutch": "opgewonden",
     "english": "excited",
     "partOfSpeech": "adjective",
+    "note": "Past participle of opwinden (op- + winden = to wind up)",
     "sentences": [
       {
         "dutch": "Ik ben zo opgewonden!",
