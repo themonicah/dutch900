@@ -545,6 +545,13 @@ function Review() {
                 );
               })()}
 
+              {/* Etymology/word note */}
+              {currentWord.note && (
+                <p className="text-xs text-gray-400 dark:text-gray-500 text-center">
+                  {currentWord.note}
+                </p>
+              )}
+
               {/* Memory trick */}
               {currentWord.mnemonic && (
                 <p className="text-xs text-gray-500 dark:text-gray-400 text-center">
