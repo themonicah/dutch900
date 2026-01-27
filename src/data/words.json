@@ -3426,7 +3426,8 @@
         "english": "The airplane is departing."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "vlieg (fly) + tuig (craft/gear) = 'fly-craft' → airplane"
   },
   {
     "id": 240,
@@ -7814,7 +7815,8 @@
         "english": "The airplane is departing."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "vlieg (fly) + tuig (craft/gear) = 'fly-craft' → airplane"
   },
   {
     "id": 547,
