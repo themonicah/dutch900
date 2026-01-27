@@ -392,7 +392,7 @@
       }
     ],
     "mnemonic": "",
-    "note": "be- + grijpen (to grasp) = 'to grasp completely' → understand"
+    "note": "Combines 'be-' with grijpen (to grasp). To understand is to 'grasp' an idea!"
   },
   {
     "id": 29,
@@ -1110,7 +1110,7 @@
       }
     ],
     "mnemonic": "",
-    "note": "-lijk = -ly suffix. Opposite: moeilijk"
+    "note": "The '-lijk' ending is like English '-ly'. Opposite of moeilijk (difficult)."
   },
   {
     "id": 78,
@@ -1125,7 +1125,7 @@
       }
     ],
     "mnemonic": "",
-    "note": "From moeite (effort) + -lijk. Opposite: makkelijk"
+    "note": "Comes from moeite (effort). Something difficult takes effort! Opposite of makkelijk."
   },
   {
     "id": 79,
@@ -1812,7 +1812,7 @@
       }
     ],
     "mnemonic": "",
-    "note": "natuur (nature) + -lijk = 'naturally' → of course. See also: zeker"
+    "note": "Literally 'naturally' from natuur (nature). When something is natural, of course it happens!"
   },
   {
     "id": 128,
@@ -1827,7 +1827,7 @@
       }
     ],
     "mnemonic": "",
-    "note": "eigen (own) + -lijk = 'in own right' → actually"
+    "note": "From eigen (own). What something 'actually' is, is what it truly/own-ly is."
   },
   {
     "id": 129,
@@ -1856,7 +1856,7 @@
       }
     ],
     "mnemonic": "",
-    "note": "geluk (luck/happiness) + -ig = lucky/happy. Opposite: ongelukkig"
+    "note": "From geluk (luck/happiness). Add 'on-' for the opposite: ongelukkig (unhappy)."
   },
   {
     "id": 131,
@@ -2417,7 +2417,7 @@
       }
     ],
     "mnemonic": "",
-    "note": "ver- (away) + kopen (buy) = 'buy away from you' → sell"
+    "note": "Kopen means 'to buy'. Add 'ver-' and it flips to selling - buying away from yourself!"
   },
   {
     "id": 171,
@@ -2656,7 +2656,7 @@
       }
     ],
     "mnemonic": "",
-    "note": "ver- prefix often means 'away/completely'. Opposite: herinneren"
+    "note": "The 'ver-' prefix often means 'away' or 'completely'. Opposite of herinneren (remember)."
   },
   {
     "id": 188,
@@ -2671,7 +2671,7 @@
       }
     ],
     "mnemonic": "",
-    "note": "her- (re-) + inner (inside) = 'bring back inside' → remember"
+    "note": "The 'her-' means 'again' and 'inner' is inside. To remember is to bring something back inside your mind!"
   },
   {
     "id": 189,
@@ -2770,7 +2770,7 @@
       }
     ],
     "mnemonic": "",
-    "note": "ver- + ander (other) = 'to make other' → change"
+    "note": "Contains 'ander' which means 'other'. To change something is to make it other/different!"
   },
   {
     "id": 196,
@@ -3170,7 +3170,8 @@
         "english": "What is the answer?"
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Ant means 'back/against' and woord means 'word'. An answer is a word back!"
   },
   {
     "id": 223,
@@ -3216,7 +3217,7 @@
       }
     ],
     "mnemonic": "",
-    "note": "ver- + halen (to fetch) = something 'recounted/fetched' → story"
+    "note": "Contains halen (to fetch). A story is something you 'fetch' from memory and recount!"
   },
   {
     "id": 226,
@@ -3427,7 +3428,7 @@
       }
     ],
     "mnemonic": "",
-    "note": "vlieg (fly) + tuig (craft/gear) = 'fly-craft' → airplane"
+    "note": "Vlieg means 'fly' and tuig means 'craft' or 'gear'. A fly-craft!"
   },
   {
     "id": 240,
@@ -4215,7 +4216,7 @@
       }
     ],
     "mnemonic": "",
-    "note": "Cognate with English 'sound' (as in 'safe and sound')"
+    "note": "Related to English 'sound' as in 'safe and sound'. Both mean healthy!"
   },
   {
     "id": 293,
@@ -4575,7 +4576,7 @@
       }
     ],
     "mnemonic": "",
-    "note": "ont- (un-) + bijten (bite) = 'un-bite' → break-fast!"
+    "note": "Ont means 'un-' and bijten means 'to bite'. Un-bite = break-fast! Same logic as English."
   },
   {
     "id": 317,
@@ -5616,7 +5617,7 @@
       }
     ],
     "mnemonic": "",
-    "note": "ver- (away) + trekken (pull) = 'pull away' → depart"
+    "note": "Trekken means 'to pull'. Ver-trekken is to 'pull away' - to depart!"
   },
   {
     "id": 391,
@@ -5630,7 +5631,7 @@
         "english": "The bus arrives at four o'clock."
       }
     ],
-    "note": "aan- (at/to) + komen (come) = 'come to' → arrive",
+    "note": "Aan means 'at/to' and komen means 'come'. To arrive is to 'come to' a place!",
     "mnemonic": ""
   },
   {
@@ -5842,7 +5843,7 @@
       }
     ],
     "mnemonic": "",
-    "note": "ont- (towards) + vangen (catch) = 'catch towards you' → receive"
+    "note": "Vangen means 'to catch'. To receive is to catch something coming towards you!"
   },
   {
     "id": 407,
@@ -6697,7 +6698,7 @@
       }
     ],
     "mnemonic": "",
-    "note": "belang (interest) + -rijk (rich in) = 'rich in importance'"
+    "note": "Belang means 'interest/importance' and -rijk means 'rich in'. Something important is rich in significance!"
   },
   {
     "id": 468,
@@ -6726,7 +6727,7 @@
       }
     ],
     "mnemonic": "",
-    "note": "From mogen (may) + -elijk (-able) = 'may-able' → possible"
+    "note": "Related to mogen (may/can). If you 'may' do it, it's possible!"
   },
   {
     "id": 470,
@@ -6741,7 +6742,7 @@
       }
     ],
     "mnemonic": "",
-    "note": "Also used as adverb 'certainly'. See also: natuurlijk"
+    "note": "Can also mean 'certainly' as an adverb. Similar to natuurlijk (of course)."
   },
   {
     "id": 471,
@@ -7343,7 +7344,8 @@
         "english": "There are people everywhere."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Over means 'over' and al means 'all'. Over-all = everywhere!"
   },
   {
     "id": 514,
@@ -7816,7 +7818,7 @@
       }
     ],
     "mnemonic": "",
-    "note": "vlieg (fly) + tuig (craft/gear) = 'fly-craft' → airplane"
+    "note": "Vlieg means 'fly' and tuig means 'craft' or 'gear'. A fly-craft!"
   },
   {
     "id": 547,
@@ -10510,7 +10512,7 @@
       }
     ],
     "mnemonic": "",
-    "note": "ie- (some/any) + -ts (thing). Negative: niets. See also: iemand"
+    "note": "The 'ie' means some/any, and 'ts' is like 'thing'. So iets = some-thing. Same pattern as iemand!"
   },
   {
     "id": 730,
@@ -10525,7 +10527,7 @@
       }
     ],
     "mnemonic": "",
-    "note": "n- (not) + iets (something) = no-thing"
+    "note": "Just add 'n' (no) to iets (something) and you get niets = no-thing!"
   },
   {
     "id": 731,
@@ -10540,7 +10542,7 @@
       }
     ],
     "mnemonic": "",
-    "note": "al (all) + -s. Compare: iets, niets"
+    "note": "Just 'al' (all) with an 's'. Same pattern as iets and niets!"
   },
   {
     "id": 732,
@@ -10555,7 +10557,7 @@
       }
     ],
     "mnemonic": "",
-    "note": "ie- (some) + man (person) = some-one. Negative: niemand. See also: iets"
+    "note": "The 'ie' means some/any, and 'mand' comes from man (person). So iemand = some-one. Same pattern as iets!"
   },
   {
     "id": 733,
@@ -10570,7 +10572,7 @@
       }
     ],
     "mnemonic": "",
-    "note": "n- (not) + iemand (someone) = no one"
+    "note": "Just add 'n' (no) to iemand (someone) and you get niemand = no one!"
   },
   {
     "id": 734,
@@ -10956,7 +10958,8 @@
         "english": "What is the answer?"
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Ant means 'back/against' and woord means 'word'. An answer is a word back!"
   },
   {
     "id": 761,
@@ -12458,7 +12461,7 @@
       }
     ],
     "mnemonic": "",
-    "note": "Root of tevreden = 'te vrede' (at peace) → satisfied"
+    "note": "This is the root of tevreden (satisfied). Te vrede = 'at peace' = satisfied!"
   },
   {
     "id": 862,
@@ -12983,7 +12986,7 @@
       }
     ],
     "mnemonic": "",
-    "note": "Past participle of bezorgen (be- + zorgen = to worry). Infinitive: zorgen = to care"
+    "note": "From zorgen (to care/worry). Bezorgd literally means 'be-worried' - worried about something!"
   },
   {
     "id": 897,
@@ -12991,7 +12994,7 @@
     "dutch": "opgewonden",
     "english": "excited",
     "partOfSpeech": "adjective",
-    "note": "Past participle of opwinden (op- + winden = to wind up)",
+    "note": "From opwinden - to wind up. When you're excited, you're all wound up!",
     "sentences": [
       {
         "dutch": "Ik ben zo opgewonden!",
@@ -13013,7 +13016,7 @@
       }
     ],
     "mnemonic": "",
-    "note": "te + vrede = 'at peace' → satisfied. See also: vrede"
+    "note": "Te means 'at' and vrede means 'peace'. When you're at peace, you're satisfied!"
   },
   {
     "id": 899,
