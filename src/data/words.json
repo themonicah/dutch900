@@ -10506,7 +10506,8 @@
         "english": "Do you want something to drink?"
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "ie- (some/any) + -ts (thing). Negative: niets (#730). Related: iemand (#732)"
   },
   {
     "id": 730,
@@ -10520,7 +10521,8 @@
         "english": "I have nothing to do."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "n- (not) + iets (something) = no-thing"
   },
   {
     "id": 731,
@@ -10534,7 +10536,8 @@
         "english": "Everything is fine."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "al (all) + -s. Compare: iets, niets"
   },
   {
     "id": 732,
@@ -10548,7 +10551,8 @@
         "english": "Someone is ringing at the door."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "ie- (some) + man (person) = some-one. Negative: niemand (#733). Related: iets (#729)"
   },
   {
     "id": 733,
@@ -10562,7 +10566,8 @@
         "english": "No one is home."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "n- (not) + iemand (someone) = no one"
   },
   {
     "id": 734,
