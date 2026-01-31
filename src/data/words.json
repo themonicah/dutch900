@@ -123,7 +123,7 @@
       }
     ],
     "mnemonic": "",
-    "note": "Confusing because it means both 'to be' and 'his'. 'Hij is zijn baas' = He is his boss."
+    "note": "Zijn means both 'to be' and 'his'. 'Hij is blij met zijn hond' = He is happy with his dog. Two words in English, one in Dutch."
   },
   {
     "id": 9,
@@ -473,7 +473,7 @@
       }
     ],
     "mnemonic": "",
-    "note": "Dag means 'day' but also 'hello' and 'goodbye' - like saying 'good day!' for both."
+    "note": "Dag means 'day' but also 'hello' and 'goodbye' - like saying 'good day!' for greeting and parting."
   },
   {
     "id": 32,
@@ -1440,7 +1440,7 @@
     "id": 89,
     "rank": 89,
     "dutch": "maar",
-    "english": "but",
+    "english": "but; only, just",
     "partOfSpeech": "conjunction",
     "sentences": [
       {
@@ -1453,7 +1453,7 @@
       }
     ],
     "mnemonic": "",
-    "note": "Same root as English 'more' (old sense of 'but/however'). Think of 'but' as 'nothing maar this'."
+    "note": "Maar means 'but' and also 'only/just'. 'Maar één' = only/just one. Two meanings, one tiny word."
   },
   {
     "id": 90,
@@ -1724,7 +1724,7 @@
     "id": 105,
     "rank": 105,
     "dutch": "al",
-    "english": "already",
+    "english": "already; all",
     "partOfSpeech": "adverb",
     "sentences": [
       {
@@ -1733,7 +1733,7 @@
       }
     ],
     "mnemonic": "",
-    "note": "Same root as English 'all'. Al = already."
+    "note": "Al means both 'already' and 'all'. 'Ik heb al gegeten' = already eaten. 'Al mijn vrienden' = all my friends."
   },
   {
     "id": 106,
@@ -2193,7 +2193,7 @@
     "id": 132,
     "rank": 132,
     "dutch": "op",
-    "english": "on",
+    "english": "on; up, finished",
     "partOfSpeech": "preposition",
     "sentences": [
       {
@@ -2202,7 +2202,7 @@
       }
     ],
     "mnemonic": "",
-    "note": "Same root as English 'up/on'. Op = on."
+    "note": "Op means 'on' but also 'up' and 'finished/used up'. 'De melk is op' = the milk is finished."
   },
   {
     "id": 133,
@@ -2227,7 +2227,7 @@
     "id": 134,
     "rank": 134,
     "dutch": "voor",
-    "english": "for, before",
+    "english": "for; before, in front of",
     "partOfSpeech": "preposition",
     "sentences": [
       {
@@ -2236,7 +2236,7 @@
       }
     ],
     "mnemonic": "",
-    "note": "Same root as English 'for/before'. Voor = for."
+    "note": "Voor means 'for' and 'before/in front of'. 'Voor jou' = for you. 'Voor het huis' = in front of the house."
   },
   {
     "id": 135,
@@ -2276,7 +2276,7 @@
     "id": 137,
     "rank": 137,
     "dutch": "aan",
-    "english": "at, to",
+    "english": "at, to; on (switched on)",
     "partOfSpeech": "preposition",
     "sentences": [
       {
@@ -2289,13 +2289,13 @@
       }
     ],
     "mnemonic": "",
-    "note": "Same root as English 'on' (through old Germanic). Aan = at/to/on."
+    "note": "Aan means 'at/to' but also 'on' (activated). 'Het licht is aan' = the light is on."
   },
   {
     "id": 138,
     "rank": 138,
     "dutch": "bij",
-    "english": "at, near",
+    "english": "at, near; with",
     "partOfSpeech": "preposition",
     "sentences": [
       {
@@ -2308,13 +2308,13 @@
       }
     ],
     "mnemonic": "",
-    "note": "Same root as English 'by'. Bij = at/near/by."
+    "note": "Bij means 'at/near' but also 'with'. 'Bij mijn ouders' = with/at my parents. Also means 'bee' (de bij)!"
   },
   {
     "id": 139,
     "rank": 139,
     "dutch": "uit",
-    "english": "out of, from",
+    "english": "out of, from; off",
     "partOfSpeech": "preposition",
     "sentences": [
       {
@@ -2323,7 +2323,7 @@
       }
     ],
     "mnemonic": "",
-    "note": "Same root as English 'out'. Uit = out of."
+    "note": "Uit means 'out of/from' but also 'off'. 'Het licht is uit' = the light is off. Opposite of aan."
   },
   {
     "id": 140,
@@ -2348,7 +2348,7 @@
     "id": 141,
     "rank": 141,
     "dutch": "over",
-    "english": "about, over",
+    "english": "about, over; left over",
     "partOfSpeech": "preposition",
     "sentences": [
       {
@@ -2357,7 +2357,7 @@
       }
     ],
     "mnemonic": "",
-    "note": "Same root as English 'over'. Identical."
+    "note": "Over means 'about' and 'over', but also 'left over'. 'Er is niets over' = nothing is left over."
   },
   {
     "id": 142,
@@ -3696,7 +3696,7 @@
     "id": 217,
     "rank": 217,
     "dutch": "bos",
-    "english": "forest",
+    "english": "forest; bunch, bouquet",
     "partOfSpeech": "noun",
     "gender": "het",
     "sentences": [
@@ -3710,7 +3710,7 @@
       }
     ],
     "mnemonic": "",
-    "note": "Same root as English 'bush'. Bos = forest (a big collection of bushes/trees)."
+    "note": "Bos means 'forest' but also 'bunch/bouquet'. 'Een bos bloemen' = a bunch of flowers."
   },
   {
     "id": 218,
@@ -4906,21 +4906,21 @@
     "id": 284,
     "rank": 284,
     "dutch": "haar",
-    "english": "hair",
+    "english": "hair, her",
     "partOfSpeech": "noun",
     "gender": "het",
     "sentences": [
       {
-        "dutch": "Haar haar is lang.",
-        "english": "Her hair is long."
+        "dutch": "Zij heeft lang haar.",
+        "english": "She has long hair."
       },
       {
-        "dutch": "Dit is haar huis.",
-        "english": "This is her house."
+        "dutch": "Dit is haar fiets.",
+        "english": "This is her bicycle."
       }
     ],
     "mnemonic": "",
-    "note": "Same root as English 'hair'. Haar = hair."
+    "note": "Haar means both 'hair' and 'her'. Same root as English 'hair'. Context tells you which: 'haar haar' = her hair!"
   },
   {
     "id": 285,
@@ -4942,7 +4942,7 @@
     "id": 286,
     "rank": 286,
     "dutch": "been",
-    "english": "leg",
+    "english": "leg, bone",
     "partOfSpeech": "noun",
     "gender": "het",
     "sentences": [
@@ -4952,7 +4952,7 @@
       }
     ],
     "mnemonic": "",
-    "note": "Same root as English 'bone'. Been means both 'leg' and 'bone' in Dutch."
+    "note": "Been means both 'leg' and 'bone'. Related to English 'bone'. Context tells you which."
   },
   {
     "id": 287,
@@ -4972,7 +4972,7 @@
       }
     ],
     "mnemonic": "",
-    "note": "Same root as English 'arm'. Also means 'poor' as an adjective!"
+    "note": "Arm means both 'arm' (body part) and 'poor'. Same root as English 'arm'. The 'poor' meaning may come from having empty arms."
   },
   {
     "id": 288,
@@ -6256,16 +6256,20 @@
     "id": 440,
     "rank": 371,
     "dutch": "licht",
-    "english": "light (weight/color)",
+    "english": "light (weight); light (brightness)",
     "partOfSpeech": "adjective",
     "sentences": [
       {
-        "dutch": "Dit is licht.",
-        "english": "This is light."
+        "dutch": "Deze tas is licht.",
+        "english": "This bag is light."
+      },
+      {
+        "dutch": "Het licht is aan.",
+        "english": "The light is on."
       }
     ],
     "mnemonic": "",
-    "note": "Same root as English 'light'. Licht = light (weight and brightness)."
+    "note": "Licht means 'light' in every sense - weight, brightness, and color. Same root as English 'light'."
   },
   {
     "id": 441,
@@ -6466,7 +6470,7 @@
     "id": 460,
     "rank": 385,
     "dutch": "dicht",
-    "english": "closed, near",
+    "english": "closed; near, dense",
     "partOfSpeech": "adjective",
     "sentences": [
       {
@@ -6475,7 +6479,7 @@
       }
     ],
     "mnemonic": "",
-    "note": "Same root as German 'dicht'. Means 'closed' and also 'near/dense'."
+    "note": "Dicht means 'closed' but also 'near/dense'. 'De deur is dicht' = closed. 'Dichtbij' = nearby."
   },
   {
     "id": 461,
@@ -6616,7 +6620,7 @@
     "id": 472,
     "rank": 395,
     "dutch": "vrij",
-    "english": "free",
+    "english": "free; quite, rather",
     "partOfSpeech": "adjective",
     "sentences": [
       {
@@ -6625,7 +6629,7 @@
       }
     ],
     "mnemonic": "",
-    "note": "Same root as English 'free'. Vrij = free."
+    "note": "Vrij means 'free' but also 'quite/rather'. 'Ik ben vrij' = I'm free. 'Vrij goed' = quite good."
   },
   {
     "id": 473,
@@ -7006,7 +7010,7 @@
     "id": 517,
     "rank": 421,
     "dutch": "weer",
-    "english": "again, weather",
+    "english": "again; weather",
     "partOfSpeech": "adverb",
     "sentences": [
       {
@@ -7019,13 +7023,13 @@
       }
     ],
     "mnemonic": "",
-    "note": "Same root as English 'weather'. Weer means both 'again' and 'weather'."
+    "note": "Weer has two completely different meanings: 'again' and 'weather'. Context makes it clear which."
   },
   {
     "id": 520,
     "rank": 422,
     "dutch": "erg",
-    "english": "very, bad",
+    "english": "very; bad, terrible",
     "partOfSpeech": "adverb",
     "sentences": [
       {
@@ -7034,13 +7038,13 @@
       }
     ],
     "mnemonic": "",
-    "note": "Think 'urgh!' - erg can mean both 'very' and 'bad'."
+    "note": "Erg means both 'very' and 'bad/terrible'. 'Erg koud' = very cold, but 'dat is erg' = that's bad."
   },
   {
     "id": 524,
     "rank": 423,
     "dutch": "meer",
-    "english": "more",
+    "english": "more; lake",
     "partOfSpeech": "adverb",
     "sentences": [
       {
@@ -7049,7 +7053,7 @@
       }
     ],
     "mnemonic": "",
-    "note": "Same root as English 'more'. Meer = more. Also means 'lake'!"
+    "note": "Meer means 'more' but also 'lake'. The famous IJsselmeer is a lake! Context makes it obvious which."
   },
   {
     "id": 525,
@@ -7867,7 +7871,7 @@
     "id": 602,
     "rank": 475,
     "dutch": "bank",
-    "english": "couch, sofa, bank",
+    "english": "couch, sofa; bank",
     "partOfSpeech": "noun",
     "gender": "de",
     "sentences": [
@@ -7881,7 +7885,7 @@
       }
     ],
     "mnemonic": "",
-    "note": "Bank means both 'couch/sofa' and 'bank' (financial). Same word, two meanings."
+    "note": "Bank means both 'couch/sofa' and 'bank' (financial). Same word, very different meanings!"
   },
   {
     "id": 603,
@@ -9971,7 +9975,7 @@
     "id": 811,
     "rank": 609,
     "dutch": "blad",
-    "english": "leaf, page",
+    "english": "leaf; page, sheet",
     "partOfSpeech": "noun",
     "gender": "het",
     "sentences": [
@@ -9981,7 +9985,7 @@
       }
     ],
     "mnemonic": "",
-    "note": "Same root as English 'blade' (of grass/leaf). Blad = leaf/page."
+    "note": "Blad means both 'leaf' and 'page/sheet of paper'. Same root as English 'blade' (of grass). A page is a leaf of paper!"
   },
   {
     "id": 817,
@@ -10590,7 +10594,7 @@
     "id": 860,
     "rank": 648,
     "dutch": "hoop",
-    "english": "hope",
+    "english": "hope; heap, pile",
     "partOfSpeech": "noun",
     "gender": "de",
     "sentences": [
@@ -10600,7 +10604,7 @@
       }
     ],
     "mnemonic": "",
-    "note": "Same root as English 'hope'. Hoop = hope. Also means 'heap/pile'."
+    "note": "Hoop means both 'hope' and 'heap/pile'. 'Ik heb hoop' = I have hope. 'Een hoop rotzooi' = a heap of mess."
   },
   {
     "id": 861,
@@ -10686,7 +10690,7 @@
     "id": 866,
     "rank": 654,
     "dutch": "recht",
-    "english": "right (legal)",
+    "english": "right (legal); straight",
     "partOfSpeech": "noun",
     "gender": "het",
     "sentences": [
@@ -10696,7 +10700,7 @@
       }
     ],
     "mnemonic": "",
-    "note": "Same root as English 'right' (legal/justice). Recht = right/law."
+    "note": "Recht means both 'right/law' and 'straight'. Same root as English 'right'. Rechtdoor = straight ahead."
   },
   {
     "id": 867,
