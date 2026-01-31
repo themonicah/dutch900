@@ -246,15 +246,15 @@ function Journey() {
                 <div className="h-4 bg-gray-100 dark:bg-gray-700 rounded-full overflow-hidden flex">
                   <div
                     className="h-full bg-duo-blue/50"
-                    style={{ width: `${(levelStats.reading.learning / 900) * 100}%` }}
+                    style={{ width: `${(levelStats.reading.learning / words.length) * 100}%` }}
                   />
                   <div
                     className="h-full bg-duo-blue/70"
-                    style={{ width: `${(levelStats.reading.review / 900) * 100}%` }}
+                    style={{ width: `${(levelStats.reading.review / words.length) * 100}%` }}
                   />
                   <div
                     className="h-full bg-duo-blue"
-                    style={{ width: `${(levelStats.reading.mastered / 900) * 100}%` }}
+                    style={{ width: `${(levelStats.reading.mastered / words.length) * 100}%` }}
                   />
                 </div>
                 <div className="flex justify-between text-xs text-gray-500 dark:text-gray-400 mt-1">
@@ -272,15 +272,15 @@ function Journey() {
                 <div className="h-4 bg-gray-100 dark:bg-gray-700 rounded-full overflow-hidden flex">
                   <div
                     className="h-full bg-duo-purple/50"
-                    style={{ width: `${(levelStats.listening.learning / 900) * 100}%` }}
+                    style={{ width: `${(levelStats.listening.learning / words.length) * 100}%` }}
                   />
                   <div
                     className="h-full bg-duo-purple/70"
-                    style={{ width: `${(levelStats.listening.review / 900) * 100}%` }}
+                    style={{ width: `${(levelStats.listening.review / words.length) * 100}%` }}
                   />
                   <div
                     className="h-full bg-duo-purple"
-                    style={{ width: `${(levelStats.listening.mastered / 900) * 100}%` }}
+                    style={{ width: `${(levelStats.listening.mastered / words.length) * 100}%` }}
                   />
                 </div>
                 <div className="flex justify-between text-xs text-gray-500 dark:text-gray-400 mt-1">
@@ -298,15 +298,15 @@ function Journey() {
                 <div className="h-4 bg-gray-100 dark:bg-gray-700 rounded-full overflow-hidden flex">
                   <div
                     className="h-full bg-duo-green/50"
-                    style={{ width: `${(levelStats.production.learning / 900) * 100}%` }}
+                    style={{ width: `${(levelStats.production.learning / words.length) * 100}%` }}
                   />
                   <div
                     className="h-full bg-duo-green/70"
-                    style={{ width: `${(levelStats.production.review / 900) * 100}%` }}
+                    style={{ width: `${(levelStats.production.review / words.length) * 100}%` }}
                   />
                   <div
                     className="h-full bg-duo-green"
-                    style={{ width: `${(levelStats.production.mastered / 900) * 100}%` }}
+                    style={{ width: `${(levelStats.production.mastered / words.length) * 100}%` }}
                   />
                 </div>
                 <div className="flex justify-between text-xs text-gray-500 dark:text-gray-400 mt-1">
@@ -327,7 +327,7 @@ function Journey() {
                   { count: 250, label: 'Quarter Way', emoji: '🎯', desc: 'Start 250 words' },
                   { count: 500, label: 'Halfway There', emoji: '⭐', desc: 'Start 500 words' },
                   { count: 750, label: 'Almost There', emoji: '🚀', desc: 'Start 750 words' },
-                  { count: 900, label: 'Champion', emoji: '🏆', desc: 'Complete all words!' },
+                  { count: words.length, label: 'Champion', emoji: '🏆', desc: 'Complete all words!' },
                 ].map(({ count, label, emoji, desc }) => {
                   const achieved = progress.size >= count;
                   return (

@@ -109,7 +109,7 @@ function Dashboard() {
               <p className="text-sm text-gray-500 dark:text-gray-400">
                 {newCardsAvailable > 0
                   ? `${Math.min(newCardsAvailable, settings.newCardsPerDay)} new words available`
-                  : 'All 900 words started!'}
+                  : `All ${totalWords} words started!`}
               </p>
             </div>
             <div className="text-primary-500">→</div>

@@ -130,7 +130,7 @@ function Settings() {
       <div className="bg-white dark:bg-gray-800 rounded-xl p-5 shadow-sm">
         <h2 className="text-lg font-semibold mb-4">About</h2>
         <div className="space-y-2 text-sm text-gray-600 dark:text-gray-400">
-          <p><strong>Dutch900</strong> - Learn the 900 most common Dutch words</p>
+          <p><strong>Dutch900</strong> - Learn the most common Dutch words</p>
           <p>Using spaced repetition (SM-2 algorithm) for optimal memorization.</p>
           <p className="mt-4">
             Data stored locally in your browser. Your progress is private.

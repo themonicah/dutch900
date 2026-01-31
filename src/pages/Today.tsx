@@ -56,7 +56,7 @@ function Today() {
       {/* Intro */}
       <div className="text-center px-4">
         <p className="text-xl font-medium text-gray-800 dark:text-gray-200 mb-2">
-          Master the 900 most common Dutch words
+          Master the most common Dutch words
         </p>
         <p className="text-sm text-gray-500 dark:text-gray-400">
           3 modes to practice
@@ -123,7 +123,7 @@ function Today() {
         <div className="text-center py-6 bg-yellow-50 dark:bg-yellow-900/20 rounded-xl">
           <span className="text-5xl">🏆</span>
           <p className="font-bold text-yellow-600 dark:text-yellow-400 text-xl mt-2">Champion!</p>
-          <p className="text-sm text-gray-500 dark:text-gray-400">All 900 words mastered in all modes!</p>
+          <p className="text-sm text-gray-500 dark:text-gray-400">All {totalWords} words mastered in all modes!</p>
         </div>
       )}
     </div>
