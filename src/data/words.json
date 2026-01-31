@@ -12,7 +12,8 @@
         "english": "I live in a big house."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Sounds like 'house' - same Germanic root. Dutch kept the 'ui' sound where English shifted to 'ou'."
   },
   {
     "id": 2,
@@ -27,7 +28,8 @@
         "english": "I drink water."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Identical to English 'water'. One of the easiest Dutch words!"
   },
   {
     "id": 3,
@@ -41,7 +43,8 @@
         "english": "What do you want to eat?"
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Sounds like 'eaten'. It means both 'to eat' and 'food'."
   },
   {
     "id": 4,
@@ -55,7 +58,8 @@
         "english": "Do you want something to drink?"
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Sounds like 'drink-en'. Just add -en to the English word."
   },
   {
     "id": 5,
@@ -69,7 +73,8 @@
         "english": "I go home."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Sounds like 'gone' without the 'ne'. Where did he go? He's gaan!"
   },
   {
     "id": 6,
@@ -83,7 +88,8 @@
         "english": "When are you coming?"
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Think 'come in!' - komen is just 'come' with -en."
   },
   {
     "id": 7,
@@ -97,7 +103,8 @@
         "english": "I have a question."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Sounds like 'haben' in German. Think 'I have to heb it!'"
   },
   {
     "id": 8,
@@ -115,7 +122,8 @@
         "english": "This is his car."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Confusing because it means both 'to be' and 'his'. 'Hij is zijn baas' = He is his boss."
   },
   {
     "id": 9,
@@ -129,7 +137,8 @@
         "english": "I want to learn."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Related to English 'will' as in 'willpower'. You will what you want. Willen = to want."
   },
   {
     "id": 10,
@@ -143,7 +152,8 @@
         "english": "I can swim."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'can'. German also has können. The K sound stayed in Dutch and German but English softened it."
   },
   {
     "id": 11,
@@ -157,7 +167,8 @@
         "english": "I have to work."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'must'. German has müssen. The -oeten ending is distinctly Dutch."
   },
   {
     "id": 12,
@@ -171,7 +182,8 @@
         "english": "May I come in?"
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Think 'mogul' - someone with power who is allowed to do things. Mogen = may/to be allowed."
   },
   {
     "id": 13,
@@ -185,7 +197,8 @@
         "english": "I'll see you tomorrow."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Related to English 'see' through old Germanic. The z- in Dutch often maps to s- in English."
   },
   {
     "id": 14,
@@ -199,7 +212,8 @@
         "english": "I hear music."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'hear'. Dutch kept the h-, just added -en."
   },
   {
     "id": 15,
@@ -213,7 +227,8 @@
         "english": "I don't know."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Related to English 'wit' as in 'wisdom'. If you have wit, you weten things."
   },
   {
     "id": 16,
@@ -227,7 +242,8 @@
         "english": "Do you know him?"
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Related to English 'ken' (Scottish for 'know'). Kennen is knowing a person, weten is knowing a fact."
   },
   {
     "id": 17,
@@ -241,7 +257,8 @@
         "english": "I think it's good."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'think'. The d/th swap is common between Dutch and English."
   },
   {
     "id": 18,
@@ -255,7 +272,8 @@
         "english": "What are you saying?"
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'say'. Dutch z often corresponds to English s."
   },
   {
     "id": 19,
@@ -269,7 +287,8 @@
         "english": "May I ask you something?"
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as German 'fragen'. The v/f swap is typical Dutch-German."
   },
   {
     "id": 20,
@@ -283,7 +302,8 @@
         "english": "Give me that book."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'give'. Dutch g often maps to English g, the rest shifted over time."
   },
   {
     "id": 21,
@@ -297,7 +317,8 @@
         "english": "I take the train."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'name' through old Germanic 'neman' (to take)."
   },
   {
     "id": 22,
@@ -311,7 +332,8 @@
         "english": "I'm making coffee."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'make'. Almost identical!"
   },
   {
     "id": 23,
@@ -325,7 +347,8 @@
         "english": "I work in Amsterdam."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'work'. German has 'werken' too. The whole Germanic family shares this word."
   },
   {
     "id": 24,
@@ -339,7 +362,8 @@
         "english": "I'm learning Dutch."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'learn'. Identical meaning, just add -en."
   },
   {
     "id": 25,
@@ -353,7 +377,8 @@
         "english": "I'm writing a letter."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Schrijven shares roots with English 'scribe' and 'script' through Latin 'scribere'."
   },
   {
     "id": 26,
@@ -367,7 +392,8 @@
         "english": "I'm reading a book."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'lesson' through Latin 'legere' (to read)."
   },
   {
     "id": 27,
@@ -381,7 +407,8 @@
         "english": "Do you speak English?"
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'speak'. The spr- beginning stayed the same across centuries."
   },
   {
     "id": 28,
@@ -410,7 +437,8 @@
         "english": "I like it."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'find'. Also means 'to think/have an opinion' - ik vind het leuk = I find it nice."
   },
   {
     "id": 30,
@@ -424,7 +452,8 @@
         "english": "I'm looking for my keys."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'seek'. Zoeken = to seek/search."
   },
   {
     "id": 31,
@@ -443,7 +472,8 @@
         "english": "Bye, see you!"
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Dag means 'day' but also 'hello' and 'goodbye' - like saying 'good day!' for both."
   },
   {
     "id": 32,
@@ -458,7 +488,8 @@
         "english": "Next week I have vacation."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Identical to English 'week'. Same word, same meaning."
   },
   {
     "id": 33,
@@ -473,7 +504,8 @@
         "english": "This month is cold."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'month' and 'moon'. Maand = moon-time."
   },
   {
     "id": 34,
@@ -488,7 +520,8 @@
         "english": "I am thirty years old."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'year'. German has 'Jahr'. The j/y swap is common."
   },
   {
     "id": 35,
@@ -503,7 +536,8 @@
         "english": "I have no time."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'tide' (as in time/season). 'Time and tide wait for no man.'"
   },
   {
     "id": 36,
@@ -518,7 +552,8 @@
         "english": "It's three o'clock."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'hour'. From Latin 'hora'."
   },
   {
     "id": 37,
@@ -533,7 +568,8 @@
         "english": "Wait five minutes."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same as English 'minute'. From Latin 'minutum'."
   },
   {
     "id": 38,
@@ -548,7 +584,8 @@
         "english": "That man is my father."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Identical to English 'man'. Same word since ancient Germanic."
   },
   {
     "id": 39,
@@ -563,7 +600,8 @@
         "english": "That woman is my mother."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as German 'Frau'. Means both 'woman' and 'wife'."
   },
   {
     "id": 40,
@@ -578,7 +616,8 @@
         "english": "The child plays outside."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'kind' (as in 'kindergarten'). Kind = child."
   },
   {
     "id": 41,
@@ -593,7 +632,8 @@
         "english": "My father works hard."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'father'. The v/f swap is standard Dutch-English."
   },
   {
     "id": 42,
@@ -608,7 +648,8 @@
         "english": "My mother cooks well."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'mother'. Dutch moeder, German Mutter, English mother - all from the same root."
   },
   {
     "id": 43,
@@ -623,7 +664,8 @@
         "english": "My son is ten years old."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'son'. Almost identical."
   },
   {
     "id": 44,
@@ -638,7 +680,8 @@
         "english": "My daughter is studying."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'daughter'. Dutch dochter, German Tochter."
   },
   {
     "id": 45,
@@ -653,7 +696,8 @@
         "english": "He is my best friend."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'friend'. Vriend and friend share the same ancient Germanic origin."
   },
   {
     "id": 46,
@@ -668,7 +712,8 @@
         "english": "This book is interesting."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'book'. German has 'Buch'. Originally meant 'beech tree' (writing tablets were beech wood)."
   },
   {
     "id": 47,
@@ -683,7 +728,8 @@
         "english": "I have a red car."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Short for 'automobiel', same as English 'auto/automobile'."
   },
   {
     "id": 48,
@@ -698,7 +744,8 @@
         "english": "I go by bicycle."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "No English equivalent - the bicycle is deeply Dutch! Fiets may come from 'vitesse' (French for speed)."
   },
   {
     "id": 49,
@@ -713,7 +760,8 @@
         "english": "The train is late."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same as English 'train'. From French."
   },
   {
     "id": 50,
@@ -732,7 +780,8 @@
         "english": "I go to school."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Identical to English 'school'. From Greek 'scholē' (leisure, learning)."
   },
   {
     "id": 51,
@@ -747,7 +796,8 @@
         "english": "I go to my work."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'work'. Werk is the noun form."
   },
   {
     "id": 52,
@@ -762,7 +812,8 @@
         "english": "I have no money."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'gold/yield'. Money was originally gold. German 'Geld' is identical."
   },
   {
     "id": 53,
@@ -781,7 +832,8 @@
         "english": "Amsterdam is a beautiful city."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'stead' (as in 'farmstead'). A stad is a place that stays = city."
   },
   {
     "id": 54,
@@ -796,7 +848,8 @@
         "english": "The Netherlands is a small country."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Identical to English 'land'."
   },
   {
     "id": 55,
@@ -811,7 +864,8 @@
         "english": "Do you want coffee?"
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same as English 'coffee'. From Arabic 'qahwa' through Turkish."
   },
   {
     "id": 56,
@@ -826,7 +880,8 @@
         "english": "I drink tea with milk."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same as English 'tea'. Both from Chinese 'chá'."
   },
   {
     "id": 57,
@@ -845,7 +900,8 @@
         "english": "Which road do you take?"
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'way'. A weg is a way/road."
   },
   {
     "id": 58,
@@ -860,7 +916,8 @@
         "english": "I live in this street."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'street'. From Latin 'strata'."
   },
   {
     "id": 59,
@@ -879,7 +936,8 @@
         "english": "Close the door."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'door'. Almost identical."
   },
   {
     "id": 60,
@@ -898,7 +956,8 @@
         "english": "I have a dog."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'hound'. English shifted to 'dog', but 'hound' preserved the old word."
   },
   {
     "id": 61,
@@ -913,7 +972,8 @@
         "english": "The cat is sleeping."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'cat'. Nearly identical across all Germanic languages."
   },
   {
     "id": 62,
@@ -931,7 +991,8 @@
         "english": "This is a big house."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'great'. Groot = great/big."
   },
   {
     "id": 63,
@@ -949,7 +1010,8 @@
         "english": "The baby is small."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'clean' through old Germanic. The meaning shifted from 'pure/small' to 'clean' in English."
   },
   {
     "id": 64,
@@ -967,7 +1029,8 @@
         "english": "It's going well."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'good'. Nearly identical."
   },
   {
     "id": 65,
@@ -985,7 +1048,8 @@
         "english": "It's going badly."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Related to German 'schlecht'. Think 'slight' - something slight is not good."
   },
   {
     "id": 66,
@@ -999,7 +1063,8 @@
         "english": "The flower is beautiful."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "No direct English cousin. Mooi is uniquely Dutch - sounds like 'moy', think 'oh my, how beautiful!'"
   },
   {
     "id": 67,
@@ -1017,7 +1082,8 @@
         "english": "This is tasty!"
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Uniquely Dutch! No English equivalent. Lekker covers 'tasty, nice, comfortable' - the Dutch love this word."
   },
   {
     "id": 68,
@@ -1031,7 +1097,8 @@
         "english": "It's warm today."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Identical to English 'warm'."
   },
   {
     "id": 69,
@@ -1049,7 +1116,8 @@
         "english": "It's cold outside."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'cold'. The k/c swap is typical Dutch-English."
   },
   {
     "id": 70,
@@ -1063,7 +1131,8 @@
         "english": "I have a new car."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'new'. German 'neu'. The ni-/ne- beginning is shared."
   },
   {
     "id": 71,
@@ -1081,7 +1150,8 @@
         "english": "It's an old building."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'old'. German 'alt'. The ou-/ol- shift is regular."
   },
   {
     "id": 72,
@@ -1099,7 +1169,8 @@
         "english": "She is young."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'young'. German 'jung'. Nearly identical."
   },
   {
     "id": 73,
@@ -1113,7 +1184,8 @@
         "english": "He is tall."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'long'. Means both 'long' and 'tall'."
   },
   {
     "id": 74,
@@ -1131,7 +1203,8 @@
         "english": "This is a short story."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'curt/short'. The k/c swap again."
   },
   {
     "id": 75,
@@ -1145,7 +1218,8 @@
         "english": "The car is fast."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "No direct English relative but think 'snail mail is not snel!'"
   },
   {
     "id": 76,
@@ -1159,7 +1233,8 @@
         "english": "I am happy."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Think 'blithe' (English for cheerful/happy). Same root - blij = blithe = happy."
   },
   {
     "id": 77,
@@ -1211,7 +1286,8 @@
         "english": "The book is interesting."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same as English 'interesting'. From Latin 'interesse'."
   },
   {
     "id": 80,
@@ -1229,7 +1305,8 @@
         "english": "This is too expensive."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'dear' (expensive). 'That costs a dear price' = duur."
   },
   {
     "id": 81,
@@ -1247,7 +1324,8 @@
         "english": "What are you doing?"
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'what'. The w- beginning stayed."
   },
   {
     "id": 82,
@@ -1261,7 +1339,8 @@
         "english": "Who is that?"
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'who'. Wie = who."
   },
   {
     "id": 83,
@@ -1275,7 +1354,8 @@
         "english": "Where do you live?"
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'where'. Waar = where."
   },
   {
     "id": 84,
@@ -1289,7 +1369,8 @@
         "english": "When are you coming?"
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Wan + neer. Same root as English 'when'. Wanneer just has an extra syllable."
   },
   {
     "id": 85,
@@ -1307,7 +1388,8 @@
         "english": "Why are you here?"
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Waar (where/true) + om (around). Literally 'where-around' = why."
   },
   {
     "id": 86,
@@ -1321,7 +1403,8 @@
         "english": "How are you?"
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'how'. Nearly identical."
   },
   {
     "id": 87,
@@ -1335,7 +1418,8 @@
         "english": "How much does this cost?"
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Hoe (how) + veel (much). Literally 'how much'."
   },
   {
     "id": 88,
@@ -1349,7 +1433,8 @@
         "english": "I stay home because I'm sick."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Om (around) + dat (that). Literally 'around that' = because."
   },
   {
     "id": 89,
@@ -1367,7 +1452,8 @@
         "english": "I want to come, but I can't."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'more' (old sense of 'but/however'). Think of 'but' as 'nothing maar this'."
   },
   {
     "id": 90,
@@ -1385,7 +1471,8 @@
         "english": "My friend and I are going."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'and'. One of the most basic shared Germanic words."
   },
   {
     "id": 91,
@@ -1403,7 +1490,8 @@
         "english": "Do you want coffee or tea?"
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'or' (through old Germanic). Identical meaning."
   },
   {
     "id": 92,
@@ -1417,7 +1505,8 @@
         "english": "If it rains, I stay home."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'as/also'. Als can mean 'if', 'when', or 'as'."
   },
   {
     "id": 93,
@@ -1435,7 +1524,8 @@
         "english": "What do we do then?"
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'than/then'. Dan serves both meanings in Dutch."
   },
   {
     "id": 94,
@@ -1453,7 +1543,8 @@
         "english": "I'm leaving now."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'now'. German 'nun'. Very old shared word."
   },
   {
     "id": 95,
@@ -1471,7 +1562,8 @@
         "english": "I'm always on time."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Al (all) + tijd (time). Literally 'all-time' = always."
   },
   {
     "id": 96,
@@ -1489,7 +1581,8 @@
         "english": "I've never been to Japan."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Think 'no it!' - nooit = never. Actually from 'no' + 'ooit' (ever)."
   },
   {
     "id": 97,
@@ -1507,7 +1600,8 @@
         "english": "Sometimes I eat outside."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Think 'some-s' = sometimes."
   },
   {
     "id": 98,
@@ -1525,7 +1619,8 @@
         "english": "I often go to the cinema."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "No direct English cousin, but think 'I'm a vaak visitor' = I come often."
   },
   {
     "id": 99,
@@ -1539,7 +1634,8 @@
         "english": "Come here!"
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'here'. Nearly identical."
   },
   {
     "id": 100,
@@ -1553,7 +1649,8 @@
         "english": "It's there."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'there'. Nearly identical."
   },
   {
     "id": 101,
@@ -1567,7 +1664,8 @@
         "english": "That is true indeed."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'well'. Means 'indeed' or emphasizes something - 'ik wil wel' = I do want to."
   },
   {
     "id": 102,
@@ -1581,7 +1679,8 @@
         "english": "I don't know."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'not' (through 'naught/nought'). Dutch niet, German nicht."
   },
   {
     "id": 103,
@@ -1599,7 +1698,8 @@
         "english": "I want to come too."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'eke' (old English for 'also'). Think 'ook = too'."
   },
   {
     "id": 104,
@@ -1617,7 +1717,8 @@
         "english": "Are you still here?"
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'enough' (oddly!). Through old Germanic 'nōg'."
   },
   {
     "id": 105,
@@ -1631,7 +1732,8 @@
         "english": "I have already eaten."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'all'. Al = already."
   },
   {
     "id": 106,
@@ -1649,7 +1751,8 @@
         "english": "That's very beautiful."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'whole/heal'. Heel means 'very' but originally meant 'whole'."
   },
   {
     "id": 107,
@@ -1667,7 +1770,8 @@
         "english": "I have a lot of work."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'full' through old Germanic. Veel = much/many."
   },
   {
     "id": 108,
@@ -1681,7 +1785,8 @@
         "english": "I have little time."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'wee' (small). Weinig = a wee bit."
   },
   {
     "id": 109,
@@ -1699,7 +1804,8 @@
         "english": "I am here."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'I' through old Germanic 'ik/ich'. German still uses 'ich'."
   },
   {
     "id": 110,
@@ -1717,7 +1823,8 @@
         "english": "You are smart."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Informal 'you'. Same root as English 'ye' (old English for you)."
   },
   {
     "id": 111,
@@ -1735,7 +1842,8 @@
         "english": "He works hard."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'he'. Nearly identical."
   },
   {
     "id": 112,
@@ -1749,7 +1857,8 @@
         "english": "She is my sister."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'she'. Also means 'they'. Context tells you which."
   },
   {
     "id": 113,
@@ -1767,7 +1876,8 @@
         "english": "We go together."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'we'. Nearly identical."
   },
   {
     "id": 114,
@@ -1785,7 +1895,8 @@
         "english": "Are you coming too?"
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'you all' or 'y'all'. The plural you."
   },
   {
     "id": 115,
@@ -1799,7 +1910,8 @@
         "english": "This is my book."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'mine/my'. Mijn = my."
   },
   {
     "id": 116,
@@ -1817,7 +1929,8 @@
         "english": "Is this your bag?"
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'your'. Jouw = your (informal)."
   },
   {
     "id": 117,
@@ -1835,7 +1948,8 @@
         "english": "Today is a beautiful day."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Van (from) + daag (day). Literally 'from this day' = today."
   },
   {
     "id": 118,
@@ -1849,7 +1963,8 @@
         "english": "See you tomorrow!"
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'morrow/morning'. Tomorrow in English is literally 'to-morrow'."
   },
   {
     "id": 119,
@@ -1867,7 +1982,8 @@
         "english": "Yesterday it was warm."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Gister (yester) + en. Same root as English 'yesterday'."
   },
   {
     "id": 120,
@@ -1881,7 +1997,8 @@
         "english": "I am at home."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Te (at) + huis (house). Literally 'at house' = at home."
   },
   {
     "id": 121,
@@ -1899,7 +2016,8 @@
         "english": "It's raining outside."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'bout' (as in 'about'). Buiten = outside."
   },
   {
     "id": 122,
@@ -1913,7 +2031,8 @@
         "english": "Come inside!"
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'bin/within'. Binnen = inside/within."
   },
   {
     "id": 123,
@@ -1931,7 +2050,8 @@
         "english": "I'll be back."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'trug' is not a word, but think 'retro/return'. Terug = back."
   },
   {
     "id": 124,
@@ -1945,7 +2065,8 @@
         "english": "We work together."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'same'. Samen = together (being the same/united)."
   },
   {
     "id": 125,
@@ -1959,7 +2080,8 @@
         "english": "I live alone."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'all' + 'one'. Alleen = all-one = alone."
   },
   {
     "id": 126,
@@ -1977,7 +2099,8 @@
         "english": "Maybe I'll come tomorrow."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Mis (miss) + schien (shine/seem). Literally 'it may seem' = maybe."
   },
   {
     "id": 127,
@@ -2029,7 +2152,8 @@
         "english": "Unfortunately I can't come."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Think 'alas!' - helaas means unfortunately. Very similar feeling."
   },
   {
     "id": 130,
@@ -2062,7 +2186,8 @@
         "english": "I live in Amsterdam."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Identical to English 'in'."
   },
   {
     "id": 132,
@@ -2076,7 +2201,8 @@
         "english": "The book is on the table."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'up/on'. Op = on."
   },
   {
     "id": 133,
@@ -2094,7 +2220,8 @@
         "english": "I go with my friend."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'with' (through old Germanic 'mid/met')."
   },
   {
     "id": 134,
@@ -2108,7 +2235,8 @@
         "english": "This is for you."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'for/before'. Voor = for."
   },
   {
     "id": 135,
@@ -2122,7 +2250,8 @@
         "english": "I go to school."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'near'. Naar = to (direction)."
   },
   {
     "id": 136,
@@ -2140,7 +2269,8 @@
         "english": "I come from the Netherlands."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'of/from'. Van = of/from."
   },
   {
     "id": 137,
@@ -2158,7 +2288,8 @@
         "english": "I'm sitting at the table."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'on' (through old Germanic). Aan = at/to/on."
   },
   {
     "id": 138,
@@ -2176,7 +2307,8 @@
         "english": "I am at my parents'."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'by'. Bij = at/near/by."
   },
   {
     "id": 139,
@@ -2190,7 +2322,8 @@
         "english": "I come from the Netherlands."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'out'. Uit = out of."
   },
   {
     "id": 140,
@@ -2208,7 +2341,8 @@
         "english": "I walk through the park."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'through/door'. A door is what you go through!"
   },
   {
     "id": 141,
@@ -2222,7 +2356,8 @@
         "english": "We talk about the weather."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'over'. Identical."
   },
   {
     "id": 142,
@@ -2240,7 +2375,8 @@
         "english": "I work until five o'clock."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'to' (as in 'up to'). Tot = until."
   },
   {
     "id": 143,
@@ -2254,7 +2390,8 @@
         "english": "After eating I go to sleep."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'nigh' (near/after). Na = after."
   },
   {
     "id": 144,
@@ -2268,7 +2405,8 @@
         "english": "The cat sits under the table."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'under'. Nearly identical."
   },
   {
     "id": 145,
@@ -2286,7 +2424,8 @@
         "english": "I live upstairs."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'above' (through old Germanic 'boven/above')."
   },
   {
     "id": 146,
@@ -2304,7 +2443,8 @@
         "english": "The house stands between two trees."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'betwixt/between'. Tussen = between."
   },
   {
     "id": 147,
@@ -2322,7 +2462,8 @@
         "english": "I drink coffee without sugar."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Zonder = without. Think 'sunder' (old English for 'apart/asunder')."
   },
   {
     "id": 148,
@@ -2336,7 +2477,8 @@
         "english": "I lean against the wall."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'against' (through old Germanic). Tegen = against."
   },
   {
     "id": 149,
@@ -2354,7 +2496,8 @@
         "english": "I've lived here since 2020."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'since'. Nearly identical."
   },
   {
     "id": 150,
@@ -2372,7 +2515,8 @@
         "english": "During class you must listen."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Tijdens = during. Literally 'at the time of'."
   },
   {
     "id": 151,
@@ -2386,7 +2530,8 @@
         "english": "I have one question."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'one'. Dutch één, German eins."
   },
   {
     "id": 152,
@@ -2400,7 +2545,8 @@
         "english": "I have two children."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'two'. Dutch twee, German zwei."
   },
   {
     "id": 153,
@@ -2418,7 +2564,8 @@
         "english": "There are three chairs."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'three'. Dutch drie, German drei."
   },
   {
     "id": 154,
@@ -2436,7 +2583,8 @@
         "english": "I work four days."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'four'. Dutch vier, German vier."
   },
   {
     "id": 155,
@@ -2454,7 +2602,8 @@
         "english": "It's five o'clock."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'five'. Dutch vijf, German fünf."
   },
   {
     "id": 156,
@@ -2472,7 +2621,8 @@
         "english": "I have six apples."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'six'. Nearly identical."
   },
   {
     "id": 157,
@@ -2490,7 +2640,8 @@
         "english": "There are seven days in a week."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'seven'. Dutch zeven, German sieben."
   },
   {
     "id": 158,
@@ -2508,7 +2659,8 @@
         "english": "I work eight hours per day."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'eight'. Dutch acht, German acht."
   },
   {
     "id": 159,
@@ -2526,7 +2678,8 @@
         "english": "The class starts at nine o'clock."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'nine'. Dutch negen, German neun."
   },
   {
     "id": 160,
@@ -2544,7 +2697,8 @@
         "english": "I count to ten."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'ten'. Dutch tien, German zehn."
   },
   {
     "id": 161,
@@ -2562,7 +2716,8 @@
         "english": "I walk to the station."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'lope' (to run with long strides). Lopen = to walk."
   },
   {
     "id": 162,
@@ -2576,7 +2731,8 @@
         "english": "I sit on the couch."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'sit'. Zitten = to sit. The z/s swap is standard."
   },
   {
     "id": 163,
@@ -2594,7 +2750,8 @@
         "english": "I'm standing by the door."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'stand'. Staan = to stand."
   },
   {
     "id": 164,
@@ -2612,7 +2769,8 @@
         "english": "The book lies on the table."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'lie' (to lie down). Liggen = lie."
   },
   {
     "id": 165,
@@ -2626,7 +2784,8 @@
         "english": "I sleep eight hours."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'sleep'. Slapen = to sleep. Almost identical."
   },
   {
     "id": 166,
@@ -2640,7 +2799,8 @@
         "english": "I live in Amsterdam."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'won' (to dwell). 'Wont' means 'accustomed to living'. Wonen = to live."
   },
   {
     "id": 167,
@@ -2654,7 +2814,8 @@
         "english": "I stay home."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'believe' (through old Germanic 'belīfan'). Blijven = to stay/remain."
   },
   {
     "id": 168,
@@ -2672,7 +2833,8 @@
         "english": "Wait a moment."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'watch/wait'. The w- stayed, meaning shifted slightly."
   },
   {
     "id": 169,
@@ -2690,7 +2852,8 @@
         "english": "I want to buy a car."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as German 'kaufen'. English 'cheap' comes from the same family (a good deal/trade)."
   },
   {
     "id": 170,
@@ -2727,7 +2890,8 @@
         "english": "I want to pay."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'pay' through old French. Dutch betalen, be- is a prefix + talen (to count)."
   },
   {
     "id": 172,
@@ -2741,7 +2905,8 @@
         "english": "I watch television."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Think 'peekIn' - kijken = to look/watch."
   },
   {
     "id": 173,
@@ -2755,7 +2920,8 @@
         "english": "I listen to music."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'listen'. Luisteren is just the Dutch version."
   },
   {
     "id": 174,
@@ -2773,7 +2939,8 @@
         "english": "The children play outside."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'play' (through old Germanic). Spelen = to play."
   },
   {
     "id": 175,
@@ -2787,7 +2954,8 @@
         "english": "I get a present."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as German 'kriegen'. Think 'I krijg what I deserve' = I get."
   },
   {
     "id": 176,
@@ -2801,7 +2969,8 @@
         "english": "I bring you home."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'bring'. Identical meaning."
   },
   {
     "id": 177,
@@ -2815,7 +2984,8 @@
         "english": "I get coffee."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'haul/hale'. Halen = to fetch/get."
   },
   {
     "id": 178,
@@ -2833,7 +3003,8 @@
         "english": "Put the book on the table."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'lay'. Leggen = to lay/put."
   },
   {
     "id": 179,
@@ -2851,7 +3022,8 @@
         "english": "Put the cup on the table."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'set'. Zetten = to put/set. The z/s swap again."
   },
   {
     "id": 180,
@@ -2869,7 +3041,8 @@
         "english": "I drive by car."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'ride'. Rijden = to drive/ride."
   },
   {
     "id": 181,
@@ -2887,7 +3060,8 @@
         "english": "The birds fly high."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'fly'. Vliegen = to fly. The v/f swap."
   },
   {
     "id": 182,
@@ -2905,7 +3079,8 @@
         "english": "I can swim well."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'swim'. Zwemmen = to swim. The zw/sw swap."
   },
   {
     "id": 183,
@@ -2923,7 +3098,8 @@
         "english": "Stop talking!"
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'stop'. Nearly identical."
   },
   {
     "id": 184,
@@ -2937,7 +3113,8 @@
         "english": "The lesson begins at nine."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'begin'. Nearly identical."
   },
   {
     "id": 185,
@@ -2955,7 +3132,8 @@
         "english": "I try again."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "From Latin 'probare' (to test). Same root as English 'probe/prove'. Proberen = to try."
   },
   {
     "id": 186,
@@ -2973,7 +3151,8 @@
         "english": "Can you help me?"
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'help'. Nearly identical."
   },
   {
     "id": 187,
@@ -3025,7 +3204,8 @@
         "english": "I feel good."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'feel'. Voelen = to feel. The v/f swap."
   },
   {
     "id": 190,
@@ -3039,7 +3219,8 @@
         "english": "I believe you."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'believe' (through old Germanic 'galaubjan'). Ge-loven = believe."
   },
   {
     "id": 191,
@@ -3053,7 +3234,8 @@
         "english": "I hope it works."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'hope'. Nearly identical."
   },
   {
     "id": 192,
@@ -3067,7 +3249,8 @@
         "english": "I expect you at three."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Ver (far/thoroughly) + wachten (wait). To 'wait thoroughly' = to expect."
   },
   {
     "id": 193,
@@ -3085,7 +3268,8 @@
         "english": "I want to win the match."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'win'. Winnen = to win."
   },
   {
     "id": 194,
@@ -3103,7 +3287,8 @@
         "english": "I lost my keys."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Ver (away) + liezen (lose). Same root as English 'lose' with a prefix."
   },
   {
     "id": 195,
@@ -3140,7 +3325,8 @@
         "english": "Choose a number."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'choose'. Kiezen = choose. The k/ch swap."
   },
   {
     "id": 197,
@@ -3154,7 +3340,8 @@
         "english": "I can't decide."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "From French 'décider'. Beslissen is the Dutch version of 'decide'."
   },
   {
     "id": 198,
@@ -3172,7 +3359,8 @@
         "english": "Can you open the window?"
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'open'. Nearly identical."
   },
   {
     "id": 199,
@@ -3190,7 +3378,8 @@
         "english": "Close the door."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'slot' (a lock/closure). Sluiten = to close/shut."
   },
   {
     "id": 200,
@@ -3204,7 +3393,8 @@
         "english": "I send you a message."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'steer' (to direct/send). Sturen = to send."
   },
   {
     "id": 201,
@@ -3223,7 +3413,8 @@
         "english": "The food is on the table."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'table' through Latin 'tabula'. Tafel = table."
   },
   {
     "id": 202,
@@ -3238,7 +3429,8 @@
         "english": "Sit on the chair."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'stool'. A stoel is a chair (upgraded stool!)."
   },
   {
     "id": 203,
@@ -3257,7 +3449,8 @@
         "english": "I go to bed."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Identical to English 'bed'."
   },
   {
     "id": 204,
@@ -3276,7 +3469,8 @@
         "english": "The room is big."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'chamber'. Kamer = room."
   },
   {
     "id": 205,
@@ -3291,7 +3485,8 @@
         "english": "I cook in the kitchen."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'kitchen'. Keuken = kitchen. From Latin 'coquina'."
   },
   {
     "id": 206,
@@ -3310,7 +3505,8 @@
         "english": "I work in the garden."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'town' (through old Germanic for 'enclosed space'). Tuin = garden."
   },
   {
     "id": 207,
@@ -3325,7 +3521,8 @@
         "english": "Open the window."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "No direct English cousin. Think 'raam-frame' around a window."
   },
   {
     "id": 208,
@@ -3340,7 +3537,8 @@
         "english": "The sun is shining."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'sun'. Zon = sun."
   },
   {
     "id": 209,
@@ -3355,7 +3553,8 @@
         "english": "The moon is full."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'moon'. Maan = moon."
   },
   {
     "id": 210,
@@ -3374,7 +3573,8 @@
         "english": "It's raining hard."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'rain'. Regen = rain."
   },
   {
     "id": 211,
@@ -3389,7 +3589,8 @@
         "english": "The wind blows hard."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Identical to English 'wind'."
   },
   {
     "id": 212,
@@ -3408,7 +3609,8 @@
         "english": "It's snowing!"
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'snow'. Sneeuw = snow."
   },
   {
     "id": 213,
@@ -3427,7 +3629,8 @@
         "english": "The tree is big."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'beam' (a tree/wood). Boom = tree."
   },
   {
     "id": 214,
@@ -3446,7 +3649,8 @@
         "english": "Tulips are beautiful flowers."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'bloom'. Bloem = flower. A flower is something that blooms."
   },
   {
     "id": 215,
@@ -3465,7 +3669,8 @@
         "english": "The sea is beautiful."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'sea'. Zee = sea. The z/s swap."
   },
   {
     "id": 216,
@@ -3484,7 +3689,8 @@
         "english": "The Netherlands has no mountains."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'berg' (as in iceberg). Berg = mountain."
   },
   {
     "id": 217,
@@ -3503,7 +3709,8 @@
         "english": "I like to walk in the forest."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'bush'. Bos = forest (a big collection of bushes/trees)."
   },
   {
     "id": 218,
@@ -3522,7 +3729,8 @@
         "english": "I take a photo."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same as English 'photo'. Short for 'fotografie'."
   },
   {
     "id": 219,
@@ -3541,7 +3749,8 @@
         "english": "I watch a movie."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same as English 'film'."
   },
   {
     "id": 220,
@@ -3560,7 +3769,8 @@
         "english": "I listen to music."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same as English 'music' through Latin 'musica'. Muziek = music."
   },
   {
     "id": 221,
@@ -3575,7 +3785,8 @@
         "english": "I have a question."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'fragile' (Latin 'frangere'). Actually from Germanic - a vraag 'breaks' the silence."
   },
   {
     "id": 222,
@@ -3610,7 +3821,8 @@
         "english": "There is a problem."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same as English 'problem' through Latin/Greek."
   },
   {
     "id": 224,
@@ -3629,7 +3841,8 @@
         "english": "I have an idea."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same as English 'idea' through Greek."
   },
   {
     "id": 225,
@@ -3664,7 +3877,8 @@
         "english": "I write a letter."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as old English 'brief' (a letter/document). A brief is a short letter."
   },
   {
     "id": 227,
@@ -3683,7 +3897,8 @@
         "english": "My phone is broken."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same as English 'telephone'. Telefoon = telephone."
   },
   {
     "id": 228,
@@ -3698,7 +3913,8 @@
         "english": "I work on the computer."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same as English 'computer'."
   },
   {
     "id": 229,
@@ -3717,7 +3933,8 @@
         "english": "The trip was long."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'rise' (to journey). A reis is a trip you rise up to take."
   },
   {
     "id": 230,
@@ -3736,7 +3953,8 @@
         "english": "I'm going on vacation."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "From French 'vacance'. Same root as English 'vacation/vacancy'."
   },
   {
     "id": 231,
@@ -3755,7 +3973,8 @@
         "english": "We go to a party."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'feast'. Feest = party/celebration."
   },
   {
     "id": 232,
@@ -3770,7 +3989,8 @@
         "english": "This is a present for you."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "From French 'cadeau'. No English equivalent - think 'a gift cad-owed to you'."
   },
   {
     "id": 233,
@@ -3785,7 +4005,8 @@
         "english": "What is the price?"
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'price/prize'. Prijs covers both meanings."
   },
   {
     "id": 234,
@@ -3800,7 +4021,8 @@
         "english": "The shop is open."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Related to German 'Winkel' (shop). Think 'twinkle' in a shop window."
   },
   {
     "id": 235,
@@ -3815,7 +4037,8 @@
         "english": "We eat in a restaurant."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same as English 'restaurant'. From French."
   },
   {
     "id": 236,
@@ -3834,7 +4057,8 @@
         "english": "We sleep in a hotel."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same as English 'hotel'. From French."
   },
   {
     "id": 237,
@@ -3853,7 +4077,8 @@
         "english": "I wait at the station."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same as English 'station'."
   },
   {
     "id": 238,
@@ -3872,7 +4097,8 @@
         "english": "The bus is coming."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same as English 'bus'."
   },
   {
     "id": 239,
@@ -3907,7 +4133,8 @@
         "english": "Which color do you want?"
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'color' through Latin 'color'. Kleur = color."
   },
   {
     "id": 241,
@@ -3921,7 +4148,8 @@
         "english": "The apple is red."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'red'. Rood = red. German 'rot'."
   },
   {
     "id": 242,
@@ -3935,7 +4163,8 @@
         "english": "The sky is blue."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'blue' through old Germanic 'blāwaz'."
   },
   {
     "id": 243,
@@ -3949,7 +4178,8 @@
         "english": "The grass is green."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'green'. Groen = green."
   },
   {
     "id": 244,
@@ -3963,7 +4193,8 @@
         "english": "The sun is yellow."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'yellow' through old Germanic. Geel = yellow."
   },
   {
     "id": 245,
@@ -3977,7 +4208,8 @@
         "english": "The snow is white."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'white'. Wit = white."
   },
   {
     "id": 246,
@@ -3995,7 +4227,8 @@
         "english": "The cat is black."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'swart' (archaic for black). Zwart = black."
   },
   {
     "id": 247,
@@ -4014,7 +4247,8 @@
         "english": "I start on Monday."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Maan (moon) + dag (day). Monday = Moon-day in English too!"
   },
   {
     "id": 248,
@@ -4033,7 +4267,8 @@
         "english": "We come on Tuesday."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Named after the Norse god Tyr. Tuesday = Tyr's day, Dinsdag = Thing's day (Norse assembly)."
   },
   {
     "id": 249,
@@ -4052,7 +4287,8 @@
         "english": "Wednesday is free."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Named after the god Wodan (Odin). Wednesday = Woden's day, Woensdag = Wodan's day."
   },
   {
     "id": 250,
@@ -4071,7 +4307,8 @@
         "english": "The meeting is Thursday."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Named after Thor (Donar). Thursday = Thor's day, Donderdag = Donar's day. Donder = thunder!"
   },
   {
     "id": 251,
@@ -4090,7 +4327,8 @@
         "english": "It's finally Friday!"
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Named after the goddess Frigg. Friday = Frigg's day, Vrijdag = Vrij's day."
   },
   {
     "id": 252,
@@ -4109,7 +4347,8 @@
         "english": "I don't work on Saturday."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Named after Saturn. Saturday has Saturn, Zaterdag comes from Latin 'Saturni dies' too."
   },
   {
     "id": 253,
@@ -4128,7 +4367,8 @@
         "english": "On Sunday I rest."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Zon (sun) + dag (day). Sunday = Sun-day in English too!"
   },
   {
     "id": 254,
@@ -4143,7 +4383,8 @@
         "english": "January is cold."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same as English 'January'. From Latin 'Januarius'."
   },
   {
     "id": 255,
@@ -4158,7 +4399,8 @@
         "english": "February is short."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same as English 'February'. From Latin 'Februarius'."
   },
   {
     "id": 256,
@@ -4177,7 +4419,8 @@
         "english": "Spring starts in March."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same as English 'March'. From Latin 'Martius'."
   },
   {
     "id": 257,
@@ -4192,7 +4435,8 @@
         "english": "April does what it wants."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same as English 'April'. From Latin 'Aprilis'."
   },
   {
     "id": 258,
@@ -4207,7 +4451,8 @@
         "english": "May is a beautiful month."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same as English 'May'. From Latin 'Maius'."
   },
   {
     "id": 259,
@@ -4226,7 +4471,8 @@
         "english": "In June it's light for a long time."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same as English 'June'. From Latin 'Junius'."
   },
   {
     "id": 260,
@@ -4245,7 +4491,8 @@
         "english": "July is the warmest month."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same as English 'July'. From Latin 'Julius'."
   },
   {
     "id": 261,
@@ -4264,7 +4511,8 @@
         "english": "I go on vacation in August."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same as English 'August'. From Latin 'Augustus'."
   },
   {
     "id": 262,
@@ -4283,7 +4531,8 @@
         "english": "School starts in September."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same as English 'September'."
   },
   {
     "id": 263,
@@ -4298,7 +4547,8 @@
         "english": "October is autumn."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same as English 'October'."
   },
   {
     "id": 264,
@@ -4317,7 +4567,8 @@
         "english": "November is grey."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same as English 'November'."
   },
   {
     "id": 265,
@@ -4336,7 +4587,8 @@
         "english": "December is festive."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same as English 'December'."
   },
   {
     "id": 266,
@@ -4355,7 +4607,8 @@
         "english": "In spring the flowers bloom."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Think 'Lent' (the spring church season). Lente = spring."
   },
   {
     "id": 267,
@@ -4370,7 +4623,8 @@
         "english": "Summer is warm."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'summer'. Zomer = summer."
   },
   {
     "id": 268,
@@ -4389,7 +4643,8 @@
         "english": "The leaves fall in autumn."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'harvest'. Herfst = autumn. Autumn was harvest time."
   },
   {
     "id": 269,
@@ -4404,7 +4659,8 @@
         "english": "Winter is cold."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same as English 'winter'."
   },
   {
     "id": 270,
@@ -4423,7 +4679,8 @@
         "english": "Good morning! It's morning."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Think 'ochtend' starts with 'och' like 'o'clock' in the morning."
   },
   {
     "id": 271,
@@ -4442,7 +4699,8 @@
         "english": "We eat in the afternoon."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Mid (middle) + dag (day). Literally 'mid-day' = afternoon."
   },
   {
     "id": 272,
@@ -4457,7 +4715,8 @@
         "english": "Good evening!"
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'evening'. Avond = evening."
   },
   {
     "id": 273,
@@ -4476,7 +4735,8 @@
         "english": "The night is dark."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'night'. Nacht = night. German 'Nacht'."
   },
   {
     "id": 274,
@@ -4491,7 +4751,8 @@
         "english": "My head hurts."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'head'. Hoofd = head. The -oo- maps to English -ea-."
   },
   {
     "id": 275,
@@ -4506,7 +4767,8 @@
         "english": "Give me your hand."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Identical to English 'hand'."
   },
   {
     "id": 276,
@@ -4521,7 +4783,8 @@
         "english": "My foot hurts."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'foot'. Voet = foot. The v/f swap."
   },
   {
     "id": 277,
@@ -4536,7 +4799,8 @@
         "english": "His eyes are blue."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'eye' (through old Germanic 'augō'). Oog = eye."
   },
   {
     "id": 278,
@@ -4551,7 +4815,8 @@
         "english": "I hear nothing."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'ear'. Oor = ear."
   },
   {
     "id": 279,
@@ -4566,7 +4831,8 @@
         "english": "Open your mouth."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'mouth'. Mond = mouth."
   },
   {
     "id": 280,
@@ -4581,7 +4847,8 @@
         "english": "My nose is blocked."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'nose'. Neus = nose."
   },
   {
     "id": 281,
@@ -4600,7 +4867,8 @@
         "english": "Follow your heart."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'heart'. Hart = heart."
   },
   {
     "id": 282,
@@ -4615,7 +4883,8 @@
         "english": "My body is tired."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Lichaam = li (limb/body) + chaam (shape). Think 'like-a-body'."
   },
   {
     "id": 283,
@@ -4630,7 +4899,8 @@
         "english": "I wash my face."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Gezicht means 'face' but also 'sight/vision'. Related to zien (to see) - your face is what's seen."
   },
   {
     "id": 284,
@@ -4649,7 +4919,8 @@
         "english": "This is her house."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'hair'. Haar = hair."
   },
   {
     "id": 285,
@@ -4664,7 +4935,8 @@
         "english": "My back hurts."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'ridge' (back of something). Rug = back."
   },
   {
     "id": 286,
@@ -4679,7 +4951,8 @@
         "english": "My leg is broken."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'bone'. Been means both 'leg' and 'bone' in Dutch."
   },
   {
     "id": 287,
@@ -4698,7 +4971,8 @@
         "english": "They are poor."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'arm'. Also means 'poor' as an adjective!"
   },
   {
     "id": 288,
@@ -4713,7 +4987,8 @@
         "english": "I go to the doctor."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same as English 'doctor'. From Latin 'doctor'."
   },
   {
     "id": 289,
@@ -4728,7 +5003,8 @@
         "english": "He is in the hospital."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Zieken (sick people) + huis (house). A 'sick-house' = hospital."
   },
   {
     "id": 290,
@@ -4743,7 +5019,8 @@
         "english": "Take this medicine."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'medicine'. From Latin 'medicina'."
   },
   {
     "id": 291,
@@ -4757,7 +5034,8 @@
         "english": "I am sick."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as German 'siech' (sick). Think 'seeking a doctor when you're ziek'."
   },
   {
     "id": 292,
@@ -4786,7 +5064,8 @@
         "english": "I am tired."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'moody' (tired/emotional). Moe = tired."
   },
   {
     "id": 294,
@@ -4801,7 +5080,8 @@
         "english": "I am hungry."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'hunger'. Honger = hunger."
   },
   {
     "id": 295,
@@ -4816,7 +5096,8 @@
         "english": "I am thirsty."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'thirst'. Dorst = thirst. The d/th swap."
   },
   {
     "id": 296,
@@ -4831,7 +5112,8 @@
         "english": "I eat bread."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'bread'. Brood = bread."
   },
   {
     "id": 297,
@@ -4846,7 +5128,8 @@
         "english": "I drink milk."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'milk'. Melk = milk."
   },
   {
     "id": 298,
@@ -4861,7 +5144,8 @@
         "english": "Dutch cheese is tasty."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'cheese' through Latin 'caseus'. Kaas = cheese."
   },
   {
     "id": 299,
@@ -4876,7 +5160,8 @@
         "english": "I eat an egg."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'egg'. Ei = egg. Short and sweet."
   },
   {
     "id": 300,
@@ -4891,7 +5176,8 @@
         "english": "I don't eat meat."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'flesh'. Vlees = meat/flesh. The v/f swap."
   },
   {
     "id": 301,
@@ -4906,7 +5192,8 @@
         "english": "I like to eat fish."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'fish'. Vis = fish. The v/f swap."
   },
   {
     "id": 302,
@@ -4921,7 +5208,8 @@
         "english": "Do you eat enough vegetables?"
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'greens' (vegetables). Groente comes from groen (green)."
   },
   {
     "id": 303,
@@ -4936,7 +5224,8 @@
         "english": "I eat fruit every day."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same as English 'fruit'."
   },
   {
     "id": 304,
@@ -4951,7 +5240,8 @@
         "english": "I eat an apple."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'apple'. Appel = apple."
   },
   {
     "id": 305,
@@ -4966,7 +5256,8 @@
         "english": "I drink orange juice."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Sinaas (Chinese) + appel (apple). An orange is literally a 'Chinese apple'!"
   },
   {
     "id": 306,
@@ -4981,7 +5272,8 @@
         "english": "The banana is yellow."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same as English 'banana'."
   },
   {
     "id": 307,
@@ -4996,7 +5288,8 @@
         "english": "We eat potatoes."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Aard (earth) + appel (apple). A potato is literally an 'earth apple'! French 'pomme de terre' means the same."
   },
   {
     "id": 308,
@@ -5011,7 +5304,8 @@
         "english": "I cook rice."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same as English 'rice'. From the same Asian root."
   },
   {
     "id": 309,
@@ -5026,7 +5320,8 @@
         "english": "I eat pasta with sauce."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same as English 'pasta'."
   },
   {
     "id": 310,
@@ -5041,7 +5336,8 @@
         "english": "The soup is hot."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'soup'. Soep = soup."
   },
   {
     "id": 311,
@@ -5056,7 +5352,8 @@
         "english": "I make a salad."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same as English 'salad'. From Latin 'sal' (salt)."
   },
   {
     "id": 312,
@@ -5071,7 +5368,8 @@
         "english": "I spread butter on bread."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'butter'. Boter = butter."
   },
   {
     "id": 313,
@@ -5086,7 +5384,8 @@
         "english": "Do you want sugar in your tea?"
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'sugar'. Suiker = sugar."
   },
   {
     "id": 314,
@@ -5101,7 +5400,8 @@
         "english": "Give me the salt."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'salt'. Zout = salt. The z/s swap."
   },
   {
     "id": 315,
@@ -5116,7 +5416,8 @@
         "english": "Do you want pepper?"
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'pepper'. Peper = pepper."
   },
   {
     "id": 316,
@@ -5147,7 +5448,8 @@
         "english": "I eat lunch at the office."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same as English 'lunch'."
   },
   {
     "id": 318,
@@ -5162,7 +5464,8 @@
         "english": "Dinner is ready."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Avond (evening) + eten (food). Literally 'evening-food' = dinner."
   },
   {
     "id": 320,
@@ -5177,7 +5480,8 @@
         "english": "We meet each other in the café."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same as English 'café'. From French."
   },
   {
     "id": 328,
@@ -5191,7 +5495,8 @@
         "english": "Which color do you want?"
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'which'. Welk = which."
   },
   {
     "id": 333,
@@ -5205,7 +5510,8 @@
         "english": "I'm going to sleep, for I am tired."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as old English 'want' (lacking). Want = because/for."
   },
   {
     "id": 334,
@@ -5219,7 +5525,8 @@
         "english": "It's raining, so I stay home."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'thus'. Dus = so/therefore."
   },
   {
     "id": 336,
@@ -5237,7 +5544,8 @@
         "english": "What is that?"
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'that'. Dat = that."
   },
   {
     "id": 337,
@@ -5251,7 +5559,8 @@
         "english": "When I was young, I played soccer."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'then'. Toen = when (past)/then."
   },
   {
     "id": 338,
@@ -5265,7 +5574,8 @@
         "english": "I read while I eat."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Ter (at the) + wijl (while). Same root as English 'while'. Terwijl = while."
   },
   {
     "id": 339,
@@ -5279,7 +5589,8 @@
         "english": "Although it's raining, I go outside."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Hoe (how) + wel (well). Literally 'how well' = although. Acknowledging something is true but..."
   },
   {
     "id": 340,
@@ -5293,7 +5604,8 @@
         "english": "I study so that I can pass."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Zo (so) + dat (that). Literally 'so that'. Identical logic to English."
   },
   {
     "id": 354,
@@ -5307,7 +5619,8 @@
         "english": "The garden is behind the house."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'after'. Achter = behind/after."
   },
   {
     "id": 355,
@@ -5321,7 +5634,8 @@
         "english": "I sit next to my friend."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Na (near/after) + ast. Same root as English 'next/nigh'. Naast = next to."
   },
   {
     "id": 364,
@@ -5335,7 +5649,8 @@
         "english": "How much does this cost?"
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'cost'. Kosten = to cost."
   },
   {
     "id": 368,
@@ -5349,7 +5664,8 @@
         "english": "The movie ends at ten o'clock."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Eind (end) + igen. Same root as English 'end'. Eindigen = to end."
   },
   {
     "id": 375,
@@ -5363,7 +5679,8 @@
         "english": "The children run in the park."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'run'. Rennen = to run."
   },
   {
     "id": 383,
@@ -5377,7 +5694,8 @@
         "english": "I succeeded!"
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Think 'luck' - lukken means to succeed/work out. 'Het lukt' = it works!"
   },
   {
     "id": 390,
@@ -5421,7 +5739,8 @@
         "english": "Hold this."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'hold'. Houden = to hold/keep."
   },
   {
     "id": 398,
@@ -5435,7 +5754,8 @@
         "english": "Leave me alone."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'let'. Laten = to let/leave."
   },
   {
     "id": 400,
@@ -5449,7 +5769,8 @@
         "english": "It smells good."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'reek' (strong smell). Ruiken = to smell."
   },
   {
     "id": 401,
@@ -5463,7 +5784,8 @@
         "english": "Taste this."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'prove' (old sense: to test/taste). Proeven = to taste."
   },
   {
     "id": 402,
@@ -5477,7 +5799,8 @@
         "english": "I'm wearing a jacket."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'drag'. Dragen = to carry/wear."
   },
   {
     "id": 403,
@@ -5491,7 +5814,8 @@
         "english": "Pull the door open."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'trek'. Trekken = to pull. 'Going on a trek' = a long pull/journey."
   },
   {
     "id": 404,
@@ -5505,7 +5829,8 @@
         "english": "Push the door closed."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Think 'do one' - duwen = to push. Actually from same root as English 'dew' (to push moisture)."
   },
   {
     "id": 406,
@@ -5534,7 +5859,8 @@
         "english": "I'll call you tomorrow."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'bell'. Bellen = to call (phone). You ring the bell!"
   },
   {
     "id": 408,
@@ -5548,7 +5874,8 @@
         "english": "Can you answer?"
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Ant (back/against) + woorden (words). To answer is to give words back."
   },
   {
     "id": 411,
@@ -5562,7 +5889,8 @@
         "english": "I wish you success."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'wish'. Wensen = to wish."
   },
   {
     "id": 412,
@@ -5576,7 +5904,8 @@
         "english": "I dream of vacation."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'dream'. Dromen = to dream."
   },
   {
     "id": 413,
@@ -5590,7 +5919,8 @@
         "english": "The child is crying."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'howl'. Huilen = to cry/howl."
   },
   {
     "id": 414,
@@ -5604,7 +5934,8 @@
         "english": "Everyone laughs."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'laugh'. Lachen = to laugh."
   },
   {
     "id": 415,
@@ -5618,7 +5949,8 @@
         "english": "She sings beautifully."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'sing'. Zingen = to sing. The z/s swap."
   },
   {
     "id": 416,
@@ -5632,7 +5964,8 @@
         "english": "Do you want to dance?"
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'dance'. Dansen = to dance."
   },
   {
     "id": 417,
@@ -5646,7 +5979,8 @@
         "english": "I draw a house."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'token' (a sign/mark). Tekenen = to draw."
   },
   {
     "id": 418,
@@ -5660,7 +5994,8 @@
         "english": "I paint the wall."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Think 'children' painting with a 'shield' - schilderen = to paint."
   },
   {
     "id": 419,
@@ -5674,7 +6009,8 @@
         "english": "They're building a new house."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'build' (through old Germanic 'bū' meaning dwelling). Bouwen = to build."
   },
   {
     "id": 420,
@@ -5688,7 +6024,8 @@
         "english": "I broke the glass."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'break'. Breken = to break."
   },
   {
     "id": 421,
@@ -5702,7 +6039,8 @@
         "english": "I repair the bicycle."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "From Latin 'reparare'. Same as English 'repair'. Repareren = to repair."
   },
   {
     "id": 422,
@@ -5716,7 +6054,8 @@
         "english": "I clean the house."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Schoon (clean) + maken (make). Literally 'make clean' = to clean."
   },
   {
     "id": 423,
@@ -5730,7 +6069,8 @@
         "english": "I wash my hands."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'wash'. Wassen = to wash."
   },
   {
     "id": 424,
@@ -5744,7 +6084,8 @@
         "english": "The laundry dries outside."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'dry'. Drogen = to dry. Think 'drought'."
   },
   {
     "id": 425,
@@ -5758,7 +6099,8 @@
         "english": "I like to cook."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'cook'. Koken = to cook."
   },
   {
     "id": 426,
@@ -5772,7 +6114,8 @@
         "english": "I bake a cake."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'bake'. Bakken = to bake/fry."
   },
   {
     "id": 427,
@@ -5786,7 +6129,8 @@
         "english": "I cut the bread."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'cut' through old Germanic. Snijden = to cut."
   },
   {
     "id": 428,
@@ -5800,7 +6144,8 @@
         "english": "Mix the ingredients."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'mingle/mix'. Mengen = to mix."
   },
   {
     "id": 429,
@@ -5814,7 +6159,8 @@
         "english": "Fill in the form."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "In (in) + vullen (fill). Literally 'fill in' = to fill in/complete."
   },
   {
     "id": 430,
@@ -5828,7 +6174,8 @@
         "english": "Can you explain that?"
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Uit (out) + leggen (lay). Literally 'lay out' = to explain. You lay out the information."
   },
   {
     "id": 435,
@@ -5842,7 +6189,8 @@
         "english": "The street is wide."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'broad/breadth'. Breed = wide."
   },
   {
     "id": 436,
@@ -5856,7 +6204,8 @@
         "english": "The path is narrow."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'small'. Smal = narrow."
   },
   {
     "id": 437,
@@ -5870,7 +6219,8 @@
         "english": "This book is thick."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'thick'. Dik = thick/fat."
   },
   {
     "id": 438,
@@ -5884,7 +6234,8 @@
         "english": "The ice is thin."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'thin'. Dun = thin."
   },
   {
     "id": 439,
@@ -5898,7 +6249,8 @@
         "english": "The bag is heavy."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'swear' (heavy oath). Actually from same root as 'heavy'. Zwaar = heavy."
   },
   {
     "id": 440,
@@ -5912,7 +6264,8 @@
         "english": "This is light."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'light'. Licht = light (weight and brightness)."
   },
   {
     "id": 441,
@@ -5926,7 +6279,8 @@
         "english": "The ground is hard."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Identical to English 'hard'."
   },
   {
     "id": 442,
@@ -5940,7 +6294,8 @@
         "english": "The pillow is soft."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'soft'. Zacht = soft. The z/s swap."
   },
   {
     "id": 445,
@@ -5954,7 +6309,8 @@
         "english": "The soup is hot."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'heat/hot'. Heet = hot."
   },
   {
     "id": 446,
@@ -5968,7 +6324,8 @@
         "english": "My clothes are wet."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'net' (wet fishing net). Nat = wet."
   },
   {
     "id": 447,
@@ -5982,7 +6339,8 @@
         "english": "It's dry today."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'dry/drought'. Droog = dry."
   },
   {
     "id": 448,
@@ -5996,7 +6354,8 @@
         "english": "The room is clean."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'sheen' (clean/bright). Schoon = clean."
   },
   {
     "id": 449,
@@ -6010,7 +6369,8 @@
         "english": "My shoes are dirty."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Think 'fees' - vies sounds like 'fees', and hidden fees are dirty tricks! Vies = dirty."
   },
   {
     "id": 454,
@@ -6024,7 +6384,8 @@
         "english": "The turtle is slow."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Lang (long) + zaam (same root as 'some'). Literally 'long-some' = slow."
   },
   {
     "id": 455,
@@ -6038,7 +6399,8 @@
         "english": "I get up early."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as German 'früh' (early). Vroeg = early."
   },
   {
     "id": 456,
@@ -6052,7 +6414,8 @@
         "english": "It's late."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'late'. Laat = late. Nearly identical."
   },
   {
     "id": 457,
@@ -6066,7 +6429,8 @@
         "english": "The glass is empty."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'leak' (empty of contents). Leeg = empty."
   },
   {
     "id": 458,
@@ -6080,7 +6444,8 @@
         "english": "The train is full."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'full'. Vol = full."
   },
   {
     "id": 459,
@@ -6094,7 +6459,8 @@
         "english": "The window is open."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'open'. Identical."
   },
   {
     "id": 460,
@@ -6108,7 +6474,8 @@
         "english": "The store is closed."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as German 'dicht'. Means 'closed' and also 'near/dense'."
   },
   {
     "id": 461,
@@ -6122,7 +6489,8 @@
         "english": "Be quiet!"
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'still'. Stil = quiet/still."
   },
   {
     "id": 462,
@@ -6136,7 +6504,8 @@
         "english": "The music is loud."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'loud'. Luid = loud."
   },
   {
     "id": 463,
@@ -6150,7 +6519,8 @@
         "english": "It's dark outside."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'dark'. Donker = dark."
   },
   {
     "id": 464,
@@ -6164,7 +6534,8 @@
         "english": "The sky is clear."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'clear'. Helder = bright/clear."
   },
   {
     "id": 467,
@@ -6193,7 +6564,8 @@
         "english": "That's not necessary."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Think 'need-ig'. Nodig = necessary/needed."
   },
   {
     "id": 469,
@@ -6237,7 +6609,8 @@
         "english": "Are you ready?"
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Think 'clear' - when you're klaar, you're clear/done/ready."
   },
   {
     "id": 472,
@@ -6251,7 +6624,8 @@
         "english": "I'm free today."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'free'. Vrij = free."
   },
   {
     "id": 473,
@@ -6265,7 +6639,8 @@
         "english": "I'm busy."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'press/pressure'. Druk = busy/pressure."
   },
   {
     "id": 474,
@@ -6279,7 +6654,8 @@
         "english": "Stay calm."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'rest'. Rustig = calm/restful."
   },
   {
     "id": 475,
@@ -6293,7 +6669,8 @@
         "english": "I'm angry at him."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Think 'boss' - an angry boos boss! No real etymology link but helpful."
   },
   {
     "id": 476,
@@ -6307,7 +6684,8 @@
         "english": "I'm afraid of dogs."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'bang' - a sudden scary noise makes you bang (afraid)."
   },
   {
     "id": 477,
@@ -6321,7 +6699,8 @@
         "english": "I'm proud of you."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Think 'trots' like 'trotting proudly'. Trots = proud."
   },
   {
     "id": 478,
@@ -6335,7 +6714,8 @@
         "english": "That's ugly."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Think 'ugly-lijk'. Lelijk = ugly."
   },
   {
     "id": 479,
@@ -6349,7 +6729,8 @@
         "english": "That was stupid."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'dumb' (silent/stupid). Dom = stupid."
   },
   {
     "id": 480,
@@ -6363,7 +6744,8 @@
         "english": "She is smart."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Think 'slim' - a slim advantage means you're smart. Slim = smart/clever."
   },
   {
     "id": 481,
@@ -6377,7 +6759,8 @@
         "english": "He is rich."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'rich'. Rijk = rich. Also means 'kingdom' (like 'realm')."
   },
   {
     "id": 484,
@@ -6391,7 +6774,8 @@
         "english": "This is cheap."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Goed (good) + koop (buy/deal). Literally 'good-buy' = cheap."
   },
   {
     "id": 485,
@@ -6405,7 +6789,8 @@
         "english": "It's free."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "From Latin 'gratis' (free). Same as English."
   },
   {
     "id": 487,
@@ -6419,7 +6804,8 @@
         "english": "That's strange."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'from' + 'strange'. Vreemd = strange/foreign."
   },
   {
     "id": 488,
@@ -6433,7 +6819,8 @@
         "english": "That's normal."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same as English 'normal'."
   },
   {
     "id": 489,
@@ -6447,7 +6834,8 @@
         "english": "This is special for you."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same as English 'special'. From Latin 'specialis'."
   },
   {
     "id": 490,
@@ -6461,7 +6849,8 @@
         "english": "This is different."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'other/anders'. Anders = different/otherwise."
   },
   {
     "id": 491,
@@ -6475,7 +6864,8 @@
         "english": "We have the same car."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "De (the) + zelfde (same/self). Literally 'the self-same' = the same."
   },
   {
     "id": 492,
@@ -6489,7 +6879,8 @@
         "english": "I have my own house."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'own'. Eigen = own."
   },
   {
     "id": 493,
@@ -6503,7 +6894,8 @@
         "english": "This is really beautiful."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Think 'actual' - echt means real/genuine/really."
   },
   {
     "id": 494,
@@ -6517,7 +6909,8 @@
         "english": "I understand it completely."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Hele (whole) + maal (time/measure). Literally 'whole-measure' = completely."
   },
   {
     "id": 495,
@@ -6531,7 +6924,8 @@
         "english": "I'm almost done."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Think 'by-near' - bijna = almost (by/near the goal)."
   },
   {
     "id": 496,
@@ -6545,7 +6939,8 @@
         "english": "It costs approximately ten euros."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "On (un/about) + geveer (approximate). Ongeveer = approximately."
   },
   {
     "id": 498,
@@ -6559,7 +6954,8 @@
         "english": "It's probably raining."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Waar (true) + schijnlijk (seemingly). Something 'truly seeming' = probably."
   },
   {
     "id": 511,
@@ -6573,7 +6969,8 @@
         "english": "It must be somewhere."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Er (there) + gens (related to 'going'). Ergens = somewhere."
   },
   {
     "id": 512,
@@ -6587,7 +6984,8 @@
         "english": "I can't find it anywhere."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Ner (nowhere) + gens. Nergens = nowhere. Opposite of ergens."
   },
   {
     "id": 513,
@@ -6620,7 +7018,8 @@
         "english": "The weather is good."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'weather'. Weer means both 'again' and 'weather'."
   },
   {
     "id": 520,
@@ -6634,7 +7033,8 @@
         "english": "It's very cold."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Think 'urgh!' - erg can mean both 'very' and 'bad'."
   },
   {
     "id": 524,
@@ -6648,7 +7048,8 @@
         "english": "I want to learn more."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'more'. Meer = more. Also means 'lake'!"
   },
   {
     "id": 525,
@@ -6662,7 +7063,8 @@
         "english": "I work less."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'minor/less'. Minder = less."
   },
   {
     "id": 526,
@@ -6676,7 +7078,8 @@
         "english": "I have enough money."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'enough' (through old Germanic 'ganōg')."
   },
   {
     "id": 527,
@@ -6690,7 +7093,8 @@
         "english": "It's too expensive."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'too'. Te = too (excessive)."
   },
   {
     "id": 528,
@@ -6704,7 +7108,8 @@
         "english": "It's so beautiful!"
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'so'. Zo = so."
   },
   {
     "id": 531,
@@ -6719,7 +7124,8 @@
         "english": "The bridge is old."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'bridge'. Brug = bridge."
   },
   {
     "id": 532,
@@ -6734,7 +7140,8 @@
         "english": "We meet at the square."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'plain' (flat open area). Plein = square."
   },
   {
     "id": 533,
@@ -6749,7 +7156,8 @@
         "english": "The store is on the corner."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'hook/nook'. Hoek = corner."
   },
   {
     "id": 534,
@@ -6764,7 +7172,8 @@
         "english": "In which direction should I go?"
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'direction'. Richting = direction."
   },
   {
     "id": 535,
@@ -6778,7 +7187,8 @@
         "english": "Go left."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'links' (golf). Links = left."
   },
   {
     "id": 536,
@@ -6792,7 +7202,8 @@
         "english": "Go right."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'right'. Rechts = right (direction)."
   },
   {
     "id": 537,
@@ -6806,7 +7217,8 @@
         "english": "Go straight ahead."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Recht (straight) + door (through). Literally 'straight through' = straight ahead."
   },
   {
     "id": 542,
@@ -6820,7 +7232,8 @@
         "english": "Come downstairs!"
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Be (at) + neden (below). Same root as English 'beneath'. Beneden = below."
   },
   {
     "id": 544,
@@ -6835,7 +7248,8 @@
         "english": "The tram is full."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same as English 'tram'."
   },
   {
     "id": 545,
@@ -6850,7 +7264,8 @@
         "english": "I take the metro."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same as English 'metro'."
   },
   {
     "id": 547,
@@ -6865,7 +7280,8 @@
         "english": "We travel by boat."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'boat'. Boot = boat."
   },
   {
     "id": 549,
@@ -6880,7 +7296,8 @@
         "english": "We go to the airport."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Lucht (air) + haven (harbor). Literally 'air harbor' = airport."
   },
   {
     "id": 550,
@@ -6895,7 +7312,8 @@
         "english": "The next stop is there."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'halt'. Halte = stop (bus/tram). Where you halt."
   },
   {
     "id": 551,
@@ -6910,7 +7328,8 @@
         "english": "I buy a ticket."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Kaart (card) + je (little). A kaartje is a little card = ticket."
   },
   {
     "id": 552,
@@ -6929,7 +7348,8 @@
         "english": "May I see your passport?"
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Pas (passage) + poort (gate). Literally 'passage gate' = passport."
   },
   {
     "id": 553,
@@ -6944,7 +7364,8 @@
         "english": "Where is your luggage?"
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same as English 'baggage'. From French."
   },
   {
     "id": 554,
@@ -6959,7 +7380,8 @@
         "english": "I pack my suitcase."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same as English 'coffer' (a travelling chest). Koffer = suitcase."
   },
   {
     "id": 555,
@@ -6974,7 +7396,8 @@
         "english": "My bag is heavy."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same as French 'tasse'. Tas = bag."
   },
   {
     "id": 556,
@@ -6989,7 +7412,8 @@
         "english": "My wallet is gone!"
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Porte (carry) + monnaie (money). French origin - a 'money carrier' = wallet."
   },
   {
     "id": 557,
@@ -7004,7 +7428,8 @@
         "english": "Where are my keys?"
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'slot' (a lock mechanism). Sleutel = key (what opens the slot)."
   },
   {
     "id": 560,
@@ -7019,7 +7444,8 @@
         "english": "Do you have internet?"
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same as English 'internet'."
   },
   {
     "id": 561,
@@ -7034,7 +7460,8 @@
         "english": "I send you a message."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'report/message' (through old French). Bericht = message."
   },
   {
     "id": 562,
@@ -7049,7 +7476,8 @@
         "english": "I read my email."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same as English 'email'."
   },
   {
     "id": 563,
@@ -7064,7 +7492,8 @@
         "english": "I forgot my password."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Wacht (wait/guard) + woord (word). Literally 'guard-word' = password. Same logic as English!"
   },
   {
     "id": 567,
@@ -7079,7 +7508,8 @@
         "english": "This is a beautiful song."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as old English 'lied' (song). German also has 'Lied'. Lied = song."
   },
   {
     "id": 568,
@@ -7094,7 +7524,8 @@
         "english": "I love art."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'cunst' (old English for skill/art). Kunst = art."
   },
   {
     "id": 569,
@@ -7109,7 +7540,8 @@
         "english": "We visit the museum."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same as English 'museum'. From Greek 'mouseion'."
   },
   {
     "id": 570,
@@ -7124,7 +7556,8 @@
         "english": "We go to the theater."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same as English 'theater'. From Greek 'theatron'."
   },
   {
     "id": 571,
@@ -7139,7 +7572,8 @@
         "english": "We go to the cinema."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Bio (life) + scoop (view). Bioscoop = cinema. Literally 'life viewer'."
   },
   {
     "id": 572,
@@ -7154,7 +7588,8 @@
         "english": "The concert was great."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same as English 'concert'."
   },
   {
     "id": 579,
@@ -7169,7 +7604,8 @@
         "english": "Where is the bathroom?"
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Bad (bath) + kamer (room). Literally 'bath room' = bathroom. Same logic as English!"
   },
   {
     "id": 580,
@@ -7184,7 +7620,8 @@
         "english": "Where is the toilet?"
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same as English 'toilet'. From French 'toilette'."
   },
   {
     "id": 581,
@@ -7199,7 +7636,8 @@
         "english": "I take a shower."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same as English 'douche/shower'. From French."
   },
   {
     "id": 582,
@@ -7214,7 +7652,8 @@
         "english": "I look in the mirror."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'mirror' through Latin 'speculum'. Spiegel = mirror."
   },
   {
     "id": 583,
@@ -7229,7 +7668,8 @@
         "english": "Give me the towel."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Hand (hand) + doek (cloth). Literally 'hand-cloth' = towel."
   },
   {
     "id": 584,
@@ -7244,7 +7684,8 @@
         "english": "Where is the soap?"
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'soap'. Zeep = soap."
   },
   {
     "id": 585,
@@ -7259,7 +7700,8 @@
         "english": "I brush my teeth."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Tanden (teeth) + borstel (brush). Literally 'teeth-brush' = toothbrush."
   },
   {
     "id": 587,
@@ -7274,7 +7716,8 @@
         "english": "We sit in the living room."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Woon (living) + kamer (room). Literally 'living room'. Same logic as English!"
   },
   {
     "id": 588,
@@ -7289,7 +7732,8 @@
         "english": "My bedroom is small."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Slaap (sleep) + kamer (room). Literally 'sleep room' = bedroom."
   },
   {
     "id": 590,
@@ -7304,7 +7748,8 @@
         "english": "I sit on the balcony."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same as English 'balcony'. From Italian 'balcone'."
   },
   {
     "id": 591,
@@ -7319,7 +7764,8 @@
         "english": "I walk up the stairs."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'trap' (a device you step on). Trap = stairs."
   },
   {
     "id": 592,
@@ -7334,7 +7780,8 @@
         "english": "Take the elevator."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same as English 'lift' (elevator). British English uses 'lift' too."
   },
   {
     "id": 593,
@@ -7349,7 +7796,8 @@
         "english": "I live on the second floor."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Verdieping literally means 'deepening' - each floor goes one level deeper into the building."
   },
   {
     "id": 594,
@@ -7364,7 +7812,8 @@
         "english": "The wall is white."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "From Latin 'murus'. English gets 'mural' from the same root. Muur = wall."
   },
   {
     "id": 595,
@@ -7379,7 +7828,8 @@
         "english": "The floor is clean."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'floor'. Vloer = floor. The v/f swap."
   },
   {
     "id": 596,
@@ -7394,7 +7844,8 @@
         "english": "The ceiling is high."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Pla (flat) + fond (bottom). From French - a 'flat bottom' above you = ceiling."
   },
   {
     "id": 597,
@@ -7409,7 +7860,8 @@
         "english": "The cat sits on the roof."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'thatch' (a roof covering). Dak = roof."
   },
   {
     "id": 602,
@@ -7428,7 +7880,8 @@
         "english": "The bank closes at five."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Bank means both 'couch/sofa' and 'bank' (financial). Same word, two meanings."
   },
   {
     "id": 603,
@@ -7443,7 +7896,8 @@
         "english": "The clothes hang in the closet."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'caste/case' (a box). Kast = closet/cabinet."
   },
   {
     "id": 604,
@@ -7458,7 +7912,8 @@
         "english": "Turn on the lamp."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same as English 'lamp'."
   },
   {
     "id": 605,
@@ -7473,7 +7928,8 @@
         "english": "I watch television."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same as English 'television'. Televisie = television."
   },
   {
     "id": 606,
@@ -7488,7 +7944,8 @@
         "english": "The milk is in the refrigerator."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Koel (cool) + kast (cabinet). Literally 'cool-cabinet' = refrigerator."
   },
   {
     "id": 607,
@@ -7503,7 +7960,8 @@
         "english": "The cake is in the oven."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same as English 'oven'."
   },
   {
     "id": 608,
@@ -7518,7 +7976,8 @@
         "english": "I heat it in the microwave."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "From 'magnetron-oven' - named after the magnetron tube inside. Same in English."
   },
   {
     "id": 609,
@@ -7533,7 +7992,8 @@
         "english": "I eat with knife and fork."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'fork'. Vork = fork. The v/f swap."
   },
   {
     "id": 610,
@@ -7548,7 +8008,8 @@
         "english": "This knife is sharp."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'mess' (military: a shared table/knife). Mes = knife."
   },
   {
     "id": 611,
@@ -7563,7 +8024,8 @@
         "english": "I eat soup with a spoon."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'ladle' (a serving spoon). Lepel = spoon."
   },
   {
     "id": 612,
@@ -7578,7 +8040,8 @@
         "english": "My plate is empty."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'board'. Bord = plate (originally a wooden board for serving food)."
   },
   {
     "id": 613,
@@ -7593,7 +8056,8 @@
         "english": "Do you want a cup of tea?"
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Kop (cup/head) + je (little). A kopje is a little cup."
   },
   {
     "id": 614,
@@ -7608,7 +8072,8 @@
         "english": "I drink a glass of water."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'glass'. Glas = glass."
   },
   {
     "id": 615,
@@ -7623,7 +8088,8 @@
         "english": "The bottle is empty."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'flask/bottle'. Fles = bottle."
   },
   {
     "id": 616,
@@ -7638,7 +8104,8 @@
         "english": "I fry eggs in the pan."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'pan'. Pan = pan."
   },
   {
     "id": 617,
@@ -7653,7 +8120,8 @@
         "english": "I boil water in the pot."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'pot'. Pot = pot."
   },
   {
     "id": 618,
@@ -7668,7 +8136,8 @@
         "english": "I buy new clothing."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'clothing'. Kleding = clothing. Kleed = cloth."
   },
   {
     "id": 619,
@@ -7683,7 +8152,8 @@
         "english": "I wear blue pants."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as old English 'breech' (leg covering). Broek = pants."
   },
   {
     "id": 620,
@@ -7698,7 +8168,8 @@
         "english": "I wear a white shirt."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Over (over) + hemd (undershirt). Literally 'over-shirt' = dress shirt."
   },
   {
     "id": 621,
@@ -7713,7 +8184,8 @@
         "english": "I wear a t-shirt."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same as English 'shirt'. Originally from old English 'scyrte'."
   },
   {
     "id": 622,
@@ -7728,7 +8200,8 @@
         "english": "I wear a warm sweater."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Think 'true-ly warm' - a trui keeps you warm. Trui = sweater."
   },
   {
     "id": 623,
@@ -7743,7 +8216,8 @@
         "english": "Put on your coat."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as old French 'jaque' (a type of coat). Jas = coat/jacket."
   },
   {
     "id": 624,
@@ -7758,7 +8232,8 @@
         "english": "She wears a skirt."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'frock'. Rok = skirt."
   },
   {
     "id": 625,
@@ -7773,7 +8248,8 @@
         "english": "That dress is beautiful."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Think 'your-k' dress. Jurk = dress."
   },
   {
     "id": 626,
@@ -7788,7 +8264,8 @@
         "english": "My shoes are wet."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'shoe'. Schoen = shoe."
   },
   {
     "id": 627,
@@ -7803,7 +8280,8 @@
         "english": "I wear boots."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as old Norse for 'leg covering'. Laars = boot."
   },
   {
     "id": 628,
@@ -7818,7 +8296,8 @@
         "english": "Where are my socks?"
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'sock'. Sok = sock."
   },
   {
     "id": 629,
@@ -7833,7 +8312,8 @@
         "english": "Put on your hat."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Think 'mutton-head cap'. Muts = winter hat."
   },
   {
     "id": 630,
@@ -7848,7 +8328,8 @@
         "english": "I wear gloves."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Hand (hand) + schoen (shoe). Literally 'hand-shoe' = glove! Your hands wear shoes."
   },
   {
     "id": 631,
@@ -7863,7 +8344,8 @@
         "english": "I wear a warm scarf."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'shawl'. Sjaal = scarf."
   },
   {
     "id": 632,
@@ -7878,7 +8360,8 @@
         "english": "Do you have an umbrella?"
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Para (against) + plu (rain, from French 'pluie'). An umbrella fights the rain!"
   },
   {
     "id": 633,
@@ -7893,7 +8376,8 @@
         "english": "I wear glasses."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as German 'Brille'. Bril = glasses."
   },
   {
     "id": 634,
@@ -7908,7 +8392,8 @@
         "english": "What time is it on your watch?"
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same as French 'horloge'. Horloge = watch."
   },
   {
     "id": 635,
@@ -7923,7 +8408,8 @@
         "english": "She wears a gold ring."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same as English 'ring'."
   },
   {
     "id": 636,
@@ -7938,7 +8424,8 @@
         "english": "That necklace is beautiful."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'chain' (through old Germanic 'ketting/catena'). Ketting = necklace/chain."
   },
   {
     "id": 640,
@@ -7953,7 +8440,8 @@
         "english": "I see stars."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'star'. Ster = star."
   },
   {
     "id": 641,
@@ -7968,7 +8456,8 @@
         "english": "The sky is blue."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'loft' (high up in the air). Lucht = air/sky."
   },
   {
     "id": 642,
@@ -7983,7 +8472,8 @@
         "english": "There are many clouds."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'welkin' (old English for sky/cloud). Wolk = cloud."
   },
   {
     "id": 646,
@@ -7998,7 +8488,8 @@
         "english": "There's a storm coming."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same as English 'storm'."
   },
   {
     "id": 647,
@@ -8013,7 +8504,8 @@
         "english": "The temperature is low."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same as English 'temperature'. From Latin 'temperatura'."
   },
   {
     "id": 648,
@@ -8028,7 +8520,8 @@
         "english": "It's twenty degrees."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same as English 'grade/degree'. From Latin 'gradus'."
   },
   {
     "id": 649,
@@ -8043,7 +8536,8 @@
         "english": "Autumn is my favorite season."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same as English 'season'. From French 'saison'. Seizoen = season."
   },
   {
     "id": 676,
@@ -8057,7 +8551,8 @@
         "english": "I'll come the day after tomorrow."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Over (past/after) + morgen (morning/tomorrow). Literally 'after tomorrow' = day after tomorrow."
   },
   {
     "id": 677,
@@ -8071,7 +8566,8 @@
         "english": "The day before yesterday it rained."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Eer (before) + gisteren (yesterday). Literally 'before yesterday' = day before yesterday."
   },
   {
     "id": 682,
@@ -8086,7 +8582,8 @@
         "english": "Have a nice weekend!"
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same as English 'weekend'."
   },
   {
     "id": 683,
@@ -8104,7 +8601,8 @@
         "english": "I have a book."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'one/a/an'. Een = one, a, an."
   },
   {
     "id": 693,
@@ -8118,7 +8616,8 @@
         "english": "There are eleven players."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'eleven'. Elf = eleven."
   },
   {
     "id": 694,
@@ -8132,7 +8631,8 @@
         "english": "It's twelve o'clock."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'twelve'. Twaalf = twelve."
   },
   {
     "id": 695,
@@ -8146,7 +8646,8 @@
         "english": "I am thirteen years old."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Der (three) + tien (ten). Thirteen = three-ten. Same logic as English."
   },
   {
     "id": 696,
@@ -8160,7 +8661,8 @@
         "english": "There are fourteen students."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Veer (four) + tien (ten). Fourteen = four-ten."
   },
   {
     "id": 697,
@@ -8174,7 +8676,8 @@
         "english": "It takes fifteen minutes."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Vijf (five) + tien (ten). Fifteen = five-ten."
   },
   {
     "id": 698,
@@ -8188,7 +8691,8 @@
         "english": "I have twenty euros."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Twee (two) + -tig (tens). Twenty = two-tens. Same logic as English."
   },
   {
     "id": 699,
@@ -8202,7 +8706,8 @@
         "english": "It costs thirty euros."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Der (three) + -tig (tens). Thirty = three-tens."
   },
   {
     "id": 700,
@@ -8216,7 +8721,8 @@
         "english": "He is forty years old."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Veer (four) + -tig (tens). Forty = four-tens."
   },
   {
     "id": 701,
@@ -8230,7 +8736,8 @@
         "english": "The store is fifty years old."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Vijf (five) + -tig (tens). Fifty = five-tens."
   },
   {
     "id": 702,
@@ -8244,7 +8751,8 @@
         "english": "It costs a hundred euros."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'hundred'. Honderd = hundred."
   },
   {
     "id": 703,
@@ -8258,7 +8766,8 @@
         "english": "A thousand people live there."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'thousand'. Duizend = thousand."
   },
   {
     "id": 704,
@@ -8272,7 +8781,8 @@
         "english": "This is my first day."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'first'. Eerste = first."
   },
   {
     "id": 705,
@@ -8286,7 +8796,8 @@
         "english": "I live on the second floor."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'second' (ordinal form of twee)."
   },
   {
     "id": 706,
@@ -8300,7 +8811,8 @@
         "english": "This is the third time."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'third'. Derde = third."
   },
   {
     "id": 707,
@@ -8314,7 +8826,8 @@
         "english": "This is the last chance."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'last'. Laatste = last."
   },
   {
     "id": 708,
@@ -8328,7 +8841,8 @@
         "english": "The next bus comes in ten minutes."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Volgen (to follow) + de. Literally 'the following one' = next."
   },
   {
     "id": 709,
@@ -8342,7 +8856,8 @@
         "english": "Last week I was sick."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Voor (before) + ig. Literally 'the before one' = previous."
   },
   {
     "id": 712,
@@ -8356,7 +8871,8 @@
         "english": "What is your name?"
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'you' (formal). U is the polite form, like French 'vous'."
   },
   {
     "id": 715,
@@ -8374,7 +8890,8 @@
         "english": "The child plays."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'it'. Het = it/the (neuter)."
   },
   {
     "id": 720,
@@ -8388,7 +8905,8 @@
         "english": "What is your name?"
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'your' (formal). Uw is the polite version of jouw."
   },
   {
     "id": 723,
@@ -8402,7 +8920,8 @@
         "english": "This is our house."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'us/our'. Ons = our/us."
   },
   {
     "id": 724,
@@ -8416,7 +8935,8 @@
         "english": "This is their car."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'hun' is actually old Germanic for 'their'."
   },
   {
     "id": 725,
@@ -8430,7 +8950,8 @@
         "english": "This is good."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'this'. Dit = this (neuter)."
   },
   {
     "id": 727,
@@ -8444,7 +8965,8 @@
         "english": "This apple is tasty."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'these'. Deze = this/these (common gender)."
   },
   {
     "id": 728,
@@ -8458,7 +8980,8 @@
         "english": "That man is my father."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'the/that'. Die = that/those."
   },
   {
     "id": 729,
@@ -8547,7 +9070,8 @@
         "english": "Everyone is welcome."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Ieder (each/every) + een (one). Literally 'each-one' = everyone."
   },
   {
     "id": 735,
@@ -8561,7 +9085,8 @@
         "english": "We help each other."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "El (each) + kaar (other). Literally 'each-other'. Elkaar = each other."
   },
   {
     "id": 736,
@@ -8575,7 +9100,8 @@
         "english": "I do it myself."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'self'. Zelf = self."
   },
   {
     "id": 737,
@@ -8589,7 +9115,8 @@
         "english": "The man walks."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'the'. De is used for common gender nouns, het for neuter."
   },
   {
     "id": 740,
@@ -8603,7 +9130,8 @@
         "english": "Yes, that's right."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'yea/yes'. Ja = yes."
   },
   {
     "id": 741,
@@ -8617,7 +9145,8 @@
         "english": "No, thank you."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'nay/no'. Nee = no."
   },
   {
     "id": 742,
@@ -8631,7 +9160,8 @@
         "english": "Please help me."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Als je blieft = 'if you please'. A contraction of 'als het je belieft'."
   },
   {
     "id": 743,
@@ -8645,7 +9175,8 @@
         "english": "Could you please repeat that?"
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Als tu blieft = 'if you please' (formal). Same as alsjeblieft but using u instead of je."
   },
   {
     "id": 744,
@@ -8659,7 +9190,8 @@
         "english": "Thank you very much!"
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Dank (thank) + je (you). Literally 'thank you'. Same as English."
   },
   {
     "id": 745,
@@ -8673,7 +9205,8 @@
         "english": "Thank you very much."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Dank (thank) + u (you formal). The formal version of dank je."
   },
   {
     "id": 746,
@@ -8687,7 +9220,8 @@
         "english": "Sorry, I'm late."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same as English 'sorry'. Borrowed from English."
   },
   {
     "id": 747,
@@ -8701,7 +9235,8 @@
         "english": "Excuse me, may I pass?"
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same as English 'pardon'. From French."
   },
   {
     "id": 748,
@@ -8715,7 +9250,8 @@
         "english": "Hello, how are you?"
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same as English 'hello'. Hallo = hello."
   },
   {
     "id": 750,
@@ -8729,7 +9265,8 @@
         "english": "Bye!"
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Think 'do-ei' = 'do a goodbye'. Doei = bye (informal)."
   },
   {
     "id": 751,
@@ -8743,7 +9280,8 @@
         "english": "Welcome to the Netherlands!"
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'welcome'. Welkom = welcome. Wel (well) + kom (come)."
   },
   {
     "id": 752,
@@ -8757,7 +9295,8 @@
         "english": "Happy birthday!"
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Ge (done/been) + feliciteerd (congratulated). Literally 'been congratulated' = congratulations!"
   },
   {
     "id": 754,
@@ -8772,7 +9311,8 @@
         "english": "I study at the university."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same as English 'university'. From Latin 'universitas'."
   },
   {
     "id": 755,
@@ -8787,7 +9327,8 @@
         "english": "The class starts at nine o'clock."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'lesson'. Les = lesson/class."
   },
   {
     "id": 756,
@@ -8802,7 +9343,8 @@
         "english": "I'm taking a Dutch course."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'course'. Cursus = course."
   },
   {
     "id": 757,
@@ -8817,7 +9359,8 @@
         "english": "I have an exam tomorrow."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same as English 'exam/examination'. From Latin 'examen'."
   },
   {
     "id": 758,
@@ -8832,7 +9375,8 @@
         "english": "I do my homework."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Huis (home) + werk (work). Literally 'home-work' = homework. Same logic as English!"
   },
   {
     "id": 759,
@@ -8847,7 +9391,8 @@
         "english": "This is a difficult exercise."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'exercise' (through Latin). Oefening = exercise."
   },
   {
     "id": 762,
@@ -8862,7 +9407,8 @@
         "english": "The teacher explains it."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'teacher' (through Latin). Leraar = male teacher."
   },
   {
     "id": 763,
@@ -8877,7 +9423,8 @@
         "english": "The teacher is friendly."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Female version of leraar. The -es ending marks feminine, like 'actress' in English."
   },
   {
     "id": 764,
@@ -8892,7 +9439,8 @@
         "english": "I am a student."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same as English 'student'. From Latin 'studēre' (to study)."
   },
   {
     "id": 765,
@@ -8907,7 +9455,8 @@
         "english": "The pupil learns quickly."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'learning'. Leerling = pupil/student."
   },
   {
     "id": 766,
@@ -8922,7 +9471,8 @@
         "english": "I work at the office."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Kant (side/office) + oor (place). Kantoor = office."
   },
   {
     "id": 767,
@@ -8937,7 +9487,8 @@
         "english": "I work at a big company."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Be (around) + drijf (drive). A bedrijf is what drives business = company."
   },
   {
     "id": 768,
@@ -8952,7 +9503,8 @@
         "english": "My boss is strict."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'boss'. Baas = boss."
   },
   {
     "id": 769,
@@ -8967,7 +9519,8 @@
         "english": "My colleague helps me."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same as English 'colleague'. From Latin 'collega'."
   },
   {
     "id": 770,
@@ -8982,7 +9535,8 @@
         "english": "The meeting is at three o'clock."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Ver (together) + gadering (gathering). A vergadering is a gathering together = meeting."
   },
   {
     "id": 771,
@@ -8997,7 +9551,8 @@
         "english": "My salary is good."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same as English 'salary'. From Latin 'salarium' (salt money)."
   },
   {
     "id": 772,
@@ -9012,7 +9567,8 @@
         "english": "I'm looking for a job."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as German 'Bahn' (track/path). Your baan is the track you're on = job."
   },
   {
     "id": 773,
@@ -9027,7 +9583,8 @@
         "english": "I have a lot of experience."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'experience' (through old French). Ervaring = experience."
   },
   {
     "id": 774,
@@ -9042,7 +9599,8 @@
         "english": "The customer is always right."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'client'. Klant = customer."
   },
   {
     "id": 776,
@@ -9057,7 +9615,8 @@
         "english": "I go to the supermarket."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Super + markt (market). Same as English 'supermarket'."
   },
   {
     "id": 777,
@@ -9072,7 +9631,8 @@
         "english": "On Saturday I go to the market."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'market'. Markt = market."
   },
   {
     "id": 781,
@@ -9087,7 +9647,8 @@
         "english": "May I have the bill?"
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'reckoning'. Rekening = bill/account. You reckon up what you owe."
   },
   {
     "id": 782,
@@ -9102,7 +9663,8 @@
         "english": "There's a twenty percent discount."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Kort (short) + ing. A korting shortens the price = discount."
   },
   {
     "id": 783,
@@ -9117,7 +9679,8 @@
         "english": "I do a lot of sports."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same as English 'sport'."
   },
   {
     "id": 784,
@@ -9132,7 +9695,8 @@
         "english": "I like to watch soccer."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Voet (foot) + bal (ball). Same as English 'football' = soccer."
   },
   {
     "id": 785,
@@ -9147,7 +9711,8 @@
         "english": "The match is starting."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Wed (bet) + strijd (fight). A wedstrijd is a competitive fight = match/game."
   },
   {
     "id": 786,
@@ -9162,7 +9727,8 @@
         "english": "Our team won."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same as English 'team'."
   },
   {
     "id": 787,
@@ -9176,7 +9742,8 @@
         "english": "Dutch people cycle a lot."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Fiets (bike) + en. Fietsen = to cycle. The most Dutch of activities!"
   },
   {
     "id": 788,
@@ -9190,7 +9757,8 @@
         "english": "I walk in the forest."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'wander'. Wandelen = to walk/hike."
   },
   {
     "id": 789,
@@ -9204,7 +9772,8 @@
         "english": "I go running every morning."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Hard (hard/fast) + lopen (walk). Literally 'hard walking' = running."
   },
   {
     "id": 792,
@@ -9219,7 +9788,8 @@
         "english": "I live in a small village."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'thorp' (old English for village). Dorp = village."
   },
   {
     "id": 793,
@@ -9234,7 +9804,8 @@
         "english": "This is a nice neighborhood."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as old English 'wīc' (dwelling place). Wijk = neighborhood."
   },
   {
     "id": 794,
@@ -9249,7 +9820,8 @@
         "english": "We go to the center."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same as English 'centre/center'. From Latin 'centrum'."
   },
   {
     "id": 796,
@@ -9264,7 +9836,8 @@
         "english": "We go to the beach."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'strand' (beach/shore). Strand = beach."
   },
   {
     "id": 798,
@@ -9279,7 +9852,8 @@
         "english": "The river flows through the city."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'river'. From Latin 'riparia'. Rivier = river."
   },
   {
     "id": 800,
@@ -9294,7 +9868,8 @@
         "english": "I love nature."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same as English 'nature'. From Latin 'natura'. Natuur = nature."
   },
   {
     "id": 801,
@@ -9309,7 +9884,8 @@
         "english": "What animal is this?"
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'deer' (originally meant any animal). Dier = animal."
   },
   {
     "id": 804,
@@ -9324,7 +9900,8 @@
         "english": "The bird sings."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'fowl' (bird). Vogel = bird. German 'Vogel'."
   },
   {
     "id": 805,
@@ -9339,7 +9916,8 @@
         "english": "The cow stands in the meadow."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'cow'. Koe = cow."
   },
   {
     "id": 806,
@@ -9354,7 +9932,8 @@
         "english": "The horse runs fast."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as old English 'paraveredus' through French. Paard = horse."
   },
   {
     "id": 809,
@@ -9369,7 +9948,8 @@
         "english": "I give water to the plant."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same as English 'plant'."
   },
   {
     "id": 810,
@@ -9384,7 +9964,8 @@
         "english": "The grass is green."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'grass'. Gras = grass."
   },
   {
     "id": 811,
@@ -9399,7 +9980,8 @@
         "english": "The leaf falls from the tree."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'blade' (of grass/leaf). Blad = leaf/page."
   },
   {
     "id": 817,
@@ -9413,7 +9995,8 @@
         "english": "Orange is the color of the Netherlands."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same as English 'orange'. From the fruit name."
   },
   {
     "id": 818,
@@ -9427,7 +10010,8 @@
         "english": "The flower is purple."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Think 'purple' starts with p, paars starts with p. From French 'perse'."
   },
   {
     "id": 819,
@@ -9441,7 +10025,8 @@
         "english": "The shirt is pink."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same as English 'rose/rosy'. Roze = pink."
   },
   {
     "id": 822,
@@ -9455,7 +10040,8 @@
         "english": "The sky is grey."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'grey/grizzle'. Grijs = grey."
   },
   {
     "id": 823,
@@ -9469,7 +10055,8 @@
         "english": "The dog is brown."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'brown'. Bruin = brown."
   },
   {
     "id": 825,
@@ -9484,7 +10071,8 @@
         "english": "This is the solution."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Op (up) + lossing (loosening). An oplossing loosens a problem = solution."
   },
   {
     "id": 827,
@@ -9499,7 +10087,8 @@
         "english": "What is your opinion?"
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'meaning'. Mening = opinion (what you mean to say)."
   },
   {
     "id": 828,
@@ -9514,7 +10103,8 @@
         "english": "What is the reason?"
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'reason'. Reden = reason."
   },
   {
     "id": 829,
@@ -9529,7 +10119,8 @@
         "english": "What is your goal?"
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as old French 'but/goal'. Doel = goal."
   },
   {
     "id": 830,
@@ -9544,7 +10135,8 @@
         "english": "I have a plan."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same as English 'plan'."
   },
   {
     "id": 831,
@@ -9559,7 +10151,8 @@
         "english": "This is your chance."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'chance'. Kans = chance/opportunity."
   },
   {
     "id": 832,
@@ -9574,7 +10167,8 @@
         "english": "The choice is yours."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'choose'. Keuze = choice (noun of kiezen)."
   },
   {
     "id": 833,
@@ -9589,7 +10183,8 @@
         "english": "What is the difference?"
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Ver (apart) + schil (shell/layer). A verschil is what sets things apart = difference."
   },
   {
     "id": 834,
@@ -9604,7 +10199,8 @@
         "english": "Give me an example."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Voor (before/for) + beeld (image). An example is an image held up for you to follow."
   },
   {
     "id": 835,
@@ -9619,7 +10215,8 @@
         "english": "What is the result?"
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same as English 'result'. From Latin 'resultare'. Resultaat = result."
   },
   {
     "id": 836,
@@ -9634,7 +10231,8 @@
         "english": "Good luck with your exam!"
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same as English 'success'. From Latin 'successus'. Succes = success."
   },
   {
     "id": 837,
@@ -9649,7 +10247,8 @@
         "english": "I made a mistake."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'fault'. Fout = mistake/fault."
   },
   {
     "id": 838,
@@ -9664,7 +10263,8 @@
         "english": "I need help."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'help'. Hulp = help (noun)."
   },
   {
     "id": 839,
@@ -9679,7 +10279,8 @@
         "english": "I'm looking for information."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same as English 'information'. From Latin 'informatio'."
   },
   {
     "id": 840,
@@ -9694,7 +10295,8 @@
         "english": "I watch the news."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'news'. Nieuws = news. Nieuw = new."
   },
   {
     "id": 841,
@@ -9709,7 +10311,8 @@
         "english": "I read the newspaper."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as old French 'courante' (running/current). A krant delivers current news."
   },
   {
     "id": 843,
@@ -9724,7 +10327,8 @@
         "english": "What does this word mean?"
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'word'. Woord = word."
   },
   {
     "id": 844,
@@ -9739,7 +10343,8 @@
         "english": "Make a sentence."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'sense/sentence'. Zin = sentence. Also means 'desire' - ik heb zin = I feel like it."
   },
   {
     "id": 845,
@@ -9754,7 +10359,8 @@
         "english": "What languages do you speak?"
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'tale/talk'. Taal = language."
   },
   {
     "id": 846,
@@ -9769,7 +10375,8 @@
         "english": "What is the meaning?"
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Be (with) + tekenis (sign/token). The meaning 'signed to' a word. Betekenis = meaning."
   },
   {
     "id": 847,
@@ -9784,7 +10391,8 @@
         "english": "My pronunciation is not perfect."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Uit (out) + spraak (speech). Literally 'out-speech' = pronunciation. How you speak it out."
   },
   {
     "id": 848,
@@ -9799,7 +10407,8 @@
         "english": "Dutch grammar is difficult."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same as English 'grammar'. From Greek 'grammatikē'. Grammatica = grammar."
   },
   {
     "id": 849,
@@ -9814,7 +10423,8 @@
         "english": "Life is beautiful."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'life/live'. Leven = life."
   },
   {
     "id": 850,
@@ -9829,7 +10439,8 @@
         "english": "That is death."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'dead/death'. Dood = death."
   },
   {
     "id": 851,
@@ -9844,7 +10455,8 @@
         "english": "The birth went well."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Ge (been/done) + boorte (born). Literally 'having been born' = birth."
   },
   {
     "id": 852,
@@ -9859,7 +10471,8 @@
         "english": "Today is my birthday."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Ver (for) + jaar (year) + dag (day). Literally 'for-year-day' = the day for your year = birthday."
   },
   {
     "id": 853,
@@ -9874,7 +10487,8 @@
         "english": "The wedding was beautiful."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Bruiloft comes from 'bruid' (bride) + 'loft' (promise/vow). A bruiloft = wedding."
   },
   {
     "id": 854,
@@ -9889,7 +10503,8 @@
         "english": "Love is important."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'love' (through old Germanic 'liuban'). Liefde = love."
   },
   {
     "id": 855,
@@ -9904,7 +10519,8 @@
         "english": "I wish you much happiness."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Ge (done) + luk (luck). Geluk means both happiness and luck - the Dutch see them as connected!"
   },
   {
     "id": 856,
@@ -9919,7 +10535,8 @@
         "english": "I feel sadness."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Ver (far/intense) + driet (related to 'droevig'/sad). Deep sadness. Verdriet = sadness."
   },
   {
     "id": 857,
@@ -9934,7 +10551,8 @@
         "english": "I have a fear of spiders."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'anxiety/anguish'. Angst = fear."
   },
   {
     "id": 858,
@@ -9949,7 +10567,8 @@
         "english": "I feel anger."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Boos (angry) + heid (state of). The state of being angry = anger."
   },
   {
     "id": 859,
@@ -9964,7 +10583,8 @@
         "english": "I feel joy."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as old English 'joy/pleasure'. Vreugde = joy."
   },
   {
     "id": 860,
@@ -9979,7 +10599,8 @@
         "english": "I have hope."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'hope'. Hoop = hope. Also means 'heap/pile'."
   },
   {
     "id": 861,
@@ -10010,7 +10631,8 @@
         "english": "War is terrible."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Oor (ear/origin) + log (related to lying in wait). Oorlog = war."
   },
   {
     "id": 863,
@@ -10025,7 +10647,8 @@
         "english": "The government makes decisions."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'reign/governing'. Regering = government."
   },
   {
     "id": 864,
@@ -10040,7 +10663,8 @@
         "english": "Call the police!"
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same as English 'police'. From French 'police'. Politie = police."
   },
   {
     "id": 865,
@@ -10055,7 +10679,8 @@
         "english": "You must follow the law."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'wit' (to know/law). A wet is what's known/established = law."
   },
   {
     "id": 866,
@@ -10070,7 +10695,8 @@
         "english": "Everyone has rights."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'right' (legal/justice). Recht = right/law."
   },
   {
     "id": 867,
@@ -10085,7 +10711,8 @@
         "english": "It is my duty."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'plight' (a solemn duty/pledge). Plicht = duty."
   },
   {
     "id": 868,
@@ -10100,7 +10727,8 @@
         "english": "Freedom is important."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Vrij (free) + heid (-ness). Literally 'free-ness' = freedom."
   },
   {
     "id": 869,
@@ -10115,7 +10743,8 @@
         "english": "Dutch culture is interesting."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same as English 'culture'. From Latin 'cultura'. Cultuur = culture."
   },
   {
     "id": 870,
@@ -10130,7 +10759,8 @@
         "english": "Religion is personal."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same as English 'religion'. From Latin 'religio'. Religie = religion."
   },
   {
     "id": 871,
@@ -10145,7 +10775,8 @@
         "english": "The church is old."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'church' (through Greek 'kyriakē'). Kerk = church."
   },
   {
     "id": 872,
@@ -10160,7 +10791,8 @@
         "english": "Do you believe in God?"
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'god'. Identical meaning across all Germanic languages."
   },
   {
     "id": 873,
@@ -10175,7 +10807,8 @@
         "english": "Music is good for the soul."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'soul'. Ziel = soul."
   },
   {
     "id": 874,
@@ -10190,7 +10823,8 @@
         "english": "Train your mind."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'ghost' (originally meant spirit/mind). Geest = spirit/mind."
   },
   {
     "id": 875,
@@ -10205,7 +10839,8 @@
         "english": "I have a thought."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Ge (done) + dachte (thought). Literally 'what's been thought' = thought."
   },
   {
     "id": 876,
@@ -10220,7 +10855,8 @@
         "english": "I have a good feeling."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Ge (done) + voel (feel). Literally 'what's been felt' = feeling."
   },
   {
     "id": 878,
@@ -10235,7 +10871,8 @@
         "english": "Tell the truth."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Waar (true) + heid (-ness). Literally 'true-ness' = truth."
   },
   {
     "id": 879,
@@ -10250,7 +10887,8 @@
         "english": "That is a lie."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'lie' (untruth). Leugen = lie. From old Germanic 'leugan'."
   },
   {
     "id": 880,
@@ -10265,7 +10903,8 @@
         "english": "I have a secret."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Ge (done) + heim (home/hidden). Something kept 'at home'/hidden = secret."
   },
   {
     "id": 881,
@@ -10280,7 +10919,8 @@
         "english": "I keep my promise."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Be (with) + lofte (promise). Same root as English 'love/beloved'. Belofte = promise."
   },
   {
     "id": 882,
@@ -10295,7 +10935,8 @@
         "english": "I have an appointment."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Af (off/fixed) + spraak (speech). Literally 'fixed speech/agreement' = appointment."
   },
   {
     "id": 883,
@@ -10310,7 +10951,8 @@
         "english": "It was a nice encounter."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Ont (un-) + moeting (meeting). Literally 'a meeting' = encounter."
   },
   {
     "id": 884,
@@ -10325,7 +10967,8 @@
         "english": "We had a good conversation."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Ge (together) + sprek (speak). A gesprek is speaking together = conversation."
   },
   {
     "id": 885,
@@ -10340,7 +10983,8 @@
         "english": "There was a discussion."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same as English 'discussion'. From Latin 'discussio'. Discussie = discussion."
   },
   {
     "id": 886,
@@ -10355,7 +10999,8 @@
         "english": "What is your name?"
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'name'. Naam = name."
   },
   {
     "id": 887,
@@ -10370,7 +11015,8 @@
         "english": "What is your address?"
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same as English 'address'. From French 'adresse'. Adres = address."
   },
   {
     "id": 888,
@@ -10385,7 +11031,8 @@
         "english": "What is your phone number?"
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same as English 'number'. From Latin 'numerus'. Nummer = number."
   },
   {
     "id": 889,
@@ -10400,7 +11047,8 @@
         "english": "What is your age?"
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Leef (live) + tijd (time). Literally 'life-time' = age."
   },
   {
     "id": 890,
@@ -10415,7 +11063,8 @@
         "english": "What is your nationality?"
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same as English 'nationality'. From Latin. Nationaliteit = nationality."
   },
   {
     "id": 892,
@@ -10430,7 +11079,8 @@
         "english": "Fill in this form."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same as English 'form/formulary'. From Latin 'formularium'. Formulier = form."
   },
   {
     "id": 893,
@@ -10445,7 +11095,8 @@
         "english": "Put your signature here."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Hand (hand) + tekening (drawing). Literally 'hand-drawing' = signature."
   },
   {
     "id": 894,
@@ -10460,7 +11111,8 @@
         "english": "Do you have all the documents?"
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same as English 'document'. From Latin 'documentum'."
   },
   {
     "id": 895,
@@ -10475,7 +11127,8 @@
         "english": "I sign the contract."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same as English 'contract'. From Latin 'contractus'."
   },
   {
     "id": 896,
@@ -10534,7 +11187,8 @@
         "english": "I am disappointed."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Te (to) + leur (disappointment) + gesteld (set). Literally 'set to disappointment'. Teleurgesteld = disappointed."
   },
   {
     "id": 900,
@@ -10548,7 +11202,8 @@
         "english": "I am grateful."
       }
     ],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Dank (thank) + baar (-able). Literally 'thankable' = grateful."
   },
   {
     "dutch": "broer",
@@ -10580,7 +11235,8 @@
     "id": 903,
     "rank": 903,
     "sentences": [],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as old English 'eam' (uncle). Oom = uncle."
   },
   {
     "dutch": "tante",
@@ -10590,7 +11246,8 @@
     "id": 904,
     "rank": 904,
     "sentences": [],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as French 'tante'. Tante = aunt."
   },
   {
     "dutch": "vuur",
@@ -10644,7 +11301,8 @@
     "id": 909,
     "rank": 909,
     "sentences": [],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'snake/snail' (the sl- beginning suggests sliding). Slang = snake."
   },
   {
     "dutch": "muis",
@@ -10720,7 +11378,8 @@
     "id": 916,
     "rank": 916,
     "sentences": [],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "A teil is a tub or basin. Think 'tail end of the bath'."
   },
   {
     "dutch": "stuk",
@@ -10818,7 +11477,8 @@
     "id": 925,
     "rank": 925,
     "sentences": [],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "No direct English cousin. Think 'a flower gives a geur' (rhymes with 'fur')."
   },
   {
     "dutch": "plek",
@@ -10828,7 +11488,8 @@
     "id": 926,
     "rank": 926,
     "sentences": [],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Think 'place' with a k - plek = place/spot."
   },
   {
     "dutch": "droom",
@@ -10849,7 +11510,8 @@
     "id": 928,
     "rank": 928,
     "sentences": [],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'row'. Rij = row/line."
   },
   {
     "dutch": "eeuw",
@@ -10859,7 +11521,8 @@
     "id": 929,
     "rank": 929,
     "sentences": [],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'age/eon'. Eeuw = century."
   },
   {
     "dutch": "steeds",
@@ -10868,7 +11531,8 @@
     "id": 930,
     "rank": 930,
     "sentences": [],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'steady/steadily'. Steeds = increasingly/always."
   },
   {
     "dutch": "opeens",
@@ -10877,7 +11541,8 @@
     "id": 931,
     "rank": 931,
     "sentences": [],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Op (up) + eens (once). Literally 'at once' = suddenly."
   },
   {
     "dutch": "pas",
@@ -10886,7 +11551,8 @@
     "id": 932,
     "rank": 932,
     "sentences": [],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Think 'just passed' - pas = just now/only just."
   },
   {
     "dutch": "zelfs",
@@ -10895,7 +11561,8 @@
     "id": 933,
     "rank": 933,
     "sentences": [],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'self'. Zelfs = even (as in 'even he did it')."
   },
   {
     "dutch": "namelijk",
@@ -10904,7 +11571,8 @@
     "id": 934,
     "rank": 934,
     "sentences": [],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Name (name) + lijk (-like). Literally 'name-like' = namely."
   },
   {
     "dutch": "volgens",
@@ -10943,7 +11611,8 @@
     "id": 938,
     "rank": 938,
     "sentences": [],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Zo (so) + dra (soon/quick). Literally 'so quickly as' = as soon as."
   },
   {
     "dutch": "tenzij",
@@ -10952,7 +11621,8 @@
     "id": 939,
     "rank": 939,
     "sentences": [],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Ten (to the) + zij (side). Literally 'to the side' = unless (stepping aside from the main condition)."
   },
   {
     "dutch": "steken",
@@ -10991,7 +11661,8 @@
     "id": 943,
     "rank": 943,
     "sentences": [],
-    "mnemonic": ""
+    "mnemonic": "",
+    "note": "Same root as English 'pass' (to fit through). Passen = to fit/try on."
   },
   {
     "dutch": "schijnen",
