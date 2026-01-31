@@ -11217,7 +11217,12 @@
     "note": "Related to broederlijk (brotherly). English 'brother' comes from the same root.",
     "id": 901,
     "rank": 901,
-    "sentences": [],
+    "sentences": [
+      {
+        "dutch": "Mijn broer woont in Amsterdam.",
+        "english": "My brother lives in Amsterdam."
+      }
+    ],
     "mnemonic": ""
   },
   {
@@ -11228,7 +11233,12 @@
     "note": "Short for zuster. Related to English 'sister' through Germanic roots.",
     "id": 902,
     "rank": 902,
-    "sentences": [],
+    "sentences": [
+      {
+        "dutch": "Ik heb een zus en een broer.",
+        "english": "I have a sister and a brother."
+      }
+    ],
     "mnemonic": ""
   },
   {
@@ -11238,7 +11248,12 @@
     "gender": "de",
     "id": 903,
     "rank": 903,
-    "sentences": [],
+    "sentences": [
+      {
+        "dutch": "Mijn oom komt morgen op bezoek.",
+        "english": "My uncle is visiting tomorrow."
+      }
+    ],
     "mnemonic": "",
     "note": "Same root as old English 'eam' (uncle). Oom = uncle."
   },
@@ -11249,7 +11264,12 @@
     "gender": "de",
     "id": 904,
     "rank": 904,
-    "sentences": [],
+    "sentences": [
+      {
+        "dutch": "Tante Maria woont in België.",
+        "english": "Aunt Maria lives in Belgium."
+      }
+    ],
     "mnemonic": "",
     "note": "Same root as French 'tante'. Tante = aunt."
   },
@@ -11261,7 +11281,12 @@
     "note": "Think 'führ' - same Germanic root as English 'fire'.",
     "id": 905,
     "rank": 905,
-    "sentences": [],
+    "sentences": [
+      {
+        "dutch": "Het vuur is warm.",
+        "english": "The fire is warm."
+      }
+    ],
     "mnemonic": ""
   },
   {
@@ -11272,7 +11297,12 @@
     "note": "Same word for both ice and ice cream. Related to English 'ice'.",
     "id": 906,
     "rank": 906,
-    "sentences": [],
+    "sentences": [
+      {
+        "dutch": "Wil je een ijsje?",
+        "english": "Do you want an ice cream?"
+      }
+    ],
     "mnemonic": ""
   },
   {
@@ -11283,7 +11313,12 @@
     "note": "Same Germanic root as English 'stone'.",
     "id": 907,
     "rank": 907,
-    "sentences": [],
+    "sentences": [
+      {
+        "dutch": "Er ligt een steen op de weg.",
+        "english": "There is a stone on the road."
+      }
+    ],
     "mnemonic": ""
   },
   {
@@ -11294,7 +11329,12 @@
     "note": "Related to English 'tart'.",
     "id": 908,
     "rank": 908,
-    "sentences": [],
+    "sentences": [
+      {
+        "dutch": "Zij bakt een taart voor haar verjaardag.",
+        "english": "She bakes a cake for her birthday."
+      }
+    ],
     "mnemonic": ""
   },
   {
@@ -11304,7 +11344,12 @@
     "gender": "de",
     "id": 909,
     "rank": 909,
-    "sentences": [],
+    "sentences": [
+      {
+        "dutch": "Ik ben bang voor slangen.",
+        "english": "I am afraid of snakes."
+      }
+    ],
     "mnemonic": "",
     "note": "Same root as English 'snake/snail' (the sl- beginning suggests sliding). Slang = snake."
   },
@@ -11316,7 +11361,12 @@
     "note": "Same Germanic root as English 'mouse'.",
     "id": 910,
     "rank": 910,
-    "sentences": [],
+    "sentences": [
+      {
+        "dutch": "De kat vangt een muis.",
+        "english": "The cat catches a mouse."
+      }
+    ],
     "mnemonic": ""
   },
   {
@@ -11327,7 +11377,12 @@
     "note": "A spider 'spins' its web - same root as English 'spin'.",
     "id": 911,
     "rank": 911,
-    "sentences": [],
+    "sentences": [
+      {
+        "dutch": "Er zit een spin in de badkamer.",
+        "english": "There is a spider in the bathroom."
+      }
+    ],
     "mnemonic": ""
   },
   {
@@ -11338,7 +11393,12 @@
     "note": "Same as English 'finger'.",
     "id": 912,
     "rank": 912,
-    "sentences": [],
+    "sentences": [
+      {
+        "dutch": "Ik heb tien vingers.",
+        "english": "I have ten fingers."
+      }
+    ],
     "mnemonic": ""
   },
   {
@@ -11349,7 +11409,12 @@
     "note": "Think 'dental' - from the same Indo-European root. Tandenborstel means toothbrush.",
     "id": 913,
     "rank": 913,
-    "sentences": [],
+    "sentences": [
+      {
+        "dutch": "Ik poets mijn tanden twee keer per dag.",
+        "english": "I brush my teeth twice a day."
+      }
+    ],
     "mnemonic": ""
   },
   {
@@ -11360,7 +11425,12 @@
     "note": "Overhemd literally means 'over-shirt', i.e. the shirt you wear over your hemd.",
     "id": 914,
     "rank": 914,
-    "sentences": [],
+    "sentences": [
+      {
+        "dutch": "Hij draagt een wit hemd.",
+        "english": "He wears a white undershirt."
+      }
+    ],
     "mnemonic": ""
   },
   {
@@ -11371,7 +11441,12 @@
     "note": "Same as English 'flag'.",
     "id": 915,
     "rank": 915,
-    "sentences": [],
+    "sentences": [
+      {
+        "dutch": "De Nederlandse vlag is rood, wit en blauw.",
+        "english": "The Dutch flag is red, white and blue."
+      }
+    ],
     "mnemonic": ""
   },
   {
@@ -11381,7 +11456,12 @@
     "gender": "de",
     "id": 916,
     "rank": 916,
-    "sentences": [],
+    "sentences": [
+      {
+        "dutch": "Doe het water in de teil.",
+        "english": "Put the water in the basin."
+      }
+    ],
     "mnemonic": "",
     "note": "A teil is a tub or basin. Think 'tail end of the bath'."
   },
@@ -11393,7 +11473,16 @@
     "note": "As noun means 'piece'. As adjective means 'broken'. Think English 'stuck' - broken/stopped.",
     "id": 917,
     "rank": 917,
-    "sentences": [],
+    "sentences": [
+      {
+        "dutch": "Wil je een stuk taart?",
+        "english": "Do you want a piece of cake?"
+      },
+      {
+        "dutch": "De televisie is stuk.",
+        "english": "The television is broken."
+      }
+    ],
     "mnemonic": ""
   },
   {
@@ -11404,7 +11493,12 @@
     "note": "Ge- prefix + luid (loud). A sound is something 'made loud'.",
     "id": 918,
     "rank": 918,
-    "sentences": [],
+    "sentences": [
+      {
+        "dutch": "Wat is dat geluid?",
+        "english": "What is that sound?"
+      }
+    ],
     "mnemonic": ""
   },
   {
@@ -11415,7 +11509,12 @@
     "note": "Same as English 'point' (from Latin punctum).",
     "id": 919,
     "rank": 919,
-    "sentences": [],
+    "sentences": [
+      {
+        "dutch": "Wat is het punt?",
+        "english": "What is the point?"
+      }
+    ],
     "mnemonic": ""
   },
   {
@@ -11426,7 +11525,12 @@
     "note": "Same as English 'sand'.",
     "id": 920,
     "rank": 920,
-    "sentences": [],
+    "sentences": [
+      {
+        "dutch": "De kinderen spelen in het zand.",
+        "english": "The children play in the sand."
+      }
+    ],
     "mnemonic": ""
   },
   {
@@ -11437,7 +11541,12 @@
     "note": "Think 'hut' - made of wood. From same Germanic root.",
     "id": 921,
     "rank": 921,
-    "sentences": [],
+    "sentences": [
+      {
+        "dutch": "De tafel is van hout.",
+        "english": "The table is made of wood."
+      }
+    ],
     "mnemonic": ""
   },
   {
@@ -11448,7 +11557,16 @@
     "note": "Has multiple meanings: dust, fabric/cloth, and substance/material. English 'stuff' comes from the same root.",
     "id": 922,
     "rank": 922,
-    "sentences": [],
+    "sentences": [
+      {
+        "dutch": "Er ligt stof op de kast.",
+        "english": "There is dust on the cabinet."
+      },
+      {
+        "dutch": "Deze stof is zacht.",
+        "english": "This fabric is soft."
+      }
+    ],
     "mnemonic": ""
   },
   {
@@ -11459,7 +11577,12 @@
     "note": "Same as English 'text'.",
     "id": 923,
     "rank": 923,
-    "sentences": [],
+    "sentences": [
+      {
+        "dutch": "Lees de tekst hardop.",
+        "english": "Read the text out loud."
+      }
+    ],
     "mnemonic": ""
   },
   {
@@ -11470,7 +11593,12 @@
     "note": "Related to English 'neighbour' (nigh + boor/dweller).",
     "id": 924,
     "rank": 924,
-    "sentences": [],
+    "sentences": [
+      {
+        "dutch": "Onze buren zijn aardig.",
+        "english": "Our neighbours are nice."
+      }
+    ],
     "mnemonic": ""
   },
   {
@@ -11480,7 +11608,12 @@
     "gender": "de",
     "id": 925,
     "rank": 925,
-    "sentences": [],
+    "sentences": [
+      {
+        "dutch": "De geur van koffie is lekker.",
+        "english": "The smell of coffee is nice."
+      }
+    ],
     "mnemonic": "",
     "note": "No direct English cousin. Think 'a flower gives a geur' (rhymes with 'fur')."
   },
@@ -11491,7 +11624,12 @@
     "gender": "de",
     "id": 926,
     "rank": 926,
-    "sentences": [],
+    "sentences": [
+      {
+        "dutch": "Dit is een mooie plek.",
+        "english": "This is a beautiful spot."
+      }
+    ],
     "mnemonic": "",
     "note": "Think 'place' with a k - plek = place/spot."
   },
@@ -11503,7 +11641,12 @@
     "note": "Same Germanic root as English 'dream'. The verb is dromen.",
     "id": 927,
     "rank": 927,
-    "sentences": [],
+    "sentences": [
+      {
+        "dutch": "Ik had een vreemde droom.",
+        "english": "I had a strange dream."
+      }
+    ],
     "mnemonic": ""
   },
   {
@@ -11513,7 +11656,12 @@
     "gender": "de",
     "id": 928,
     "rank": 928,
-    "sentences": [],
+    "sentences": [
+      {
+        "dutch": "Er staat een lange rij bij de winkel.",
+        "english": "There is a long line at the store."
+      }
+    ],
     "mnemonic": "",
     "note": "Same root as English 'row'. Rij = row/line."
   },
@@ -11524,7 +11672,12 @@
     "gender": "de",
     "id": 929,
     "rank": 929,
-    "sentences": [],
+    "sentences": [
+      {
+        "dutch": "Dit gebouw is meer dan een eeuw oud.",
+        "english": "This building is more than a century old."
+      }
+    ],
     "mnemonic": "",
     "note": "Same root as English 'age/eon'. Eeuw = century."
   },
@@ -11534,7 +11687,12 @@
     "partOfSpeech": "adverb",
     "id": 930,
     "rank": 930,
-    "sentences": [],
+    "sentences": [
+      {
+        "dutch": "Het wordt steeds warmer.",
+        "english": "It is getting increasingly warmer."
+      }
+    ],
     "mnemonic": "",
     "note": "Same root as English 'steady/steadily'. Steeds = increasingly/always."
   },
@@ -11544,7 +11702,12 @@
     "partOfSpeech": "adverb",
     "id": 931,
     "rank": 931,
-    "sentences": [],
+    "sentences": [
+      {
+        "dutch": "Opeens begon het te regenen.",
+        "english": "Suddenly it started to rain."
+      }
+    ],
     "mnemonic": "",
     "note": "Op (up) + eens (once). Literally 'at once' = suddenly."
   },
@@ -11554,7 +11717,12 @@
     "partOfSpeech": "adverb",
     "id": 932,
     "rank": 932,
-    "sentences": [],
+    "sentences": [
+      {
+        "dutch": "Ik ben pas aangekomen.",
+        "english": "I have just arrived."
+      }
+    ],
     "mnemonic": "",
     "note": "Think 'just passed' - pas = just now/only just."
   },
@@ -11564,7 +11732,12 @@
     "partOfSpeech": "adverb",
     "id": 933,
     "rank": 933,
-    "sentences": [],
+    "sentences": [
+      {
+        "dutch": "Zelfs hij was verrast.",
+        "english": "Even he was surprised."
+      }
+    ],
     "mnemonic": "",
     "note": "Same root as English 'self'. Zelfs = even (as in 'even he did it')."
   },
@@ -11574,7 +11747,12 @@
     "partOfSpeech": "adverb",
     "id": 934,
     "rank": 934,
-    "sentences": [],
+    "sentences": [
+      {
+        "dutch": "Ik kan niet komen, ik ben namelijk ziek.",
+        "english": "I can't come, because I am sick."
+      }
+    ],
     "mnemonic": "",
     "note": "Name (name) + lijk (-like). Literally 'name-like' = namely."
   },
@@ -11585,7 +11763,12 @@
     "note": "From volgen (to follow). What 'follows from' someone's statement.",
     "id": 935,
     "rank": 935,
-    "sentences": [],
+    "sentences": [
+      {
+        "dutch": "Volgens mij klopt dat niet.",
+        "english": "According to me, that's not right."
+      }
+    ],
     "mnemonic": ""
   },
   {
@@ -11595,7 +11778,12 @@
     "note": "Na means 'after' and dat means 'that'. After-that.",
     "id": 936,
     "rank": 936,
-    "sentences": [],
+    "sentences": [
+      {
+        "dutch": "Nadat ik had gegeten, ging ik slapen.",
+        "english": "After I had eaten, I went to sleep."
+      }
+    ],
     "mnemonic": ""
   },
   {
@@ -11605,7 +11793,12 @@
     "note": "Voor means 'before' and dat means 'that'. Before-that.",
     "id": 937,
     "rank": 937,
-    "sentences": [],
+    "sentences": [
+      {
+        "dutch": "Voordat je gaat, bel me even.",
+        "english": "Before you go, call me quickly."
+      }
+    ],
     "mnemonic": ""
   },
   {
@@ -11614,7 +11807,12 @@
     "partOfSpeech": "conjunction",
     "id": 938,
     "rank": 938,
-    "sentences": [],
+    "sentences": [
+      {
+        "dutch": "Zodra het stopt met regenen, gaan we.",
+        "english": "As soon as it stops raining, we'll go."
+      }
+    ],
     "mnemonic": "",
     "note": "Zo (so) + dra (soon/quick). Literally 'so quickly as' = as soon as."
   },
@@ -11624,7 +11822,12 @@
     "partOfSpeech": "conjunction",
     "id": 939,
     "rank": 939,
-    "sentences": [],
+    "sentences": [
+      {
+        "dutch": "Je mag gaan, tenzij je wilt blijven.",
+        "english": "You may go, unless you want to stay."
+      }
+    ],
     "mnemonic": "",
     "note": "Ten (to the) + zij (side). Literally 'to the side' = unless (stepping aside from the main condition)."
   },
@@ -11635,7 +11838,12 @@
     "note": "Related to English 'stick' and 'sting'.",
     "id": 940,
     "rank": 940,
-    "sentences": [],
+    "sentences": [
+      {
+        "dutch": "De bij heeft mij gestoken.",
+        "english": "The bee stung me."
+      }
+    ],
     "mnemonic": ""
   },
   {
@@ -11645,7 +11853,12 @@
     "note": "Same as English 'fall'. Meevallen means 'to be better than expected' (falls with you).",
     "id": 941,
     "rank": 941,
-    "sentences": [],
+    "sentences": [
+      {
+        "dutch": "Pas op, je kunt vallen!",
+        "english": "Watch out, you can fall!"
+      }
+    ],
     "mnemonic": ""
   },
   {
@@ -11655,7 +11868,12 @@
     "note": "Same root as English 'grow'.",
     "id": 942,
     "rank": 942,
-    "sentences": [],
+    "sentences": [
+      {
+        "dutch": "De planten groeien snel.",
+        "english": "The plants grow quickly."
+      }
+    ],
     "mnemonic": ""
   },
   {
@@ -11664,7 +11882,12 @@
     "partOfSpeech": "verb",
     "id": 943,
     "rank": 943,
-    "sentences": [],
+    "sentences": [
+      {
+        "dutch": "Deze schoenen passen niet.",
+        "english": "These shoes don't fit."
+      }
+    ],
     "mnemonic": "",
     "note": "Same root as English 'pass' (to fit through). Passen = to fit/try on."
   },
@@ -11675,7 +11898,16 @@
     "note": "Related to English 'shine'. Also means 'to seem/appear'.",
     "id": 944,
     "rank": 944,
-    "sentences": [],
+    "sentences": [
+      {
+        "dutch": "De zon schijnt vandaag.",
+        "english": "The sun is shining today."
+      },
+      {
+        "dutch": "Het schijnt dat hij ziek is.",
+        "english": "It seems that he is sick."
+      }
+    ],
     "mnemonic": ""
   },
   {
@@ -11685,7 +11917,12 @@
     "note": "Same as English 'steal'.",
     "id": 945,
     "rank": 945,
-    "sentences": [],
+    "sentences": [
+      {
+        "dutch": "Iemand heeft mijn fiets gestolen!",
+        "english": "Someone stole my bicycle!"
+      }
+    ],
     "mnemonic": ""
   },
   {
@@ -11696,7 +11933,12 @@
     "note": "Ge- prefix + vaar (related to 'fahr' in German Gefahr). Gevaarlijk means dangerous.",
     "id": 946,
     "rank": 946,
-    "sentences": [],
+    "sentences": [
+      {
+        "dutch": "Pas op voor gevaar!",
+        "english": "Watch out for danger!"
+      }
+    ],
     "mnemonic": ""
   },
   {
@@ -11707,7 +11949,12 @@
     "note": "Ei means 'water' (old Dutch) + land. A piece of land in water. Similar logic to English 'island'.",
     "id": 947,
     "rank": 947,
-    "sentences": [],
+    "sentences": [
+      {
+        "dutch": "We gaan naar een eiland op vakantie.",
+        "english": "We are going to an island on vacation."
+      }
+    ],
     "mnemonic": ""
   }
 ]
