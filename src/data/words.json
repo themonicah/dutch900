@@ -109,6 +109,10 @@
       {
         "dutch": "Ik ben student.",
         "english": "I am a student."
+      },
+      {
+        "dutch": "Dit is zijn auto.",
+        "english": "This is his car."
       }
     ],
     "mnemonic": ""
@@ -433,6 +437,10 @@
       {
         "dutch": "Vandaag is een mooie dag.",
         "english": "Today is a beautiful day."
+      },
+      {
+        "dutch": "Dag, tot ziens!",
+        "english": "Bye, see you!"
       }
     ],
     "mnemonic": ""
@@ -718,6 +726,10 @@
       {
         "dutch": "Mijn kinderen gaan naar school.",
         "english": "My children go to school."
+      },
+      {
+        "dutch": "Ik ga naar school.",
+        "english": "I go to school."
       }
     ],
     "mnemonic": ""
@@ -763,6 +775,10 @@
       {
         "dutch": "Amsterdam is een grote stad.",
         "english": "Amsterdam is a big city."
+      },
+      {
+        "dutch": "Amsterdam is een mooie stad.",
+        "english": "Amsterdam is a beautiful city."
       }
     ],
     "mnemonic": ""
@@ -823,6 +839,10 @@
       {
         "dutch": "De weg is lang.",
         "english": "The road is long."
+      },
+      {
+        "dutch": "Welke weg neem je?",
+        "english": "Which road do you take?"
       }
     ],
     "mnemonic": ""
@@ -853,6 +873,10 @@
       {
         "dutch": "Doe de deur dicht.",
         "english": "Close the door."
+      },
+      {
+        "dutch": "Sluit de deur.",
+        "english": "Close the door."
       }
     ],
     "mnemonic": ""
@@ -868,6 +892,10 @@
       {
         "dutch": "De hond is groot.",
         "english": "The dog is big."
+      },
+      {
+        "dutch": "Ik heb een hond.",
+        "english": "I have a dog."
       }
     ],
     "mnemonic": ""
@@ -897,6 +925,10 @@
       {
         "dutch": "Het huis is groot.",
         "english": "The house is big."
+      },
+      {
+        "dutch": "Dit is een groot huis.",
+        "english": "This is a big house."
       }
     ],
     "mnemonic": ""
@@ -911,6 +943,10 @@
       {
         "dutch": "De kamer is klein.",
         "english": "The room is small."
+      },
+      {
+        "dutch": "De baby is klein.",
+        "english": "The baby is small."
       }
     ],
     "mnemonic": ""
@@ -925,6 +961,10 @@
       {
         "dutch": "Het eten is goed.",
         "english": "The food is good."
+      },
+      {
+        "dutch": "Het gaat goed.",
+        "english": "It's going well."
       }
     ],
     "mnemonic": ""
@@ -939,6 +979,10 @@
       {
         "dutch": "Het weer is slecht.",
         "english": "The weather is bad."
+      },
+      {
+        "dutch": "Het gaat slecht.",
+        "english": "It's going badly."
       }
     ],
     "mnemonic": ""
@@ -967,6 +1011,10 @@
       {
         "dutch": "De koffie is lekker.",
         "english": "The coffee is tasty."
+      },
+      {
+        "dutch": "Dit is lekker!",
+        "english": "This is tasty!"
       }
     ],
     "mnemonic": ""
@@ -995,6 +1043,10 @@
       {
         "dutch": "Het water is koud.",
         "english": "The water is cold."
+      },
+      {
+        "dutch": "Het is koud buiten.",
+        "english": "It's cold outside."
       }
     ],
     "mnemonic": ""
@@ -1023,6 +1075,10 @@
       {
         "dutch": "Het gebouw is oud.",
         "english": "The building is old."
+      },
+      {
+        "dutch": "Het is een oud gebouw.",
+        "english": "It's an old building."
       }
     ],
     "mnemonic": ""
@@ -1037,6 +1093,10 @@
       {
         "dutch": "De kinderen zijn jong.",
         "english": "The children are young."
+      },
+      {
+        "dutch": "Zij is jong.",
+        "english": "She is young."
       }
     ],
     "mnemonic": ""
@@ -1065,6 +1125,10 @@
       {
         "dutch": "Het haar is kort.",
         "english": "The hair is short."
+      },
+      {
+        "dutch": "Dit is een kort verhaal.",
+        "english": "This is a short story."
       }
     ],
     "mnemonic": ""
@@ -1107,6 +1171,10 @@
       {
         "dutch": "Het is makkelijk.",
         "english": "It's easy."
+      },
+      {
+        "dutch": "Dit is makkelijk.",
+        "english": "This is easy."
       }
     ],
     "mnemonic": "",
@@ -1122,6 +1190,10 @@
       {
         "dutch": "Nederlands is moeilijk.",
         "english": "Dutch is difficult."
+      },
+      {
+        "dutch": "Dit is moeilijk.",
+        "english": "This is difficult."
       }
     ],
     "mnemonic": "",
@@ -1151,6 +1223,10 @@
       {
         "dutch": "Amsterdam is duur.",
         "english": "Amsterdam is expensive."
+      },
+      {
+        "dutch": "Dit is te duur.",
+        "english": "This is too expensive."
       }
     ],
     "mnemonic": ""
@@ -1165,6 +1241,10 @@
       {
         "dutch": "Wat is dat?",
         "english": "What is that?"
+      },
+      {
+        "dutch": "Wat doe je?",
+        "english": "What are you doing?"
       }
     ],
     "mnemonic": ""
@@ -1221,6 +1301,10 @@
       {
         "dutch": "Waarom doe je dat?",
         "english": "Why do you do that?"
+      },
+      {
+        "dutch": "Waarom ben je hier?",
+        "english": "Why are you here?"
       }
     ],
     "mnemonic": ""
@@ -1277,6 +1361,10 @@
       {
         "dutch": "Ik wil wel, maar ik kan niet.",
         "english": "I want to, but I can't."
+      },
+      {
+        "dutch": "Ik wil komen, maar ik kan niet.",
+        "english": "I want to come, but I can't."
       }
     ],
     "mnemonic": ""
@@ -1291,6 +1379,10 @@
       {
         "dutch": "Jij en ik.",
         "english": "You and I."
+      },
+      {
+        "dutch": "Ik en mijn vriend gaan.",
+        "english": "My friend and I are going."
       }
     ],
     "mnemonic": ""
@@ -1305,6 +1397,10 @@
       {
         "dutch": "Koffie of thee?",
         "english": "Coffee or tea?"
+      },
+      {
+        "dutch": "Wil je koffie of thee?",
+        "english": "Do you want coffee or tea?"
       }
     ],
     "mnemonic": ""
@@ -1333,6 +1429,10 @@
       {
         "dutch": "Groter dan ik.",
         "english": "Bigger than me."
+      },
+      {
+        "dutch": "Wat doen we dan?",
+        "english": "What do we do then?"
       }
     ],
     "mnemonic": ""
@@ -1347,6 +1447,10 @@
       {
         "dutch": "Ik ga nu.",
         "english": "I'm going now."
+      },
+      {
+        "dutch": "Ik ga nu weg.",
+        "english": "I'm leaving now."
       }
     ],
     "mnemonic": ""
@@ -1361,6 +1465,10 @@
       {
         "dutch": "Ik ben altijd moe.",
         "english": "I'm always tired."
+      },
+      {
+        "dutch": "Ik ben altijd op tijd.",
+        "english": "I'm always on time."
       }
     ],
     "mnemonic": ""
@@ -1375,6 +1483,10 @@
       {
         "dutch": "Ik ben nooit ziek.",
         "english": "I'm never sick."
+      },
+      {
+        "dutch": "Ik ben nooit in Japan geweest.",
+        "english": "I've never been to Japan."
       }
     ],
     "mnemonic": ""
@@ -1389,6 +1501,10 @@
       {
         "dutch": "Soms ga ik naar de film.",
         "english": "Sometimes I go to the movies."
+      },
+      {
+        "dutch": "Soms eet ik buiten.",
+        "english": "Sometimes I eat outside."
       }
     ],
     "mnemonic": ""
@@ -1403,6 +1519,10 @@
       {
         "dutch": "Ik fiets vaak.",
         "english": "I cycle often."
+      },
+      {
+        "dutch": "Ik ga vaak naar de bioscoop.",
+        "english": "I often go to the cinema."
       }
     ],
     "mnemonic": ""
@@ -1473,6 +1593,10 @@
       {
         "dutch": "Ik wil ook mee.",
         "english": "I also want to come."
+      },
+      {
+        "dutch": "Ik wil ook komen.",
+        "english": "I want to come too."
       }
     ],
     "mnemonic": ""
@@ -1487,6 +1611,10 @@
       {
         "dutch": "Ben je nog wakker?",
         "english": "Are you still awake?"
+      },
+      {
+        "dutch": "Ben je nog hier?",
+        "english": "Are you still here?"
       }
     ],
     "mnemonic": ""
@@ -1515,6 +1643,10 @@
       {
         "dutch": "Het is heel goed.",
         "english": "It's very good."
+      },
+      {
+        "dutch": "Dat is heel mooi.",
+        "english": "That's very beautiful."
       }
     ],
     "mnemonic": ""
@@ -1529,6 +1661,10 @@
       {
         "dutch": "Er zijn veel mensen.",
         "english": "There are many people."
+      },
+      {
+        "dutch": "Ik heb veel werk.",
+        "english": "I have a lot of work."
       }
     ],
     "mnemonic": ""
@@ -1557,6 +1693,10 @@
       {
         "dutch": "Ik heet Jan.",
         "english": "My name is Jan."
+      },
+      {
+        "dutch": "Ik ben hier.",
+        "english": "I am here."
       }
     ],
     "mnemonic": ""
@@ -1571,6 +1711,10 @@
       {
         "dutch": "Jij bent aardig.",
         "english": "You are nice."
+      },
+      {
+        "dutch": "Jij bent slim.",
+        "english": "You are smart."
       }
     ],
     "mnemonic": ""
@@ -1585,6 +1729,10 @@
       {
         "dutch": "Hij is mijn broer.",
         "english": "He is my brother."
+      },
+      {
+        "dutch": "Hij werkt hard.",
+        "english": "He works hard."
       }
     ],
     "mnemonic": ""
@@ -1613,6 +1761,10 @@
       {
         "dutch": "Wij gaan naar huis.",
         "english": "We go home."
+      },
+      {
+        "dutch": "Wij gaan samen.",
+        "english": "We go together."
       }
     ],
     "mnemonic": ""
@@ -1627,6 +1779,10 @@
       {
         "dutch": "Jullie zijn welkom.",
         "english": "You are welcome."
+      },
+      {
+        "dutch": "Komen jullie ook?",
+        "english": "Are you coming too?"
       }
     ],
     "mnemonic": ""
@@ -1655,6 +1811,10 @@
       {
         "dutch": "Waar is jouw auto?",
         "english": "Where is your car?"
+      },
+      {
+        "dutch": "Is dit jouw tas?",
+        "english": "Is this your bag?"
       }
     ],
     "mnemonic": ""
@@ -1669,6 +1829,10 @@
       {
         "dutch": "Vandaag is het mooi weer.",
         "english": "Today the weather is nice."
+      },
+      {
+        "dutch": "Vandaag is een mooie dag.",
+        "english": "Today is a beautiful day."
       }
     ],
     "mnemonic": ""
@@ -1697,6 +1861,10 @@
       {
         "dutch": "Gisteren regende het.",
         "english": "Yesterday it rained."
+      },
+      {
+        "dutch": "Gisteren was het warm.",
+        "english": "Yesterday it was warm."
       }
     ],
     "mnemonic": ""
@@ -1725,6 +1893,10 @@
       {
         "dutch": "De kinderen spelen buiten.",
         "english": "The children play outside."
+      },
+      {
+        "dutch": "Het regent buiten.",
+        "english": "It's raining outside."
       }
     ],
     "mnemonic": ""
@@ -1753,6 +1925,10 @@
       {
         "dutch": "Ik kom zo terug.",
         "english": "I'll be right back."
+      },
+      {
+        "dutch": "Ik kom terug.",
+        "english": "I'll be back."
       }
     ],
     "mnemonic": ""
@@ -1795,6 +1971,10 @@
       {
         "dutch": "Misschien ga ik morgen.",
         "english": "Maybe I'll go tomorrow."
+      },
+      {
+        "dutch": "Misschien kom ik morgen.",
+        "english": "Maybe I'll come tomorrow."
       }
     ],
     "mnemonic": ""
@@ -1809,6 +1989,10 @@
       {
         "dutch": "Natuurlijk help ik je.",
         "english": "Of course I'll help you."
+      },
+      {
+        "dutch": "Natuurlijk wil ik komen.",
+        "english": "Of course I want to come."
       }
     ],
     "mnemonic": "",
@@ -1824,6 +2008,10 @@
       {
         "dutch": "Eigenlijk wil ik niet.",
         "english": "Actually I don't want to."
+      },
+      {
+        "dutch": "Eigenlijk heb ik geen tijd.",
+        "english": "Actually I don't have time."
       }
     ],
     "mnemonic": "",
@@ -1868,6 +2056,10 @@
       {
         "dutch": "Ik woon in Nederland.",
         "english": "I live in the Netherlands."
+      },
+      {
+        "dutch": "Ik woon in Amsterdam.",
+        "english": "I live in Amsterdam."
       }
     ],
     "mnemonic": ""
@@ -1896,6 +2088,10 @@
       {
         "dutch": "Ik ga met de trein.",
         "english": "I go by train."
+      },
+      {
+        "dutch": "Ik ga met mijn vriend.",
+        "english": "I go with my friend."
       }
     ],
     "mnemonic": ""
@@ -1938,6 +2134,10 @@
       {
         "dutch": "Ik kom van Amsterdam.",
         "english": "I come from Amsterdam."
+      },
+      {
+        "dutch": "Ik kom van Nederland.",
+        "english": "I come from the Netherlands."
       }
     ],
     "mnemonic": ""
@@ -1952,6 +2152,10 @@
       {
         "dutch": "Denk aan mij.",
         "english": "Think of me."
+      },
+      {
+        "dutch": "Ik zit aan tafel.",
+        "english": "I'm sitting at the table."
       }
     ],
     "mnemonic": ""
@@ -1966,6 +2170,10 @@
       {
         "dutch": "Ik woon bij mijn ouders.",
         "english": "I live with my parents."
+      },
+      {
+        "dutch": "Ik ben bij mijn ouders.",
+        "english": "I am at my parents'."
       }
     ],
     "mnemonic": ""
@@ -1994,6 +2202,10 @@
       {
         "dutch": "Ga door de deur.",
         "english": "Go through the door."
+      },
+      {
+        "dutch": "Ik loop door het park.",
+        "english": "I walk through the park."
       }
     ],
     "mnemonic": ""
@@ -2022,6 +2234,10 @@
       {
         "dutch": "Tot morgen!",
         "english": "Until tomorrow!"
+      },
+      {
+        "dutch": "Ik werk tot vijf uur.",
+        "english": "I work until five o'clock."
       }
     ],
     "mnemonic": ""
@@ -2064,6 +2280,10 @@
       {
         "dutch": "De lamp hangt boven de tafel.",
         "english": "The lamp hangs above the table."
+      },
+      {
+        "dutch": "Ik woon boven.",
+        "english": "I live upstairs."
       }
     ],
     "mnemonic": ""
@@ -2078,6 +2298,10 @@
       {
         "dutch": "Tussen jou en mij.",
         "english": "Between you and me."
+      },
+      {
+        "dutch": "Het huis staat tussen twee bomen.",
+        "english": "The house stands between two trees."
       }
     ],
     "mnemonic": ""
@@ -2092,6 +2316,10 @@
       {
         "dutch": "Koffie zonder suiker.",
         "english": "Coffee without sugar."
+      },
+      {
+        "dutch": "Ik drink koffie zonder suiker.",
+        "english": "I drink coffee without sugar."
       }
     ],
     "mnemonic": ""
@@ -2120,6 +2348,10 @@
       {
         "dutch": "Sinds vorig jaar.",
         "english": "Since last year."
+      },
+      {
+        "dutch": "Ik woon hier sinds 2020.",
+        "english": "I've lived here since 2020."
       }
     ],
     "mnemonic": ""
@@ -2134,6 +2366,10 @@
       {
         "dutch": "Tijdens de les.",
         "english": "During the lesson."
+      },
+      {
+        "dutch": "Tijdens de les moet je luisteren.",
+        "english": "During class you must listen."
       }
     ],
     "mnemonic": ""
@@ -2176,6 +2412,10 @@
       {
         "dutch": "Het is drie uur.",
         "english": "It's three o'clock."
+      },
+      {
+        "dutch": "Er zijn drie stoelen.",
+        "english": "There are three chairs."
       }
     ],
     "mnemonic": ""
@@ -2190,6 +2430,10 @@
       {
         "dutch": "Vier seizoenen.",
         "english": "Four seasons."
+      },
+      {
+        "dutch": "Ik werk vier dagen.",
+        "english": "I work four days."
       }
     ],
     "mnemonic": ""
@@ -2204,6 +2448,10 @@
       {
         "dutch": "Vijf minuten.",
         "english": "Five minutes."
+      },
+      {
+        "dutch": "Het is vijf uur.",
+        "english": "It's five o'clock."
       }
     ],
     "mnemonic": ""
@@ -2218,6 +2466,10 @@
       {
         "dutch": "Zes dagen.",
         "english": "Six days."
+      },
+      {
+        "dutch": "Ik heb zes appels.",
+        "english": "I have six apples."
       }
     ],
     "mnemonic": ""
@@ -2232,6 +2484,10 @@
       {
         "dutch": "Zeven dagen in een week.",
         "english": "Seven days in a week."
+      },
+      {
+        "dutch": "Er zijn zeven dagen in een week.",
+        "english": "There are seven days in a week."
       }
     ],
     "mnemonic": ""
@@ -2246,6 +2502,10 @@
       {
         "dutch": "Acht uur.",
         "english": "Eight o'clock."
+      },
+      {
+        "dutch": "Ik werk acht uur per dag.",
+        "english": "I work eight hours per day."
       }
     ],
     "mnemonic": ""
@@ -2260,6 +2520,10 @@
       {
         "dutch": "Negen maanden.",
         "english": "Nine months."
+      },
+      {
+        "dutch": "De les begint om negen uur.",
+        "english": "The class starts at nine o'clock."
       }
     ],
     "mnemonic": ""
@@ -2274,6 +2538,10 @@
       {
         "dutch": "Tien euro.",
         "english": "Ten euros."
+      },
+      {
+        "dutch": "Ik tel tot tien.",
+        "english": "I count to ten."
       }
     ],
     "mnemonic": ""
@@ -2288,6 +2556,10 @@
       {
         "dutch": "Ik loop naar huis.",
         "english": "I walk home."
+      },
+      {
+        "dutch": "Ik loop naar het station.",
+        "english": "I walk to the station."
       }
     ],
     "mnemonic": ""
@@ -2316,6 +2588,10 @@
       {
         "dutch": "Ik sta in de rij.",
         "english": "I stand in line."
+      },
+      {
+        "dutch": "Ik sta bij de deur.",
+        "english": "I'm standing by the door."
       }
     ],
     "mnemonic": ""
@@ -2330,6 +2606,10 @@
       {
         "dutch": "Ik lig in bed.",
         "english": "I lie in bed."
+      },
+      {
+        "dutch": "Het boek ligt op tafel.",
+        "english": "The book lies on the table."
       }
     ],
     "mnemonic": ""
@@ -2386,6 +2666,10 @@
       {
         "dutch": "Wacht even!",
         "english": "Wait a moment!"
+      },
+      {
+        "dutch": "Wacht even.",
+        "english": "Wait a moment."
       }
     ],
     "mnemonic": ""
@@ -2400,6 +2684,10 @@
       {
         "dutch": "Ik koop een boek.",
         "english": "I buy a book."
+      },
+      {
+        "dutch": "Ik wil een auto kopen.",
+        "english": "I want to buy a car."
       }
     ],
     "mnemonic": ""
@@ -2414,6 +2702,10 @@
       {
         "dutch": "Hij verkoopt auto's.",
         "english": "He sells cars."
+      },
+      {
+        "dutch": "Hij verkoopt zijn huis.",
+        "english": "He is selling his house."
       }
     ],
     "mnemonic": "",
@@ -2429,6 +2721,10 @@
       {
         "dutch": "Ik betaal met pin.",
         "english": "I pay by card."
+      },
+      {
+        "dutch": "Ik wil betalen.",
+        "english": "I want to pay."
       }
     ],
     "mnemonic": ""
@@ -2471,6 +2767,10 @@
       {
         "dutch": "De kinderen spelen.",
         "english": "The children play."
+      },
+      {
+        "dutch": "De kinderen spelen buiten.",
+        "english": "The children play outside."
       }
     ],
     "mnemonic": ""
@@ -2527,6 +2827,10 @@
       {
         "dutch": "Ik leg het boek op tafel.",
         "english": "I put the book on the table."
+      },
+      {
+        "dutch": "Leg het boek op tafel.",
+        "english": "Put the book on the table."
       }
     ],
     "mnemonic": ""
@@ -2541,6 +2845,10 @@
       {
         "dutch": "Ik zet koffie.",
         "english": "I make coffee."
+      },
+      {
+        "dutch": "Zet de kop op tafel.",
+        "english": "Put the cup on the table."
       }
     ],
     "mnemonic": ""
@@ -2555,6 +2863,10 @@
       {
         "dutch": "Ik rijd naar werk.",
         "english": "I drive to work."
+      },
+      {
+        "dutch": "Ik rijd met de auto.",
+        "english": "I drive by car."
       }
     ],
     "mnemonic": ""
@@ -2569,6 +2881,10 @@
       {
         "dutch": "Ik vlieg naar Spanje.",
         "english": "I fly to Spain."
+      },
+      {
+        "dutch": "De vogels vliegen hoog.",
+        "english": "The birds fly high."
       }
     ],
     "mnemonic": ""
@@ -2583,6 +2899,10 @@
       {
         "dutch": "Ik zwem graag.",
         "english": "I like to swim."
+      },
+      {
+        "dutch": "Ik kan goed zwemmen.",
+        "english": "I can swim well."
       }
     ],
     "mnemonic": ""
@@ -2597,6 +2917,10 @@
       {
         "dutch": "De bus stopt hier.",
         "english": "The bus stops here."
+      },
+      {
+        "dutch": "Stop met praten!",
+        "english": "Stop talking!"
       }
     ],
     "mnemonic": ""
@@ -2625,6 +2949,10 @@
       {
         "dutch": "Ik probeer Nederlands te leren.",
         "english": "I try to learn Dutch."
+      },
+      {
+        "dutch": "Ik probeer het opnieuw.",
+        "english": "I try again."
       }
     ],
     "mnemonic": ""
@@ -2639,6 +2967,10 @@
       {
         "dutch": "Kan ik je helpen?",
         "english": "Can I help you?"
+      },
+      {
+        "dutch": "Kun je me helpen?",
+        "english": "Can you help me?"
       }
     ],
     "mnemonic": ""
@@ -2653,6 +2985,10 @@
       {
         "dutch": "Ik vergeet het altijd.",
         "english": "I always forget it."
+      },
+      {
+        "dutch": "Ik ben je naam vergeten.",
+        "english": "I forgot your name."
       }
     ],
     "mnemonic": "",
@@ -2668,6 +3004,10 @@
       {
         "dutch": "Ik herinner me dat.",
         "english": "I remember that."
+      },
+      {
+        "dutch": "Ik herinner me die dag.",
+        "english": "I remember that day."
       }
     ],
     "mnemonic": "",
@@ -2739,6 +3079,10 @@
       {
         "dutch": "Wij winnen de wedstrijd.",
         "english": "We win the game."
+      },
+      {
+        "dutch": "Ik wil de wedstrijd winnen.",
+        "english": "I want to win the match."
       }
     ],
     "mnemonic": ""
@@ -2753,6 +3097,10 @@
       {
         "dutch": "Ik verlies mijn sleutels.",
         "english": "I lose my keys."
+      },
+      {
+        "dutch": "Ik heb mijn sleutels verloren.",
+        "english": "I lost my keys."
       }
     ],
     "mnemonic": ""
@@ -2767,6 +3115,10 @@
       {
         "dutch": "De situatie verandert.",
         "english": "The situation changes."
+      },
+      {
+        "dutch": "Het weer verandert snel.",
+        "english": "The weather changes quickly."
       }
     ],
     "mnemonic": "",
@@ -2782,6 +3134,10 @@
       {
         "dutch": "Je moet kiezen.",
         "english": "You have to choose."
+      },
+      {
+        "dutch": "Kies een nummer.",
+        "english": "Choose a number."
       }
     ],
     "mnemonic": ""
@@ -2810,6 +3166,10 @@
       {
         "dutch": "Ik open de deur.",
         "english": "I open the door."
+      },
+      {
+        "dutch": "Kun je het raam openen?",
+        "english": "Can you open the window?"
       }
     ],
     "mnemonic": ""
@@ -2824,6 +3184,10 @@
       {
         "dutch": "De winkel sluit om zes uur.",
         "english": "The shop closes at six."
+      },
+      {
+        "dutch": "Sluit de deur.",
+        "english": "Close the door."
       }
     ],
     "mnemonic": ""
@@ -2853,6 +3217,10 @@
       {
         "dutch": "De tafel is groot.",
         "english": "The table is big."
+      },
+      {
+        "dutch": "Het eten staat op tafel.",
+        "english": "The food is on the table."
       }
     ],
     "mnemonic": ""
@@ -2883,6 +3251,10 @@
       {
         "dutch": "Ik lig in bed.",
         "english": "I lie in bed."
+      },
+      {
+        "dutch": "Ik ga naar bed.",
+        "english": "I go to bed."
       }
     ],
     "mnemonic": ""
@@ -2898,6 +3270,10 @@
       {
         "dutch": "De kamer is klein.",
         "english": "The room is small."
+      },
+      {
+        "dutch": "De kamer is groot.",
+        "english": "The room is big."
       }
     ],
     "mnemonic": ""
@@ -2928,6 +3304,10 @@
       {
         "dutch": "De tuin is mooi.",
         "english": "The garden is beautiful."
+      },
+      {
+        "dutch": "Ik werk in de tuin.",
+        "english": "I work in the garden."
       }
     ],
     "mnemonic": ""
@@ -2988,6 +3368,10 @@
       {
         "dutch": "Het regent.",
         "english": "It's raining."
+      },
+      {
+        "dutch": "Het regent hard.",
+        "english": "It's raining hard."
       }
     ],
     "mnemonic": ""
@@ -3018,6 +3402,10 @@
       {
         "dutch": "Het sneeuwt.",
         "english": "It's snowing."
+      },
+      {
+        "dutch": "Het sneeuwt!",
+        "english": "It's snowing!"
       }
     ],
     "mnemonic": ""
@@ -3033,6 +3421,10 @@
       {
         "dutch": "De boom is hoog.",
         "english": "The tree is tall."
+      },
+      {
+        "dutch": "De boom is groot.",
+        "english": "The tree is big."
       }
     ],
     "mnemonic": ""
@@ -3048,6 +3440,10 @@
       {
         "dutch": "De bloem is rood.",
         "english": "The flower is red."
+      },
+      {
+        "dutch": "Tulpen zijn mooie bloemen.",
+        "english": "Tulips are beautiful flowers."
       }
     ],
     "mnemonic": ""
@@ -3063,6 +3459,10 @@
       {
         "dutch": "De zee is blauw.",
         "english": "The sea is blue."
+      },
+      {
+        "dutch": "De zee is mooi.",
+        "english": "The sea is beautiful."
       }
     ],
     "mnemonic": ""
@@ -3078,6 +3478,10 @@
       {
         "dutch": "De berg is hoog.",
         "english": "The mountain is high."
+      },
+      {
+        "dutch": "Nederland heeft geen bergen.",
+        "english": "The Netherlands has no mountains."
       }
     ],
     "mnemonic": ""
@@ -3093,6 +3497,10 @@
       {
         "dutch": "Ik wandel in het bos.",
         "english": "I walk in the forest."
+      },
+      {
+        "dutch": "Ik wandel graag in het bos.",
+        "english": "I like to walk in the forest."
       }
     ],
     "mnemonic": ""
@@ -3108,6 +3516,10 @@
       {
         "dutch": "Dit is een mooie foto.",
         "english": "This is a nice photo."
+      },
+      {
+        "dutch": "Ik maak een foto.",
+        "english": "I take a photo."
       }
     ],
     "mnemonic": ""
@@ -3123,6 +3535,10 @@
       {
         "dutch": "De film is goed.",
         "english": "The movie is good."
+      },
+      {
+        "dutch": "Ik kijk een film.",
+        "english": "I watch a movie."
       }
     ],
     "mnemonic": ""
@@ -3138,6 +3554,10 @@
       {
         "dutch": "Ik hou van muziek.",
         "english": "I love music."
+      },
+      {
+        "dutch": "Ik luister naar muziek.",
+        "english": "I listen to music."
       }
     ],
     "mnemonic": ""
@@ -3184,6 +3604,10 @@
       {
         "dutch": "Dat is geen probleem.",
         "english": "That's no problem."
+      },
+      {
+        "dutch": "Er is een probleem.",
+        "english": "There is a problem."
       }
     ],
     "mnemonic": ""
@@ -3199,6 +3623,10 @@
       {
         "dutch": "Goed idee!",
         "english": "Good idea!"
+      },
+      {
+        "dutch": "Ik heb een idee.",
+        "english": "I have an idea."
       }
     ],
     "mnemonic": ""
@@ -3214,6 +3642,10 @@
       {
         "dutch": "Het is een mooi verhaal.",
         "english": "It's a beautiful story."
+      },
+      {
+        "dutch": "Dit is een interessant verhaal.",
+        "english": "This is an interesting story."
       }
     ],
     "mnemonic": "",
@@ -3245,6 +3677,10 @@
       {
         "dutch": "De telefoon gaat.",
         "english": "The phone is ringing."
+      },
+      {
+        "dutch": "Mijn telefoon is kapot.",
+        "english": "My phone is broken."
       }
     ],
     "mnemonic": ""
@@ -3275,6 +3711,10 @@
       {
         "dutch": "Goede reis!",
         "english": "Have a good trip!"
+      },
+      {
+        "dutch": "De reis was lang.",
+        "english": "The trip was long."
       }
     ],
     "mnemonic": ""
@@ -3290,6 +3730,10 @@
       {
         "dutch": "Ik heb vakantie.",
         "english": "I have vacation."
+      },
+      {
+        "dutch": "Ik ga op vakantie.",
+        "english": "I'm going on vacation."
       }
     ],
     "mnemonic": ""
@@ -3305,6 +3749,10 @@
       {
         "dutch": "Het was een leuk feest.",
         "english": "It was a fun party."
+      },
+      {
+        "dutch": "We gaan naar een feest.",
+        "english": "We go to a party."
       }
     ],
     "mnemonic": ""
@@ -3380,6 +3828,10 @@
       {
         "dutch": "Het hotel is duur.",
         "english": "The hotel is expensive."
+      },
+      {
+        "dutch": "We slapen in een hotel.",
+        "english": "We sleep in a hotel."
       }
     ],
     "mnemonic": ""
@@ -3395,6 +3847,10 @@
       {
         "dutch": "De trein vertrekt van het station.",
         "english": "The train leaves from the station."
+      },
+      {
+        "dutch": "Ik wacht op het station.",
+        "english": "I wait at the station."
       }
     ],
     "mnemonic": ""
@@ -3410,6 +3866,10 @@
       {
         "dutch": "Ik neem de bus.",
         "english": "I take the bus."
+      },
+      {
+        "dutch": "De bus komt eraan.",
+        "english": "The bus is coming."
       }
     ],
     "mnemonic": ""
@@ -3441,6 +3901,10 @@
       {
         "dutch": "Wat is je lievelingskleur?",
         "english": "What is your favorite color?"
+      },
+      {
+        "dutch": "Welke kleur wil je?",
+        "english": "Which color do you want?"
       }
     ],
     "mnemonic": ""
@@ -3525,6 +3989,10 @@
       {
         "dutch": "De nacht is zwart.",
         "english": "The night is black."
+      },
+      {
+        "dutch": "De kat is zwart.",
+        "english": "The cat is black."
       }
     ],
     "mnemonic": ""
@@ -3540,6 +4008,10 @@
       {
         "dutch": "Maandag ga ik werken.",
         "english": "Monday I go to work."
+      },
+      {
+        "dutch": "Ik begin op maandag.",
+        "english": "I start on Monday."
       }
     ],
     "mnemonic": ""
@@ -3555,6 +4027,10 @@
       {
         "dutch": "Dinsdag heb ik een afspraak.",
         "english": "Tuesday I have an appointment."
+      },
+      {
+        "dutch": "We komen dinsdag.",
+        "english": "We come on Tuesday."
       }
     ],
     "mnemonic": ""
@@ -3570,6 +4046,10 @@
       {
         "dutch": "Woensdag is het halfweg.",
         "english": "Wednesday is halfway."
+      },
+      {
+        "dutch": "Woensdag is vrij.",
+        "english": "Wednesday is free."
       }
     ],
     "mnemonic": ""
@@ -3585,6 +4065,10 @@
       {
         "dutch": "Donderdag ga ik sporten.",
         "english": "Thursday I go to exercise."
+      },
+      {
+        "dutch": "De vergadering is donderdag.",
+        "english": "The meeting is Thursday."
       }
     ],
     "mnemonic": ""
@@ -3600,6 +4084,10 @@
       {
         "dutch": "Vrijdag is bijna weekend.",
         "english": "Friday is almost weekend."
+      },
+      {
+        "dutch": "Het is eindelijk vrijdag!",
+        "english": "It's finally Friday!"
       }
     ],
     "mnemonic": ""
@@ -3615,6 +4103,10 @@
       {
         "dutch": "Zaterdag ga ik winkelen.",
         "english": "Saturday I go shopping."
+      },
+      {
+        "dutch": "Ik werk niet op zaterdag.",
+        "english": "I don't work on Saturday."
       }
     ],
     "mnemonic": ""
@@ -3630,6 +4122,10 @@
       {
         "dutch": "Zondag rust ik uit.",
         "english": "Sunday I rest."
+      },
+      {
+        "dutch": "Op zondag rust ik.",
+        "english": "On Sunday I rest."
       }
     ],
     "mnemonic": ""
@@ -3675,6 +4171,10 @@
       {
         "dutch": "In maart wordt het lente.",
         "english": "In March it becomes spring."
+      },
+      {
+        "dutch": "De lente begint in maart.",
+        "english": "Spring starts in March."
       }
     ],
     "mnemonic": ""
@@ -3720,6 +4220,10 @@
       {
         "dutch": "In juni is het zomer.",
         "english": "In June it is summer."
+      },
+      {
+        "dutch": "In juni is het lang licht.",
+        "english": "In June it's light for a long time."
       }
     ],
     "mnemonic": ""
@@ -3735,6 +4239,10 @@
       {
         "dutch": "Juli is vaak warm.",
         "english": "July is often warm."
+      },
+      {
+        "dutch": "Juli is de warmste maand.",
+        "english": "July is the warmest month."
       }
     ],
     "mnemonic": ""
@@ -3750,6 +4258,10 @@
       {
         "dutch": "Augustus is vakantietijd.",
         "english": "August is vacation time."
+      },
+      {
+        "dutch": "Ik ga op vakantie in augustus.",
+        "english": "I go on vacation in August."
       }
     ],
     "mnemonic": ""
@@ -3765,6 +4277,10 @@
       {
         "dutch": "September begint de herfst.",
         "english": "September autumn begins."
+      },
+      {
+        "dutch": "School begint in september.",
+        "english": "School starts in September."
       }
     ],
     "mnemonic": ""
@@ -3795,6 +4311,10 @@
       {
         "dutch": "November is donker.",
         "english": "November is dark."
+      },
+      {
+        "dutch": "November is grijs.",
+        "english": "November is grey."
       }
     ],
     "mnemonic": ""
@@ -3810,6 +4330,10 @@
       {
         "dutch": "December is feestmaand.",
         "english": "December is a festive month."
+      },
+      {
+        "dutch": "December is feestelijk.",
+        "english": "December is festive."
       }
     ],
     "mnemonic": ""
@@ -3825,6 +4349,10 @@
       {
         "dutch": "De lente komt eraan.",
         "english": "Spring is coming."
+      },
+      {
+        "dutch": "In de lente bloeien de bloemen.",
+        "english": "In spring the flowers bloom."
       }
     ],
     "mnemonic": ""
@@ -3855,6 +4383,10 @@
       {
         "dutch": "De herfst is kleurrijk.",
         "english": "Autumn is colorful."
+      },
+      {
+        "dutch": "De bladeren vallen in de herfst.",
+        "english": "The leaves fall in autumn."
       }
     ],
     "mnemonic": ""
@@ -3885,6 +4417,10 @@
       {
         "dutch": "Goedemorgen!",
         "english": "Good morning!"
+      },
+      {
+        "dutch": "Goedemorgen! Het is ochtend.",
+        "english": "Good morning! It's morning."
       }
     ],
     "mnemonic": ""
@@ -3900,6 +4436,10 @@
       {
         "dutch": "Goedemiddag!",
         "english": "Good afternoon!"
+      },
+      {
+        "dutch": "We eten in de middag.",
+        "english": "We eat in the afternoon."
       }
     ],
     "mnemonic": ""
@@ -3930,6 +4470,10 @@
       {
         "dutch": "Goedenacht!",
         "english": "Good night!"
+      },
+      {
+        "dutch": "De nacht is donker.",
+        "english": "The night is dark."
       }
     ],
     "mnemonic": ""
@@ -4050,6 +4594,10 @@
       {
         "dutch": "Ik hou van je met heel mijn hart.",
         "english": "I love you with all my heart."
+      },
+      {
+        "dutch": "Volg je hart.",
+        "english": "Follow your heart."
       }
     ],
     "mnemonic": ""
@@ -4095,6 +4643,10 @@
       {
         "dutch": "Haar haar is lang.",
         "english": "Her hair is long."
+      },
+      {
+        "dutch": "Dit is haar huis.",
+        "english": "This is her house."
       }
     ],
     "mnemonic": ""
@@ -4140,6 +4692,10 @@
       {
         "dutch": "Ik heb sterke armen.",
         "english": "I have strong arms."
+      },
+      {
+        "dutch": "Ze zijn arm.",
+        "english": "They are poor."
       }
     ],
     "mnemonic": ""
@@ -4609,23 +5165,8 @@
     "mnemonic": ""
   },
   {
-    "id": 319,
-    "rank": 319,
-    "dutch": "restaurant",
-    "english": "restaurant",
-    "partOfSpeech": "noun",
-    "gender": "het",
-    "sentences": [
-      {
-        "dutch": "We eten in een restaurant.",
-        "english": "We eat in a restaurant."
-      }
-    ],
-    "mnemonic": ""
-  },
-  {
     "id": 320,
-    "rank": 320,
+    "rank": 319,
     "dutch": "café",
     "english": "café, pub",
     "partOfSpeech": "noun",
@@ -4639,106 +5180,8 @@
     "mnemonic": ""
   },
   {
-    "id": 321,
-    "rank": 321,
-    "dutch": "wat",
-    "english": "what",
-    "partOfSpeech": "pronoun",
-    "sentences": [
-      {
-        "dutch": "Wat doe je?",
-        "english": "What are you doing?"
-      }
-    ],
-    "mnemonic": ""
-  },
-  {
-    "id": 322,
-    "rank": 322,
-    "dutch": "wie",
-    "english": "who",
-    "partOfSpeech": "pronoun",
-    "sentences": [
-      {
-        "dutch": "Wie is dat?",
-        "english": "Who is that?"
-      }
-    ],
-    "mnemonic": ""
-  },
-  {
-    "id": 323,
-    "rank": 323,
-    "dutch": "waar",
-    "english": "where",
-    "partOfSpeech": "adverb",
-    "sentences": [
-      {
-        "dutch": "Waar woon je?",
-        "english": "Where do you live?"
-      }
-    ],
-    "mnemonic": ""
-  },
-  {
-    "id": 324,
-    "rank": 324,
-    "dutch": "wanneer",
-    "english": "when",
-    "partOfSpeech": "adverb",
-    "sentences": [
-      {
-        "dutch": "Wanneer kom je?",
-        "english": "When are you coming?"
-      }
-    ],
-    "mnemonic": ""
-  },
-  {
-    "id": 325,
-    "rank": 325,
-    "dutch": "waarom",
-    "english": "why",
-    "partOfSpeech": "adverb",
-    "sentences": [
-      {
-        "dutch": "Waarom ben je hier?",
-        "english": "Why are you here?"
-      }
-    ],
-    "mnemonic": ""
-  },
-  {
-    "id": 326,
-    "rank": 326,
-    "dutch": "hoe",
-    "english": "how",
-    "partOfSpeech": "adverb",
-    "sentences": [
-      {
-        "dutch": "Hoe gaat het?",
-        "english": "How are you?"
-      }
-    ],
-    "mnemonic": ""
-  },
-  {
-    "id": 327,
-    "rank": 327,
-    "dutch": "hoeveel",
-    "english": "how much, how many",
-    "partOfSpeech": "adverb",
-    "sentences": [
-      {
-        "dutch": "Hoeveel kost dit?",
-        "english": "How much does this cost?"
-      }
-    ],
-    "mnemonic": ""
-  },
-  {
     "id": 328,
-    "rank": 328,
+    "rank": 320,
     "dutch": "welk",
     "english": "which",
     "partOfSpeech": "pronoun",
@@ -4751,64 +5194,8 @@
     "mnemonic": ""
   },
   {
-    "id": 329,
-    "rank": 329,
-    "dutch": "omdat",
-    "english": "because",
-    "partOfSpeech": "conjunction",
-    "sentences": [
-      {
-        "dutch": "Ik blijf thuis omdat ik ziek ben.",
-        "english": "I stay home because I'm sick."
-      }
-    ],
-    "mnemonic": ""
-  },
-  {
-    "id": 330,
-    "rank": 330,
-    "dutch": "maar",
-    "english": "but",
-    "partOfSpeech": "conjunction",
-    "sentences": [
-      {
-        "dutch": "Ik wil komen, maar ik kan niet.",
-        "english": "I want to come, but I can't."
-      }
-    ],
-    "mnemonic": ""
-  },
-  {
-    "id": 331,
-    "rank": 331,
-    "dutch": "en",
-    "english": "and",
-    "partOfSpeech": "conjunction",
-    "sentences": [
-      {
-        "dutch": "Ik en mijn vriend gaan.",
-        "english": "My friend and I are going."
-      }
-    ],
-    "mnemonic": ""
-  },
-  {
-    "id": 332,
-    "rank": 332,
-    "dutch": "of",
-    "english": "or",
-    "partOfSpeech": "conjunction",
-    "sentences": [
-      {
-        "dutch": "Wil je koffie of thee?",
-        "english": "Do you want coffee or tea?"
-      }
-    ],
-    "mnemonic": ""
-  },
-  {
     "id": 333,
-    "rank": 333,
+    "rank": 321,
     "dutch": "want",
     "english": "for, because",
     "partOfSpeech": "conjunction",
@@ -4822,7 +5209,7 @@
   },
   {
     "id": 334,
-    "rank": 334,
+    "rank": 322,
     "dutch": "dus",
     "english": "so, therefore",
     "partOfSpeech": "conjunction",
@@ -4835,22 +5222,8 @@
     "mnemonic": ""
   },
   {
-    "id": 335,
-    "rank": 335,
-    "dutch": "als",
-    "english": "if, when, as",
-    "partOfSpeech": "conjunction",
-    "sentences": [
-      {
-        "dutch": "Als het regent, blijf ik thuis.",
-        "english": "If it rains, I stay home."
-      }
-    ],
-    "mnemonic": ""
-  },
-  {
     "id": 336,
-    "rank": 336,
+    "rank": 323,
     "dutch": "dat",
     "english": "that",
     "partOfSpeech": "conjunction",
@@ -4858,13 +5231,17 @@
       {
         "dutch": "Ik denk dat het goed is.",
         "english": "I think that it's good."
+      },
+      {
+        "dutch": "Wat is dat?",
+        "english": "What is that?"
       }
     ],
     "mnemonic": ""
   },
   {
     "id": 337,
-    "rank": 337,
+    "rank": 324,
     "dutch": "toen",
     "english": "when (past), then",
     "partOfSpeech": "conjunction",
@@ -4878,7 +5255,7 @@
   },
   {
     "id": 338,
-    "rank": 338,
+    "rank": 325,
     "dutch": "terwijl",
     "english": "while",
     "partOfSpeech": "conjunction",
@@ -4892,7 +5269,7 @@
   },
   {
     "id": 339,
-    "rank": 339,
+    "rank": 326,
     "dutch": "hoewel",
     "english": "although",
     "partOfSpeech": "conjunction",
@@ -4906,7 +5283,7 @@
   },
   {
     "id": 340,
-    "rank": 340,
+    "rank": 327,
     "dutch": "zodat",
     "english": "so that",
     "partOfSpeech": "conjunction",
@@ -4919,190 +5296,8 @@
     "mnemonic": ""
   },
   {
-    "id": 341,
-    "rank": 341,
-    "dutch": "in",
-    "english": "in",
-    "partOfSpeech": "preposition",
-    "sentences": [
-      {
-        "dutch": "Ik woon in Amsterdam.",
-        "english": "I live in Amsterdam."
-      }
-    ],
-    "mnemonic": ""
-  },
-  {
-    "id": 342,
-    "rank": 342,
-    "dutch": "op",
-    "english": "on",
-    "partOfSpeech": "preposition",
-    "sentences": [
-      {
-        "dutch": "Het boek ligt op de tafel.",
-        "english": "The book is on the table."
-      }
-    ],
-    "mnemonic": ""
-  },
-  {
-    "id": 343,
-    "rank": 343,
-    "dutch": "aan",
-    "english": "at, on, to",
-    "partOfSpeech": "preposition",
-    "sentences": [
-      {
-        "dutch": "Ik zit aan tafel.",
-        "english": "I'm sitting at the table."
-      }
-    ],
-    "mnemonic": ""
-  },
-  {
-    "id": 344,
-    "rank": 344,
-    "dutch": "met",
-    "english": "with",
-    "partOfSpeech": "preposition",
-    "sentences": [
-      {
-        "dutch": "Ik ga met mijn vriend.",
-        "english": "I go with my friend."
-      }
-    ],
-    "mnemonic": ""
-  },
-  {
-    "id": 345,
-    "rank": 345,
-    "dutch": "voor",
-    "english": "for, before",
-    "partOfSpeech": "preposition",
-    "sentences": [
-      {
-        "dutch": "Dit is voor jou.",
-        "english": "This is for you."
-      }
-    ],
-    "mnemonic": ""
-  },
-  {
-    "id": 346,
-    "rank": 346,
-    "dutch": "na",
-    "english": "after",
-    "partOfSpeech": "preposition",
-    "sentences": [
-      {
-        "dutch": "Na het eten ga ik slapen.",
-        "english": "After eating I go to sleep."
-      }
-    ],
-    "mnemonic": ""
-  },
-  {
-    "id": 347,
-    "rank": 347,
-    "dutch": "naar",
-    "english": "to (direction)",
-    "partOfSpeech": "preposition",
-    "sentences": [
-      {
-        "dutch": "Ik ga naar school.",
-        "english": "I go to school."
-      }
-    ],
-    "mnemonic": ""
-  },
-  {
-    "id": 348,
-    "rank": 348,
-    "dutch": "van",
-    "english": "of, from",
-    "partOfSpeech": "preposition",
-    "sentences": [
-      {
-        "dutch": "Ik kom van Nederland.",
-        "english": "I come from the Netherlands."
-      }
-    ],
-    "mnemonic": ""
-  },
-  {
-    "id": 349,
-    "rank": 349,
-    "dutch": "bij",
-    "english": "at, with, near",
-    "partOfSpeech": "preposition",
-    "sentences": [
-      {
-        "dutch": "Ik ben bij mijn ouders.",
-        "english": "I am at my parents'."
-      }
-    ],
-    "mnemonic": ""
-  },
-  {
-    "id": 350,
-    "rank": 350,
-    "dutch": "tot",
-    "english": "until, to",
-    "partOfSpeech": "preposition",
-    "sentences": [
-      {
-        "dutch": "Ik werk tot vijf uur.",
-        "english": "I work until five o'clock."
-      }
-    ],
-    "mnemonic": ""
-  },
-  {
-    "id": 351,
-    "rank": 351,
-    "dutch": "over",
-    "english": "about, over",
-    "partOfSpeech": "preposition",
-    "sentences": [
-      {
-        "dutch": "We praten over het weer.",
-        "english": "We talk about the weather."
-      }
-    ],
-    "mnemonic": ""
-  },
-  {
-    "id": 352,
-    "rank": 352,
-    "dutch": "onder",
-    "english": "under",
-    "partOfSpeech": "preposition",
-    "sentences": [
-      {
-        "dutch": "De kat zit onder de tafel.",
-        "english": "The cat sits under the table."
-      }
-    ],
-    "mnemonic": ""
-  },
-  {
-    "id": 353,
-    "rank": 353,
-    "dutch": "tussen",
-    "english": "between",
-    "partOfSpeech": "preposition",
-    "sentences": [
-      {
-        "dutch": "Het huis staat tussen twee bomen.",
-        "english": "The house stands between two trees."
-      }
-    ],
-    "mnemonic": ""
-  },
-  {
     "id": 354,
-    "rank": 354,
+    "rank": 328,
     "dutch": "achter",
     "english": "behind",
     "partOfSpeech": "preposition",
@@ -5116,7 +5311,7 @@
   },
   {
     "id": 355,
-    "rank": 355,
+    "rank": 329,
     "dutch": "naast",
     "english": "next to",
     "partOfSpeech": "preposition",
@@ -5129,120 +5324,8 @@
     "mnemonic": ""
   },
   {
-    "id": 356,
-    "rank": 356,
-    "dutch": "zonder",
-    "english": "without",
-    "partOfSpeech": "preposition",
-    "sentences": [
-      {
-        "dutch": "Ik drink koffie zonder suiker.",
-        "english": "I drink coffee without sugar."
-      }
-    ],
-    "mnemonic": ""
-  },
-  {
-    "id": 357,
-    "rank": 357,
-    "dutch": "tegen",
-    "english": "against",
-    "partOfSpeech": "preposition",
-    "sentences": [
-      {
-        "dutch": "Ik leun tegen de muur.",
-        "english": "I lean against the wall."
-      }
-    ],
-    "mnemonic": ""
-  },
-  {
-    "id": 358,
-    "rank": 358,
-    "dutch": "door",
-    "english": "through, by",
-    "partOfSpeech": "preposition",
-    "sentences": [
-      {
-        "dutch": "Ik loop door het park.",
-        "english": "I walk through the park."
-      }
-    ],
-    "mnemonic": ""
-  },
-  {
-    "id": 359,
-    "rank": 359,
-    "dutch": "tijdens",
-    "english": "during",
-    "partOfSpeech": "preposition",
-    "sentences": [
-      {
-        "dutch": "Tijdens de les moet je luisteren.",
-        "english": "During class you must listen."
-      }
-    ],
-    "mnemonic": ""
-  },
-  {
-    "id": 360,
-    "rank": 360,
-    "dutch": "sinds",
-    "english": "since",
-    "partOfSpeech": "preposition",
-    "sentences": [
-      {
-        "dutch": "Ik woon hier sinds 2020.",
-        "english": "I've lived here since 2020."
-      }
-    ],
-    "mnemonic": ""
-  },
-  {
-    "id": 361,
-    "rank": 361,
-    "dutch": "kopen",
-    "english": "to buy",
-    "partOfSpeech": "verb",
-    "sentences": [
-      {
-        "dutch": "Ik wil een auto kopen.",
-        "english": "I want to buy a car."
-      }
-    ],
-    "mnemonic": ""
-  },
-  {
-    "id": 362,
-    "rank": 362,
-    "dutch": "verkopen",
-    "english": "to sell",
-    "partOfSpeech": "verb",
-    "sentences": [
-      {
-        "dutch": "Hij verkoopt zijn huis.",
-        "english": "He is selling his house."
-      }
-    ],
-    "mnemonic": ""
-  },
-  {
-    "id": 363,
-    "rank": 363,
-    "dutch": "betalen",
-    "english": "to pay",
-    "partOfSpeech": "verb",
-    "sentences": [
-      {
-        "dutch": "Ik wil betalen.",
-        "english": "I want to pay."
-      }
-    ],
-    "mnemonic": ""
-  },
-  {
     "id": 364,
-    "rank": 364,
+    "rank": 330,
     "dutch": "kosten",
     "english": "to cost",
     "partOfSpeech": "verb",
@@ -5255,50 +5338,8 @@
     "mnemonic": ""
   },
   {
-    "id": 365,
-    "rank": 365,
-    "dutch": "openen",
-    "english": "to open",
-    "partOfSpeech": "verb",
-    "sentences": [
-      {
-        "dutch": "Kun je het raam openen?",
-        "english": "Can you open the window?"
-      }
-    ],
-    "mnemonic": ""
-  },
-  {
-    "id": 366,
-    "rank": 366,
-    "dutch": "sluiten",
-    "english": "to close",
-    "partOfSpeech": "verb",
-    "sentences": [
-      {
-        "dutch": "Sluit de deur.",
-        "english": "Close the door."
-      }
-    ],
-    "mnemonic": ""
-  },
-  {
-    "id": 367,
-    "rank": 367,
-    "dutch": "beginnen",
-    "english": "to begin",
-    "partOfSpeech": "verb",
-    "sentences": [
-      {
-        "dutch": "De les begint om negen uur.",
-        "english": "The class begins at nine o'clock."
-      }
-    ],
-    "mnemonic": ""
-  },
-  {
     "id": 368,
-    "rank": 368,
+    "rank": 331,
     "dutch": "eindigen",
     "english": "to end",
     "partOfSpeech": "verb",
@@ -5311,92 +5352,8 @@
     "mnemonic": ""
   },
   {
-    "id": 369,
-    "rank": 369,
-    "dutch": "stoppen",
-    "english": "to stop",
-    "partOfSpeech": "verb",
-    "sentences": [
-      {
-        "dutch": "Stop met praten!",
-        "english": "Stop talking!"
-      }
-    ],
-    "mnemonic": ""
-  },
-  {
-    "id": 370,
-    "rank": 370,
-    "dutch": "wachten",
-    "english": "to wait",
-    "partOfSpeech": "verb",
-    "sentences": [
-      {
-        "dutch": "Wacht even.",
-        "english": "Wait a moment."
-      }
-    ],
-    "mnemonic": ""
-  },
-  {
-    "id": 371,
-    "rank": 371,
-    "dutch": "zitten",
-    "english": "to sit",
-    "partOfSpeech": "verb",
-    "sentences": [
-      {
-        "dutch": "Ik zit op de bank.",
-        "english": "I'm sitting on the couch."
-      }
-    ],
-    "mnemonic": ""
-  },
-  {
-    "id": 372,
-    "rank": 372,
-    "dutch": "staan",
-    "english": "to stand",
-    "partOfSpeech": "verb",
-    "sentences": [
-      {
-        "dutch": "Ik sta bij de deur.",
-        "english": "I'm standing by the door."
-      }
-    ],
-    "mnemonic": ""
-  },
-  {
-    "id": 373,
-    "rank": 373,
-    "dutch": "liggen",
-    "english": "to lie",
-    "partOfSpeech": "verb",
-    "sentences": [
-      {
-        "dutch": "Het boek ligt op tafel.",
-        "english": "The book lies on the table."
-      }
-    ],
-    "mnemonic": ""
-  },
-  {
-    "id": 374,
-    "rank": 374,
-    "dutch": "lopen",
-    "english": "to walk",
-    "partOfSpeech": "verb",
-    "sentences": [
-      {
-        "dutch": "Ik loop naar het station.",
-        "english": "I walk to the station."
-      }
-    ],
-    "mnemonic": ""
-  },
-  {
     "id": 375,
-    "rank": 375,
+    "rank": 332,
     "dutch": "rennen",
     "english": "to run",
     "partOfSpeech": "verb",
@@ -5409,106 +5366,8 @@
     "mnemonic": ""
   },
   {
-    "id": 376,
-    "rank": 376,
-    "dutch": "rijden",
-    "english": "to drive, ride",
-    "partOfSpeech": "verb",
-    "sentences": [
-      {
-        "dutch": "Ik rijd met de auto.",
-        "english": "I drive by car."
-      }
-    ],
-    "mnemonic": ""
-  },
-  {
-    "id": 377,
-    "rank": 377,
-    "dutch": "vliegen",
-    "english": "to fly",
-    "partOfSpeech": "verb",
-    "sentences": [
-      {
-        "dutch": "De vogels vliegen hoog.",
-        "english": "The birds fly high."
-      }
-    ],
-    "mnemonic": ""
-  },
-  {
-    "id": 378,
-    "rank": 378,
-    "dutch": "zwemmen",
-    "english": "to swim",
-    "partOfSpeech": "verb",
-    "sentences": [
-      {
-        "dutch": "Ik kan goed zwemmen.",
-        "english": "I can swim well."
-      }
-    ],
-    "mnemonic": ""
-  },
-  {
-    "id": 379,
-    "rank": 379,
-    "dutch": "spelen",
-    "english": "to play",
-    "partOfSpeech": "verb",
-    "sentences": [
-      {
-        "dutch": "De kinderen spelen buiten.",
-        "english": "The children play outside."
-      }
-    ],
-    "mnemonic": ""
-  },
-  {
-    "id": 380,
-    "rank": 380,
-    "dutch": "winnen",
-    "english": "to win",
-    "partOfSpeech": "verb",
-    "sentences": [
-      {
-        "dutch": "Ik wil de wedstrijd winnen.",
-        "english": "I want to win the match."
-      }
-    ],
-    "mnemonic": ""
-  },
-  {
-    "id": 381,
-    "rank": 381,
-    "dutch": "verliezen",
-    "english": "to lose",
-    "partOfSpeech": "verb",
-    "sentences": [
-      {
-        "dutch": "Ik heb mijn sleutels verloren.",
-        "english": "I lost my keys."
-      }
-    ],
-    "mnemonic": ""
-  },
-  {
-    "id": 382,
-    "rank": 382,
-    "dutch": "proberen",
-    "english": "to try",
-    "partOfSpeech": "verb",
-    "sentences": [
-      {
-        "dutch": "Ik probeer het opnieuw.",
-        "english": "I try again."
-      }
-    ],
-    "mnemonic": ""
-  },
-  {
     "id": 383,
-    "rank": 383,
+    "rank": 333,
     "dutch": "lukken",
     "english": "to succeed",
     "partOfSpeech": "verb",
@@ -5521,92 +5380,8 @@
     "mnemonic": ""
   },
   {
-    "id": 384,
-    "rank": 384,
-    "dutch": "vergeten",
-    "english": "to forget",
-    "partOfSpeech": "verb",
-    "sentences": [
-      {
-        "dutch": "Ik ben je naam vergeten.",
-        "english": "I forgot your name."
-      }
-    ],
-    "mnemonic": ""
-  },
-  {
-    "id": 385,
-    "rank": 385,
-    "dutch": "herinneren",
-    "english": "to remember",
-    "partOfSpeech": "verb",
-    "sentences": [
-      {
-        "dutch": "Ik herinner me die dag.",
-        "english": "I remember that day."
-      }
-    ],
-    "mnemonic": ""
-  },
-  {
-    "id": 386,
-    "rank": 386,
-    "dutch": "kiezen",
-    "english": "to choose",
-    "partOfSpeech": "verb",
-    "sentences": [
-      {
-        "dutch": "Kies een nummer.",
-        "english": "Choose a number."
-      }
-    ],
-    "mnemonic": ""
-  },
-  {
-    "id": 387,
-    "rank": 387,
-    "dutch": "beslissen",
-    "english": "to decide",
-    "partOfSpeech": "verb",
-    "sentences": [
-      {
-        "dutch": "Ik kan niet beslissen.",
-        "english": "I can't decide."
-      }
-    ],
-    "mnemonic": ""
-  },
-  {
-    "id": 388,
-    "rank": 388,
-    "dutch": "veranderen",
-    "english": "to change",
-    "partOfSpeech": "verb",
-    "sentences": [
-      {
-        "dutch": "Het weer verandert snel.",
-        "english": "The weather changes quickly."
-      }
-    ],
-    "mnemonic": ""
-  },
-  {
-    "id": 389,
-    "rank": 389,
-    "dutch": "blijven",
-    "english": "to stay, remain",
-    "partOfSpeech": "verb",
-    "sentences": [
-      {
-        "dutch": "Ik blijf thuis.",
-        "english": "I stay home."
-      }
-    ],
-    "mnemonic": ""
-  },
-  {
     "id": 390,
-    "rank": 390,
+    "rank": 334,
     "dutch": "vertrekken",
     "english": "to leave, depart",
     "partOfSpeech": "verb",
@@ -5621,7 +5396,7 @@
   },
   {
     "id": 391,
-    "rank": 391,
+    "rank": 335,
     "dutch": "aankomen",
     "english": "to arrive",
     "partOfSpeech": "verb",
@@ -5635,78 +5410,8 @@
     "mnemonic": ""
   },
   {
-    "id": 392,
-    "rank": 392,
-    "dutch": "helpen",
-    "english": "to help",
-    "partOfSpeech": "verb",
-    "sentences": [
-      {
-        "dutch": "Kun je me helpen?",
-        "english": "Can you help me?"
-      }
-    ],
-    "mnemonic": ""
-  },
-  {
-    "id": 393,
-    "rank": 393,
-    "dutch": "brengen",
-    "english": "to bring",
-    "partOfSpeech": "verb",
-    "sentences": [
-      {
-        "dutch": "Ik breng je naar huis.",
-        "english": "I bring you home."
-      }
-    ],
-    "mnemonic": ""
-  },
-  {
-    "id": 394,
-    "rank": 394,
-    "dutch": "halen",
-    "english": "to fetch, get",
-    "partOfSpeech": "verb",
-    "sentences": [
-      {
-        "dutch": "Ik haal koffie.",
-        "english": "I get coffee."
-      }
-    ],
-    "mnemonic": ""
-  },
-  {
-    "id": 395,
-    "rank": 395,
-    "dutch": "leggen",
-    "english": "to put, lay",
-    "partOfSpeech": "verb",
-    "sentences": [
-      {
-        "dutch": "Leg het boek op tafel.",
-        "english": "Put the book on the table."
-      }
-    ],
-    "mnemonic": ""
-  },
-  {
-    "id": 396,
-    "rank": 396,
-    "dutch": "zetten",
-    "english": "to put, set",
-    "partOfSpeech": "verb",
-    "sentences": [
-      {
-        "dutch": "Zet de kop op tafel.",
-        "english": "Put the cup on the table."
-      }
-    ],
-    "mnemonic": ""
-  },
-  {
     "id": 397,
-    "rank": 397,
+    "rank": 336,
     "dutch": "houden",
     "english": "to hold, keep",
     "partOfSpeech": "verb",
@@ -5720,7 +5425,7 @@
   },
   {
     "id": 398,
-    "rank": 398,
+    "rank": 337,
     "dutch": "laten",
     "english": "to let, leave",
     "partOfSpeech": "verb",
@@ -5733,22 +5438,8 @@
     "mnemonic": ""
   },
   {
-    "id": 399,
-    "rank": 399,
-    "dutch": "voelen",
-    "english": "to feel",
-    "partOfSpeech": "verb",
-    "sentences": [
-      {
-        "dutch": "Ik voel me goed.",
-        "english": "I feel good."
-      }
-    ],
-    "mnemonic": ""
-  },
-  {
     "id": 400,
-    "rank": 400,
+    "rank": 338,
     "dutch": "ruiken",
     "english": "to smell",
     "partOfSpeech": "verb",
@@ -5762,7 +5453,7 @@
   },
   {
     "id": 401,
-    "rank": 401,
+    "rank": 339,
     "dutch": "proeven",
     "english": "to taste",
     "partOfSpeech": "verb",
@@ -5776,7 +5467,7 @@
   },
   {
     "id": 402,
-    "rank": 402,
+    "rank": 340,
     "dutch": "dragen",
     "english": "to carry, wear",
     "partOfSpeech": "verb",
@@ -5790,7 +5481,7 @@
   },
   {
     "id": 403,
-    "rank": 403,
+    "rank": 341,
     "dutch": "trekken",
     "english": "to pull",
     "partOfSpeech": "verb",
@@ -5804,7 +5495,7 @@
   },
   {
     "id": 404,
-    "rank": 404,
+    "rank": 342,
     "dutch": "duwen",
     "english": "to push",
     "partOfSpeech": "verb",
@@ -5817,22 +5508,8 @@
     "mnemonic": ""
   },
   {
-    "id": 405,
-    "rank": 405,
-    "dutch": "sturen",
-    "english": "to send",
-    "partOfSpeech": "verb",
-    "sentences": [
-      {
-        "dutch": "Ik stuur je een bericht.",
-        "english": "I send you a message."
-      }
-    ],
-    "mnemonic": ""
-  },
-  {
     "id": 406,
-    "rank": 406,
+    "rank": 343,
     "dutch": "ontvangen",
     "english": "to receive",
     "partOfSpeech": "verb",
@@ -5847,7 +5524,7 @@
   },
   {
     "id": 407,
-    "rank": 407,
+    "rank": 344,
     "dutch": "bellen",
     "english": "to call (phone)",
     "partOfSpeech": "verb",
@@ -5861,7 +5538,7 @@
   },
   {
     "id": 408,
-    "rank": 408,
+    "rank": 345,
     "dutch": "antwoorden",
     "english": "to answer",
     "partOfSpeech": "verb",
@@ -5874,36 +5551,8 @@
     "mnemonic": ""
   },
   {
-    "id": 409,
-    "rank": 409,
-    "dutch": "geloven",
-    "english": "to believe",
-    "partOfSpeech": "verb",
-    "sentences": [
-      {
-        "dutch": "Ik geloof je.",
-        "english": "I believe you."
-      }
-    ],
-    "mnemonic": ""
-  },
-  {
-    "id": 410,
-    "rank": 410,
-    "dutch": "hopen",
-    "english": "to hope",
-    "partOfSpeech": "verb",
-    "sentences": [
-      {
-        "dutch": "Ik hoop dat het lukt.",
-        "english": "I hope it works out."
-      }
-    ],
-    "mnemonic": ""
-  },
-  {
     "id": 411,
-    "rank": 411,
+    "rank": 346,
     "dutch": "wensen",
     "english": "to wish",
     "partOfSpeech": "verb",
@@ -5917,7 +5566,7 @@
   },
   {
     "id": 412,
-    "rank": 412,
+    "rank": 347,
     "dutch": "dromen",
     "english": "to dream",
     "partOfSpeech": "verb",
@@ -5931,7 +5580,7 @@
   },
   {
     "id": 413,
-    "rank": 413,
+    "rank": 348,
     "dutch": "huilen",
     "english": "to cry",
     "partOfSpeech": "verb",
@@ -5945,7 +5594,7 @@
   },
   {
     "id": 414,
-    "rank": 414,
+    "rank": 349,
     "dutch": "lachen",
     "english": "to laugh",
     "partOfSpeech": "verb",
@@ -5959,7 +5608,7 @@
   },
   {
     "id": 415,
-    "rank": 415,
+    "rank": 350,
     "dutch": "zingen",
     "english": "to sing",
     "partOfSpeech": "verb",
@@ -5973,7 +5622,7 @@
   },
   {
     "id": 416,
-    "rank": 416,
+    "rank": 351,
     "dutch": "dansen",
     "english": "to dance",
     "partOfSpeech": "verb",
@@ -5987,7 +5636,7 @@
   },
   {
     "id": 417,
-    "rank": 417,
+    "rank": 352,
     "dutch": "tekenen",
     "english": "to draw",
     "partOfSpeech": "verb",
@@ -6001,7 +5650,7 @@
   },
   {
     "id": 418,
-    "rank": 418,
+    "rank": 353,
     "dutch": "schilderen",
     "english": "to paint",
     "partOfSpeech": "verb",
@@ -6015,7 +5664,7 @@
   },
   {
     "id": 419,
-    "rank": 419,
+    "rank": 354,
     "dutch": "bouwen",
     "english": "to build",
     "partOfSpeech": "verb",
@@ -6029,7 +5678,7 @@
   },
   {
     "id": 420,
-    "rank": 420,
+    "rank": 355,
     "dutch": "breken",
     "english": "to break",
     "partOfSpeech": "verb",
@@ -6043,7 +5692,7 @@
   },
   {
     "id": 421,
-    "rank": 421,
+    "rank": 356,
     "dutch": "repareren",
     "english": "to repair",
     "partOfSpeech": "verb",
@@ -6057,7 +5706,7 @@
   },
   {
     "id": 422,
-    "rank": 422,
+    "rank": 357,
     "dutch": "schoonmaken",
     "english": "to clean",
     "partOfSpeech": "verb",
@@ -6071,7 +5720,7 @@
   },
   {
     "id": 423,
-    "rank": 423,
+    "rank": 358,
     "dutch": "wassen",
     "english": "to wash",
     "partOfSpeech": "verb",
@@ -6085,7 +5734,7 @@
   },
   {
     "id": 424,
-    "rank": 424,
+    "rank": 359,
     "dutch": "drogen",
     "english": "to dry",
     "partOfSpeech": "verb",
@@ -6099,7 +5748,7 @@
   },
   {
     "id": 425,
-    "rank": 425,
+    "rank": 360,
     "dutch": "koken",
     "english": "to cook",
     "partOfSpeech": "verb",
@@ -6113,7 +5762,7 @@
   },
   {
     "id": 426,
-    "rank": 426,
+    "rank": 361,
     "dutch": "bakken",
     "english": "to bake, fry",
     "partOfSpeech": "verb",
@@ -6127,7 +5776,7 @@
   },
   {
     "id": 427,
-    "rank": 427,
+    "rank": 362,
     "dutch": "snijden",
     "english": "to cut",
     "partOfSpeech": "verb",
@@ -6141,7 +5790,7 @@
   },
   {
     "id": 428,
-    "rank": 428,
+    "rank": 363,
     "dutch": "mengen",
     "english": "to mix",
     "partOfSpeech": "verb",
@@ -6155,7 +5804,7 @@
   },
   {
     "id": 429,
-    "rank": 429,
+    "rank": 364,
     "dutch": "invullen",
     "english": "to fill in",
     "partOfSpeech": "verb",
@@ -6169,7 +5818,7 @@
   },
   {
     "id": 430,
-    "rank": 430,
+    "rank": 365,
     "dutch": "uitleggen",
     "english": "to explain",
     "partOfSpeech": "verb",
@@ -6182,64 +5831,8 @@
     "mnemonic": ""
   },
   {
-    "id": 431,
-    "rank": 431,
-    "dutch": "groot",
-    "english": "big, large",
-    "partOfSpeech": "adjective",
-    "sentences": [
-      {
-        "dutch": "Dit is een groot huis.",
-        "english": "This is a big house."
-      }
-    ],
-    "mnemonic": ""
-  },
-  {
-    "id": 432,
-    "rank": 432,
-    "dutch": "klein",
-    "english": "small",
-    "partOfSpeech": "adjective",
-    "sentences": [
-      {
-        "dutch": "De baby is klein.",
-        "english": "The baby is small."
-      }
-    ],
-    "mnemonic": ""
-  },
-  {
-    "id": 433,
-    "rank": 433,
-    "dutch": "lang",
-    "english": "long, tall",
-    "partOfSpeech": "adjective",
-    "sentences": [
-      {
-        "dutch": "Hij is lang.",
-        "english": "He is tall."
-      }
-    ],
-    "mnemonic": ""
-  },
-  {
-    "id": 434,
-    "rank": 434,
-    "dutch": "kort",
-    "english": "short",
-    "partOfSpeech": "adjective",
-    "sentences": [
-      {
-        "dutch": "Dit is een kort verhaal.",
-        "english": "This is a short story."
-      }
-    ],
-    "mnemonic": ""
-  },
-  {
     "id": 435,
-    "rank": 435,
+    "rank": 366,
     "dutch": "breed",
     "english": "wide",
     "partOfSpeech": "adjective",
@@ -6253,7 +5846,7 @@
   },
   {
     "id": 436,
-    "rank": 436,
+    "rank": 367,
     "dutch": "smal",
     "english": "narrow",
     "partOfSpeech": "adjective",
@@ -6267,7 +5860,7 @@
   },
   {
     "id": 437,
-    "rank": 437,
+    "rank": 368,
     "dutch": "dik",
     "english": "thick, fat",
     "partOfSpeech": "adjective",
@@ -6281,7 +5874,7 @@
   },
   {
     "id": 438,
-    "rank": 438,
+    "rank": 369,
     "dutch": "dun",
     "english": "thin",
     "partOfSpeech": "adjective",
@@ -6295,7 +5888,7 @@
   },
   {
     "id": 439,
-    "rank": 439,
+    "rank": 370,
     "dutch": "zwaar",
     "english": "heavy",
     "partOfSpeech": "adjective",
@@ -6309,7 +5902,7 @@
   },
   {
     "id": 440,
-    "rank": 440,
+    "rank": 371,
     "dutch": "licht",
     "english": "light (weight/color)",
     "partOfSpeech": "adjective",
@@ -6323,7 +5916,7 @@
   },
   {
     "id": 441,
-    "rank": 441,
+    "rank": 372,
     "dutch": "hard",
     "english": "hard",
     "partOfSpeech": "adjective",
@@ -6337,7 +5930,7 @@
   },
   {
     "id": 442,
-    "rank": 442,
+    "rank": 373,
     "dutch": "zacht",
     "english": "soft",
     "partOfSpeech": "adjective",
@@ -6350,36 +5943,8 @@
     "mnemonic": ""
   },
   {
-    "id": 443,
-    "rank": 443,
-    "dutch": "warm",
-    "english": "warm",
-    "partOfSpeech": "adjective",
-    "sentences": [
-      {
-        "dutch": "Het is warm vandaag.",
-        "english": "It's warm today."
-      }
-    ],
-    "mnemonic": ""
-  },
-  {
-    "id": 444,
-    "rank": 444,
-    "dutch": "koud",
-    "english": "cold",
-    "partOfSpeech": "adjective",
-    "sentences": [
-      {
-        "dutch": "Het is koud buiten.",
-        "english": "It's cold outside."
-      }
-    ],
-    "mnemonic": ""
-  },
-  {
     "id": 445,
-    "rank": 445,
+    "rank": 374,
     "dutch": "heet",
     "english": "hot",
     "partOfSpeech": "adjective",
@@ -6393,7 +5958,7 @@
   },
   {
     "id": 446,
-    "rank": 446,
+    "rank": 375,
     "dutch": "nat",
     "english": "wet",
     "partOfSpeech": "adjective",
@@ -6407,7 +5972,7 @@
   },
   {
     "id": 447,
-    "rank": 447,
+    "rank": 376,
     "dutch": "droog",
     "english": "dry",
     "partOfSpeech": "adjective",
@@ -6421,7 +5986,7 @@
   },
   {
     "id": 448,
-    "rank": 448,
+    "rank": 377,
     "dutch": "schoon",
     "english": "clean",
     "partOfSpeech": "adjective",
@@ -6435,7 +6000,7 @@
   },
   {
     "id": 449,
-    "rank": 449,
+    "rank": 378,
     "dutch": "vies",
     "english": "dirty",
     "partOfSpeech": "adjective",
@@ -6448,64 +6013,8 @@
     "mnemonic": ""
   },
   {
-    "id": 450,
-    "rank": 450,
-    "dutch": "oud",
-    "english": "old",
-    "partOfSpeech": "adjective",
-    "sentences": [
-      {
-        "dutch": "Het is een oud gebouw.",
-        "english": "It's an old building."
-      }
-    ],
-    "mnemonic": ""
-  },
-  {
-    "id": 451,
-    "rank": 451,
-    "dutch": "jong",
-    "english": "young",
-    "partOfSpeech": "adjective",
-    "sentences": [
-      {
-        "dutch": "Zij is jong.",
-        "english": "She is young."
-      }
-    ],
-    "mnemonic": ""
-  },
-  {
-    "id": 452,
-    "rank": 452,
-    "dutch": "nieuw",
-    "english": "new",
-    "partOfSpeech": "adjective",
-    "sentences": [
-      {
-        "dutch": "Ik heb een nieuwe auto.",
-        "english": "I have a new car."
-      }
-    ],
-    "mnemonic": ""
-  },
-  {
-    "id": 453,
-    "rank": 453,
-    "dutch": "snel",
-    "english": "fast",
-    "partOfSpeech": "adjective",
-    "sentences": [
-      {
-        "dutch": "De auto is snel.",
-        "english": "The car is fast."
-      }
-    ],
-    "mnemonic": ""
-  },
-  {
     "id": 454,
-    "rank": 454,
+    "rank": 379,
     "dutch": "langzaam",
     "english": "slow",
     "partOfSpeech": "adjective",
@@ -6519,7 +6028,7 @@
   },
   {
     "id": 455,
-    "rank": 455,
+    "rank": 380,
     "dutch": "vroeg",
     "english": "early",
     "partOfSpeech": "adjective",
@@ -6533,7 +6042,7 @@
   },
   {
     "id": 456,
-    "rank": 456,
+    "rank": 381,
     "dutch": "laat",
     "english": "late",
     "partOfSpeech": "adjective",
@@ -6547,7 +6056,7 @@
   },
   {
     "id": 457,
-    "rank": 457,
+    "rank": 382,
     "dutch": "leeg",
     "english": "empty",
     "partOfSpeech": "adjective",
@@ -6561,7 +6070,7 @@
   },
   {
     "id": 458,
-    "rank": 458,
+    "rank": 383,
     "dutch": "vol",
     "english": "full",
     "partOfSpeech": "adjective",
@@ -6575,7 +6084,7 @@
   },
   {
     "id": 459,
-    "rank": 459,
+    "rank": 384,
     "dutch": "open",
     "english": "open",
     "partOfSpeech": "adjective",
@@ -6589,7 +6098,7 @@
   },
   {
     "id": 460,
-    "rank": 460,
+    "rank": 385,
     "dutch": "dicht",
     "english": "closed, near",
     "partOfSpeech": "adjective",
@@ -6603,7 +6112,7 @@
   },
   {
     "id": 461,
-    "rank": 461,
+    "rank": 386,
     "dutch": "stil",
     "english": "quiet",
     "partOfSpeech": "adjective",
@@ -6617,7 +6126,7 @@
   },
   {
     "id": 462,
-    "rank": 462,
+    "rank": 387,
     "dutch": "luid",
     "english": "loud",
     "partOfSpeech": "adjective",
@@ -6631,7 +6140,7 @@
   },
   {
     "id": 463,
-    "rank": 463,
+    "rank": 388,
     "dutch": "donker",
     "english": "dark",
     "partOfSpeech": "adjective",
@@ -6645,7 +6154,7 @@
   },
   {
     "id": 464,
-    "rank": 464,
+    "rank": 389,
     "dutch": "helder",
     "english": "bright, clear",
     "partOfSpeech": "adjective",
@@ -6658,36 +6167,8 @@
     "mnemonic": ""
   },
   {
-    "id": 465,
-    "rank": 465,
-    "dutch": "moeilijk",
-    "english": "difficult",
-    "partOfSpeech": "adjective",
-    "sentences": [
-      {
-        "dutch": "Dit is moeilijk.",
-        "english": "This is difficult."
-      }
-    ],
-    "mnemonic": ""
-  },
-  {
-    "id": 466,
-    "rank": 466,
-    "dutch": "makkelijk",
-    "english": "easy",
-    "partOfSpeech": "adjective",
-    "sentences": [
-      {
-        "dutch": "Dit is makkelijk.",
-        "english": "This is easy."
-      }
-    ],
-    "mnemonic": ""
-  },
-  {
     "id": 467,
-    "rank": 467,
+    "rank": 390,
     "dutch": "belangrijk",
     "english": "important",
     "partOfSpeech": "adjective",
@@ -6702,7 +6183,7 @@
   },
   {
     "id": 468,
-    "rank": 468,
+    "rank": 391,
     "dutch": "nodig",
     "english": "necessary",
     "partOfSpeech": "adjective",
@@ -6716,7 +6197,7 @@
   },
   {
     "id": 469,
-    "rank": 469,
+    "rank": 392,
     "dutch": "mogelijk",
     "english": "possible",
     "partOfSpeech": "adjective",
@@ -6731,7 +6212,7 @@
   },
   {
     "id": 470,
-    "rank": 470,
+    "rank": 393,
     "dutch": "zeker",
     "english": "certain, sure",
     "partOfSpeech": "adjective",
@@ -6746,7 +6227,7 @@
   },
   {
     "id": 471,
-    "rank": 471,
+    "rank": 394,
     "dutch": "klaar",
     "english": "ready, done",
     "partOfSpeech": "adjective",
@@ -6760,7 +6241,7 @@
   },
   {
     "id": 472,
-    "rank": 472,
+    "rank": 395,
     "dutch": "vrij",
     "english": "free",
     "partOfSpeech": "adjective",
@@ -6774,7 +6255,7 @@
   },
   {
     "id": 473,
-    "rank": 473,
+    "rank": 396,
     "dutch": "druk",
     "english": "busy",
     "partOfSpeech": "adjective",
@@ -6788,7 +6269,7 @@
   },
   {
     "id": 474,
-    "rank": 474,
+    "rank": 397,
     "dutch": "rustig",
     "english": "calm, quiet",
     "partOfSpeech": "adjective",
@@ -6802,7 +6283,7 @@
   },
   {
     "id": 475,
-    "rank": 475,
+    "rank": 398,
     "dutch": "boos",
     "english": "angry",
     "partOfSpeech": "adjective",
@@ -6816,7 +6297,7 @@
   },
   {
     "id": 476,
-    "rank": 476,
+    "rank": 399,
     "dutch": "bang",
     "english": "afraid",
     "partOfSpeech": "adjective",
@@ -6830,7 +6311,7 @@
   },
   {
     "id": 477,
-    "rank": 477,
+    "rank": 400,
     "dutch": "trots",
     "english": "proud",
     "partOfSpeech": "adjective",
@@ -6844,7 +6325,7 @@
   },
   {
     "id": 478,
-    "rank": 478,
+    "rank": 401,
     "dutch": "lelijk",
     "english": "ugly",
     "partOfSpeech": "adjective",
@@ -6858,7 +6339,7 @@
   },
   {
     "id": 479,
-    "rank": 479,
+    "rank": 402,
     "dutch": "dom",
     "english": "stupid",
     "partOfSpeech": "adjective",
@@ -6872,7 +6353,7 @@
   },
   {
     "id": 480,
-    "rank": 480,
+    "rank": 403,
     "dutch": "slim",
     "english": "smart",
     "partOfSpeech": "adjective",
@@ -6886,7 +6367,7 @@
   },
   {
     "id": 481,
-    "rank": 481,
+    "rank": 404,
     "dutch": "rijk",
     "english": "rich",
     "partOfSpeech": "adjective",
@@ -6899,36 +6380,8 @@
     "mnemonic": ""
   },
   {
-    "id": 482,
-    "rank": 482,
-    "dutch": "arm",
-    "english": "arm, poor",
-    "partOfSpeech": "adjective",
-    "sentences": [
-      {
-        "dutch": "Ze zijn arm.",
-        "english": "They are poor."
-      }
-    ],
-    "mnemonic": ""
-  },
-  {
-    "id": 483,
-    "rank": 483,
-    "dutch": "duur",
-    "english": "expensive",
-    "partOfSpeech": "adjective",
-    "sentences": [
-      {
-        "dutch": "Dit is te duur.",
-        "english": "This is too expensive."
-      }
-    ],
-    "mnemonic": ""
-  },
-  {
     "id": 484,
-    "rank": 484,
+    "rank": 405,
     "dutch": "goedkoop",
     "english": "cheap",
     "partOfSpeech": "adjective",
@@ -6942,7 +6395,7 @@
   },
   {
     "id": 485,
-    "rank": 485,
+    "rank": 406,
     "dutch": "gratis",
     "english": "free (no cost)",
     "partOfSpeech": "adjective",
@@ -6955,22 +6408,8 @@
     "mnemonic": ""
   },
   {
-    "id": 486,
-    "rank": 486,
-    "dutch": "lekker",
-    "english": "tasty, nice",
-    "partOfSpeech": "adjective",
-    "sentences": [
-      {
-        "dutch": "Dit is lekker!",
-        "english": "This is tasty!"
-      }
-    ],
-    "mnemonic": ""
-  },
-  {
     "id": 487,
-    "rank": 487,
+    "rank": 407,
     "dutch": "vreemd",
     "english": "strange",
     "partOfSpeech": "adjective",
@@ -6984,7 +6423,7 @@
   },
   {
     "id": 488,
-    "rank": 488,
+    "rank": 408,
     "dutch": "normaal",
     "english": "normal",
     "partOfSpeech": "adjective",
@@ -6998,7 +6437,7 @@
   },
   {
     "id": 489,
-    "rank": 489,
+    "rank": 409,
     "dutch": "speciaal",
     "english": "special",
     "partOfSpeech": "adjective",
@@ -7012,7 +6451,7 @@
   },
   {
     "id": 490,
-    "rank": 490,
+    "rank": 410,
     "dutch": "anders",
     "english": "different, else",
     "partOfSpeech": "adjective",
@@ -7026,7 +6465,7 @@
   },
   {
     "id": 491,
-    "rank": 491,
+    "rank": 411,
     "dutch": "dezelfde",
     "english": "the same",
     "partOfSpeech": "pronoun",
@@ -7040,7 +6479,7 @@
   },
   {
     "id": 492,
-    "rank": 492,
+    "rank": 412,
     "dutch": "eigen",
     "english": "own",
     "partOfSpeech": "adjective",
@@ -7054,7 +6493,7 @@
   },
   {
     "id": 493,
-    "rank": 493,
+    "rank": 413,
     "dutch": "echt",
     "english": "real, really",
     "partOfSpeech": "adjective",
@@ -7068,7 +6507,7 @@
   },
   {
     "id": 494,
-    "rank": 494,
+    "rank": 414,
     "dutch": "helemaal",
     "english": "completely",
     "partOfSpeech": "adverb",
@@ -7082,7 +6521,7 @@
   },
   {
     "id": 495,
-    "rank": 495,
+    "rank": 415,
     "dutch": "bijna",
     "english": "almost",
     "partOfSpeech": "adverb",
@@ -7096,7 +6535,7 @@
   },
   {
     "id": 496,
-    "rank": 496,
+    "rank": 416,
     "dutch": "ongeveer",
     "english": "approximately",
     "partOfSpeech": "adverb",
@@ -7109,22 +6548,8 @@
     "mnemonic": ""
   },
   {
-    "id": 497,
-    "rank": 497,
-    "dutch": "misschien",
-    "english": "maybe",
-    "partOfSpeech": "adverb",
-    "sentences": [
-      {
-        "dutch": "Misschien kom ik morgen.",
-        "english": "Maybe I'll come tomorrow."
-      }
-    ],
-    "mnemonic": ""
-  },
-  {
     "id": 498,
-    "rank": 498,
+    "rank": 417,
     "dutch": "waarschijnlijk",
     "english": "probably",
     "partOfSpeech": "adverb",
@@ -7137,176 +6562,8 @@
     "mnemonic": ""
   },
   {
-    "id": 499,
-    "rank": 499,
-    "dutch": "natuurlijk",
-    "english": "of course",
-    "partOfSpeech": "adverb",
-    "sentences": [
-      {
-        "dutch": "Natuurlijk wil ik komen.",
-        "english": "Of course I want to come."
-      }
-    ],
-    "mnemonic": ""
-  },
-  {
-    "id": 500,
-    "rank": 500,
-    "dutch": "eigenlijk",
-    "english": "actually",
-    "partOfSpeech": "adverb",
-    "sentences": [
-      {
-        "dutch": "Eigenlijk heb ik geen tijd.",
-        "english": "Actually I don't have time."
-      }
-    ],
-    "mnemonic": ""
-  },
-  {
-    "id": 501,
-    "rank": 501,
-    "dutch": "vaak",
-    "english": "often",
-    "partOfSpeech": "adverb",
-    "sentences": [
-      {
-        "dutch": "Ik ga vaak naar de bioscoop.",
-        "english": "I often go to the cinema."
-      }
-    ],
-    "mnemonic": ""
-  },
-  {
-    "id": 502,
-    "rank": 502,
-    "dutch": "soms",
-    "english": "sometimes",
-    "partOfSpeech": "adverb",
-    "sentences": [
-      {
-        "dutch": "Soms eet ik buiten.",
-        "english": "Sometimes I eat outside."
-      }
-    ],
-    "mnemonic": ""
-  },
-  {
-    "id": 503,
-    "rank": 503,
-    "dutch": "nooit",
-    "english": "never",
-    "partOfSpeech": "adverb",
-    "sentences": [
-      {
-        "dutch": "Ik ben nooit in Japan geweest.",
-        "english": "I've never been to Japan."
-      }
-    ],
-    "mnemonic": ""
-  },
-  {
-    "id": 504,
-    "rank": 504,
-    "dutch": "altijd",
-    "english": "always",
-    "partOfSpeech": "adverb",
-    "sentences": [
-      {
-        "dutch": "Ik ben altijd op tijd.",
-        "english": "I'm always on time."
-      }
-    ],
-    "mnemonic": ""
-  },
-  {
-    "id": 505,
-    "rank": 505,
-    "dutch": "nog",
-    "english": "still, yet",
-    "partOfSpeech": "adverb",
-    "sentences": [
-      {
-        "dutch": "Ben je nog hier?",
-        "english": "Are you still here?"
-      }
-    ],
-    "mnemonic": ""
-  },
-  {
-    "id": 506,
-    "rank": 506,
-    "dutch": "al",
-    "english": "already",
-    "partOfSpeech": "adverb",
-    "sentences": [
-      {
-        "dutch": "Ik heb al gegeten.",
-        "english": "I've already eaten."
-      }
-    ],
-    "mnemonic": ""
-  },
-  {
-    "id": 507,
-    "rank": 507,
-    "dutch": "nu",
-    "english": "now",
-    "partOfSpeech": "adverb",
-    "sentences": [
-      {
-        "dutch": "Ik ga nu weg.",
-        "english": "I'm leaving now."
-      }
-    ],
-    "mnemonic": ""
-  },
-  {
-    "id": 508,
-    "rank": 508,
-    "dutch": "dan",
-    "english": "then",
-    "partOfSpeech": "adverb",
-    "sentences": [
-      {
-        "dutch": "Wat doen we dan?",
-        "english": "What do we do then?"
-      }
-    ],
-    "mnemonic": ""
-  },
-  {
-    "id": 509,
-    "rank": 509,
-    "dutch": "hier",
-    "english": "here",
-    "partOfSpeech": "adverb",
-    "sentences": [
-      {
-        "dutch": "Kom hier!",
-        "english": "Come here!"
-      }
-    ],
-    "mnemonic": ""
-  },
-  {
-    "id": 510,
-    "rank": 510,
-    "dutch": "daar",
-    "english": "there",
-    "partOfSpeech": "adverb",
-    "sentences": [
-      {
-        "dutch": "Het is daar.",
-        "english": "It's there."
-      }
-    ],
-    "mnemonic": ""
-  },
-  {
     "id": 511,
-    "rank": 511,
+    "rank": 418,
     "dutch": "ergens",
     "english": "somewhere",
     "partOfSpeech": "adverb",
@@ -7320,7 +6577,7 @@
   },
   {
     "id": 512,
-    "rank": 512,
+    "rank": 419,
     "dutch": "nergens",
     "english": "nowhere",
     "partOfSpeech": "adverb",
@@ -7334,7 +6591,7 @@
   },
   {
     "id": 513,
-    "rank": 513,
+    "rank": 420,
     "dutch": "overal",
     "english": "everywhere",
     "partOfSpeech": "adverb",
@@ -7348,50 +6605,8 @@
     "note": "Over means 'over' and al means 'all'. Over-all = everywhere!"
   },
   {
-    "id": 514,
-    "rank": 514,
-    "dutch": "samen",
-    "english": "together",
-    "partOfSpeech": "adverb",
-    "sentences": [
-      {
-        "dutch": "Wij werken samen.",
-        "english": "We work together."
-      }
-    ],
-    "mnemonic": ""
-  },
-  {
-    "id": 515,
-    "rank": 515,
-    "dutch": "alleen",
-    "english": "alone, only",
-    "partOfSpeech": "adverb",
-    "sentences": [
-      {
-        "dutch": "Ik woon alleen.",
-        "english": "I live alone."
-      }
-    ],
-    "mnemonic": ""
-  },
-  {
-    "id": 516,
-    "rank": 516,
-    "dutch": "ook",
-    "english": "also",
-    "partOfSpeech": "adverb",
-    "sentences": [
-      {
-        "dutch": "Ik wil ook komen.",
-        "english": "I want to come too."
-      }
-    ],
-    "mnemonic": ""
-  },
-  {
     "id": 517,
-    "rank": 517,
+    "rank": 421,
     "dutch": "weer",
     "english": "again, weather",
     "partOfSpeech": "adverb",
@@ -7399,41 +6614,17 @@
       {
         "dutch": "Ik probeer het weer.",
         "english": "I try again."
-      }
-    ],
-    "mnemonic": ""
-  },
-  {
-    "id": 518,
-    "rank": 518,
-    "dutch": "goed",
-    "english": "good, well",
-    "partOfSpeech": "adverb",
-    "sentences": [
+      },
       {
-        "dutch": "Het gaat goed.",
-        "english": "It's going well."
-      }
-    ],
-    "mnemonic": ""
-  },
-  {
-    "id": 519,
-    "rank": 519,
-    "dutch": "slecht",
-    "english": "bad, badly",
-    "partOfSpeech": "adverb",
-    "sentences": [
-      {
-        "dutch": "Het gaat slecht.",
-        "english": "It's going badly."
+        "dutch": "Het weer is goed.",
+        "english": "The weather is good."
       }
     ],
     "mnemonic": ""
   },
   {
     "id": 520,
-    "rank": 520,
+    "rank": 422,
     "dutch": "erg",
     "english": "very, bad",
     "partOfSpeech": "adverb",
@@ -7446,50 +6637,8 @@
     "mnemonic": ""
   },
   {
-    "id": 521,
-    "rank": 521,
-    "dutch": "heel",
-    "english": "very, whole",
-    "partOfSpeech": "adverb",
-    "sentences": [
-      {
-        "dutch": "Dat is heel mooi.",
-        "english": "That's very beautiful."
-      }
-    ],
-    "mnemonic": ""
-  },
-  {
-    "id": 522,
-    "rank": 522,
-    "dutch": "veel",
-    "english": "much, many",
-    "partOfSpeech": "adverb",
-    "sentences": [
-      {
-        "dutch": "Ik heb veel werk.",
-        "english": "I have a lot of work."
-      }
-    ],
-    "mnemonic": ""
-  },
-  {
-    "id": 523,
-    "rank": 523,
-    "dutch": "weinig",
-    "english": "little, few",
-    "partOfSpeech": "adverb",
-    "sentences": [
-      {
-        "dutch": "Ik heb weinig tijd.",
-        "english": "I have little time."
-      }
-    ],
-    "mnemonic": ""
-  },
-  {
     "id": 524,
-    "rank": 524,
+    "rank": 423,
     "dutch": "meer",
     "english": "more",
     "partOfSpeech": "adverb",
@@ -7503,7 +6652,7 @@
   },
   {
     "id": 525,
-    "rank": 525,
+    "rank": 424,
     "dutch": "minder",
     "english": "less",
     "partOfSpeech": "adverb",
@@ -7517,7 +6666,7 @@
   },
   {
     "id": 526,
-    "rank": 526,
+    "rank": 425,
     "dutch": "genoeg",
     "english": "enough",
     "partOfSpeech": "adverb",
@@ -7531,7 +6680,7 @@
   },
   {
     "id": 527,
-    "rank": 527,
+    "rank": 426,
     "dutch": "te",
     "english": "too",
     "partOfSpeech": "adverb",
@@ -7545,7 +6694,7 @@
   },
   {
     "id": 528,
-    "rank": 528,
+    "rank": 427,
     "dutch": "zo",
     "english": "so",
     "partOfSpeech": "adverb",
@@ -7558,38 +6707,8 @@
     "mnemonic": ""
   },
   {
-    "id": 529,
-    "rank": 529,
-    "dutch": "straat",
-    "english": "street",
-    "partOfSpeech": "noun",
-    "gender": "de",
-    "sentences": [
-      {
-        "dutch": "Ik woon in deze straat.",
-        "english": "I live on this street."
-      }
-    ],
-    "mnemonic": ""
-  },
-  {
-    "id": 530,
-    "rank": 530,
-    "dutch": "weg",
-    "english": "road, way",
-    "partOfSpeech": "noun",
-    "gender": "de",
-    "sentences": [
-      {
-        "dutch": "Welke weg neem je?",
-        "english": "Which road do you take?"
-      }
-    ],
-    "mnemonic": ""
-  },
-  {
     "id": 531,
-    "rank": 531,
+    "rank": 428,
     "dutch": "brug",
     "english": "bridge",
     "partOfSpeech": "noun",
@@ -7604,7 +6723,7 @@
   },
   {
     "id": 532,
-    "rank": 532,
+    "rank": 429,
     "dutch": "plein",
     "english": "square",
     "partOfSpeech": "noun",
@@ -7619,7 +6738,7 @@
   },
   {
     "id": 533,
-    "rank": 533,
+    "rank": 430,
     "dutch": "hoek",
     "english": "corner",
     "partOfSpeech": "noun",
@@ -7634,7 +6753,7 @@
   },
   {
     "id": 534,
-    "rank": 534,
+    "rank": 431,
     "dutch": "richting",
     "english": "direction",
     "partOfSpeech": "noun",
@@ -7649,7 +6768,7 @@
   },
   {
     "id": 535,
-    "rank": 535,
+    "rank": 432,
     "dutch": "links",
     "english": "left",
     "partOfSpeech": "adverb",
@@ -7663,7 +6782,7 @@
   },
   {
     "id": 536,
-    "rank": 536,
+    "rank": 433,
     "dutch": "rechts",
     "english": "right",
     "partOfSpeech": "adverb",
@@ -7677,7 +6796,7 @@
   },
   {
     "id": 537,
-    "rank": 537,
+    "rank": 434,
     "dutch": "rechtdoor",
     "english": "straight ahead",
     "partOfSpeech": "adverb",
@@ -7690,64 +6809,8 @@
     "mnemonic": ""
   },
   {
-    "id": 538,
-    "rank": 538,
-    "dutch": "terug",
-    "english": "back",
-    "partOfSpeech": "adverb",
-    "sentences": [
-      {
-        "dutch": "Ik kom terug.",
-        "english": "I'll be back."
-      }
-    ],
-    "mnemonic": ""
-  },
-  {
-    "id": 539,
-    "rank": 539,
-    "dutch": "binnen",
-    "english": "inside",
-    "partOfSpeech": "adverb",
-    "sentences": [
-      {
-        "dutch": "Kom binnen!",
-        "english": "Come inside!"
-      }
-    ],
-    "mnemonic": ""
-  },
-  {
-    "id": 540,
-    "rank": 540,
-    "dutch": "buiten",
-    "english": "outside",
-    "partOfSpeech": "adverb",
-    "sentences": [
-      {
-        "dutch": "Het regent buiten.",
-        "english": "It's raining outside."
-      }
-    ],
-    "mnemonic": ""
-  },
-  {
-    "id": 541,
-    "rank": 541,
-    "dutch": "boven",
-    "english": "above, upstairs",
-    "partOfSpeech": "adverb",
-    "sentences": [
-      {
-        "dutch": "Ik woon boven.",
-        "english": "I live upstairs."
-      }
-    ],
-    "mnemonic": ""
-  },
-  {
     "id": 542,
-    "rank": 542,
+    "rank": 435,
     "dutch": "beneden",
     "english": "below, downstairs",
     "partOfSpeech": "adverb",
@@ -7760,23 +6823,8 @@
     "mnemonic": ""
   },
   {
-    "id": 543,
-    "rank": 543,
-    "dutch": "bus",
-    "english": "bus",
-    "partOfSpeech": "noun",
-    "gender": "de",
-    "sentences": [
-      {
-        "dutch": "De bus komt eraan.",
-        "english": "The bus is coming."
-      }
-    ],
-    "mnemonic": ""
-  },
-  {
     "id": 544,
-    "rank": 544,
+    "rank": 436,
     "dutch": "tram",
     "english": "tram",
     "partOfSpeech": "noun",
@@ -7791,7 +6839,7 @@
   },
   {
     "id": 545,
-    "rank": 545,
+    "rank": 437,
     "dutch": "metro",
     "english": "metro",
     "partOfSpeech": "noun",
@@ -7805,24 +6853,8 @@
     "mnemonic": ""
   },
   {
-    "id": 546,
-    "rank": 546,
-    "dutch": "vliegtuig",
-    "english": "airplane",
-    "partOfSpeech": "noun",
-    "gender": "het",
-    "sentences": [
-      {
-        "dutch": "Het vliegtuig vertrekt.",
-        "english": "The airplane is departing."
-      }
-    ],
-    "mnemonic": "",
-    "note": "Vlieg means 'fly' and tuig means 'craft' or 'gear'. A fly-craft!"
-  },
-  {
     "id": 547,
-    "rank": 547,
+    "rank": 438,
     "dutch": "boot",
     "english": "boat",
     "partOfSpeech": "noun",
@@ -7836,23 +6868,8 @@
     "mnemonic": ""
   },
   {
-    "id": 548,
-    "rank": 548,
-    "dutch": "station",
-    "english": "station",
-    "partOfSpeech": "noun",
-    "gender": "het",
-    "sentences": [
-      {
-        "dutch": "Ik wacht op het station.",
-        "english": "I wait at the station."
-      }
-    ],
-    "mnemonic": ""
-  },
-  {
     "id": 549,
-    "rank": 549,
+    "rank": 439,
     "dutch": "luchthaven",
     "english": "airport",
     "partOfSpeech": "noun",
@@ -7867,7 +6884,7 @@
   },
   {
     "id": 550,
-    "rank": 550,
+    "rank": 440,
     "dutch": "halte",
     "english": "stop (bus/tram)",
     "partOfSpeech": "noun",
@@ -7882,7 +6899,7 @@
   },
   {
     "id": 551,
-    "rank": 551,
+    "rank": 441,
     "dutch": "kaartje",
     "english": "ticket",
     "partOfSpeech": "noun",
@@ -7897,7 +6914,7 @@
   },
   {
     "id": 552,
-    "rank": 552,
+    "rank": 442,
     "dutch": "paspoort",
     "english": "passport",
     "partOfSpeech": "noun",
@@ -7906,13 +6923,17 @@
       {
         "dutch": "Heb je je paspoort?",
         "english": "Do you have your passport?"
+      },
+      {
+        "dutch": "Mag ik je paspoort zien?",
+        "english": "May I see your passport?"
       }
     ],
     "mnemonic": ""
   },
   {
     "id": 553,
-    "rank": 553,
+    "rank": 443,
     "dutch": "bagage",
     "english": "luggage",
     "partOfSpeech": "noun",
@@ -7927,7 +6948,7 @@
   },
   {
     "id": 554,
-    "rank": 554,
+    "rank": 444,
     "dutch": "koffer",
     "english": "suitcase",
     "partOfSpeech": "noun",
@@ -7942,7 +6963,7 @@
   },
   {
     "id": 555,
-    "rank": 555,
+    "rank": 445,
     "dutch": "tas",
     "english": "bag",
     "partOfSpeech": "noun",
@@ -7957,7 +6978,7 @@
   },
   {
     "id": 556,
-    "rank": 556,
+    "rank": 446,
     "dutch": "portemonnee",
     "english": "wallet",
     "partOfSpeech": "noun",
@@ -7972,7 +6993,7 @@
   },
   {
     "id": 557,
-    "rank": 557,
+    "rank": 447,
     "dutch": "sleutel",
     "english": "key",
     "partOfSpeech": "noun",
@@ -7986,38 +7007,8 @@
     "mnemonic": ""
   },
   {
-    "id": 558,
-    "rank": 558,
-    "dutch": "telefoon",
-    "english": "telephone",
-    "partOfSpeech": "noun",
-    "gender": "de",
-    "sentences": [
-      {
-        "dutch": "Mijn telefoon is kapot.",
-        "english": "My phone is broken."
-      }
-    ],
-    "mnemonic": ""
-  },
-  {
-    "id": 559,
-    "rank": 559,
-    "dutch": "computer",
-    "english": "computer",
-    "partOfSpeech": "noun",
-    "gender": "de",
-    "sentences": [
-      {
-        "dutch": "Ik werk op de computer.",
-        "english": "I work on the computer."
-      }
-    ],
-    "mnemonic": ""
-  },
-  {
     "id": 560,
-    "rank": 560,
+    "rank": 448,
     "dutch": "internet",
     "english": "internet",
     "partOfSpeech": "noun",
@@ -8032,7 +7023,7 @@
   },
   {
     "id": 561,
-    "rank": 561,
+    "rank": 449,
     "dutch": "bericht",
     "english": "message",
     "partOfSpeech": "noun",
@@ -8047,7 +7038,7 @@
   },
   {
     "id": 562,
-    "rank": 562,
+    "rank": 450,
     "dutch": "email",
     "english": "email",
     "partOfSpeech": "noun",
@@ -8062,7 +7053,7 @@
   },
   {
     "id": 563,
-    "rank": 563,
+    "rank": 451,
     "dutch": "wachtwoord",
     "english": "password",
     "partOfSpeech": "noun",
@@ -8076,53 +7067,8 @@
     "mnemonic": ""
   },
   {
-    "id": 564,
-    "rank": 564,
-    "dutch": "foto",
-    "english": "photo",
-    "partOfSpeech": "noun",
-    "gender": "de",
-    "sentences": [
-      {
-        "dutch": "Ik maak een foto.",
-        "english": "I take a photo."
-      }
-    ],
-    "mnemonic": ""
-  },
-  {
-    "id": 565,
-    "rank": 565,
-    "dutch": "film",
-    "english": "movie, film",
-    "partOfSpeech": "noun",
-    "gender": "de",
-    "sentences": [
-      {
-        "dutch": "Ik kijk een film.",
-        "english": "I watch a movie."
-      }
-    ],
-    "mnemonic": ""
-  },
-  {
-    "id": 566,
-    "rank": 566,
-    "dutch": "muziek",
-    "english": "music",
-    "partOfSpeech": "noun",
-    "gender": "de",
-    "sentences": [
-      {
-        "dutch": "Ik luister naar muziek.",
-        "english": "I listen to music."
-      }
-    ],
-    "mnemonic": ""
-  },
-  {
     "id": 567,
-    "rank": 567,
+    "rank": 452,
     "dutch": "lied",
     "english": "song",
     "partOfSpeech": "noun",
@@ -8137,7 +7083,7 @@
   },
   {
     "id": 568,
-    "rank": 568,
+    "rank": 453,
     "dutch": "kunst",
     "english": "art",
     "partOfSpeech": "noun",
@@ -8152,7 +7098,7 @@
   },
   {
     "id": 569,
-    "rank": 569,
+    "rank": 454,
     "dutch": "museum",
     "english": "museum",
     "partOfSpeech": "noun",
@@ -8167,7 +7113,7 @@
   },
   {
     "id": 570,
-    "rank": 570,
+    "rank": 455,
     "dutch": "theater",
     "english": "theater",
     "partOfSpeech": "noun",
@@ -8182,7 +7128,7 @@
   },
   {
     "id": 571,
-    "rank": 571,
+    "rank": 456,
     "dutch": "bioscoop",
     "english": "cinema",
     "partOfSpeech": "noun",
@@ -8197,7 +7143,7 @@
   },
   {
     "id": 572,
-    "rank": 572,
+    "rank": 457,
     "dutch": "concert",
     "english": "concert",
     "partOfSpeech": "noun",
@@ -8211,98 +7157,8 @@
     "mnemonic": ""
   },
   {
-    "id": 573,
-    "rank": 573,
-    "dutch": "feest",
-    "english": "party",
-    "partOfSpeech": "noun",
-    "gender": "het",
-    "sentences": [
-      {
-        "dutch": "We gaan naar een feest.",
-        "english": "We go to a party."
-      }
-    ],
-    "mnemonic": ""
-  },
-  {
-    "id": 574,
-    "rank": 574,
-    "dutch": "vakantie",
-    "english": "vacation",
-    "partOfSpeech": "noun",
-    "gender": "de",
-    "sentences": [
-      {
-        "dutch": "Ik ga op vakantie.",
-        "english": "I'm going on vacation."
-      }
-    ],
-    "mnemonic": ""
-  },
-  {
-    "id": 575,
-    "rank": 575,
-    "dutch": "reis",
-    "english": "trip, journey",
-    "partOfSpeech": "noun",
-    "gender": "de",
-    "sentences": [
-      {
-        "dutch": "De reis was lang.",
-        "english": "The trip was long."
-      }
-    ],
-    "mnemonic": ""
-  },
-  {
-    "id": 576,
-    "rank": 576,
-    "dutch": "hotel",
-    "english": "hotel",
-    "partOfSpeech": "noun",
-    "gender": "het",
-    "sentences": [
-      {
-        "dutch": "We slapen in een hotel.",
-        "english": "We sleep in a hotel."
-      }
-    ],
-    "mnemonic": ""
-  },
-  {
-    "id": 577,
-    "rank": 577,
-    "dutch": "kamer",
-    "english": "room",
-    "partOfSpeech": "noun",
-    "gender": "de",
-    "sentences": [
-      {
-        "dutch": "De kamer is groot.",
-        "english": "The room is big."
-      }
-    ],
-    "mnemonic": ""
-  },
-  {
-    "id": 578,
-    "rank": 578,
-    "dutch": "bed",
-    "english": "bed",
-    "partOfSpeech": "noun",
-    "gender": "het",
-    "sentences": [
-      {
-        "dutch": "Ik ga naar bed.",
-        "english": "I go to bed."
-      }
-    ],
-    "mnemonic": ""
-  },
-  {
     "id": 579,
-    "rank": 579,
+    "rank": 458,
     "dutch": "badkamer",
     "english": "bathroom",
     "partOfSpeech": "noun",
@@ -8317,7 +7173,7 @@
   },
   {
     "id": 580,
-    "rank": 580,
+    "rank": 459,
     "dutch": "toilet",
     "english": "toilet",
     "partOfSpeech": "noun",
@@ -8332,7 +7188,7 @@
   },
   {
     "id": 581,
-    "rank": 581,
+    "rank": 460,
     "dutch": "douche",
     "english": "shower",
     "partOfSpeech": "noun",
@@ -8347,7 +7203,7 @@
   },
   {
     "id": 582,
-    "rank": 582,
+    "rank": 461,
     "dutch": "spiegel",
     "english": "mirror",
     "partOfSpeech": "noun",
@@ -8362,7 +7218,7 @@
   },
   {
     "id": 583,
-    "rank": 583,
+    "rank": 462,
     "dutch": "handdoek",
     "english": "towel",
     "partOfSpeech": "noun",
@@ -8377,7 +7233,7 @@
   },
   {
     "id": 584,
-    "rank": 584,
+    "rank": 463,
     "dutch": "zeep",
     "english": "soap",
     "partOfSpeech": "noun",
@@ -8392,7 +7248,7 @@
   },
   {
     "id": 585,
-    "rank": 585,
+    "rank": 464,
     "dutch": "tandenborstel",
     "english": "toothbrush",
     "partOfSpeech": "noun",
@@ -8406,23 +7262,8 @@
     "mnemonic": ""
   },
   {
-    "id": 586,
-    "rank": 586,
-    "dutch": "keuken",
-    "english": "kitchen",
-    "partOfSpeech": "noun",
-    "gender": "de",
-    "sentences": [
-      {
-        "dutch": "Ik kook in de keuken.",
-        "english": "I cook in the kitchen."
-      }
-    ],
-    "mnemonic": ""
-  },
-  {
     "id": 587,
-    "rank": 587,
+    "rank": 465,
     "dutch": "woonkamer",
     "english": "living room",
     "partOfSpeech": "noun",
@@ -8437,7 +7278,7 @@
   },
   {
     "id": 588,
-    "rank": 588,
+    "rank": 466,
     "dutch": "slaapkamer",
     "english": "bedroom",
     "partOfSpeech": "noun",
@@ -8451,23 +7292,8 @@
     "mnemonic": ""
   },
   {
-    "id": 589,
-    "rank": 589,
-    "dutch": "tuin",
-    "english": "garden",
-    "partOfSpeech": "noun",
-    "gender": "de",
-    "sentences": [
-      {
-        "dutch": "Ik werk in de tuin.",
-        "english": "I work in the garden."
-      }
-    ],
-    "mnemonic": ""
-  },
-  {
     "id": 590,
-    "rank": 590,
+    "rank": 467,
     "dutch": "balkon",
     "english": "balcony",
     "partOfSpeech": "noun",
@@ -8482,7 +7308,7 @@
   },
   {
     "id": 591,
-    "rank": 591,
+    "rank": 468,
     "dutch": "trap",
     "english": "stairs",
     "partOfSpeech": "noun",
@@ -8497,7 +7323,7 @@
   },
   {
     "id": 592,
-    "rank": 592,
+    "rank": 469,
     "dutch": "lift",
     "english": "elevator",
     "partOfSpeech": "noun",
@@ -8512,7 +7338,7 @@
   },
   {
     "id": 593,
-    "rank": 593,
+    "rank": 470,
     "dutch": "verdieping",
     "english": "floor (level)",
     "partOfSpeech": "noun",
@@ -8527,7 +7353,7 @@
   },
   {
     "id": 594,
-    "rank": 594,
+    "rank": 471,
     "dutch": "muur",
     "english": "wall",
     "partOfSpeech": "noun",
@@ -8542,7 +7368,7 @@
   },
   {
     "id": 595,
-    "rank": 595,
+    "rank": 472,
     "dutch": "vloer",
     "english": "floor",
     "partOfSpeech": "noun",
@@ -8557,7 +7383,7 @@
   },
   {
     "id": 596,
-    "rank": 596,
+    "rank": 473,
     "dutch": "plafond",
     "english": "ceiling",
     "partOfSpeech": "noun",
@@ -8572,7 +7398,7 @@
   },
   {
     "id": 597,
-    "rank": 597,
+    "rank": 474,
     "dutch": "dak",
     "english": "roof",
     "partOfSpeech": "noun",
@@ -8586,68 +7412,8 @@
     "mnemonic": ""
   },
   {
-    "id": 598,
-    "rank": 598,
-    "dutch": "raam",
-    "english": "window",
-    "partOfSpeech": "noun",
-    "gender": "het",
-    "sentences": [
-      {
-        "dutch": "Open het raam.",
-        "english": "Open the window."
-      }
-    ],
-    "mnemonic": ""
-  },
-  {
-    "id": 599,
-    "rank": 599,
-    "dutch": "deur",
-    "english": "door",
-    "partOfSpeech": "noun",
-    "gender": "de",
-    "sentences": [
-      {
-        "dutch": "Sluit de deur.",
-        "english": "Close the door."
-      }
-    ],
-    "mnemonic": ""
-  },
-  {
-    "id": 600,
-    "rank": 600,
-    "dutch": "stoel",
-    "english": "chair",
-    "partOfSpeech": "noun",
-    "gender": "de",
-    "sentences": [
-      {
-        "dutch": "Ga op de stoel zitten.",
-        "english": "Sit on the chair."
-      }
-    ],
-    "mnemonic": ""
-  },
-  {
-    "id": 601,
-    "rank": 601,
-    "dutch": "tafel",
-    "english": "table",
-    "partOfSpeech": "noun",
-    "gender": "de",
-    "sentences": [
-      {
-        "dutch": "Het eten staat op tafel.",
-        "english": "The food is on the table."
-      }
-    ],
-    "mnemonic": ""
-  },
-  {
     "id": 602,
-    "rank": 602,
+    "rank": 475,
     "dutch": "bank",
     "english": "couch, sofa, bank",
     "partOfSpeech": "noun",
@@ -8656,13 +7422,17 @@
       {
         "dutch": "Ik zit op de bank.",
         "english": "I sit on the couch."
+      },
+      {
+        "dutch": "De bank sluit om vijf uur.",
+        "english": "The bank closes at five."
       }
     ],
     "mnemonic": ""
   },
   {
     "id": 603,
-    "rank": 603,
+    "rank": 476,
     "dutch": "kast",
     "english": "closet, cabinet",
     "partOfSpeech": "noun",
@@ -8677,7 +7447,7 @@
   },
   {
     "id": 604,
-    "rank": 604,
+    "rank": 477,
     "dutch": "lamp",
     "english": "lamp",
     "partOfSpeech": "noun",
@@ -8692,7 +7462,7 @@
   },
   {
     "id": 605,
-    "rank": 605,
+    "rank": 478,
     "dutch": "televisie",
     "english": "television",
     "partOfSpeech": "noun",
@@ -8707,7 +7477,7 @@
   },
   {
     "id": 606,
-    "rank": 606,
+    "rank": 479,
     "dutch": "koelkast",
     "english": "refrigerator",
     "partOfSpeech": "noun",
@@ -8722,7 +7492,7 @@
   },
   {
     "id": 607,
-    "rank": 607,
+    "rank": 480,
     "dutch": "oven",
     "english": "oven",
     "partOfSpeech": "noun",
@@ -8737,7 +7507,7 @@
   },
   {
     "id": 608,
-    "rank": 608,
+    "rank": 481,
     "dutch": "magnetron",
     "english": "microwave",
     "partOfSpeech": "noun",
@@ -8752,7 +7522,7 @@
   },
   {
     "id": 609,
-    "rank": 609,
+    "rank": 482,
     "dutch": "vork",
     "english": "fork",
     "partOfSpeech": "noun",
@@ -8767,7 +7537,7 @@
   },
   {
     "id": 610,
-    "rank": 610,
+    "rank": 483,
     "dutch": "mes",
     "english": "knife",
     "partOfSpeech": "noun",
@@ -8782,7 +7552,7 @@
   },
   {
     "id": 611,
-    "rank": 611,
+    "rank": 484,
     "dutch": "lepel",
     "english": "spoon",
     "partOfSpeech": "noun",
@@ -8797,7 +7567,7 @@
   },
   {
     "id": 612,
-    "rank": 612,
+    "rank": 485,
     "dutch": "bord",
     "english": "plate",
     "partOfSpeech": "noun",
@@ -8812,7 +7582,7 @@
   },
   {
     "id": 613,
-    "rank": 613,
+    "rank": 486,
     "dutch": "kopje",
     "english": "cup",
     "partOfSpeech": "noun",
@@ -8827,7 +7597,7 @@
   },
   {
     "id": 614,
-    "rank": 614,
+    "rank": 487,
     "dutch": "glas",
     "english": "glass",
     "partOfSpeech": "noun",
@@ -8842,7 +7612,7 @@
   },
   {
     "id": 615,
-    "rank": 615,
+    "rank": 488,
     "dutch": "fles",
     "english": "bottle",
     "partOfSpeech": "noun",
@@ -8857,7 +7627,7 @@
   },
   {
     "id": 616,
-    "rank": 616,
+    "rank": 489,
     "dutch": "pan",
     "english": "pan",
     "partOfSpeech": "noun",
@@ -8872,7 +7642,7 @@
   },
   {
     "id": 617,
-    "rank": 617,
+    "rank": 490,
     "dutch": "pot",
     "english": "pot",
     "partOfSpeech": "noun",
@@ -8887,7 +7657,7 @@
   },
   {
     "id": 618,
-    "rank": 618,
+    "rank": 491,
     "dutch": "kleding",
     "english": "clothing",
     "partOfSpeech": "noun",
@@ -8902,7 +7672,7 @@
   },
   {
     "id": 619,
-    "rank": 619,
+    "rank": 492,
     "dutch": "broek",
     "english": "pants",
     "partOfSpeech": "noun",
@@ -8917,7 +7687,7 @@
   },
   {
     "id": 620,
-    "rank": 620,
+    "rank": 493,
     "dutch": "overhemd",
     "english": "shirt (dress)",
     "partOfSpeech": "noun",
@@ -8932,7 +7702,7 @@
   },
   {
     "id": 621,
-    "rank": 621,
+    "rank": 494,
     "dutch": "shirt",
     "english": "t-shirt",
     "partOfSpeech": "noun",
@@ -8947,7 +7717,7 @@
   },
   {
     "id": 622,
-    "rank": 622,
+    "rank": 495,
     "dutch": "trui",
     "english": "sweater",
     "partOfSpeech": "noun",
@@ -8962,7 +7732,7 @@
   },
   {
     "id": 623,
-    "rank": 623,
+    "rank": 496,
     "dutch": "jas",
     "english": "coat, jacket",
     "partOfSpeech": "noun",
@@ -8977,7 +7747,7 @@
   },
   {
     "id": 624,
-    "rank": 624,
+    "rank": 497,
     "dutch": "rok",
     "english": "skirt",
     "partOfSpeech": "noun",
@@ -8992,7 +7762,7 @@
   },
   {
     "id": 625,
-    "rank": 625,
+    "rank": 498,
     "dutch": "jurk",
     "english": "dress",
     "partOfSpeech": "noun",
@@ -9007,7 +7777,7 @@
   },
   {
     "id": 626,
-    "rank": 626,
+    "rank": 499,
     "dutch": "schoen",
     "english": "shoe",
     "partOfSpeech": "noun",
@@ -9022,7 +7792,7 @@
   },
   {
     "id": 627,
-    "rank": 627,
+    "rank": 500,
     "dutch": "laars",
     "english": "boot",
     "partOfSpeech": "noun",
@@ -9037,7 +7807,7 @@
   },
   {
     "id": 628,
-    "rank": 628,
+    "rank": 501,
     "dutch": "sok",
     "english": "sock",
     "partOfSpeech": "noun",
@@ -9052,7 +7822,7 @@
   },
   {
     "id": 629,
-    "rank": 629,
+    "rank": 502,
     "dutch": "muts",
     "english": "hat (winter)",
     "partOfSpeech": "noun",
@@ -9067,7 +7837,7 @@
   },
   {
     "id": 630,
-    "rank": 630,
+    "rank": 503,
     "dutch": "handschoen",
     "english": "glove",
     "partOfSpeech": "noun",
@@ -9082,7 +7852,7 @@
   },
   {
     "id": 631,
-    "rank": 631,
+    "rank": 504,
     "dutch": "sjaal",
     "english": "scarf",
     "partOfSpeech": "noun",
@@ -9097,7 +7867,7 @@
   },
   {
     "id": 632,
-    "rank": 632,
+    "rank": 505,
     "dutch": "paraplu",
     "english": "umbrella",
     "partOfSpeech": "noun",
@@ -9112,7 +7882,7 @@
   },
   {
     "id": 633,
-    "rank": 633,
+    "rank": 506,
     "dutch": "bril",
     "english": "glasses",
     "partOfSpeech": "noun",
@@ -9127,7 +7897,7 @@
   },
   {
     "id": 634,
-    "rank": 634,
+    "rank": 507,
     "dutch": "horloge",
     "english": "watch",
     "partOfSpeech": "noun",
@@ -9142,7 +7912,7 @@
   },
   {
     "id": 635,
-    "rank": 635,
+    "rank": 508,
     "dutch": "ring",
     "english": "ring",
     "partOfSpeech": "noun",
@@ -9157,7 +7927,7 @@
   },
   {
     "id": 636,
-    "rank": 636,
+    "rank": 509,
     "dutch": "ketting",
     "english": "necklace, chain",
     "partOfSpeech": "noun",
@@ -9171,53 +7941,8 @@
     "mnemonic": ""
   },
   {
-    "id": 637,
-    "rank": 637,
-    "dutch": "weer",
-    "english": "again, weather",
-    "partOfSpeech": "noun",
-    "gender": "het",
-    "sentences": [
-      {
-        "dutch": "Het weer is goed.",
-        "english": "The weather is good."
-      }
-    ],
-    "mnemonic": ""
-  },
-  {
-    "id": 638,
-    "rank": 638,
-    "dutch": "zon",
-    "english": "sun",
-    "partOfSpeech": "noun",
-    "gender": "de",
-    "sentences": [
-      {
-        "dutch": "De zon schijnt.",
-        "english": "The sun is shining."
-      }
-    ],
-    "mnemonic": ""
-  },
-  {
-    "id": 639,
-    "rank": 639,
-    "dutch": "maan",
-    "english": "moon",
-    "partOfSpeech": "noun",
-    "gender": "de",
-    "sentences": [
-      {
-        "dutch": "De maan is vol.",
-        "english": "The moon is full."
-      }
-    ],
-    "mnemonic": ""
-  },
-  {
     "id": 640,
-    "rank": 640,
+    "rank": 510,
     "dutch": "ster",
     "english": "star",
     "partOfSpeech": "noun",
@@ -9232,7 +7957,7 @@
   },
   {
     "id": 641,
-    "rank": 641,
+    "rank": 511,
     "dutch": "lucht",
     "english": "air, sky",
     "partOfSpeech": "noun",
@@ -9247,7 +7972,7 @@
   },
   {
     "id": 642,
-    "rank": 642,
+    "rank": 512,
     "dutch": "wolk",
     "english": "cloud",
     "partOfSpeech": "noun",
@@ -9261,53 +7986,8 @@
     "mnemonic": ""
   },
   {
-    "id": 643,
-    "rank": 643,
-    "dutch": "regen",
-    "english": "rain",
-    "partOfSpeech": "noun",
-    "gender": "de",
-    "sentences": [
-      {
-        "dutch": "Het regent hard.",
-        "english": "It's raining hard."
-      }
-    ],
-    "mnemonic": ""
-  },
-  {
-    "id": 644,
-    "rank": 644,
-    "dutch": "sneeuw",
-    "english": "snow",
-    "partOfSpeech": "noun",
-    "gender": "de",
-    "sentences": [
-      {
-        "dutch": "Het sneeuwt!",
-        "english": "It's snowing!"
-      }
-    ],
-    "mnemonic": ""
-  },
-  {
-    "id": 645,
-    "rank": 645,
-    "dutch": "wind",
-    "english": "wind",
-    "partOfSpeech": "noun",
-    "gender": "de",
-    "sentences": [
-      {
-        "dutch": "De wind waait hard.",
-        "english": "The wind blows hard."
-      }
-    ],
-    "mnemonic": ""
-  },
-  {
     "id": 646,
-    "rank": 646,
+    "rank": 513,
     "dutch": "storm",
     "english": "storm",
     "partOfSpeech": "noun",
@@ -9322,7 +8002,7 @@
   },
   {
     "id": 647,
-    "rank": 647,
+    "rank": 514,
     "dutch": "temperatuur",
     "english": "temperature",
     "partOfSpeech": "noun",
@@ -9337,7 +8017,7 @@
   },
   {
     "id": 648,
-    "rank": 648,
+    "rank": 515,
     "dutch": "graad",
     "english": "degree",
     "partOfSpeech": "noun",
@@ -9352,7 +8032,7 @@
   },
   {
     "id": 649,
-    "rank": 649,
+    "rank": 516,
     "dutch": "seizoen",
     "english": "season",
     "partOfSpeech": "noun",
@@ -9366,395 +8046,8 @@
     "mnemonic": ""
   },
   {
-    "id": 650,
-    "rank": 650,
-    "dutch": "lente",
-    "english": "spring",
-    "partOfSpeech": "noun",
-    "gender": "de",
-    "sentences": [
-      {
-        "dutch": "In de lente bloeien de bloemen.",
-        "english": "In spring the flowers bloom."
-      }
-    ],
-    "mnemonic": ""
-  },
-  {
-    "id": 651,
-    "rank": 651,
-    "dutch": "zomer",
-    "english": "summer",
-    "partOfSpeech": "noun",
-    "gender": "de",
-    "sentences": [
-      {
-        "dutch": "De zomer is warm.",
-        "english": "Summer is warm."
-      }
-    ],
-    "mnemonic": ""
-  },
-  {
-    "id": 652,
-    "rank": 652,
-    "dutch": "herfst",
-    "english": "autumn",
-    "partOfSpeech": "noun",
-    "gender": "de",
-    "sentences": [
-      {
-        "dutch": "De bladeren vallen in de herfst.",
-        "english": "The leaves fall in autumn."
-      }
-    ],
-    "mnemonic": ""
-  },
-  {
-    "id": 653,
-    "rank": 653,
-    "dutch": "winter",
-    "english": "winter",
-    "partOfSpeech": "noun",
-    "gender": "de",
-    "sentences": [
-      {
-        "dutch": "De winter is koud.",
-        "english": "Winter is cold."
-      }
-    ],
-    "mnemonic": ""
-  },
-  {
-    "id": 654,
-    "rank": 654,
-    "dutch": "maandag",
-    "english": "Monday",
-    "partOfSpeech": "noun",
-    "gender": "de",
-    "sentences": [
-      {
-        "dutch": "Ik begin op maandag.",
-        "english": "I start on Monday."
-      }
-    ],
-    "mnemonic": ""
-  },
-  {
-    "id": 655,
-    "rank": 655,
-    "dutch": "dinsdag",
-    "english": "Tuesday",
-    "partOfSpeech": "noun",
-    "gender": "de",
-    "sentences": [
-      {
-        "dutch": "We komen dinsdag.",
-        "english": "We come on Tuesday."
-      }
-    ],
-    "mnemonic": ""
-  },
-  {
-    "id": 656,
-    "rank": 656,
-    "dutch": "woensdag",
-    "english": "Wednesday",
-    "partOfSpeech": "noun",
-    "gender": "de",
-    "sentences": [
-      {
-        "dutch": "Woensdag is vrij.",
-        "english": "Wednesday is free."
-      }
-    ],
-    "mnemonic": ""
-  },
-  {
-    "id": 657,
-    "rank": 657,
-    "dutch": "donderdag",
-    "english": "Thursday",
-    "partOfSpeech": "noun",
-    "gender": "de",
-    "sentences": [
-      {
-        "dutch": "De vergadering is donderdag.",
-        "english": "The meeting is Thursday."
-      }
-    ],
-    "mnemonic": ""
-  },
-  {
-    "id": 658,
-    "rank": 658,
-    "dutch": "vrijdag",
-    "english": "Friday",
-    "partOfSpeech": "noun",
-    "gender": "de",
-    "sentences": [
-      {
-        "dutch": "Het is eindelijk vrijdag!",
-        "english": "It's finally Friday!"
-      }
-    ],
-    "mnemonic": ""
-  },
-  {
-    "id": 659,
-    "rank": 659,
-    "dutch": "zaterdag",
-    "english": "Saturday",
-    "partOfSpeech": "noun",
-    "gender": "de",
-    "sentences": [
-      {
-        "dutch": "Ik werk niet op zaterdag.",
-        "english": "I don't work on Saturday."
-      }
-    ],
-    "mnemonic": ""
-  },
-  {
-    "id": 660,
-    "rank": 660,
-    "dutch": "zondag",
-    "english": "Sunday",
-    "partOfSpeech": "noun",
-    "gender": "de",
-    "sentences": [
-      {
-        "dutch": "Op zondag rust ik.",
-        "english": "On Sunday I rest."
-      }
-    ],
-    "mnemonic": ""
-  },
-  {
-    "id": 661,
-    "rank": 661,
-    "dutch": "januari",
-    "english": "January",
-    "partOfSpeech": "noun",
-    "gender": "de",
-    "sentences": [
-      {
-        "dutch": "Januari is koud.",
-        "english": "January is cold."
-      }
-    ],
-    "mnemonic": ""
-  },
-  {
-    "id": 662,
-    "rank": 662,
-    "dutch": "februari",
-    "english": "February",
-    "partOfSpeech": "noun",
-    "gender": "de",
-    "sentences": [
-      {
-        "dutch": "Februari is kort.",
-        "english": "February is short."
-      }
-    ],
-    "mnemonic": ""
-  },
-  {
-    "id": 663,
-    "rank": 663,
-    "dutch": "maart",
-    "english": "March",
-    "partOfSpeech": "noun",
-    "gender": "de",
-    "sentences": [
-      {
-        "dutch": "De lente begint in maart.",
-        "english": "Spring starts in March."
-      }
-    ],
-    "mnemonic": ""
-  },
-  {
-    "id": 664,
-    "rank": 664,
-    "dutch": "april",
-    "english": "April",
-    "partOfSpeech": "noun",
-    "gender": "de",
-    "sentences": [
-      {
-        "dutch": "April doet wat hij wil.",
-        "english": "April does what it wants."
-      }
-    ],
-    "mnemonic": ""
-  },
-  {
-    "id": 665,
-    "rank": 665,
-    "dutch": "mei",
-    "english": "May",
-    "partOfSpeech": "noun",
-    "gender": "de",
-    "sentences": [
-      {
-        "dutch": "Mei is een mooie maand.",
-        "english": "May is a beautiful month."
-      }
-    ],
-    "mnemonic": ""
-  },
-  {
-    "id": 666,
-    "rank": 666,
-    "dutch": "juni",
-    "english": "June",
-    "partOfSpeech": "noun",
-    "gender": "de",
-    "sentences": [
-      {
-        "dutch": "In juni is het lang licht.",
-        "english": "In June it's light for a long time."
-      }
-    ],
-    "mnemonic": ""
-  },
-  {
-    "id": 667,
-    "rank": 667,
-    "dutch": "juli",
-    "english": "July",
-    "partOfSpeech": "noun",
-    "gender": "de",
-    "sentences": [
-      {
-        "dutch": "Juli is de warmste maand.",
-        "english": "July is the warmest month."
-      }
-    ],
-    "mnemonic": ""
-  },
-  {
-    "id": 668,
-    "rank": 668,
-    "dutch": "augustus",
-    "english": "August",
-    "partOfSpeech": "noun",
-    "gender": "de",
-    "sentences": [
-      {
-        "dutch": "Ik ga op vakantie in augustus.",
-        "english": "I go on vacation in August."
-      }
-    ],
-    "mnemonic": ""
-  },
-  {
-    "id": 669,
-    "rank": 669,
-    "dutch": "september",
-    "english": "September",
-    "partOfSpeech": "noun",
-    "gender": "de",
-    "sentences": [
-      {
-        "dutch": "School begint in september.",
-        "english": "School starts in September."
-      }
-    ],
-    "mnemonic": ""
-  },
-  {
-    "id": 670,
-    "rank": 670,
-    "dutch": "oktober",
-    "english": "October",
-    "partOfSpeech": "noun",
-    "gender": "de",
-    "sentences": [
-      {
-        "dutch": "Oktober is herfst.",
-        "english": "October is autumn."
-      }
-    ],
-    "mnemonic": ""
-  },
-  {
-    "id": 671,
-    "rank": 671,
-    "dutch": "november",
-    "english": "November",
-    "partOfSpeech": "noun",
-    "gender": "de",
-    "sentences": [
-      {
-        "dutch": "November is grijs.",
-        "english": "November is grey."
-      }
-    ],
-    "mnemonic": ""
-  },
-  {
-    "id": 672,
-    "rank": 672,
-    "dutch": "december",
-    "english": "December",
-    "partOfSpeech": "noun",
-    "gender": "de",
-    "sentences": [
-      {
-        "dutch": "December is feestelijk.",
-        "english": "December is festive."
-      }
-    ],
-    "mnemonic": ""
-  },
-  {
-    "id": 673,
-    "rank": 673,
-    "dutch": "vandaag",
-    "english": "today",
-    "partOfSpeech": "adverb",
-    "sentences": [
-      {
-        "dutch": "Vandaag is een mooie dag.",
-        "english": "Today is a beautiful day."
-      }
-    ],
-    "mnemonic": ""
-  },
-  {
-    "id": 674,
-    "rank": 674,
-    "dutch": "morgen",
-    "english": "tomorrow",
-    "partOfSpeech": "adverb",
-    "sentences": [
-      {
-        "dutch": "Tot morgen!",
-        "english": "See you tomorrow!"
-      }
-    ],
-    "mnemonic": ""
-  },
-  {
-    "id": 675,
-    "rank": 675,
-    "dutch": "gisteren",
-    "english": "yesterday",
-    "partOfSpeech": "adverb",
-    "sentences": [
-      {
-        "dutch": "Gisteren was het warm.",
-        "english": "Yesterday it was warm."
-      }
-    ],
-    "mnemonic": ""
-  },
-  {
     "id": 676,
-    "rank": 676,
+    "rank": 517,
     "dutch": "overmorgen",
     "english": "day after tomorrow",
     "partOfSpeech": "adverb",
@@ -9768,7 +8061,7 @@
   },
   {
     "id": 677,
-    "rank": 677,
+    "rank": 518,
     "dutch": "eergisteren",
     "english": "day before yesterday",
     "partOfSpeech": "adverb",
@@ -9781,68 +8074,8 @@
     "mnemonic": ""
   },
   {
-    "id": 678,
-    "rank": 678,
-    "dutch": "ochtend",
-    "english": "morning",
-    "partOfSpeech": "noun",
-    "gender": "de",
-    "sentences": [
-      {
-        "dutch": "Goedemorgen! Het is ochtend.",
-        "english": "Good morning! It's morning."
-      }
-    ],
-    "mnemonic": ""
-  },
-  {
-    "id": 679,
-    "rank": 679,
-    "dutch": "middag",
-    "english": "afternoon",
-    "partOfSpeech": "noun",
-    "gender": "de",
-    "sentences": [
-      {
-        "dutch": "We eten in de middag.",
-        "english": "We eat in the afternoon."
-      }
-    ],
-    "mnemonic": ""
-  },
-  {
-    "id": 680,
-    "rank": 680,
-    "dutch": "avond",
-    "english": "evening",
-    "partOfSpeech": "noun",
-    "gender": "de",
-    "sentences": [
-      {
-        "dutch": "Goedenavond!",
-        "english": "Good evening!"
-      }
-    ],
-    "mnemonic": ""
-  },
-  {
-    "id": 681,
-    "rank": 681,
-    "dutch": "nacht",
-    "english": "night",
-    "partOfSpeech": "noun",
-    "gender": "de",
-    "sentences": [
-      {
-        "dutch": "De nacht is donker.",
-        "english": "The night is dark."
-      }
-    ],
-    "mnemonic": ""
-  },
-  {
     "id": 682,
-    "rank": 682,
+    "rank": 519,
     "dutch": "weekend",
     "english": "weekend",
     "partOfSpeech": "noun",
@@ -9857,7 +8090,7 @@
   },
   {
     "id": 683,
-    "rank": 683,
+    "rank": 520,
     "dutch": "een",
     "english": "one, a, an",
     "partOfSpeech": "number",
@@ -9865,139 +8098,17 @@
       {
         "dutch": "Ik heb een vraag.",
         "english": "I have one question."
-      }
-    ],
-    "mnemonic": ""
-  },
-  {
-    "id": 684,
-    "rank": 684,
-    "dutch": "twee",
-    "english": "two",
-    "partOfSpeech": "number",
-    "sentences": [
+      },
       {
-        "dutch": "Ik heb twee kinderen.",
-        "english": "I have two children."
-      }
-    ],
-    "mnemonic": ""
-  },
-  {
-    "id": 685,
-    "rank": 685,
-    "dutch": "drie",
-    "english": "three",
-    "partOfSpeech": "number",
-    "sentences": [
-      {
-        "dutch": "Er zijn drie stoelen.",
-        "english": "There are three chairs."
-      }
-    ],
-    "mnemonic": ""
-  },
-  {
-    "id": 686,
-    "rank": 686,
-    "dutch": "vier",
-    "english": "four",
-    "partOfSpeech": "number",
-    "sentences": [
-      {
-        "dutch": "Ik werk vier dagen.",
-        "english": "I work four days."
-      }
-    ],
-    "mnemonic": ""
-  },
-  {
-    "id": 687,
-    "rank": 687,
-    "dutch": "vijf",
-    "english": "five",
-    "partOfSpeech": "number",
-    "sentences": [
-      {
-        "dutch": "Het is vijf uur.",
-        "english": "It's five o'clock."
-      }
-    ],
-    "mnemonic": ""
-  },
-  {
-    "id": 688,
-    "rank": 688,
-    "dutch": "zes",
-    "english": "six",
-    "partOfSpeech": "number",
-    "sentences": [
-      {
-        "dutch": "Ik heb zes appels.",
-        "english": "I have six apples."
-      }
-    ],
-    "mnemonic": ""
-  },
-  {
-    "id": 689,
-    "rank": 689,
-    "dutch": "zeven",
-    "english": "seven",
-    "partOfSpeech": "number",
-    "sentences": [
-      {
-        "dutch": "Er zijn zeven dagen in een week.",
-        "english": "There are seven days in a week."
-      }
-    ],
-    "mnemonic": ""
-  },
-  {
-    "id": 690,
-    "rank": 690,
-    "dutch": "acht",
-    "english": "eight",
-    "partOfSpeech": "number",
-    "sentences": [
-      {
-        "dutch": "Ik werk acht uur per dag.",
-        "english": "I work eight hours per day."
-      }
-    ],
-    "mnemonic": ""
-  },
-  {
-    "id": 691,
-    "rank": 691,
-    "dutch": "negen",
-    "english": "nine",
-    "partOfSpeech": "number",
-    "sentences": [
-      {
-        "dutch": "De les begint om negen uur.",
-        "english": "The class starts at nine o'clock."
-      }
-    ],
-    "mnemonic": ""
-  },
-  {
-    "id": 692,
-    "rank": 692,
-    "dutch": "tien",
-    "english": "ten",
-    "partOfSpeech": "number",
-    "sentences": [
-      {
-        "dutch": "Ik tel tot tien.",
-        "english": "I count to ten."
+        "dutch": "Ik heb een boek.",
+        "english": "I have a book."
       }
     ],
     "mnemonic": ""
   },
   {
     "id": 693,
-    "rank": 693,
+    "rank": 521,
     "dutch": "elf",
     "english": "eleven",
     "partOfSpeech": "number",
@@ -10011,7 +8122,7 @@
   },
   {
     "id": 694,
-    "rank": 694,
+    "rank": 522,
     "dutch": "twaalf",
     "english": "twelve",
     "partOfSpeech": "number",
@@ -10025,7 +8136,7 @@
   },
   {
     "id": 695,
-    "rank": 695,
+    "rank": 523,
     "dutch": "dertien",
     "english": "thirteen",
     "partOfSpeech": "number",
@@ -10039,7 +8150,7 @@
   },
   {
     "id": 696,
-    "rank": 696,
+    "rank": 524,
     "dutch": "veertien",
     "english": "fourteen",
     "partOfSpeech": "number",
@@ -10053,7 +8164,7 @@
   },
   {
     "id": 697,
-    "rank": 697,
+    "rank": 525,
     "dutch": "vijftien",
     "english": "fifteen",
     "partOfSpeech": "number",
@@ -10067,7 +8178,7 @@
   },
   {
     "id": 698,
-    "rank": 698,
+    "rank": 526,
     "dutch": "twintig",
     "english": "twenty",
     "partOfSpeech": "number",
@@ -10081,7 +8192,7 @@
   },
   {
     "id": 699,
-    "rank": 699,
+    "rank": 527,
     "dutch": "dertig",
     "english": "thirty",
     "partOfSpeech": "number",
@@ -10095,7 +8206,7 @@
   },
   {
     "id": 700,
-    "rank": 700,
+    "rank": 528,
     "dutch": "veertig",
     "english": "forty",
     "partOfSpeech": "number",
@@ -10109,7 +8220,7 @@
   },
   {
     "id": 701,
-    "rank": 701,
+    "rank": 529,
     "dutch": "vijftig",
     "english": "fifty",
     "partOfSpeech": "number",
@@ -10123,7 +8234,7 @@
   },
   {
     "id": 702,
-    "rank": 702,
+    "rank": 530,
     "dutch": "honderd",
     "english": "hundred",
     "partOfSpeech": "number",
@@ -10137,7 +8248,7 @@
   },
   {
     "id": 703,
-    "rank": 703,
+    "rank": 531,
     "dutch": "duizend",
     "english": "thousand",
     "partOfSpeech": "number",
@@ -10151,7 +8262,7 @@
   },
   {
     "id": 704,
-    "rank": 704,
+    "rank": 532,
     "dutch": "eerste",
     "english": "first",
     "partOfSpeech": "adjective",
@@ -10165,7 +8276,7 @@
   },
   {
     "id": 705,
-    "rank": 705,
+    "rank": 533,
     "dutch": "tweede",
     "english": "second",
     "partOfSpeech": "adjective",
@@ -10179,7 +8290,7 @@
   },
   {
     "id": 706,
-    "rank": 706,
+    "rank": 534,
     "dutch": "derde",
     "english": "third",
     "partOfSpeech": "adjective",
@@ -10193,7 +8304,7 @@
   },
   {
     "id": 707,
-    "rank": 707,
+    "rank": 535,
     "dutch": "laatste",
     "english": "last",
     "partOfSpeech": "adjective",
@@ -10207,7 +8318,7 @@
   },
   {
     "id": 708,
-    "rank": 708,
+    "rank": 536,
     "dutch": "volgende",
     "english": "next",
     "partOfSpeech": "adjective",
@@ -10221,7 +8332,7 @@
   },
   {
     "id": 709,
-    "rank": 709,
+    "rank": 537,
     "dutch": "vorige",
     "english": "previous",
     "partOfSpeech": "adjective",
@@ -10234,36 +8345,8 @@
     "mnemonic": ""
   },
   {
-    "id": 710,
-    "rank": 710,
-    "dutch": "ik",
-    "english": "I",
-    "partOfSpeech": "pronoun",
-    "sentences": [
-      {
-        "dutch": "Ik ben hier.",
-        "english": "I am here."
-      }
-    ],
-    "mnemonic": ""
-  },
-  {
-    "id": 711,
-    "rank": 711,
-    "dutch": "jij",
-    "english": "you (informal)",
-    "partOfSpeech": "pronoun",
-    "sentences": [
-      {
-        "dutch": "Jij bent slim.",
-        "english": "You are smart."
-      }
-    ],
-    "mnemonic": ""
-  },
-  {
     "id": 712,
-    "rank": 712,
+    "rank": 538,
     "dutch": "u",
     "english": "you (formal)",
     "partOfSpeech": "pronoun",
@@ -10276,36 +8359,8 @@
     "mnemonic": ""
   },
   {
-    "id": 713,
-    "rank": 713,
-    "dutch": "hij",
-    "english": "he",
-    "partOfSpeech": "pronoun",
-    "sentences": [
-      {
-        "dutch": "Hij werkt hard.",
-        "english": "He works hard."
-      }
-    ],
-    "mnemonic": ""
-  },
-  {
-    "id": 714,
-    "rank": 714,
-    "dutch": "zij",
-    "english": "she/they",
-    "partOfSpeech": "pronoun",
-    "sentences": [
-      {
-        "dutch": "Zij is mijn zus.",
-        "english": "She is my sister."
-      }
-    ],
-    "mnemonic": ""
-  },
-  {
     "id": 715,
-    "rank": 715,
+    "rank": 539,
     "dutch": "het",
     "english": "it, the",
     "partOfSpeech": "pronoun",
@@ -10313,69 +8368,17 @@
       {
         "dutch": "Het regent.",
         "english": "It's raining."
-      }
-    ],
-    "mnemonic": ""
-  },
-  {
-    "id": 716,
-    "rank": 716,
-    "dutch": "wij",
-    "english": "we",
-    "partOfSpeech": "pronoun",
-    "sentences": [
+      },
       {
-        "dutch": "Wij gaan samen.",
-        "english": "We go together."
-      }
-    ],
-    "mnemonic": ""
-  },
-  {
-    "id": 717,
-    "rank": 717,
-    "dutch": "jullie",
-    "english": "you (plural)",
-    "partOfSpeech": "pronoun",
-    "sentences": [
-      {
-        "dutch": "Komen jullie ook?",
-        "english": "Are you coming too?"
-      }
-    ],
-    "mnemonic": ""
-  },
-  {
-    "id": 718,
-    "rank": 718,
-    "dutch": "mijn",
-    "english": "my",
-    "partOfSpeech": "pronoun",
-    "sentences": [
-      {
-        "dutch": "Dit is mijn boek.",
-        "english": "This is my book."
-      }
-    ],
-    "mnemonic": ""
-  },
-  {
-    "id": 719,
-    "rank": 719,
-    "dutch": "jouw",
-    "english": "your (informal)",
-    "partOfSpeech": "pronoun",
-    "sentences": [
-      {
-        "dutch": "Is dit jouw tas?",
-        "english": "Is this your bag?"
+        "dutch": "Het kind speelt.",
+        "english": "The child plays."
       }
     ],
     "mnemonic": ""
   },
   {
     "id": 720,
-    "rank": 720,
+    "rank": 540,
     "dutch": "uw",
     "english": "your (formal)",
     "partOfSpeech": "pronoun",
@@ -10388,36 +8391,8 @@
     "mnemonic": ""
   },
   {
-    "id": 721,
-    "rank": 721,
-    "dutch": "zijn",
-    "english": "to be, his",
-    "partOfSpeech": "pronoun",
-    "sentences": [
-      {
-        "dutch": "Dit is zijn auto.",
-        "english": "This is his car."
-      }
-    ],
-    "mnemonic": ""
-  },
-  {
-    "id": 722,
-    "rank": 722,
-    "dutch": "haar",
-    "english": "her",
-    "partOfSpeech": "pronoun",
-    "sentences": [
-      {
-        "dutch": "Dit is haar huis.",
-        "english": "This is her house."
-      }
-    ],
-    "mnemonic": ""
-  },
-  {
     "id": 723,
-    "rank": 723,
+    "rank": 541,
     "dutch": "ons",
     "english": "our",
     "partOfSpeech": "pronoun",
@@ -10431,7 +8406,7 @@
   },
   {
     "id": 724,
-    "rank": 724,
+    "rank": 542,
     "dutch": "hun",
     "english": "their",
     "partOfSpeech": "pronoun",
@@ -10445,7 +8420,7 @@
   },
   {
     "id": 725,
-    "rank": 725,
+    "rank": 543,
     "dutch": "dit",
     "english": "this",
     "partOfSpeech": "pronoun",
@@ -10458,22 +8433,8 @@
     "mnemonic": ""
   },
   {
-    "id": 726,
-    "rank": 726,
-    "dutch": "dat",
-    "english": "that",
-    "partOfSpeech": "pronoun",
-    "sentences": [
-      {
-        "dutch": "Wat is dat?",
-        "english": "What is that?"
-      }
-    ],
-    "mnemonic": ""
-  },
-  {
     "id": 727,
-    "rank": 727,
+    "rank": 544,
     "dutch": "deze",
     "english": "this/these",
     "partOfSpeech": "pronoun",
@@ -10487,7 +8448,7 @@
   },
   {
     "id": 728,
-    "rank": 728,
+    "rank": 545,
     "dutch": "die",
     "english": "that/those",
     "partOfSpeech": "pronoun",
@@ -10501,7 +8462,7 @@
   },
   {
     "id": 729,
-    "rank": 729,
+    "rank": 546,
     "dutch": "iets",
     "english": "something",
     "partOfSpeech": "pronoun",
@@ -10516,7 +8477,7 @@
   },
   {
     "id": 730,
-    "rank": 730,
+    "rank": 547,
     "dutch": "niets",
     "english": "nothing",
     "partOfSpeech": "pronoun",
@@ -10531,7 +8492,7 @@
   },
   {
     "id": 731,
-    "rank": 731,
+    "rank": 548,
     "dutch": "alles",
     "english": "everything",
     "partOfSpeech": "pronoun",
@@ -10546,7 +8507,7 @@
   },
   {
     "id": 732,
-    "rank": 732,
+    "rank": 549,
     "dutch": "iemand",
     "english": "someone",
     "partOfSpeech": "pronoun",
@@ -10561,7 +8522,7 @@
   },
   {
     "id": 733,
-    "rank": 733,
+    "rank": 550,
     "dutch": "niemand",
     "english": "no one",
     "partOfSpeech": "pronoun",
@@ -10576,7 +8537,7 @@
   },
   {
     "id": 734,
-    "rank": 734,
+    "rank": 551,
     "dutch": "iedereen",
     "english": "everyone",
     "partOfSpeech": "pronoun",
@@ -10590,7 +8551,7 @@
   },
   {
     "id": 735,
-    "rank": 735,
+    "rank": 552,
     "dutch": "elkaar",
     "english": "each other",
     "partOfSpeech": "pronoun",
@@ -10604,7 +8565,7 @@
   },
   {
     "id": 736,
-    "rank": 736,
+    "rank": 553,
     "dutch": "zelf",
     "english": "self",
     "partOfSpeech": "pronoun",
@@ -10618,7 +8579,7 @@
   },
   {
     "id": 737,
-    "rank": 737,
+    "rank": 554,
     "dutch": "de",
     "english": "the (common)",
     "partOfSpeech": "article",
@@ -10631,36 +8592,8 @@
     "mnemonic": ""
   },
   {
-    "id": 738,
-    "rank": 738,
-    "dutch": "het",
-    "english": "it, the",
-    "partOfSpeech": "article",
-    "sentences": [
-      {
-        "dutch": "Het kind speelt.",
-        "english": "The child plays."
-      }
-    ],
-    "mnemonic": ""
-  },
-  {
-    "id": 739,
-    "rank": 739,
-    "dutch": "een",
-    "english": "one, a, an",
-    "partOfSpeech": "article",
-    "sentences": [
-      {
-        "dutch": "Ik heb een boek.",
-        "english": "I have a book."
-      }
-    ],
-    "mnemonic": ""
-  },
-  {
     "id": 740,
-    "rank": 740,
+    "rank": 555,
     "dutch": "ja",
     "english": "yes",
     "partOfSpeech": "interjection",
@@ -10674,7 +8607,7 @@
   },
   {
     "id": 741,
-    "rank": 741,
+    "rank": 556,
     "dutch": "nee",
     "english": "no",
     "partOfSpeech": "interjection",
@@ -10688,7 +8621,7 @@
   },
   {
     "id": 742,
-    "rank": 742,
+    "rank": 557,
     "dutch": "alsjeblieft",
     "english": "please (informal)",
     "partOfSpeech": "interjection",
@@ -10702,7 +8635,7 @@
   },
   {
     "id": 743,
-    "rank": 743,
+    "rank": 558,
     "dutch": "alstublieft",
     "english": "please (formal)",
     "partOfSpeech": "interjection",
@@ -10716,7 +8649,7 @@
   },
   {
     "id": 744,
-    "rank": 744,
+    "rank": 559,
     "dutch": "dank je",
     "english": "thank you (informal)",
     "partOfSpeech": "interjection",
@@ -10730,7 +8663,7 @@
   },
   {
     "id": 745,
-    "rank": 745,
+    "rank": 560,
     "dutch": "dank u",
     "english": "thank you (formal)",
     "partOfSpeech": "interjection",
@@ -10744,7 +8677,7 @@
   },
   {
     "id": 746,
-    "rank": 746,
+    "rank": 561,
     "dutch": "sorry",
     "english": "sorry",
     "partOfSpeech": "interjection",
@@ -10758,7 +8691,7 @@
   },
   {
     "id": 747,
-    "rank": 747,
+    "rank": 562,
     "dutch": "pardon",
     "english": "excuse me",
     "partOfSpeech": "interjection",
@@ -10772,7 +8705,7 @@
   },
   {
     "id": 748,
-    "rank": 748,
+    "rank": 563,
     "dutch": "hallo",
     "english": "hello",
     "partOfSpeech": "interjection",
@@ -10785,22 +8718,8 @@
     "mnemonic": ""
   },
   {
-    "id": 749,
-    "rank": 749,
-    "dutch": "dag",
-    "english": "day, hello, goodbye",
-    "partOfSpeech": "interjection",
-    "sentences": [
-      {
-        "dutch": "Dag, tot ziens!",
-        "english": "Bye, see you!"
-      }
-    ],
-    "mnemonic": ""
-  },
-  {
     "id": 750,
-    "rank": 750,
+    "rank": 564,
     "dutch": "doei",
     "english": "bye",
     "partOfSpeech": "interjection",
@@ -10814,7 +8733,7 @@
   },
   {
     "id": 751,
-    "rank": 751,
+    "rank": 565,
     "dutch": "welkom",
     "english": "welcome",
     "partOfSpeech": "interjection",
@@ -10828,7 +8747,7 @@
   },
   {
     "id": 752,
-    "rank": 752,
+    "rank": 566,
     "dutch": "gefeliciteerd",
     "english": "congratulations",
     "partOfSpeech": "interjection",
@@ -10841,23 +8760,8 @@
     "mnemonic": ""
   },
   {
-    "id": 753,
-    "rank": 753,
-    "dutch": "school",
-    "english": "school",
-    "partOfSpeech": "noun",
-    "gender": "de",
-    "sentences": [
-      {
-        "dutch": "Ik ga naar school.",
-        "english": "I go to school."
-      }
-    ],
-    "mnemonic": ""
-  },
-  {
     "id": 754,
-    "rank": 754,
+    "rank": 567,
     "dutch": "universiteit",
     "english": "university",
     "partOfSpeech": "noun",
@@ -10872,7 +8776,7 @@
   },
   {
     "id": 755,
-    "rank": 755,
+    "rank": 568,
     "dutch": "les",
     "english": "lesson, class",
     "partOfSpeech": "noun",
@@ -10887,7 +8791,7 @@
   },
   {
     "id": 756,
-    "rank": 756,
+    "rank": 569,
     "dutch": "cursus",
     "english": "course",
     "partOfSpeech": "noun",
@@ -10902,7 +8806,7 @@
   },
   {
     "id": 757,
-    "rank": 757,
+    "rank": 570,
     "dutch": "examen",
     "english": "exam",
     "partOfSpeech": "noun",
@@ -10917,7 +8821,7 @@
   },
   {
     "id": 758,
-    "rank": 758,
+    "rank": 571,
     "dutch": "huiswerk",
     "english": "homework",
     "partOfSpeech": "noun",
@@ -10932,7 +8836,7 @@
   },
   {
     "id": 759,
-    "rank": 759,
+    "rank": 572,
     "dutch": "oefening",
     "english": "exercise",
     "partOfSpeech": "noun",
@@ -10946,39 +8850,8 @@
     "mnemonic": ""
   },
   {
-    "id": 760,
-    "rank": 760,
-    "dutch": "antwoord",
-    "english": "answer",
-    "partOfSpeech": "noun",
-    "gender": "het",
-    "sentences": [
-      {
-        "dutch": "Wat is het antwoord?",
-        "english": "What is the answer?"
-      }
-    ],
-    "mnemonic": "",
-    "note": "Ant means 'back/against' and woord means 'word'. An answer is a word back!"
-  },
-  {
-    "id": 761,
-    "rank": 761,
-    "dutch": "vraag",
-    "english": "question",
-    "partOfSpeech": "noun",
-    "gender": "de",
-    "sentences": [
-      {
-        "dutch": "Ik heb een vraag.",
-        "english": "I have a question."
-      }
-    ],
-    "mnemonic": ""
-  },
-  {
     "id": 762,
-    "rank": 762,
+    "rank": 573,
     "dutch": "leraar",
     "english": "teacher (m)",
     "partOfSpeech": "noun",
@@ -10993,7 +8866,7 @@
   },
   {
     "id": 763,
-    "rank": 763,
+    "rank": 574,
     "dutch": "lerares",
     "english": "teacher (f)",
     "partOfSpeech": "noun",
@@ -11008,7 +8881,7 @@
   },
   {
     "id": 764,
-    "rank": 764,
+    "rank": 575,
     "dutch": "student",
     "english": "student",
     "partOfSpeech": "noun",
@@ -11023,7 +8896,7 @@
   },
   {
     "id": 765,
-    "rank": 765,
+    "rank": 576,
     "dutch": "leerling",
     "english": "pupil",
     "partOfSpeech": "noun",
@@ -11038,7 +8911,7 @@
   },
   {
     "id": 766,
-    "rank": 766,
+    "rank": 577,
     "dutch": "kantoor",
     "english": "office",
     "partOfSpeech": "noun",
@@ -11053,7 +8926,7 @@
   },
   {
     "id": 767,
-    "rank": 767,
+    "rank": 578,
     "dutch": "bedrijf",
     "english": "company",
     "partOfSpeech": "noun",
@@ -11068,7 +8941,7 @@
   },
   {
     "id": 768,
-    "rank": 768,
+    "rank": 579,
     "dutch": "baas",
     "english": "boss",
     "partOfSpeech": "noun",
@@ -11083,7 +8956,7 @@
   },
   {
     "id": 769,
-    "rank": 769,
+    "rank": 580,
     "dutch": "collega",
     "english": "colleague",
     "partOfSpeech": "noun",
@@ -11098,7 +8971,7 @@
   },
   {
     "id": 770,
-    "rank": 770,
+    "rank": 581,
     "dutch": "vergadering",
     "english": "meeting",
     "partOfSpeech": "noun",
@@ -11113,7 +8986,7 @@
   },
   {
     "id": 771,
-    "rank": 771,
+    "rank": 582,
     "dutch": "salaris",
     "english": "salary",
     "partOfSpeech": "noun",
@@ -11128,7 +9001,7 @@
   },
   {
     "id": 772,
-    "rank": 772,
+    "rank": 583,
     "dutch": "baan",
     "english": "job",
     "partOfSpeech": "noun",
@@ -11143,7 +9016,7 @@
   },
   {
     "id": 773,
-    "rank": 773,
+    "rank": 584,
     "dutch": "ervaring",
     "english": "experience",
     "partOfSpeech": "noun",
@@ -11158,7 +9031,7 @@
   },
   {
     "id": 774,
-    "rank": 774,
+    "rank": 585,
     "dutch": "klant",
     "english": "customer",
     "partOfSpeech": "noun",
@@ -11172,23 +9045,8 @@
     "mnemonic": ""
   },
   {
-    "id": 775,
-    "rank": 775,
-    "dutch": "winkel",
-    "english": "shop",
-    "partOfSpeech": "noun",
-    "gender": "de",
-    "sentences": [
-      {
-        "dutch": "De winkel is open.",
-        "english": "The shop is open."
-      }
-    ],
-    "mnemonic": ""
-  },
-  {
     "id": 776,
-    "rank": 776,
+    "rank": 586,
     "dutch": "supermarkt",
     "english": "supermarket",
     "partOfSpeech": "noun",
@@ -11203,7 +9061,7 @@
   },
   {
     "id": 777,
-    "rank": 777,
+    "rank": 587,
     "dutch": "markt",
     "english": "market",
     "partOfSpeech": "noun",
@@ -11217,53 +9075,8 @@
     "mnemonic": ""
   },
   {
-    "id": 778,
-    "rank": 778,
-    "dutch": "bank",
-    "english": "couch, sofa, bank",
-    "partOfSpeech": "noun",
-    "gender": "de",
-    "sentences": [
-      {
-        "dutch": "De bank sluit om vijf uur.",
-        "english": "The bank closes at five."
-      }
-    ],
-    "mnemonic": ""
-  },
-  {
-    "id": 779,
-    "rank": 779,
-    "dutch": "geld",
-    "english": "money",
-    "partOfSpeech": "noun",
-    "gender": "het",
-    "sentences": [
-      {
-        "dutch": "Ik heb geen geld.",
-        "english": "I have no money."
-      }
-    ],
-    "mnemonic": ""
-  },
-  {
-    "id": 780,
-    "rank": 780,
-    "dutch": "prijs",
-    "english": "price",
-    "partOfSpeech": "noun",
-    "gender": "de",
-    "sentences": [
-      {
-        "dutch": "Wat is de prijs?",
-        "english": "What is the price?"
-      }
-    ],
-    "mnemonic": ""
-  },
-  {
     "id": 781,
-    "rank": 781,
+    "rank": 588,
     "dutch": "rekening",
     "english": "bill, account",
     "partOfSpeech": "noun",
@@ -11278,7 +9091,7 @@
   },
   {
     "id": 782,
-    "rank": 782,
+    "rank": 589,
     "dutch": "korting",
     "english": "discount",
     "partOfSpeech": "noun",
@@ -11293,7 +9106,7 @@
   },
   {
     "id": 783,
-    "rank": 783,
+    "rank": 590,
     "dutch": "sport",
     "english": "sport",
     "partOfSpeech": "noun",
@@ -11308,7 +9121,7 @@
   },
   {
     "id": 784,
-    "rank": 784,
+    "rank": 591,
     "dutch": "voetbal",
     "english": "soccer",
     "partOfSpeech": "noun",
@@ -11323,7 +9136,7 @@
   },
   {
     "id": 785,
-    "rank": 785,
+    "rank": 592,
     "dutch": "wedstrijd",
     "english": "match, game",
     "partOfSpeech": "noun",
@@ -11338,7 +9151,7 @@
   },
   {
     "id": 786,
-    "rank": 786,
+    "rank": 593,
     "dutch": "team",
     "english": "team",
     "partOfSpeech": "noun",
@@ -11353,7 +9166,7 @@
   },
   {
     "id": 787,
-    "rank": 787,
+    "rank": 594,
     "dutch": "fietsen",
     "english": "to cycle",
     "partOfSpeech": "verb",
@@ -11367,7 +9180,7 @@
   },
   {
     "id": 788,
-    "rank": 788,
+    "rank": 595,
     "dutch": "wandelen",
     "english": "to walk, hike",
     "partOfSpeech": "verb",
@@ -11381,7 +9194,7 @@
   },
   {
     "id": 789,
-    "rank": 789,
+    "rank": 596,
     "dutch": "hardlopen",
     "english": "to run (exercise)",
     "partOfSpeech": "verb",
@@ -11394,38 +9207,8 @@
     "mnemonic": ""
   },
   {
-    "id": 790,
-    "rank": 790,
-    "dutch": "land",
-    "english": "country, land",
-    "partOfSpeech": "noun",
-    "gender": "het",
-    "sentences": [
-      {
-        "dutch": "Nederland is een klein land.",
-        "english": "The Netherlands is a small country."
-      }
-    ],
-    "mnemonic": ""
-  },
-  {
-    "id": 791,
-    "rank": 791,
-    "dutch": "stad",
-    "english": "city",
-    "partOfSpeech": "noun",
-    "gender": "de",
-    "sentences": [
-      {
-        "dutch": "Amsterdam is een mooie stad.",
-        "english": "Amsterdam is a beautiful city."
-      }
-    ],
-    "mnemonic": ""
-  },
-  {
     "id": 792,
-    "rank": 792,
+    "rank": 597,
     "dutch": "dorp",
     "english": "village",
     "partOfSpeech": "noun",
@@ -11440,7 +9223,7 @@
   },
   {
     "id": 793,
-    "rank": 793,
+    "rank": 598,
     "dutch": "wijk",
     "english": "neighborhood",
     "partOfSpeech": "noun",
@@ -11455,7 +9238,7 @@
   },
   {
     "id": 794,
-    "rank": 794,
+    "rank": 599,
     "dutch": "centrum",
     "english": "center",
     "partOfSpeech": "noun",
@@ -11469,23 +9252,8 @@
     "mnemonic": ""
   },
   {
-    "id": 795,
-    "rank": 795,
-    "dutch": "bos",
-    "english": "forest",
-    "partOfSpeech": "noun",
-    "gender": "het",
-    "sentences": [
-      {
-        "dutch": "Ik wandel graag in het bos.",
-        "english": "I like to walk in the forest."
-      }
-    ],
-    "mnemonic": ""
-  },
-  {
     "id": 796,
-    "rank": 796,
+    "rank": 600,
     "dutch": "strand",
     "english": "beach",
     "partOfSpeech": "noun",
@@ -11499,23 +9267,8 @@
     "mnemonic": ""
   },
   {
-    "id": 797,
-    "rank": 797,
-    "dutch": "zee",
-    "english": "sea",
-    "partOfSpeech": "noun",
-    "gender": "de",
-    "sentences": [
-      {
-        "dutch": "De zee is mooi.",
-        "english": "The sea is beautiful."
-      }
-    ],
-    "mnemonic": ""
-  },
-  {
     "id": 798,
-    "rank": 798,
+    "rank": 601,
     "dutch": "rivier",
     "english": "river",
     "partOfSpeech": "noun",
@@ -11529,23 +9282,8 @@
     "mnemonic": ""
   },
   {
-    "id": 799,
-    "rank": 799,
-    "dutch": "berg",
-    "english": "mountain",
-    "partOfSpeech": "noun",
-    "gender": "de",
-    "sentences": [
-      {
-        "dutch": "Nederland heeft geen bergen.",
-        "english": "The Netherlands has no mountains."
-      }
-    ],
-    "mnemonic": ""
-  },
-  {
     "id": 800,
-    "rank": 800,
+    "rank": 602,
     "dutch": "natuur",
     "english": "nature",
     "partOfSpeech": "noun",
@@ -11560,7 +9298,7 @@
   },
   {
     "id": 801,
-    "rank": 801,
+    "rank": 603,
     "dutch": "dier",
     "english": "animal",
     "partOfSpeech": "noun",
@@ -11574,38 +9312,8 @@
     "mnemonic": ""
   },
   {
-    "id": 802,
-    "rank": 802,
-    "dutch": "hond",
-    "english": "dog",
-    "partOfSpeech": "noun",
-    "gender": "de",
-    "sentences": [
-      {
-        "dutch": "Ik heb een hond.",
-        "english": "I have a dog."
-      }
-    ],
-    "mnemonic": ""
-  },
-  {
-    "id": 803,
-    "rank": 803,
-    "dutch": "kat",
-    "english": "cat",
-    "partOfSpeech": "noun",
-    "gender": "de",
-    "sentences": [
-      {
-        "dutch": "De kat slaapt.",
-        "english": "The cat is sleeping."
-      }
-    ],
-    "mnemonic": ""
-  },
-  {
     "id": 804,
-    "rank": 804,
+    "rank": 604,
     "dutch": "vogel",
     "english": "bird",
     "partOfSpeech": "noun",
@@ -11620,7 +9328,7 @@
   },
   {
     "id": 805,
-    "rank": 805,
+    "rank": 605,
     "dutch": "koe",
     "english": "cow",
     "partOfSpeech": "noun",
@@ -11635,7 +9343,7 @@
   },
   {
     "id": 806,
-    "rank": 806,
+    "rank": 606,
     "dutch": "paard",
     "english": "horse",
     "partOfSpeech": "noun",
@@ -11649,38 +9357,8 @@
     "mnemonic": ""
   },
   {
-    "id": 807,
-    "rank": 807,
-    "dutch": "boom",
-    "english": "tree",
-    "partOfSpeech": "noun",
-    "gender": "de",
-    "sentences": [
-      {
-        "dutch": "De boom is groot.",
-        "english": "The tree is big."
-      }
-    ],
-    "mnemonic": ""
-  },
-  {
-    "id": 808,
-    "rank": 808,
-    "dutch": "bloem",
-    "english": "flower",
-    "partOfSpeech": "noun",
-    "gender": "de",
-    "sentences": [
-      {
-        "dutch": "Tulpen zijn mooie bloemen.",
-        "english": "Tulips are beautiful flowers."
-      }
-    ],
-    "mnemonic": ""
-  },
-  {
     "id": 809,
-    "rank": 809,
+    "rank": 607,
     "dutch": "plant",
     "english": "plant",
     "partOfSpeech": "noun",
@@ -11695,7 +9373,7 @@
   },
   {
     "id": 810,
-    "rank": 810,
+    "rank": 608,
     "dutch": "gras",
     "english": "grass",
     "partOfSpeech": "noun",
@@ -11710,7 +9388,7 @@
   },
   {
     "id": 811,
-    "rank": 811,
+    "rank": 609,
     "dutch": "blad",
     "english": "leaf, page",
     "partOfSpeech": "noun",
@@ -11724,79 +9402,8 @@
     "mnemonic": ""
   },
   {
-    "id": 812,
-    "rank": 812,
-    "dutch": "kleur",
-    "english": "color",
-    "partOfSpeech": "noun",
-    "gender": "de",
-    "sentences": [
-      {
-        "dutch": "Welke kleur wil je?",
-        "english": "Which color do you want?"
-      }
-    ],
-    "mnemonic": ""
-  },
-  {
-    "id": 813,
-    "rank": 813,
-    "dutch": "rood",
-    "english": "red",
-    "partOfSpeech": "adjective",
-    "sentences": [
-      {
-        "dutch": "De appel is rood.",
-        "english": "The apple is red."
-      }
-    ],
-    "mnemonic": ""
-  },
-  {
-    "id": 814,
-    "rank": 814,
-    "dutch": "blauw",
-    "english": "blue",
-    "partOfSpeech": "adjective",
-    "sentences": [
-      {
-        "dutch": "De lucht is blauw.",
-        "english": "The sky is blue."
-      }
-    ],
-    "mnemonic": ""
-  },
-  {
-    "id": 815,
-    "rank": 815,
-    "dutch": "groen",
-    "english": "green",
-    "partOfSpeech": "adjective",
-    "sentences": [
-      {
-        "dutch": "Het gras is groen.",
-        "english": "The grass is green."
-      }
-    ],
-    "mnemonic": ""
-  },
-  {
-    "id": 816,
-    "rank": 816,
-    "dutch": "geel",
-    "english": "yellow",
-    "partOfSpeech": "adjective",
-    "sentences": [
-      {
-        "dutch": "De zon is geel.",
-        "english": "The sun is yellow."
-      }
-    ],
-    "mnemonic": ""
-  },
-  {
     "id": 817,
-    "rank": 817,
+    "rank": 610,
     "dutch": "oranje",
     "english": "orange",
     "partOfSpeech": "adjective",
@@ -11810,7 +9417,7 @@
   },
   {
     "id": 818,
-    "rank": 818,
+    "rank": 611,
     "dutch": "paars",
     "english": "purple",
     "partOfSpeech": "adjective",
@@ -11824,7 +9431,7 @@
   },
   {
     "id": 819,
-    "rank": 819,
+    "rank": 612,
     "dutch": "roze",
     "english": "pink",
     "partOfSpeech": "adjective",
@@ -11837,36 +9444,8 @@
     "mnemonic": ""
   },
   {
-    "id": 820,
-    "rank": 820,
-    "dutch": "wit",
-    "english": "white",
-    "partOfSpeech": "adjective",
-    "sentences": [
-      {
-        "dutch": "De sneeuw is wit.",
-        "english": "The snow is white."
-      }
-    ],
-    "mnemonic": ""
-  },
-  {
-    "id": 821,
-    "rank": 821,
-    "dutch": "zwart",
-    "english": "black",
-    "partOfSpeech": "adjective",
-    "sentences": [
-      {
-        "dutch": "De kat is zwart.",
-        "english": "The cat is black."
-      }
-    ],
-    "mnemonic": ""
-  },
-  {
     "id": 822,
-    "rank": 822,
+    "rank": 613,
     "dutch": "grijs",
     "english": "grey",
     "partOfSpeech": "adjective",
@@ -11880,7 +9459,7 @@
   },
   {
     "id": 823,
-    "rank": 823,
+    "rank": 614,
     "dutch": "bruin",
     "english": "brown",
     "partOfSpeech": "adjective",
@@ -11893,23 +9472,8 @@
     "mnemonic": ""
   },
   {
-    "id": 824,
-    "rank": 824,
-    "dutch": "probleem",
-    "english": "problem",
-    "partOfSpeech": "noun",
-    "gender": "het",
-    "sentences": [
-      {
-        "dutch": "Er is een probleem.",
-        "english": "There is a problem."
-      }
-    ],
-    "mnemonic": ""
-  },
-  {
     "id": 825,
-    "rank": 825,
+    "rank": 615,
     "dutch": "oplossing",
     "english": "solution",
     "partOfSpeech": "noun",
@@ -11923,23 +9487,8 @@
     "mnemonic": ""
   },
   {
-    "id": 826,
-    "rank": 826,
-    "dutch": "idee",
-    "english": "idea",
-    "partOfSpeech": "noun",
-    "gender": "het",
-    "sentences": [
-      {
-        "dutch": "Ik heb een idee.",
-        "english": "I have an idea."
-      }
-    ],
-    "mnemonic": ""
-  },
-  {
     "id": 827,
-    "rank": 827,
+    "rank": 616,
     "dutch": "mening",
     "english": "opinion",
     "partOfSpeech": "noun",
@@ -11954,7 +9503,7 @@
   },
   {
     "id": 828,
-    "rank": 828,
+    "rank": 617,
     "dutch": "reden",
     "english": "reason",
     "partOfSpeech": "noun",
@@ -11969,7 +9518,7 @@
   },
   {
     "id": 829,
-    "rank": 829,
+    "rank": 618,
     "dutch": "doel",
     "english": "goal",
     "partOfSpeech": "noun",
@@ -11984,7 +9533,7 @@
   },
   {
     "id": 830,
-    "rank": 830,
+    "rank": 619,
     "dutch": "plan",
     "english": "plan",
     "partOfSpeech": "noun",
@@ -11999,7 +9548,7 @@
   },
   {
     "id": 831,
-    "rank": 831,
+    "rank": 620,
     "dutch": "kans",
     "english": "chance",
     "partOfSpeech": "noun",
@@ -12014,7 +9563,7 @@
   },
   {
     "id": 832,
-    "rank": 832,
+    "rank": 621,
     "dutch": "keuze",
     "english": "choice",
     "partOfSpeech": "noun",
@@ -12029,7 +9578,7 @@
   },
   {
     "id": 833,
-    "rank": 833,
+    "rank": 622,
     "dutch": "verschil",
     "english": "difference",
     "partOfSpeech": "noun",
@@ -12044,7 +9593,7 @@
   },
   {
     "id": 834,
-    "rank": 834,
+    "rank": 623,
     "dutch": "voorbeeld",
     "english": "example",
     "partOfSpeech": "noun",
@@ -12059,7 +9608,7 @@
   },
   {
     "id": 835,
-    "rank": 835,
+    "rank": 624,
     "dutch": "resultaat",
     "english": "result",
     "partOfSpeech": "noun",
@@ -12074,7 +9623,7 @@
   },
   {
     "id": 836,
-    "rank": 836,
+    "rank": 625,
     "dutch": "succes",
     "english": "success",
     "partOfSpeech": "noun",
@@ -12089,7 +9638,7 @@
   },
   {
     "id": 837,
-    "rank": 837,
+    "rank": 626,
     "dutch": "fout",
     "english": "mistake",
     "partOfSpeech": "noun",
@@ -12104,7 +9653,7 @@
   },
   {
     "id": 838,
-    "rank": 838,
+    "rank": 627,
     "dutch": "hulp",
     "english": "help",
     "partOfSpeech": "noun",
@@ -12119,7 +9668,7 @@
   },
   {
     "id": 839,
-    "rank": 839,
+    "rank": 628,
     "dutch": "informatie",
     "english": "information",
     "partOfSpeech": "noun",
@@ -12134,7 +9683,7 @@
   },
   {
     "id": 840,
-    "rank": 840,
+    "rank": 629,
     "dutch": "nieuws",
     "english": "news",
     "partOfSpeech": "noun",
@@ -12149,7 +9698,7 @@
   },
   {
     "id": 841,
-    "rank": 841,
+    "rank": 630,
     "dutch": "krant",
     "english": "newspaper",
     "partOfSpeech": "noun",
@@ -12163,23 +9712,8 @@
     "mnemonic": ""
   },
   {
-    "id": 842,
-    "rank": 842,
-    "dutch": "verhaal",
-    "english": "story",
-    "partOfSpeech": "noun",
-    "gender": "het",
-    "sentences": [
-      {
-        "dutch": "Dit is een interessant verhaal.",
-        "english": "This is an interesting story."
-      }
-    ],
-    "mnemonic": ""
-  },
-  {
     "id": 843,
-    "rank": 843,
+    "rank": 631,
     "dutch": "woord",
     "english": "word",
     "partOfSpeech": "noun",
@@ -12194,7 +9728,7 @@
   },
   {
     "id": 844,
-    "rank": 844,
+    "rank": 632,
     "dutch": "zin",
     "english": "sentence",
     "partOfSpeech": "noun",
@@ -12209,7 +9743,7 @@
   },
   {
     "id": 845,
-    "rank": 845,
+    "rank": 633,
     "dutch": "taal",
     "english": "language",
     "partOfSpeech": "noun",
@@ -12224,7 +9758,7 @@
   },
   {
     "id": 846,
-    "rank": 846,
+    "rank": 634,
     "dutch": "betekenis",
     "english": "meaning",
     "partOfSpeech": "noun",
@@ -12239,7 +9773,7 @@
   },
   {
     "id": 847,
-    "rank": 847,
+    "rank": 635,
     "dutch": "uitspraak",
     "english": "pronunciation",
     "partOfSpeech": "noun",
@@ -12254,7 +9788,7 @@
   },
   {
     "id": 848,
-    "rank": 848,
+    "rank": 636,
     "dutch": "grammatica",
     "english": "grammar",
     "partOfSpeech": "noun",
@@ -12269,7 +9803,7 @@
   },
   {
     "id": 849,
-    "rank": 849,
+    "rank": 637,
     "dutch": "leven",
     "english": "life",
     "partOfSpeech": "noun",
@@ -12284,7 +9818,7 @@
   },
   {
     "id": 850,
-    "rank": 850,
+    "rank": 638,
     "dutch": "dood",
     "english": "death",
     "partOfSpeech": "noun",
@@ -12299,7 +9833,7 @@
   },
   {
     "id": 851,
-    "rank": 851,
+    "rank": 639,
     "dutch": "geboorte",
     "english": "birth",
     "partOfSpeech": "noun",
@@ -12314,7 +9848,7 @@
   },
   {
     "id": 852,
-    "rank": 852,
+    "rank": 640,
     "dutch": "verjaardag",
     "english": "birthday",
     "partOfSpeech": "noun",
@@ -12329,7 +9863,7 @@
   },
   {
     "id": 853,
-    "rank": 853,
+    "rank": 641,
     "dutch": "bruiloft",
     "english": "wedding",
     "partOfSpeech": "noun",
@@ -12344,7 +9878,7 @@
   },
   {
     "id": 854,
-    "rank": 854,
+    "rank": 642,
     "dutch": "liefde",
     "english": "love",
     "partOfSpeech": "noun",
@@ -12359,7 +9893,7 @@
   },
   {
     "id": 855,
-    "rank": 855,
+    "rank": 643,
     "dutch": "geluk",
     "english": "happiness, luck",
     "partOfSpeech": "noun",
@@ -12374,7 +9908,7 @@
   },
   {
     "id": 856,
-    "rank": 856,
+    "rank": 644,
     "dutch": "verdriet",
     "english": "sadness",
     "partOfSpeech": "noun",
@@ -12389,7 +9923,7 @@
   },
   {
     "id": 857,
-    "rank": 857,
+    "rank": 645,
     "dutch": "angst",
     "english": "fear",
     "partOfSpeech": "noun",
@@ -12404,7 +9938,7 @@
   },
   {
     "id": 858,
-    "rank": 858,
+    "rank": 646,
     "dutch": "boosheid",
     "english": "anger",
     "partOfSpeech": "noun",
@@ -12419,7 +9953,7 @@
   },
   {
     "id": 859,
-    "rank": 859,
+    "rank": 647,
     "dutch": "vreugde",
     "english": "joy",
     "partOfSpeech": "noun",
@@ -12434,7 +9968,7 @@
   },
   {
     "id": 860,
-    "rank": 860,
+    "rank": 648,
     "dutch": "hoop",
     "english": "hope",
     "partOfSpeech": "noun",
@@ -12449,7 +9983,7 @@
   },
   {
     "id": 861,
-    "rank": 861,
+    "rank": 649,
     "dutch": "vrede",
     "english": "peace",
     "partOfSpeech": "noun",
@@ -12465,7 +9999,7 @@
   },
   {
     "id": 862,
-    "rank": 862,
+    "rank": 650,
     "dutch": "oorlog",
     "english": "war",
     "partOfSpeech": "noun",
@@ -12480,7 +10014,7 @@
   },
   {
     "id": 863,
-    "rank": 863,
+    "rank": 651,
     "dutch": "regering",
     "english": "government",
     "partOfSpeech": "noun",
@@ -12495,7 +10029,7 @@
   },
   {
     "id": 864,
-    "rank": 864,
+    "rank": 652,
     "dutch": "politie",
     "english": "police",
     "partOfSpeech": "noun",
@@ -12510,7 +10044,7 @@
   },
   {
     "id": 865,
-    "rank": 865,
+    "rank": 653,
     "dutch": "wet",
     "english": "law",
     "partOfSpeech": "noun",
@@ -12525,7 +10059,7 @@
   },
   {
     "id": 866,
-    "rank": 866,
+    "rank": 654,
     "dutch": "recht",
     "english": "right (legal)",
     "partOfSpeech": "noun",
@@ -12540,7 +10074,7 @@
   },
   {
     "id": 867,
-    "rank": 867,
+    "rank": 655,
     "dutch": "plicht",
     "english": "duty",
     "partOfSpeech": "noun",
@@ -12555,7 +10089,7 @@
   },
   {
     "id": 868,
-    "rank": 868,
+    "rank": 656,
     "dutch": "vrijheid",
     "english": "freedom",
     "partOfSpeech": "noun",
@@ -12570,7 +10104,7 @@
   },
   {
     "id": 869,
-    "rank": 869,
+    "rank": 657,
     "dutch": "cultuur",
     "english": "culture",
     "partOfSpeech": "noun",
@@ -12585,7 +10119,7 @@
   },
   {
     "id": 870,
-    "rank": 870,
+    "rank": 658,
     "dutch": "religie",
     "english": "religion",
     "partOfSpeech": "noun",
@@ -12600,7 +10134,7 @@
   },
   {
     "id": 871,
-    "rank": 871,
+    "rank": 659,
     "dutch": "kerk",
     "english": "church",
     "partOfSpeech": "noun",
@@ -12615,7 +10149,7 @@
   },
   {
     "id": 872,
-    "rank": 872,
+    "rank": 660,
     "dutch": "god",
     "english": "god",
     "partOfSpeech": "noun",
@@ -12630,7 +10164,7 @@
   },
   {
     "id": 873,
-    "rank": 873,
+    "rank": 661,
     "dutch": "ziel",
     "english": "soul",
     "partOfSpeech": "noun",
@@ -12645,7 +10179,7 @@
   },
   {
     "id": 874,
-    "rank": 874,
+    "rank": 662,
     "dutch": "geest",
     "english": "spirit, mind",
     "partOfSpeech": "noun",
@@ -12660,7 +10194,7 @@
   },
   {
     "id": 875,
-    "rank": 875,
+    "rank": 663,
     "dutch": "gedachte",
     "english": "thought",
     "partOfSpeech": "noun",
@@ -12675,7 +10209,7 @@
   },
   {
     "id": 876,
-    "rank": 876,
+    "rank": 664,
     "dutch": "gevoel",
     "english": "feeling",
     "partOfSpeech": "noun",
@@ -12689,23 +10223,8 @@
     "mnemonic": ""
   },
   {
-    "id": 877,
-    "rank": 877,
-    "dutch": "hart",
-    "english": "heart",
-    "partOfSpeech": "noun",
-    "gender": "het",
-    "sentences": [
-      {
-        "dutch": "Volg je hart.",
-        "english": "Follow your heart."
-      }
-    ],
-    "mnemonic": ""
-  },
-  {
     "id": 878,
-    "rank": 878,
+    "rank": 665,
     "dutch": "waarheid",
     "english": "truth",
     "partOfSpeech": "noun",
@@ -12720,7 +10239,7 @@
   },
   {
     "id": 879,
-    "rank": 879,
+    "rank": 666,
     "dutch": "leugen",
     "english": "lie",
     "partOfSpeech": "noun",
@@ -12735,7 +10254,7 @@
   },
   {
     "id": 880,
-    "rank": 880,
+    "rank": 667,
     "dutch": "geheim",
     "english": "secret",
     "partOfSpeech": "noun",
@@ -12750,7 +10269,7 @@
   },
   {
     "id": 881,
-    "rank": 881,
+    "rank": 668,
     "dutch": "belofte",
     "english": "promise",
     "partOfSpeech": "noun",
@@ -12765,7 +10284,7 @@
   },
   {
     "id": 882,
-    "rank": 882,
+    "rank": 669,
     "dutch": "afspraak",
     "english": "appointment",
     "partOfSpeech": "noun",
@@ -12780,7 +10299,7 @@
   },
   {
     "id": 883,
-    "rank": 883,
+    "rank": 670,
     "dutch": "ontmoeting",
     "english": "meeting, encounter",
     "partOfSpeech": "noun",
@@ -12795,7 +10314,7 @@
   },
   {
     "id": 884,
-    "rank": 884,
+    "rank": 671,
     "dutch": "gesprek",
     "english": "conversation",
     "partOfSpeech": "noun",
@@ -12810,7 +10329,7 @@
   },
   {
     "id": 885,
-    "rank": 885,
+    "rank": 672,
     "dutch": "discussie",
     "english": "discussion",
     "partOfSpeech": "noun",
@@ -12825,7 +10344,7 @@
   },
   {
     "id": 886,
-    "rank": 886,
+    "rank": 673,
     "dutch": "naam",
     "english": "name",
     "partOfSpeech": "noun",
@@ -12840,7 +10359,7 @@
   },
   {
     "id": 887,
-    "rank": 887,
+    "rank": 674,
     "dutch": "adres",
     "english": "address",
     "partOfSpeech": "noun",
@@ -12855,7 +10374,7 @@
   },
   {
     "id": 888,
-    "rank": 888,
+    "rank": 675,
     "dutch": "nummer",
     "english": "number",
     "partOfSpeech": "noun",
@@ -12870,7 +10389,7 @@
   },
   {
     "id": 889,
-    "rank": 889,
+    "rank": 676,
     "dutch": "leeftijd",
     "english": "age",
     "partOfSpeech": "noun",
@@ -12885,7 +10404,7 @@
   },
   {
     "id": 890,
-    "rank": 890,
+    "rank": 677,
     "dutch": "nationaliteit",
     "english": "nationality",
     "partOfSpeech": "noun",
@@ -12899,23 +10418,8 @@
     "mnemonic": ""
   },
   {
-    "id": 891,
-    "rank": 891,
-    "dutch": "paspoort",
-    "english": "passport",
-    "partOfSpeech": "noun",
-    "gender": "het",
-    "sentences": [
-      {
-        "dutch": "Mag ik je paspoort zien?",
-        "english": "May I see your passport?"
-      }
-    ],
-    "mnemonic": ""
-  },
-  {
     "id": 892,
-    "rank": 892,
+    "rank": 678,
     "dutch": "formulier",
     "english": "form",
     "partOfSpeech": "noun",
@@ -12930,7 +10434,7 @@
   },
   {
     "id": 893,
-    "rank": 893,
+    "rank": 679,
     "dutch": "handtekening",
     "english": "signature",
     "partOfSpeech": "noun",
@@ -12945,7 +10449,7 @@
   },
   {
     "id": 894,
-    "rank": 894,
+    "rank": 680,
     "dutch": "document",
     "english": "document",
     "partOfSpeech": "noun",
@@ -12960,7 +10464,7 @@
   },
   {
     "id": 895,
-    "rank": 895,
+    "rank": 681,
     "dutch": "contract",
     "english": "contract",
     "partOfSpeech": "noun",
@@ -12975,7 +10479,7 @@
   },
   {
     "id": 896,
-    "rank": 896,
+    "rank": 682,
     "dutch": "bezorgd",
     "english": "worried",
     "partOfSpeech": "adjective",
@@ -12990,7 +10494,7 @@
   },
   {
     "id": 897,
-    "rank": 897,
+    "rank": 683,
     "dutch": "opgewonden",
     "english": "excited",
     "partOfSpeech": "adjective",
@@ -13005,7 +10509,7 @@
   },
   {
     "id": 898,
-    "rank": 898,
+    "rank": 684,
     "dutch": "tevreden",
     "english": "satisfied",
     "partOfSpeech": "adjective",
@@ -13020,7 +10524,7 @@
   },
   {
     "id": 899,
-    "rank": 899,
+    "rank": 685,
     "dutch": "teleurgesteld",
     "english": "disappointed",
     "partOfSpeech": "adjective",
@@ -13034,7 +10538,7 @@
   },
   {
     "id": 900,
-    "rank": 900,
+    "rank": 686,
     "dutch": "dankbaar",
     "english": "grateful",
     "partOfSpeech": "adjective",

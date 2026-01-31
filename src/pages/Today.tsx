@@ -16,15 +16,16 @@ function Today() {
   const [isLoading, setIsLoading] = useState(true);
 
   const totalWords = words.length;
+  const validWordIds = new Set(words.map(w => w.id));
 
   // Load mode stats
   useEffect(() => {
     const loadStats = async () => {
       setIsLoading(true);
       const [learnStats, listenStats, produceStats] = await Promise.all([
-        getModeStats('learn', totalWords),
-        getModeStats('listen', totalWords),
-        getModeStats('produce', totalWords),
+        getModeStats('learn', totalWords, validWordIds),
+        getModeStats('listen', totalWords, validWordIds),
+        getModeStats('produce', totalWords, validWordIds),
       ]);
       setModeStats({
         learn: learnStats,

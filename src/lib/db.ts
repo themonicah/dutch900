@@ -235,13 +235,16 @@ export async function getModeProgressMap(mode: PracticeMode): Promise<Map<number
   return map;
 }
 
-export async function getModeStats(mode: PracticeMode, totalWords: number): Promise<{ green: number; yellow: number; red: number; new: number }> {
+export async function getModeStats(mode: PracticeMode, totalWords: number, validWordIds?: Set<number>): Promise<{ green: number; yellow: number; red: number; new: number }> {
   const all = await getAllModeProgress(mode);
   let green = 0;
   let yellow = 0;
   let red = 0;
+  let counted = 0;
 
   for (const p of all) {
+    if (validWordIds && !validWordIds.has(p.wordId)) continue;
+    counted++;
     if (p.status === 'green') green++;
     else if (p.status === 'yellow') yellow++;
     else if (p.status === 'red') red++;
@@ -251,7 +254,7 @@ export async function getModeStats(mode: PracticeMode, totalWords: number): Prom
     green,
     yellow,
     red,
-    new: totalWords - all.length,
+    new: Math.max(0, totalWords - counted),
   };
 }
 
