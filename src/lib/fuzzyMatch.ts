@@ -135,6 +135,7 @@ const SYNONYMS: string[][] = [
   ['hello', 'hi', 'goodbye', 'bye'],
   ['stupid', 'dumb'],
   ['certain', 'sure', 'certainly'],
+  ['below', 'beneath', 'underneath', 'downstairs'],
 ];
 
 // Build synonym map
