@@ -1,11 +1,13 @@
-import { useRef } from 'react';
-import { NavLink, Outlet } from 'react-router-dom';
+import { useRef, useState } from 'react';
+import { NavLink, Outlet, useNavigate } from 'react-router-dom';
 import { useStore } from '../store';
 import { exportAllData, importAllData } from '../lib/db';
 
 function Layout() {
   const { stats, settings, updateSettings } = useStore();
   const fileInputRef = useRef<HTMLInputElement>(null);
+  const navigate = useNavigate();
+  const [showGearMenu, setShowGearMenu] = useState(false);
 
   const handleExportData = async () => {
     const data = await exportAllData();
@@ -108,23 +110,6 @@ function Layout() {
 
       {/* Footer */}
       <footer className="py-4 space-y-3">
-        {/* Mnemonic toggle */}
-        <div className="flex items-center justify-center gap-2">
-          <span className="text-xs text-gray-500 dark:text-gray-400">Hints</span>
-          <button
-            onClick={() => updateSettings({ showMnemonics: !settings.showMnemonics })}
-            className={`relative w-10 h-5 rounded-full transition-colors ${
-              settings.showMnemonics ? 'bg-duo-green' : 'bg-gray-300 dark:bg-gray-600'
-            }`}
-          >
-            <span
-              className={`absolute top-0.5 left-0.5 w-4 h-4 bg-white rounded-full transition-transform ${
-                settings.showMnemonics ? 'translate-x-5' : ''
-              }`}
-            />
-          </button>
-        </div>
-
         {/* Links */}
         <div className="text-center space-x-4">
           <button
@@ -166,6 +151,59 @@ function Layout() {
           </span>
         </div>
       </footer>
+
+      {/* Gear button - fixed bottom left */}
+      <button
+        onClick={() => setShowGearMenu(!showGearMenu)}
+        className="fixed bottom-4 left-4 w-10 h-10 rounded-full bg-gray-200 dark:bg-gray-700 flex items-center justify-center shadow-md hover:bg-gray-300 dark:hover:bg-gray-600 transition-colors z-40"
+      >
+        <svg className="w-5 h-5 text-gray-600 dark:text-gray-300" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+          <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M10.325 4.317c.426-1.756 2.924-1.756 3.35 0a1.724 1.724 0 002.573 1.066c1.543-.94 3.31.826 2.37 2.37a1.724 1.724 0 001.066 2.573c1.756.426 1.756 2.924 0 3.35a1.724 1.724 0 00-1.066 2.573c.94 1.543-.826 3.31-2.37 2.37a1.724 1.724 0 00-2.573 1.066c-.426 1.756-2.924 1.756-3.35 0a1.724 1.724 0 00-2.573-1.066c-1.543.94-3.31-.826-2.37-2.37a1.724 1.724 0 00-1.066-2.573c-1.756-.426-1.756-2.924 0-3.35a1.724 1.724 0 001.066-2.573c-.94-1.543.826-3.31 2.37-2.37.996.608 2.296.07 2.572-1.065z" />
+          <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M15 12a3 3 0 11-6 0 3 3 0 016 0z" />
+        </svg>
+      </button>
+
+      {/* Gear menu popup */}
+      {showGearMenu && (
+        <>
+          {/* Backdrop */}
+          <div className="fixed inset-0 z-40" onClick={() => setShowGearMenu(false)} />
+
+          {/* Menu */}
+          <div className="fixed bottom-16 left-4 z-50 bg-white dark:bg-gray-800 rounded-xl shadow-lg border border-gray-200 dark:border-gray-700 py-2 min-w-[180px]">
+            {/* Hints toggle */}
+            <div className="flex items-center justify-between px-4 py-2">
+              <span className="text-sm text-gray-700 dark:text-gray-300">Hints</span>
+              <button
+                onClick={() => updateSettings({ showMnemonics: !settings.showMnemonics })}
+                className={`relative w-10 h-5 rounded-full transition-colors ${
+                  settings.showMnemonics ? 'bg-duo-green' : 'bg-gray-300 dark:bg-gray-600'
+                }`}
+              >
+                <span
+                  className={`absolute top-0.5 left-0.5 w-4 h-4 bg-white rounded-full transition-transform ${
+                    settings.showMnemonics ? 'translate-x-5' : ''
+                  }`}
+                />
+              </button>
+            </div>
+
+            {/* Divider */}
+            <div className="border-t border-gray-200 dark:border-gray-700 my-1" />
+
+            {/* View all words */}
+            <button
+              onClick={() => {
+                setShowGearMenu(false);
+                navigate('/words');
+              }}
+              className="w-full text-left px-4 py-2 text-sm text-gray-700 dark:text-gray-300 hover:bg-gray-100 dark:hover:bg-gray-700 transition-colors"
+            >
+              View all words
+            </button>
+          </div>
+        </>
+      )}
     </div>
   );
 }
