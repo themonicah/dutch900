@@ -9,6 +9,7 @@ import Review from './pages/Review';
 import Tracks from './pages/Tracks';
 import TrackReview from './pages/TrackReview';
 import WordList from './pages/WordList';
+import SentenceReview from './pages/SentenceReview';
 
 function App() {
   const { loadData, isLoaded, settings } = useStore();
@@ -60,6 +61,7 @@ function App() {
         <Route path="tracks/:trackId" element={<Tracks />} />
         <Route path="tracks/:trackId/review/:stage" element={<TrackReview />} />
         <Route path="words" element={<WordList />} />
+        <Route path="sentences" element={<SentenceReview />} />
         {/* Redirect old routes */}
         <Route path="learn" element={<Navigate to="/" replace />} />
         <Route path="review" element={<Navigate to="/" replace />} />

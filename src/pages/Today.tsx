@@ -118,6 +118,44 @@ function Today() {
         })}
       </div>
 
+      {/* Category Practice Bubbles */}
+      <div className="space-y-2">
+        <p className="text-sm text-gray-500 dark:text-gray-400">Practice by category</p>
+        <div className="flex flex-wrap gap-2">
+          {[
+            { id: 'verb', label: 'Verbs', color: '#FF6B6B' },
+            { id: 'noun', label: 'Nouns', color: '#4ECDC4' },
+            { id: 'adjective', label: 'Adjectives', color: '#FFE66D' },
+            { id: 'pronoun', label: 'Pronouns', color: '#A8E6CF' },
+            { id: 'adverb', label: 'Adverbs', color: '#FF8B94' },
+            { id: 'preposition', label: 'Prepositions', color: '#B5EAD7' },
+            { id: 'numeral', label: 'Numbers', color: '#C7CEEA' },
+            { id: 'conjunction', label: 'Connectors', color: '#FFDAC1' },
+            { id: 'interjection', label: 'Expressions', color: '#E2F0CB' },
+          ].map((cat) => {
+            const count = words.filter((w) => w.partOfSpeech === cat.id).length;
+            if (count === 0) return null;
+            // Use dark text for light colors, white for dark colors
+            const hex = cat.color.replace('#', '');
+            const r = parseInt(hex.substring(0, 2), 16);
+            const g = parseInt(hex.substring(2, 4), 16);
+            const b = parseInt(hex.substring(4, 6), 16);
+            const brightness = (r * 299 + g * 587 + b * 114) / 1000;
+            const textColor = brightness > 150 ? '#1a1a1a' : '#ffffff';
+            return (
+              <button
+                key={cat.id}
+                onClick={() => navigate(`/review/learn?cat=${cat.id}`)}
+                className="rounded-full px-3 py-1.5 text-sm font-medium transition-all duration-200 active:scale-95 hover:opacity-80"
+                style={{ backgroundColor: cat.color, color: textColor }}
+              >
+                {cat.label} ({count})
+              </button>
+            );
+          })}
+        </div>
+      </div>
+
       {/* All words mastered celebration */}
       {totalGreens >= totalWords * 3 && (
         <div className="text-center py-6 bg-yellow-50 dark:bg-yellow-900/20 rounded-xl">

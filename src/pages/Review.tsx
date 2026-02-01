@@ -1,5 +1,5 @@
 import { useState, useEffect, useRef, useMemo } from 'react';
-import { useParams, Link } from 'react-router-dom';
+import { useParams, useSearchParams, Link } from 'react-router-dom';
 import { useStore } from '../store';
 import { speakDutch } from '../lib/audio';
 import { scoreAnswer, getScoreMessage, type ScoreColor } from '../lib/fuzzyMatch';
@@ -14,6 +14,14 @@ const BATCH_SIZE = 20;
 function Review() {
   const { mode: modeParam } = useParams<{ mode?: string }>();
   const { words, settings } = useStore();
+  const [searchParams] = useSearchParams();
+  const categoryFilter = searchParams.get('cat');
+
+  const categoryNames: Record<string, string> = {
+    verb: 'Verbs', noun: 'Nouns', adjective: 'Adjectives', pronoun: 'Pronouns',
+    adverb: 'Adverbs', preposition: 'Prepositions', numeral: 'Numbers',
+    conjunction: 'Connectors', interjection: 'Expressions',
+  };
 
   // Determine practice mode from URL
   const mode: PracticeMode = modeParam === 'listen'
@@ -62,7 +70,10 @@ function Review() {
   useEffect(() => {
     const init = async () => {
       setIsLoading(true);
-      const allWordIds = words.map(w => w.id);
+      const filteredWords = categoryFilter
+        ? words.filter(w => w.partOfSpeech === categoryFilter)
+        : words;
+      const allWordIds = filteredWords.map(w => w.id);
       const progress = await getModeProgressMap(mode);
       setProgressMap(progress);
 
@@ -72,7 +83,7 @@ function Review() {
 
       // Find green cognates to skip - they're too easy
       const skipIds = new Set<number>();
-      for (const word of words) {
+      for (const word of filteredWords) {
         const wordProgress = progress.get(word.id);
         if (wordProgress?.status === 'green' && areSimilarWords(word.dutch, word.english)) {
           skipIds.add(word.id);
@@ -88,7 +99,7 @@ function Review() {
       setIsLoading(false);
     };
     init();
-  }, [mode, words]);
+  }, [mode, words, categoryFilter]);
 
   // Reset state when moving to next card
   useEffect(() => {
@@ -240,7 +251,10 @@ function Review() {
 
   // Continue with another batch
   const handleKeepGoing = async () => {
-    const allWordIds = words.map(w => w.id);
+    const filteredWords = categoryFilter
+      ? words.filter(w => w.partOfSpeech === categoryFilter)
+      : words;
+    const allWordIds = filteredWords.map(w => w.id);
 
     // Get fresh troubled words
     const troubled = await getAllTroubledWords(mode);
@@ -248,7 +262,7 @@ function Review() {
 
     // Find green cognates to skip
     const skipIds = new Set<number>();
-    for (const word of words) {
+    for (const word of filteredWords) {
       const wordProgress = progressMap.get(word.id);
       if (wordProgress?.status === 'green' && areSimilarWords(word.dutch, word.english)) {
         skipIds.add(word.id);
@@ -416,6 +430,30 @@ function Review() {
           />
         </div>
       </div>
+
+      {/* Category header */}
+      {categoryFilter && (
+        <div className="mb-4">
+          <h2 className="text-lg font-bold text-gray-900 dark:text-white mb-2">
+            {categoryNames[categoryFilter] || categoryFilter}
+          </h2>
+          <div className="flex gap-2">
+            {(['learn', 'listen', 'produce'] as const).map(m => (
+              <Link
+                key={m}
+                to={`/review/${m}?cat=${categoryFilter}`}
+                className={`px-3 py-1 rounded-full text-sm font-medium ${
+                  m === mode
+                    ? 'bg-duo-green text-white'
+                    : 'bg-gray-200 dark:bg-gray-700 text-gray-600 dark:text-gray-300'
+                }`}
+              >
+                {m === 'learn' ? 'Learn' : m === 'listen' ? 'Listen' : 'Translate'}
+              </Link>
+            ))}
+          </div>
+        </div>
+      )}
 
       {/* Streak indicator */}
       {consecutiveGreens >= 3 && (

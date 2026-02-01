@@ -11956,5 +11956,170 @@
       }
     ],
     "mnemonic": ""
+  },
+  {
+    "dutch": "verdrietig",
+    "english": "sad",
+    "partOfSpeech": "adjective",
+    "note": "From verdriet (sorrow). Ver- intensifier + driet, related to German verdrießen (to vex). Think 'very distressed'.",
+    "id": 948,
+    "rank": 948,
+    "sentences": [
+      {
+        "dutch": "Het kind is verdrietig omdat zijn kat weg is.",
+        "english": "The child is sad because his cat is gone."
+      }
+    ],
+    "mnemonic": ""
+  },
+  {
+    "dutch": "jaloers",
+    "english": "jealous",
+    "partOfSpeech": "adjective",
+    "note": "From French jaloux, just like English 'jealous'. Both trace back to Latin zelosus.",
+    "id": 949,
+    "rank": 949,
+    "sentences": [
+      {
+        "dutch": "Hij is jaloers op zijn broer.",
+        "english": "He is jealous of his brother."
+      }
+    ],
+    "mnemonic": ""
+  },
+  {
+    "dutch": "verbaasd",
+    "english": "surprised",
+    "partOfSpeech": "adjective",
+    "note": "From verbazen (to amaze). Related to English 'abash' through Old French. Ver- is an intensifying prefix.",
+    "id": 950,
+    "rank": 950,
+    "sentences": [
+      {
+        "dutch": "Ik was verbaasd over het nieuws.",
+        "english": "I was surprised by the news."
+      }
+    ],
+    "mnemonic": ""
+  },
+  {
+    "dutch": "nerveus",
+    "english": "nervous",
+    "partOfSpeech": "adjective",
+    "note": "Nearly identical to English 'nervous'. Both from Latin nervosus. German uses nervös.",
+    "id": 951,
+    "rank": 951,
+    "sentences": [
+      {
+        "dutch": "Ik ben nerveus voor het examen.",
+        "english": "I am nervous about the exam."
+      }
+    ],
+    "mnemonic": ""
+  },
+  {
+    "dutch": "eenzaam",
+    "english": "lonely",
+    "partOfSpeech": "adjective",
+    "note": "Een (one) + -zaam (suffix like English '-some'). Literally 'onesome'. German uses einsam with the same structure.",
+    "id": 952,
+    "rank": 952,
+    "sentences": [
+      {
+        "dutch": "De oude man voelt zich eenzaam.",
+        "english": "The old man feels lonely."
+      }
+    ],
+    "mnemonic": ""
+  },
+  {
+    "dutch": "gefrustreerd",
+    "english": "frustrated",
+    "partOfSpeech": "adjective",
+    "note": "Almost identical to English 'frustrated' with Dutch ge- past participle prefix. From Latin frustrare.",
+    "id": 953,
+    "rank": 953,
+    "sentences": [
+      {
+        "dutch": "Ze is gefrustreerd omdat het niet lukt.",
+        "english": "She is frustrated because it is not working."
+      }
+    ],
+    "mnemonic": ""
+  },
+  {
+    "dutch": "doen",
+    "english": "to do",
+    "partOfSpeech": "verb",
+    "note": "Directly cognate with English 'do' and German tun. One of the oldest shared Germanic words.",
+    "id": 954,
+    "rank": 954,
+    "sentences": [
+      {
+        "dutch": "Wat wil je vandaag doen?",
+        "english": "What do you want to do today?"
+      }
+    ],
+    "mnemonic": ""
+  },
+  {
+    "dutch": "praten",
+    "english": "to talk",
+    "partOfSpeech": "verb",
+    "note": "Related to English 'prattle'. Both suggest casual talking. German uses a different word (reden/sprechen).",
+    "id": 955,
+    "rank": 955,
+    "sentences": [
+      {
+        "dutch": "We praten elke dag met elkaar.",
+        "english": "We talk to each other every day."
+      }
+    ],
+    "mnemonic": ""
+  },
+  {
+    "dutch": "om",
+    "english": "around; in order to",
+    "partOfSpeech": "preposition",
+    "note": "Cognate with German um (around). As 'in order to' it introduces purpose clauses: om te + infinitive.",
+    "id": 956,
+    "rank": 956,
+    "sentences": [
+      {
+        "dutch": "Ik ga naar de winkel om brood te kopen.",
+        "english": "I go to the store in order to buy bread."
+      }
+    ],
+    "mnemonic": ""
+  },
+  {
+    "dutch": "langs",
+    "english": "along, past",
+    "partOfSpeech": "preposition",
+    "note": "Related to English 'along' (both from Germanic lang, long). Langs de rivier = along the river.",
+    "id": 957,
+    "rank": 957,
+    "sentences": [
+      {
+        "dutch": "We lopen langs het water.",
+        "english": "We walk along the water."
+      }
+    ],
+    "mnemonic": ""
+  },
+  {
+    "dutch": "welke",
+    "english": "which",
+    "partOfSpeech": "pronoun",
+    "note": "Cognate with English 'which' (Old English hwilc). German uses welche in the same way.",
+    "id": 958,
+    "rank": 958,
+    "sentences": [
+      {
+        "dutch": "Welke kleur vind je mooi?",
+        "english": "Which color do you like?"
+      }
+    ],
+    "mnemonic": ""
   }
 ]
