@@ -136,6 +136,7 @@ const SYNONYMS: string[][] = [
   ['stupid', 'dumb'],
   ['certain', 'sure', 'certainly'],
   ['below', 'beneath', 'underneath', 'downstairs'],
+  ['clothes', 'clothing'],
 ];
 
 // Build synonym map
