@@ -250,6 +250,8 @@ function TrackReview() {
       status: score,
       lastAttempt: new Date().toISOString(),
       attempts: newAttempts,
+      correctCount: (existing?.correctCount || 0) + (score === 'green' ? 1 : 0),
+      wrongCount: (existing?.wrongCount || 0) + (score !== 'green' ? 1 : 0),
     });
 
     // Add to troubled words if 3+ attempts and not getting it right (yellow/red)

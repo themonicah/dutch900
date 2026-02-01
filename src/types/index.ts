@@ -131,6 +131,8 @@ export interface WordModeProgress {
   status: WordScoreStatus;
   lastAttempt: string | null; // ISO date
   attempts: number;
+  correctCount: number;
+  wrongCount: number;
 }
 
 // Mode stats summary

@@ -188,6 +188,8 @@ function Review() {
       status: newStatus,
       lastAttempt: new Date().toISOString(),
       attempts: (currentProgress?.attempts || 0) + 1,
+      correctCount: (currentProgress?.correctCount || 0) + (score === 'green' ? 1 : 0),
+      wrongCount: (currentProgress?.wrongCount || 0) + (score !== 'green' ? 1 : 0),
     };
 
     await saveModeProgress(updatedProgress);

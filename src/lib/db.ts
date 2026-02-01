@@ -103,6 +103,21 @@ db.version(6).stores({
   troubledWords: '[wordId+mode], wordId, mode',
 });
 
+// Version 7 - Add correctCount and wrongCount to modeProgress
+db.version(7).stores({
+  progress: 'wordId, reading.dueDate, reading.status, listening.dueDate, listening.status, production.dueDate, production.status',
+  stats: 'id',
+  settings: 'id',
+  chapterProgress: '[chapterId+wordId], chapterId, stage',
+  modeProgress: '[wordId+mode], wordId, mode, status',
+  troubledWords: '[wordId+mode], wordId, mode',
+}).upgrade(tx => {
+  return tx.table('modeProgress').toCollection().modify(record => {
+    if (record.correctCount === undefined) record.correctCount = 0;
+    if (record.wrongCount === undefined) record.wrongCount = 0;
+  });
+});
+
 export { db };
 
 // Default settings
