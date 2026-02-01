@@ -178,7 +178,7 @@ function Today() {
       <div className="text-center">
         <button
           onClick={() => setShowWordList(true)}
-          className="text-sm text-gray-400 dark:text-gray-500 hover:text-gray-600 dark:hover:text-gray-300 transition-colors"
+          className="text-sm text-blue-500 dark:text-blue-400 hover:text-blue-700 dark:hover:text-blue-300 underline transition-colors"
         >
           View all words
         </button>
