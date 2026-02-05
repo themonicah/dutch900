@@ -21,12 +21,15 @@ function Patterns() {
   let masteredPatterns = 0;
   let totalVariations = 0;
   let masteredVariations = 0;
+  let practicedVariations = 0;
 
   for (const pattern of patterns) {
     totalVariations += pattern.variations.length;
     const progress = progressMap.get(pattern.id);
     if (progress) {
       masteredVariations += progress.masteredCount;
+      // Count variations that have been practiced at least once
+      practicedVariations += progress.variationProgress.filter(vp => vp.attempts > 0).length;
       if (progress.masteredCount >= progress.totalVariations) {
         masteredPatterns++;
       }
@@ -58,15 +61,21 @@ function Patterns() {
             {masteredPatterns}/{totalPatterns} patterns mastered
           </span>
         </div>
-        <div className="h-3 bg-gray-200 dark:bg-gray-700 rounded-full overflow-hidden">
+        {/* Stacked progress bar: practiced (light) + mastered (dark) */}
+        <div className="h-3 bg-gray-200 dark:bg-gray-700 rounded-full overflow-hidden relative">
           <div
-            className="h-full bg-duo-green rounded-full transition-all duration-500"
-            style={{ width: `${(masteredPatterns / totalPatterns) * 100}%` }}
+            className="absolute h-full bg-duo-green/30 rounded-full transition-all duration-500"
+            style={{ width: `${(practicedVariations / totalVariations) * 100}%` }}
+          />
+          <div
+            className="absolute h-full bg-duo-green rounded-full transition-all duration-500"
+            style={{ width: `${(masteredVariations / totalVariations) * 100}%` }}
           />
         </div>
-        <p className="text-xs text-gray-400 mt-2 text-right">
-          {masteredVariations}/{totalVariations} variations completed
-        </p>
+        <div className="flex justify-between mt-2 text-xs text-gray-400">
+          <span>{practicedVariations}/{totalVariations} practiced</span>
+          <span>{masteredVariations}/{totalVariations} mastered (3x correct)</span>
+        </div>
       </div>
 
       {/* Category sections */}
@@ -101,9 +110,11 @@ function Patterns() {
               {categoryPatterns.map((pattern) => {
                 const progress = progressMap.get(pattern.id);
                 const mastered = progress?.masteredCount || 0;
+                const practiced = progress?.variationProgress.filter(vp => vp.attempts > 0).length || 0;
                 const total = pattern.variations.length;
                 const isMastered = mastered >= total;
-                const progressPercent = (mastered / total) * 100;
+                const practicedPercent = (practiced / total) * 100;
+                const masteredPercent = (mastered / total) * 100;
 
                 return (
                   <button
@@ -112,6 +123,8 @@ function Patterns() {
                     className={`w-full text-left p-3 rounded-xl transition-all duration-200 active:scale-[0.98] ${
                       isMastered
                         ? 'bg-duo-green/10 border-2 border-duo-green'
+                        : practiced > 0
+                        ? 'bg-white dark:bg-gray-800 border-2 border-duo-blue/30'
                         : 'bg-white dark:bg-gray-800 border-2 border-transparent hover:border-gray-200 dark:hover:border-gray-700'
                     } shadow-sm`}
                   >
@@ -123,19 +136,23 @@ function Patterns() {
                         </span>
                       </div>
                       <span className="text-sm text-gray-500 dark:text-gray-400">
-                        {mastered}/{total}
+                        {practiced > 0 ? `${mastered}/${total} mastered` : `${total} to learn`}
                       </span>
                     </div>
                     <p className="text-sm text-gray-500 dark:text-gray-400 mb-2">
                       {pattern.english}
                     </p>
-                    {/* Progress bar */}
-                    <div className="h-1.5 bg-gray-200 dark:bg-gray-700 rounded-full overflow-hidden">
+                    {/* Stacked progress bar */}
+                    <div className="h-1.5 bg-gray-200 dark:bg-gray-700 rounded-full overflow-hidden relative">
                       <div
-                        className={`h-full rounded-full transition-all duration-300 ${
+                        className="absolute h-full bg-duo-blue/30 rounded-full transition-all duration-300"
+                        style={{ width: `${practicedPercent}%` }}
+                      />
+                      <div
+                        className={`absolute h-full rounded-full transition-all duration-300 ${
                           isMastered ? 'bg-duo-green' : 'bg-duo-blue'
                         }`}
-                        style={{ width: `${progressPercent}%` }}
+                        style={{ width: `${masteredPercent}%` }}
                       />
                     </div>
                   </button>
