@@ -10,6 +10,8 @@ import Tracks from './pages/Tracks';
 import TrackReview from './pages/TrackReview';
 import WordList from './pages/WordList';
 import SentenceReview from './pages/SentenceReview';
+import Patterns from './pages/Patterns';
+import PatternDrill from './pages/PatternDrill';
 
 function App() {
   const { loadData, isLoaded, settings } = useStore();
@@ -62,6 +64,8 @@ function App() {
         <Route path="tracks/:trackId/review/:stage" element={<TrackReview />} />
         <Route path="words" element={<WordList />} />
         <Route path="sentences" element={<SentenceReview />} />
+        <Route path="patterns" element={<Patterns />} />
+        <Route path="patterns/:patternId" element={<PatternDrill />} />
         {/* Redirect old routes */}
         <Route path="learn" element={<Navigate to="/" replace />} />
         <Route path="review" element={<Navigate to="/" replace />} />

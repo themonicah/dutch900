@@ -1,5 +1,5 @@
 import Dexie, { type EntityTable } from 'dexie';
-import type { CardProgress, UserStats, UserSettings, ChapterWordProgress, WordModeProgress, PracticeMode } from '../types';
+import type { CardProgress, UserStats, UserSettings, ChapterWordProgress, WordModeProgress, PracticeMode, PatternProgress } from '../types';
 
 // Troubled word - words that took 3+ attempts to get right
 export interface TroubledWord {
@@ -25,6 +25,7 @@ interface Dutch900DB {
   chapterProgress: EntityTable<ChapterWordProgress, 'wordId'>;
   modeProgress: EntityTable<WordModeProgress, 'wordId'>;
   troubledWords: EntityTable<TroubledWord, 'wordId'>;
+  patternProgress: EntityTable<PatternProgress, 'patternId'>;
 }
 
 // Create the database
@@ -116,6 +117,17 @@ db.version(7).stores({
     if (record.correctCount === undefined) record.correctCount = 0;
     if (record.wrongCount === undefined) record.wrongCount = 0;
   });
+});
+
+// Version 8 - Add pattern progress table for sentence drills
+db.version(8).stores({
+  progress: 'wordId, reading.dueDate, reading.status, listening.dueDate, listening.status, production.dueDate, production.status',
+  stats: 'id',
+  settings: 'id',
+  chapterProgress: '[chapterId+wordId], chapterId, stage',
+  modeProgress: '[wordId+mode], wordId, mode, status',
+  troubledWords: '[wordId+mode], wordId, mode',
+  patternProgress: 'patternId',
 });
 
 export { db };
@@ -351,4 +363,46 @@ export async function getAllTroubledWordCounts(): Promise<Record<PracticeMode, n
     getTroubledWordCount('produce'),
   ]);
   return { learn, listen, produce };
+}
+
+// Pattern progress helpers for sentence drills
+export async function getPatternProgress(patternId: number): Promise<PatternProgress | undefined> {
+  return db.patternProgress.get(patternId);
+}
+
+export async function savePatternProgress(progress: PatternProgress): Promise<void> {
+  await db.patternProgress.put(progress);
+}
+
+export async function getAllPatternProgress(): Promise<PatternProgress[]> {
+  return db.patternProgress.toArray();
+}
+
+export async function getPatternProgressMap(): Promise<Map<number, PatternProgress>> {
+  const all = await getAllPatternProgress();
+  const map = new Map<number, PatternProgress>();
+  for (const p of all) {
+    map.set(p.patternId, p);
+  }
+  return map;
+}
+
+export async function getPatternStats(totalPatterns: number): Promise<{ mastered: number; inProgress: number; notStarted: number }> {
+  const all = await getAllPatternProgress();
+  let mastered = 0;
+  let inProgress = 0;
+
+  for (const p of all) {
+    if (p.masteredCount >= p.totalVariations) {
+      mastered++;
+    } else {
+      inProgress++;
+    }
+  }
+
+  return {
+    mastered,
+    inProgress,
+    notStarted: Math.max(0, totalPatterns - mastered - inProgress),
+  };
 }

@@ -161,3 +161,20 @@ export interface ChapterProgress {
   totalReviews: number;
   lastPracticed: string | null;
 }
+
+// Pattern progress for sentence drills
+export interface PatternVariationProgress {
+  patternId: number;
+  variationIndex: number;
+  correctStreak: number;  // Need 3 correct in a row to master
+  attempts: number;
+  lastAttempt: string | null;
+}
+
+export interface PatternProgress {
+  patternId: number;
+  variationProgress: PatternVariationProgress[];
+  masteredCount: number;  // How many variations are mastered (correctStreak >= 3)
+  totalVariations: number;
+  lastAttempt: string | null;
+}
