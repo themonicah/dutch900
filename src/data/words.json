@@ -5,6 +5,7 @@
     "dutch": "huis",
     "english": "house, home",
     "partOfSpeech": "noun",
+    "category": "home",
     "gender": "het",
     "sentences": [
       {
@@ -21,6 +22,7 @@
     "dutch": "water",
     "english": "water",
     "partOfSpeech": "noun",
+    "category": "food",
     "gender": "het",
     "sentences": [
       {
@@ -37,6 +39,7 @@
     "dutch": "eten",
     "english": "to eat / food",
     "partOfSpeech": "verb",
+    "category": "verb",
     "sentences": [
       {
         "dutch": "Wat wil je eten?",
@@ -52,6 +55,7 @@
     "dutch": "drinken",
     "english": "to drink",
     "partOfSpeech": "verb",
+    "category": "verb",
     "sentences": [
       {
         "dutch": "Wil je iets drinken?",
@@ -67,6 +71,7 @@
     "dutch": "gaan",
     "english": "to go",
     "partOfSpeech": "verb",
+    "category": "verb",
     "sentences": [
       {
         "dutch": "Ik ga naar huis.",
@@ -82,6 +87,7 @@
     "dutch": "komen",
     "english": "to come",
     "partOfSpeech": "verb",
+    "category": "verb",
     "sentences": [
       {
         "dutch": "Wanneer kom je?",
@@ -97,6 +103,7 @@
     "dutch": "hebben",
     "english": "to have",
     "partOfSpeech": "verb",
+    "category": "verb",
     "sentences": [
       {
         "dutch": "Ik heb een vraag.",
@@ -112,6 +119,7 @@
     "dutch": "zijn",
     "english": "to be, his",
     "partOfSpeech": "verb",
+    "category": "verb",
     "sentences": [
       {
         "dutch": "Ik ben student.",
@@ -131,6 +139,7 @@
     "dutch": "willen",
     "english": "to want",
     "partOfSpeech": "verb",
+    "category": "verb",
     "sentences": [
       {
         "dutch": "Ik wil leren.",
@@ -146,6 +155,7 @@
     "dutch": "kunnen",
     "english": "can, to be able",
     "partOfSpeech": "verb",
+    "category": "verb",
     "sentences": [
       {
         "dutch": "Ik kan zwemmen.",
@@ -161,6 +171,7 @@
     "dutch": "moeten",
     "english": "must, have to",
     "partOfSpeech": "verb",
+    "category": "verb",
     "sentences": [
       {
         "dutch": "Ik moet werken.",
@@ -176,6 +187,7 @@
     "dutch": "mogen",
     "english": "may, to be allowed",
     "partOfSpeech": "verb",
+    "category": "verb",
     "sentences": [
       {
         "dutch": "Mag ik binnenkomen?",
@@ -191,6 +203,7 @@
     "dutch": "zien",
     "english": "to see",
     "partOfSpeech": "verb",
+    "category": "verb",
     "sentences": [
       {
         "dutch": "Ik zie je morgen.",
@@ -206,6 +219,7 @@
     "dutch": "horen",
     "english": "to hear",
     "partOfSpeech": "verb",
+    "category": "verb",
     "sentences": [
       {
         "dutch": "Ik hoor muziek.",
@@ -221,6 +235,7 @@
     "dutch": "weten",
     "english": "to know (fact)",
     "partOfSpeech": "verb",
+    "category": "verb",
     "sentences": [
       {
         "dutch": "Ik weet het niet.",
@@ -236,6 +251,7 @@
     "dutch": "kennen",
     "english": "to know (person)",
     "partOfSpeech": "verb",
+    "category": "verb",
     "sentences": [
       {
         "dutch": "Ken je hem?",
@@ -251,6 +267,7 @@
     "dutch": "denken",
     "english": "to think",
     "partOfSpeech": "verb",
+    "category": "verb",
     "sentences": [
       {
         "dutch": "Ik denk dat het goed is.",
@@ -266,6 +283,7 @@
     "dutch": "zeggen",
     "english": "to say",
     "partOfSpeech": "verb",
+    "category": "verb",
     "sentences": [
       {
         "dutch": "Wat zeg je?",
@@ -281,6 +299,7 @@
     "dutch": "vragen",
     "english": "to ask",
     "partOfSpeech": "verb",
+    "category": "verb",
     "sentences": [
       {
         "dutch": "Mag ik je iets vragen?",
@@ -296,6 +315,7 @@
     "dutch": "geven",
     "english": "to give",
     "partOfSpeech": "verb",
+    "category": "verb",
     "sentences": [
       {
         "dutch": "Geef me dat boek.",
@@ -311,6 +331,7 @@
     "dutch": "nemen",
     "english": "to take",
     "partOfSpeech": "verb",
+    "category": "verb",
     "sentences": [
       {
         "dutch": "Ik neem de trein.",
@@ -326,6 +347,7 @@
     "dutch": "maken",
     "english": "to make",
     "partOfSpeech": "verb",
+    "category": "verb",
     "sentences": [
       {
         "dutch": "Ik maak koffie.",
@@ -341,6 +363,7 @@
     "dutch": "werken",
     "english": "to work",
     "partOfSpeech": "verb",
+    "category": "verb",
     "sentences": [
       {
         "dutch": "Ik werk in Amsterdam.",
@@ -356,6 +379,7 @@
     "dutch": "leren",
     "english": "to learn",
     "partOfSpeech": "verb",
+    "category": "verb",
     "sentences": [
       {
         "dutch": "Ik leer Nederlands.",
@@ -371,6 +395,7 @@
     "dutch": "schrijven",
     "english": "to write",
     "partOfSpeech": "verb",
+    "category": "verb",
     "sentences": [
       {
         "dutch": "Ik schrijf een brief.",
@@ -386,6 +411,7 @@
     "dutch": "lezen",
     "english": "to read",
     "partOfSpeech": "verb",
+    "category": "verb",
     "sentences": [
       {
         "dutch": "Ik lees een boek.",
@@ -401,6 +427,7 @@
     "dutch": "spreken",
     "english": "to speak",
     "partOfSpeech": "verb",
+    "category": "verb",
     "sentences": [
       {
         "dutch": "Spreek je Engels?",
@@ -416,6 +443,7 @@
     "dutch": "begrijpen",
     "english": "to understand",
     "partOfSpeech": "verb",
+    "category": "verb",
     "sentences": [
       {
         "dutch": "Ik begrijp het niet.",
@@ -431,6 +459,7 @@
     "dutch": "vinden",
     "english": "to find, think",
     "partOfSpeech": "verb",
+    "category": "verb",
     "sentences": [
       {
         "dutch": "Ik vind het leuk.",
@@ -446,6 +475,7 @@
     "dutch": "zoeken",
     "english": "to search, look for",
     "partOfSpeech": "verb",
+    "category": "verb",
     "sentences": [
       {
         "dutch": "Ik zoek mijn sleutels.",
@@ -461,6 +491,7 @@
     "dutch": "dag",
     "english": "day, hello, goodbye",
     "partOfSpeech": "noun",
+    "category": "time",
     "gender": "de",
     "sentences": [
       {
@@ -481,6 +512,7 @@
     "dutch": "week",
     "english": "week",
     "partOfSpeech": "noun",
+    "category": "time",
     "gender": "de",
     "sentences": [
       {
@@ -497,6 +529,7 @@
     "dutch": "maand",
     "english": "month",
     "partOfSpeech": "noun",
+    "category": "time",
     "gender": "de",
     "sentences": [
       {
@@ -513,6 +546,7 @@
     "dutch": "jaar",
     "english": "year",
     "partOfSpeech": "noun",
+    "category": "time",
     "gender": "het",
     "sentences": [
       {
@@ -529,6 +563,7 @@
     "dutch": "tijd",
     "english": "time",
     "partOfSpeech": "noun",
+    "category": "time",
     "gender": "de",
     "sentences": [
       {
@@ -545,6 +580,7 @@
     "dutch": "uur",
     "english": "hour",
     "partOfSpeech": "noun",
+    "category": "time",
     "gender": "het",
     "sentences": [
       {
@@ -561,6 +597,7 @@
     "dutch": "minuut",
     "english": "minute",
     "partOfSpeech": "noun",
+    "category": "time",
     "gender": "de",
     "sentences": [
       {
@@ -577,6 +614,7 @@
     "dutch": "man",
     "english": "man, husband",
     "partOfSpeech": "noun",
+    "category": "people",
     "gender": "de",
     "sentences": [
       {
@@ -593,6 +631,7 @@
     "dutch": "vrouw",
     "english": "woman, wife",
     "partOfSpeech": "noun",
+    "category": "people",
     "gender": "de",
     "sentences": [
       {
@@ -609,6 +648,7 @@
     "dutch": "kind",
     "english": "child",
     "partOfSpeech": "noun",
+    "category": "people",
     "gender": "het",
     "sentences": [
       {
@@ -625,6 +665,7 @@
     "dutch": "vader",
     "english": "father",
     "partOfSpeech": "noun",
+    "category": "people",
     "gender": "de",
     "sentences": [
       {
@@ -641,6 +682,7 @@
     "dutch": "moeder",
     "english": "mother",
     "partOfSpeech": "noun",
+    "category": "people",
     "gender": "de",
     "sentences": [
       {
@@ -657,6 +699,7 @@
     "dutch": "zoon",
     "english": "son",
     "partOfSpeech": "noun",
+    "category": "people",
     "gender": "de",
     "sentences": [
       {
@@ -673,6 +716,7 @@
     "dutch": "dochter",
     "english": "daughter",
     "partOfSpeech": "noun",
+    "category": "people",
     "gender": "de",
     "sentences": [
       {
@@ -689,6 +733,7 @@
     "dutch": "vriend",
     "english": "friend (male)",
     "partOfSpeech": "noun",
+    "category": "people",
     "gender": "de",
     "sentences": [
       {
@@ -705,6 +750,7 @@
     "dutch": "boek",
     "english": "book",
     "partOfSpeech": "noun",
+    "category": "noun",
     "gender": "het",
     "sentences": [
       {
@@ -721,6 +767,7 @@
     "dutch": "auto",
     "english": "car",
     "partOfSpeech": "noun",
+    "category": "transport",
     "gender": "de",
     "sentences": [
       {
@@ -737,6 +784,7 @@
     "dutch": "fiets",
     "english": "bicycle",
     "partOfSpeech": "noun",
+    "category": "transport",
     "gender": "de",
     "sentences": [
       {
@@ -753,6 +801,7 @@
     "dutch": "trein",
     "english": "train",
     "partOfSpeech": "noun",
+    "category": "transport",
     "gender": "de",
     "sentences": [
       {
@@ -769,6 +818,7 @@
     "dutch": "school",
     "english": "school",
     "partOfSpeech": "noun",
+    "category": "noun",
     "gender": "de",
     "sentences": [
       {
@@ -789,6 +839,7 @@
     "dutch": "werk",
     "english": "work, job",
     "partOfSpeech": "noun",
+    "category": "noun",
     "gender": "het",
     "sentences": [
       {
@@ -805,6 +856,7 @@
     "dutch": "geld",
     "english": "money",
     "partOfSpeech": "noun",
+    "category": "noun",
     "gender": "het",
     "sentences": [
       {
@@ -821,6 +873,7 @@
     "dutch": "stad",
     "english": "city",
     "partOfSpeech": "noun",
+    "category": "places",
     "gender": "de",
     "sentences": [
       {
@@ -841,6 +894,7 @@
     "dutch": "land",
     "english": "country",
     "partOfSpeech": "noun",
+    "category": "places",
     "gender": "het",
     "sentences": [
       {
@@ -857,6 +911,7 @@
     "dutch": "koffie",
     "english": "coffee",
     "partOfSpeech": "noun",
+    "category": "food",
     "gender": "de",
     "sentences": [
       {
@@ -873,6 +928,7 @@
     "dutch": "thee",
     "english": "tea",
     "partOfSpeech": "noun",
+    "category": "food",
     "gender": "de",
     "sentences": [
       {
@@ -889,6 +945,7 @@
     "dutch": "weg",
     "english": "road, way",
     "partOfSpeech": "noun",
+    "category": "places",
     "gender": "de",
     "sentences": [
       {
@@ -909,6 +966,7 @@
     "dutch": "straat",
     "english": "street",
     "partOfSpeech": "noun",
+    "category": "places",
     "gender": "de",
     "sentences": [
       {
@@ -925,6 +983,7 @@
     "dutch": "deur",
     "english": "door",
     "partOfSpeech": "noun",
+    "category": "home",
     "gender": "de",
     "sentences": [
       {
@@ -945,6 +1004,7 @@
     "dutch": "hond",
     "english": "dog",
     "partOfSpeech": "noun",
+    "category": "nature",
     "gender": "de",
     "sentences": [
       {
@@ -965,6 +1025,7 @@
     "dutch": "kat",
     "english": "cat",
     "partOfSpeech": "noun",
+    "category": "nature",
     "gender": "de",
     "sentences": [
       {
@@ -981,6 +1042,7 @@
     "dutch": "groot",
     "english": "big, large",
     "partOfSpeech": "adjective",
+    "category": "size",
     "sentences": [
       {
         "dutch": "Het huis is groot.",
@@ -1000,6 +1062,7 @@
     "dutch": "klein",
     "english": "small, little",
     "partOfSpeech": "adjective",
+    "category": "size",
     "sentences": [
       {
         "dutch": "De kamer is klein.",
@@ -1019,6 +1082,7 @@
     "dutch": "goed",
     "english": "good, well",
     "partOfSpeech": "adjective",
+    "category": "adjective",
     "sentences": [
       {
         "dutch": "Het eten is goed.",
@@ -1038,6 +1102,7 @@
     "dutch": "slecht",
     "english": "bad",
     "partOfSpeech": "adjective",
+    "category": "adjective",
     "sentences": [
       {
         "dutch": "Het weer is slecht.",
@@ -1057,6 +1122,7 @@
     "dutch": "mooi",
     "english": "beautiful",
     "partOfSpeech": "adjective",
+    "category": "adjective",
     "sentences": [
       {
         "dutch": "De bloem is mooi.",
@@ -1072,6 +1138,7 @@
     "dutch": "lekker",
     "english": "tasty, nice",
     "partOfSpeech": "adjective",
+    "category": "adjective",
     "sentences": [
       {
         "dutch": "De koffie is lekker.",
@@ -1091,6 +1158,7 @@
     "dutch": "warm",
     "english": "warm, hot",
     "partOfSpeech": "adjective",
+    "category": "adjective",
     "sentences": [
       {
         "dutch": "Het is warm vandaag.",
@@ -1106,6 +1174,7 @@
     "dutch": "koud",
     "english": "cold",
     "partOfSpeech": "adjective",
+    "category": "adjective",
     "sentences": [
       {
         "dutch": "Het water is koud.",
@@ -1125,6 +1194,7 @@
     "dutch": "nieuw",
     "english": "new",
     "partOfSpeech": "adjective",
+    "category": "adjective",
     "sentences": [
       {
         "dutch": "Ik heb een nieuwe auto.",
@@ -1140,6 +1210,7 @@
     "dutch": "oud",
     "english": "old",
     "partOfSpeech": "adjective",
+    "category": "adjective",
     "sentences": [
       {
         "dutch": "Het gebouw is oud.",
@@ -1159,6 +1230,7 @@
     "dutch": "jong",
     "english": "young",
     "partOfSpeech": "adjective",
+    "category": "adjective",
     "sentences": [
       {
         "dutch": "De kinderen zijn jong.",
@@ -1178,6 +1250,7 @@
     "dutch": "lang",
     "english": "long, tall",
     "partOfSpeech": "adjective",
+    "category": "size",
     "sentences": [
       {
         "dutch": "Hij is lang.",
@@ -1193,6 +1266,7 @@
     "dutch": "kort",
     "english": "short",
     "partOfSpeech": "adjective",
+    "category": "size",
     "sentences": [
       {
         "dutch": "Het haar is kort.",
@@ -1212,6 +1286,7 @@
     "dutch": "snel",
     "english": "fast, quick",
     "partOfSpeech": "adjective",
+    "category": "adjective",
     "sentences": [
       {
         "dutch": "De auto is snel.",
@@ -1227,6 +1302,7 @@
     "dutch": "blij",
     "english": "happy",
     "partOfSpeech": "adjective",
+    "category": "emotions",
     "sentences": [
       {
         "dutch": "Ik ben blij.",
@@ -1242,6 +1318,7 @@
     "dutch": "makkelijk",
     "english": "easy",
     "partOfSpeech": "adjective",
+    "category": "adjective",
     "sentences": [
       {
         "dutch": "Het is makkelijk.",
@@ -1261,6 +1338,7 @@
     "dutch": "moeilijk",
     "english": "difficult",
     "partOfSpeech": "adjective",
+    "category": "adjective",
     "sentences": [
       {
         "dutch": "Nederlands is moeilijk.",
@@ -1280,6 +1358,7 @@
     "dutch": "interessant",
     "english": "interesting",
     "partOfSpeech": "adjective",
+    "category": "adjective",
     "sentences": [
       {
         "dutch": "Het boek is interessant.",
@@ -1295,6 +1374,7 @@
     "dutch": "duur",
     "english": "expensive",
     "partOfSpeech": "adjective",
+    "category": "adjective",
     "sentences": [
       {
         "dutch": "Amsterdam is duur.",
@@ -1314,6 +1394,7 @@
     "dutch": "wat",
     "english": "what",
     "partOfSpeech": "pronoun",
+    "category": "pronoun",
     "sentences": [
       {
         "dutch": "Wat is dat?",
@@ -1333,6 +1414,7 @@
     "dutch": "wie",
     "english": "who",
     "partOfSpeech": "pronoun",
+    "category": "pronoun",
     "sentences": [
       {
         "dutch": "Wie is dat?",
@@ -1348,6 +1430,7 @@
     "dutch": "waar",
     "english": "where",
     "partOfSpeech": "adverb",
+    "category": "adverb",
     "sentences": [
       {
         "dutch": "Waar woon je?",
@@ -1363,6 +1446,7 @@
     "dutch": "wanneer",
     "english": "when",
     "partOfSpeech": "adverb",
+    "category": "adverb",
     "sentences": [
       {
         "dutch": "Wanneer kom je?",
@@ -1378,6 +1462,7 @@
     "dutch": "waarom",
     "english": "why",
     "partOfSpeech": "adverb",
+    "category": "adverb",
     "sentences": [
       {
         "dutch": "Waarom doe je dat?",
@@ -1397,6 +1482,7 @@
     "dutch": "hoe",
     "english": "how",
     "partOfSpeech": "adverb",
+    "category": "adverb",
     "sentences": [
       {
         "dutch": "Hoe gaat het?",
@@ -1412,6 +1498,7 @@
     "dutch": "hoeveel",
     "english": "how much/many",
     "partOfSpeech": "adverb",
+    "category": "adverb",
     "sentences": [
       {
         "dutch": "Hoeveel kost dit?",
@@ -1427,6 +1514,7 @@
     "dutch": "omdat",
     "english": "because",
     "partOfSpeech": "conjunction",
+    "category": "conjunction",
     "sentences": [
       {
         "dutch": "Ik blijf thuis omdat ik ziek ben.",
@@ -1442,6 +1530,7 @@
     "dutch": "maar",
     "english": "but; only, just",
     "partOfSpeech": "conjunction",
+    "category": "conjunction",
     "sentences": [
       {
         "dutch": "Ik wil wel, maar ik kan niet.",
@@ -1461,6 +1550,7 @@
     "dutch": "en",
     "english": "and",
     "partOfSpeech": "conjunction",
+    "category": "conjunction",
     "sentences": [
       {
         "dutch": "Jij en ik.",
@@ -1480,6 +1570,7 @@
     "dutch": "of",
     "english": "or",
     "partOfSpeech": "conjunction",
+    "category": "conjunction",
     "sentences": [
       {
         "dutch": "Koffie of thee?",
@@ -1499,6 +1590,7 @@
     "dutch": "als",
     "english": "if, when, as",
     "partOfSpeech": "conjunction",
+    "category": "conjunction",
     "sentences": [
       {
         "dutch": "Als het regent, blijf ik thuis.",
@@ -1514,6 +1606,7 @@
     "dutch": "dan",
     "english": "then, than",
     "partOfSpeech": "adverb",
+    "category": "adverb",
     "sentences": [
       {
         "dutch": "Groter dan ik.",
@@ -1533,6 +1626,7 @@
     "dutch": "nu",
     "english": "now",
     "partOfSpeech": "adverb",
+    "category": "adverb",
     "sentences": [
       {
         "dutch": "Ik ga nu.",
@@ -1552,6 +1646,7 @@
     "dutch": "altijd",
     "english": "always",
     "partOfSpeech": "adverb",
+    "category": "adverb",
     "sentences": [
       {
         "dutch": "Ik ben altijd moe.",
@@ -1571,6 +1666,7 @@
     "dutch": "nooit",
     "english": "never",
     "partOfSpeech": "adverb",
+    "category": "adverb",
     "sentences": [
       {
         "dutch": "Ik ben nooit ziek.",
@@ -1590,6 +1686,7 @@
     "dutch": "soms",
     "english": "sometimes",
     "partOfSpeech": "adverb",
+    "category": "adverb",
     "sentences": [
       {
         "dutch": "Soms ga ik naar de film.",
@@ -1609,6 +1706,7 @@
     "dutch": "vaak",
     "english": "often",
     "partOfSpeech": "adverb",
+    "category": "adverb",
     "sentences": [
       {
         "dutch": "Ik fiets vaak.",
@@ -1628,6 +1726,7 @@
     "dutch": "hier",
     "english": "here",
     "partOfSpeech": "adverb",
+    "category": "adverb",
     "sentences": [
       {
         "dutch": "Kom hier!",
@@ -1643,6 +1742,7 @@
     "dutch": "daar",
     "english": "there",
     "partOfSpeech": "adverb",
+    "category": "adverb",
     "sentences": [
       {
         "dutch": "Het is daar.",
@@ -1658,6 +1758,7 @@
     "dutch": "wel",
     "english": "indeed, well",
     "partOfSpeech": "adverb",
+    "category": "adverb",
     "sentences": [
       {
         "dutch": "Dat is wel waar.",
@@ -1673,6 +1774,7 @@
     "dutch": "niet",
     "english": "not",
     "partOfSpeech": "adverb",
+    "category": "adverb",
     "sentences": [
       {
         "dutch": "Ik weet het niet.",
@@ -1688,6 +1790,7 @@
     "dutch": "ook",
     "english": "also, too",
     "partOfSpeech": "adverb",
+    "category": "adverb",
     "sentences": [
       {
         "dutch": "Ik wil ook mee.",
@@ -1707,6 +1810,7 @@
     "dutch": "nog",
     "english": "still, yet",
     "partOfSpeech": "adverb",
+    "category": "adverb",
     "sentences": [
       {
         "dutch": "Ben je nog wakker?",
@@ -1726,6 +1830,7 @@
     "dutch": "al",
     "english": "already; all",
     "partOfSpeech": "adverb",
+    "category": "adverb",
     "sentences": [
       {
         "dutch": "Ik heb al gegeten.",
@@ -1741,6 +1846,7 @@
     "dutch": "heel",
     "english": "very",
     "partOfSpeech": "adverb",
+    "category": "adverb",
     "sentences": [
       {
         "dutch": "Het is heel goed.",
@@ -1760,6 +1866,7 @@
     "dutch": "veel",
     "english": "much, many",
     "partOfSpeech": "adverb",
+    "category": "adverb",
     "sentences": [
       {
         "dutch": "Er zijn veel mensen.",
@@ -1779,6 +1886,7 @@
     "dutch": "weinig",
     "english": "little, few",
     "partOfSpeech": "adverb",
+    "category": "adverb",
     "sentences": [
       {
         "dutch": "Ik heb weinig tijd.",
@@ -1794,6 +1902,7 @@
     "dutch": "ik",
     "english": "I",
     "partOfSpeech": "pronoun",
+    "category": "pronoun",
     "sentences": [
       {
         "dutch": "Ik heet Jan.",
@@ -1813,6 +1922,7 @@
     "dutch": "jij",
     "english": "you (informal)",
     "partOfSpeech": "pronoun",
+    "category": "pronoun",
     "sentences": [
       {
         "dutch": "Jij bent aardig.",
@@ -1832,6 +1942,7 @@
     "dutch": "hij",
     "english": "he",
     "partOfSpeech": "pronoun",
+    "category": "pronoun",
     "sentences": [
       {
         "dutch": "Hij is mijn broer.",
@@ -1851,6 +1962,7 @@
     "dutch": "zij",
     "english": "she, they",
     "partOfSpeech": "pronoun",
+    "category": "pronoun",
     "sentences": [
       {
         "dutch": "Zij is mijn zus.",
@@ -1866,6 +1978,7 @@
     "dutch": "wij",
     "english": "we",
     "partOfSpeech": "pronoun",
+    "category": "pronoun",
     "sentences": [
       {
         "dutch": "Wij gaan naar huis.",
@@ -1885,6 +1998,7 @@
     "dutch": "jullie",
     "english": "you (plural)",
     "partOfSpeech": "pronoun",
+    "category": "pronoun",
     "sentences": [
       {
         "dutch": "Jullie zijn welkom.",
@@ -1904,6 +2018,7 @@
     "dutch": "mijn",
     "english": "my",
     "partOfSpeech": "pronoun",
+    "category": "pronoun",
     "sentences": [
       {
         "dutch": "Dit is mijn boek.",
@@ -1919,6 +2034,7 @@
     "dutch": "jouw",
     "english": "your",
     "partOfSpeech": "pronoun",
+    "category": "pronoun",
     "sentences": [
       {
         "dutch": "Waar is jouw auto?",
@@ -1938,6 +2054,7 @@
     "dutch": "vandaag",
     "english": "today",
     "partOfSpeech": "adverb",
+    "category": "adverb",
     "sentences": [
       {
         "dutch": "Vandaag is het mooi weer.",
@@ -1957,6 +2074,7 @@
     "dutch": "morgen",
     "english": "tomorrow",
     "partOfSpeech": "adverb",
+    "category": "adverb",
     "sentences": [
       {
         "dutch": "Tot morgen!",
@@ -1972,6 +2090,7 @@
     "dutch": "gisteren",
     "english": "yesterday",
     "partOfSpeech": "adverb",
+    "category": "adverb",
     "sentences": [
       {
         "dutch": "Gisteren regende het.",
@@ -1991,6 +2110,7 @@
     "dutch": "thuis",
     "english": "at home",
     "partOfSpeech": "adverb",
+    "category": "adverb",
     "sentences": [
       {
         "dutch": "Ik ben thuis.",
@@ -2006,6 +2126,7 @@
     "dutch": "buiten",
     "english": "outside",
     "partOfSpeech": "adverb",
+    "category": "adverb",
     "sentences": [
       {
         "dutch": "De kinderen spelen buiten.",
@@ -2025,6 +2146,7 @@
     "dutch": "binnen",
     "english": "inside",
     "partOfSpeech": "adverb",
+    "category": "adverb",
     "sentences": [
       {
         "dutch": "Kom binnen!",
@@ -2040,6 +2162,7 @@
     "dutch": "terug",
     "english": "back",
     "partOfSpeech": "adverb",
+    "category": "adverb",
     "sentences": [
       {
         "dutch": "Ik kom zo terug.",
@@ -2059,6 +2182,7 @@
     "dutch": "samen",
     "english": "together",
     "partOfSpeech": "adverb",
+    "category": "adverb",
     "sentences": [
       {
         "dutch": "Wij werken samen.",
@@ -2074,6 +2198,7 @@
     "dutch": "alleen",
     "english": "alone, only",
     "partOfSpeech": "adverb",
+    "category": "adverb",
     "sentences": [
       {
         "dutch": "Ik woon alleen.",
@@ -2089,6 +2214,7 @@
     "dutch": "misschien",
     "english": "maybe, perhaps",
     "partOfSpeech": "adverb",
+    "category": "adverb",
     "sentences": [
       {
         "dutch": "Misschien ga ik morgen.",
@@ -2108,6 +2234,7 @@
     "dutch": "natuurlijk",
     "english": "of course",
     "partOfSpeech": "adverb",
+    "category": "adverb",
     "sentences": [
       {
         "dutch": "Natuurlijk help ik je.",
@@ -2127,6 +2254,7 @@
     "dutch": "eigenlijk",
     "english": "actually",
     "partOfSpeech": "adverb",
+    "category": "adverb",
     "sentences": [
       {
         "dutch": "Eigenlijk wil ik niet.",
@@ -2146,6 +2274,7 @@
     "dutch": "helaas",
     "english": "unfortunately",
     "partOfSpeech": "adverb",
+    "category": "adverb",
     "sentences": [
       {
         "dutch": "Helaas kan ik niet komen.",
@@ -2161,6 +2290,7 @@
     "dutch": "gelukkig",
     "english": "fortunately, happy",
     "partOfSpeech": "adverb",
+    "category": "adverb",
     "sentences": [
       {
         "dutch": "Gelukkig ben ik op tijd.",
@@ -2176,6 +2306,7 @@
     "dutch": "in",
     "english": "in",
     "partOfSpeech": "preposition",
+    "category": "preposition",
     "sentences": [
       {
         "dutch": "Ik woon in Nederland.",
@@ -2195,6 +2326,7 @@
     "dutch": "op",
     "english": "on; up, finished",
     "partOfSpeech": "preposition",
+    "category": "preposition",
     "sentences": [
       {
         "dutch": "Het boek ligt op de tafel.",
@@ -2210,6 +2342,7 @@
     "dutch": "met",
     "english": "with",
     "partOfSpeech": "preposition",
+    "category": "preposition",
     "sentences": [
       {
         "dutch": "Ik ga met de trein.",
@@ -2229,6 +2362,7 @@
     "dutch": "voor",
     "english": "for; before, in front of",
     "partOfSpeech": "preposition",
+    "category": "preposition",
     "sentences": [
       {
         "dutch": "Dit is voor jou.",
@@ -2244,6 +2378,7 @@
     "dutch": "naar",
     "english": "to",
     "partOfSpeech": "preposition",
+    "category": "preposition",
     "sentences": [
       {
         "dutch": "Ik ga naar school.",
@@ -2259,6 +2394,7 @@
     "dutch": "van",
     "english": "of, from",
     "partOfSpeech": "preposition",
+    "category": "preposition",
     "sentences": [
       {
         "dutch": "Ik kom van Amsterdam.",
@@ -2278,6 +2414,7 @@
     "dutch": "aan",
     "english": "at, to; on (switched on)",
     "partOfSpeech": "preposition",
+    "category": "preposition",
     "sentences": [
       {
         "dutch": "Denk aan mij.",
@@ -2297,6 +2434,7 @@
     "dutch": "bij",
     "english": "at, near; with",
     "partOfSpeech": "preposition",
+    "category": "preposition",
     "sentences": [
       {
         "dutch": "Ik woon bij mijn ouders.",
@@ -2316,6 +2454,7 @@
     "dutch": "uit",
     "english": "out of, from; off",
     "partOfSpeech": "preposition",
+    "category": "preposition",
     "sentences": [
       {
         "dutch": "Ik kom uit Nederland.",
@@ -2331,6 +2470,7 @@
     "dutch": "door",
     "english": "through, by",
     "partOfSpeech": "preposition",
+    "category": "preposition",
     "sentences": [
       {
         "dutch": "Ga door de deur.",
@@ -2350,6 +2490,7 @@
     "dutch": "over",
     "english": "about, over; left over",
     "partOfSpeech": "preposition",
+    "category": "preposition",
     "sentences": [
       {
         "dutch": "We praten over het weer.",
@@ -2365,6 +2506,7 @@
     "dutch": "tot",
     "english": "until",
     "partOfSpeech": "preposition",
+    "category": "preposition",
     "sentences": [
       {
         "dutch": "Tot morgen!",
@@ -2384,6 +2526,7 @@
     "dutch": "na",
     "english": "after",
     "partOfSpeech": "preposition",
+    "category": "preposition",
     "sentences": [
       {
         "dutch": "Na het eten ga ik slapen.",
@@ -2399,6 +2542,7 @@
     "dutch": "onder",
     "english": "under",
     "partOfSpeech": "preposition",
+    "category": "preposition",
     "sentences": [
       {
         "dutch": "De kat zit onder de tafel.",
@@ -2414,6 +2558,7 @@
     "dutch": "boven",
     "english": "above",
     "partOfSpeech": "preposition",
+    "category": "preposition",
     "sentences": [
       {
         "dutch": "De lamp hangt boven de tafel.",
@@ -2433,6 +2578,7 @@
     "dutch": "tussen",
     "english": "between",
     "partOfSpeech": "preposition",
+    "category": "preposition",
     "sentences": [
       {
         "dutch": "Tussen jou en mij.",
@@ -2452,6 +2598,7 @@
     "dutch": "zonder",
     "english": "without",
     "partOfSpeech": "preposition",
+    "category": "preposition",
     "sentences": [
       {
         "dutch": "Koffie zonder suiker.",
@@ -2471,6 +2618,7 @@
     "dutch": "tegen",
     "english": "against",
     "partOfSpeech": "preposition",
+    "category": "preposition",
     "sentences": [
       {
         "dutch": "Ik leun tegen de muur.",
@@ -2486,6 +2634,7 @@
     "dutch": "sinds",
     "english": "since",
     "partOfSpeech": "preposition",
+    "category": "preposition",
     "sentences": [
       {
         "dutch": "Sinds vorig jaar.",
@@ -2505,6 +2654,7 @@
     "dutch": "tijdens",
     "english": "during",
     "partOfSpeech": "preposition",
+    "category": "preposition",
     "sentences": [
       {
         "dutch": "Tijdens de les.",
@@ -2524,6 +2674,7 @@
     "dutch": "één",
     "english": "one",
     "partOfSpeech": "numeral",
+    "category": "numeral",
     "sentences": [
       {
         "dutch": "Ik heb één vraag.",
@@ -2539,6 +2690,7 @@
     "dutch": "twee",
     "english": "two",
     "partOfSpeech": "numeral",
+    "category": "numeral",
     "sentences": [
       {
         "dutch": "Ik heb twee kinderen.",
@@ -2554,6 +2706,7 @@
     "dutch": "drie",
     "english": "three",
     "partOfSpeech": "numeral",
+    "category": "numeral",
     "sentences": [
       {
         "dutch": "Het is drie uur.",
@@ -2573,6 +2726,7 @@
     "dutch": "vier",
     "english": "four",
     "partOfSpeech": "numeral",
+    "category": "numeral",
     "sentences": [
       {
         "dutch": "Vier seizoenen.",
@@ -2592,6 +2746,7 @@
     "dutch": "vijf",
     "english": "five",
     "partOfSpeech": "numeral",
+    "category": "numeral",
     "sentences": [
       {
         "dutch": "Vijf minuten.",
@@ -2611,6 +2766,7 @@
     "dutch": "zes",
     "english": "six",
     "partOfSpeech": "numeral",
+    "category": "numeral",
     "sentences": [
       {
         "dutch": "Zes dagen.",
@@ -2630,6 +2786,7 @@
     "dutch": "zeven",
     "english": "seven",
     "partOfSpeech": "numeral",
+    "category": "numeral",
     "sentences": [
       {
         "dutch": "Zeven dagen in een week.",
@@ -2649,6 +2806,7 @@
     "dutch": "acht",
     "english": "eight",
     "partOfSpeech": "numeral",
+    "category": "numeral",
     "sentences": [
       {
         "dutch": "Acht uur.",
@@ -2668,6 +2826,7 @@
     "dutch": "negen",
     "english": "nine",
     "partOfSpeech": "numeral",
+    "category": "numeral",
     "sentences": [
       {
         "dutch": "Negen maanden.",
@@ -2687,6 +2846,7 @@
     "dutch": "tien",
     "english": "ten",
     "partOfSpeech": "numeral",
+    "category": "numeral",
     "sentences": [
       {
         "dutch": "Tien euro.",
@@ -2706,6 +2866,7 @@
     "dutch": "lopen",
     "english": "to walk",
     "partOfSpeech": "verb",
+    "category": "verb",
     "sentences": [
       {
         "dutch": "Ik loop naar huis.",
@@ -2725,6 +2886,7 @@
     "dutch": "zitten",
     "english": "to sit",
     "partOfSpeech": "verb",
+    "category": "verb",
     "sentences": [
       {
         "dutch": "Ik zit op de bank.",
@@ -2740,6 +2902,7 @@
     "dutch": "staan",
     "english": "to stand",
     "partOfSpeech": "verb",
+    "category": "verb",
     "sentences": [
       {
         "dutch": "Ik sta in de rij.",
@@ -2759,6 +2922,7 @@
     "dutch": "liggen",
     "english": "to lie",
     "partOfSpeech": "verb",
+    "category": "verb",
     "sentences": [
       {
         "dutch": "Ik lig in bed.",
@@ -2778,6 +2942,7 @@
     "dutch": "slapen",
     "english": "to sleep",
     "partOfSpeech": "verb",
+    "category": "verb",
     "sentences": [
       {
         "dutch": "Ik slaap acht uur.",
@@ -2793,6 +2958,7 @@
     "dutch": "wonen",
     "english": "to live",
     "partOfSpeech": "verb",
+    "category": "verb",
     "sentences": [
       {
         "dutch": "Ik woon in Amsterdam.",
@@ -2808,6 +2974,7 @@
     "dutch": "blijven",
     "english": "to stay",
     "partOfSpeech": "verb",
+    "category": "verb",
     "sentences": [
       {
         "dutch": "Ik blijf thuis.",
@@ -2823,6 +2990,7 @@
     "dutch": "wachten",
     "english": "to wait",
     "partOfSpeech": "verb",
+    "category": "verb",
     "sentences": [
       {
         "dutch": "Wacht even!",
@@ -2842,6 +3010,7 @@
     "dutch": "kopen",
     "english": "to buy",
     "partOfSpeech": "verb",
+    "category": "verb",
     "sentences": [
       {
         "dutch": "Ik koop een boek.",
@@ -2861,6 +3030,7 @@
     "dutch": "verkopen",
     "english": "to sell",
     "partOfSpeech": "verb",
+    "category": "verb",
     "sentences": [
       {
         "dutch": "Hij verkoopt auto's.",
@@ -2880,6 +3050,7 @@
     "dutch": "betalen",
     "english": "to pay",
     "partOfSpeech": "verb",
+    "category": "verb",
     "sentences": [
       {
         "dutch": "Ik betaal met pin.",
@@ -2899,6 +3070,7 @@
     "dutch": "kijken",
     "english": "to look, watch",
     "partOfSpeech": "verb",
+    "category": "verb",
     "sentences": [
       {
         "dutch": "Ik kijk televisie.",
@@ -2914,6 +3086,7 @@
     "dutch": "luisteren",
     "english": "to listen",
     "partOfSpeech": "verb",
+    "category": "verb",
     "sentences": [
       {
         "dutch": "Ik luister naar muziek.",
@@ -2929,6 +3102,7 @@
     "dutch": "spelen",
     "english": "to play",
     "partOfSpeech": "verb",
+    "category": "verb",
     "sentences": [
       {
         "dutch": "De kinderen spelen.",
@@ -2948,6 +3122,7 @@
     "dutch": "krijgen",
     "english": "to get",
     "partOfSpeech": "verb",
+    "category": "verb",
     "sentences": [
       {
         "dutch": "Ik krijg een cadeau.",
@@ -2963,6 +3138,7 @@
     "dutch": "brengen",
     "english": "to bring",
     "partOfSpeech": "verb",
+    "category": "verb",
     "sentences": [
       {
         "dutch": "Ik breng je naar huis.",
@@ -2978,6 +3154,7 @@
     "dutch": "halen",
     "english": "to get, fetch",
     "partOfSpeech": "verb",
+    "category": "verb",
     "sentences": [
       {
         "dutch": "Ik haal koffie.",
@@ -2993,6 +3170,7 @@
     "dutch": "leggen",
     "english": "to lay, put",
     "partOfSpeech": "verb",
+    "category": "verb",
     "sentences": [
       {
         "dutch": "Ik leg het boek op tafel.",
@@ -3012,6 +3190,7 @@
     "dutch": "zetten",
     "english": "to put, set",
     "partOfSpeech": "verb",
+    "category": "verb",
     "sentences": [
       {
         "dutch": "Ik zet koffie.",
@@ -3031,6 +3210,7 @@
     "dutch": "rijden",
     "english": "to drive",
     "partOfSpeech": "verb",
+    "category": "verb",
     "sentences": [
       {
         "dutch": "Ik rijd naar werk.",
@@ -3050,6 +3230,7 @@
     "dutch": "vliegen",
     "english": "to fly",
     "partOfSpeech": "verb",
+    "category": "verb",
     "sentences": [
       {
         "dutch": "Ik vlieg naar Spanje.",
@@ -3069,6 +3250,7 @@
     "dutch": "zwemmen",
     "english": "to swim",
     "partOfSpeech": "verb",
+    "category": "verb",
     "sentences": [
       {
         "dutch": "Ik zwem graag.",
@@ -3088,6 +3270,7 @@
     "dutch": "stoppen",
     "english": "to stop",
     "partOfSpeech": "verb",
+    "category": "verb",
     "sentences": [
       {
         "dutch": "De bus stopt hier.",
@@ -3107,6 +3290,7 @@
     "dutch": "beginnen",
     "english": "to begin",
     "partOfSpeech": "verb",
+    "category": "verb",
     "sentences": [
       {
         "dutch": "De les begint om negen uur.",
@@ -3122,6 +3306,7 @@
     "dutch": "proberen",
     "english": "to try",
     "partOfSpeech": "verb",
+    "category": "verb",
     "sentences": [
       {
         "dutch": "Ik probeer Nederlands te leren.",
@@ -3141,6 +3326,7 @@
     "dutch": "helpen",
     "english": "to help",
     "partOfSpeech": "verb",
+    "category": "verb",
     "sentences": [
       {
         "dutch": "Kan ik je helpen?",
@@ -3160,6 +3346,7 @@
     "dutch": "vergeten",
     "english": "to forget",
     "partOfSpeech": "verb",
+    "category": "verb",
     "sentences": [
       {
         "dutch": "Ik vergeet het altijd.",
@@ -3179,6 +3366,7 @@
     "dutch": "herinneren",
     "english": "to remember",
     "partOfSpeech": "verb",
+    "category": "verb",
     "sentences": [
       {
         "dutch": "Ik herinner me dat.",
@@ -3198,6 +3386,7 @@
     "dutch": "voelen",
     "english": "to feel",
     "partOfSpeech": "verb",
+    "category": "verb",
     "sentences": [
       {
         "dutch": "Ik voel me goed.",
@@ -3213,6 +3402,7 @@
     "dutch": "geloven",
     "english": "to believe",
     "partOfSpeech": "verb",
+    "category": "verb",
     "sentences": [
       {
         "dutch": "Ik geloof je.",
@@ -3228,6 +3418,7 @@
     "dutch": "hopen",
     "english": "to hope",
     "partOfSpeech": "verb",
+    "category": "verb",
     "sentences": [
       {
         "dutch": "Ik hoop dat het lukt.",
@@ -3243,6 +3434,7 @@
     "dutch": "verwachten",
     "english": "to expect",
     "partOfSpeech": "verb",
+    "category": "verb",
     "sentences": [
       {
         "dutch": "Ik verwacht je om drie uur.",
@@ -3258,6 +3450,7 @@
     "dutch": "winnen",
     "english": "to win",
     "partOfSpeech": "verb",
+    "category": "verb",
     "sentences": [
       {
         "dutch": "Wij winnen de wedstrijd.",
@@ -3277,6 +3470,7 @@
     "dutch": "verliezen",
     "english": "to lose",
     "partOfSpeech": "verb",
+    "category": "verb",
     "sentences": [
       {
         "dutch": "Ik verlies mijn sleutels.",
@@ -3296,6 +3490,7 @@
     "dutch": "veranderen",
     "english": "to change",
     "partOfSpeech": "verb",
+    "category": "verb",
     "sentences": [
       {
         "dutch": "De situatie verandert.",
@@ -3315,6 +3510,7 @@
     "dutch": "kiezen",
     "english": "to choose",
     "partOfSpeech": "verb",
+    "category": "verb",
     "sentences": [
       {
         "dutch": "Je moet kiezen.",
@@ -3334,6 +3530,7 @@
     "dutch": "beslissen",
     "english": "to decide",
     "partOfSpeech": "verb",
+    "category": "verb",
     "sentences": [
       {
         "dutch": "Ik kan niet beslissen.",
@@ -3349,6 +3546,7 @@
     "dutch": "openen",
     "english": "to open",
     "partOfSpeech": "verb",
+    "category": "verb",
     "sentences": [
       {
         "dutch": "Ik open de deur.",
@@ -3368,6 +3566,7 @@
     "dutch": "sluiten",
     "english": "to close",
     "partOfSpeech": "verb",
+    "category": "verb",
     "sentences": [
       {
         "dutch": "De winkel sluit om zes uur.",
@@ -3387,6 +3586,7 @@
     "dutch": "sturen",
     "english": "to send",
     "partOfSpeech": "verb",
+    "category": "verb",
     "sentences": [
       {
         "dutch": "Ik stuur je een bericht.",
@@ -3402,6 +3602,7 @@
     "dutch": "tafel",
     "english": "table",
     "partOfSpeech": "noun",
+    "category": "home",
     "gender": "de",
     "sentences": [
       {
@@ -3422,6 +3623,7 @@
     "dutch": "stoel",
     "english": "chair",
     "partOfSpeech": "noun",
+    "category": "home",
     "gender": "de",
     "sentences": [
       {
@@ -3438,6 +3640,7 @@
     "dutch": "bed",
     "english": "bed",
     "partOfSpeech": "noun",
+    "category": "home",
     "gender": "het",
     "sentences": [
       {
@@ -3458,6 +3661,7 @@
     "dutch": "kamer",
     "english": "room",
     "partOfSpeech": "noun",
+    "category": "home",
     "gender": "de",
     "sentences": [
       {
@@ -3478,6 +3682,7 @@
     "dutch": "keuken",
     "english": "kitchen",
     "partOfSpeech": "noun",
+    "category": "home",
     "gender": "de",
     "sentences": [
       {
@@ -3494,6 +3699,7 @@
     "dutch": "tuin",
     "english": "garden",
     "partOfSpeech": "noun",
+    "category": "home",
     "gender": "de",
     "sentences": [
       {
@@ -3514,6 +3720,7 @@
     "dutch": "raam",
     "english": "window",
     "partOfSpeech": "noun",
+    "category": "home",
     "gender": "het",
     "sentences": [
       {
@@ -3530,6 +3737,7 @@
     "dutch": "zon",
     "english": "sun",
     "partOfSpeech": "noun",
+    "category": "nature",
     "gender": "de",
     "sentences": [
       {
@@ -3546,6 +3754,7 @@
     "dutch": "maan",
     "english": "moon",
     "partOfSpeech": "noun",
+    "category": "nature",
     "gender": "de",
     "sentences": [
       {
@@ -3562,6 +3771,7 @@
     "dutch": "regen",
     "english": "rain",
     "partOfSpeech": "noun",
+    "category": "nature",
     "gender": "de",
     "sentences": [
       {
@@ -3582,6 +3792,7 @@
     "dutch": "wind",
     "english": "wind",
     "partOfSpeech": "noun",
+    "category": "nature",
     "gender": "de",
     "sentences": [
       {
@@ -3598,6 +3809,7 @@
     "dutch": "sneeuw",
     "english": "snow",
     "partOfSpeech": "noun",
+    "category": "nature",
     "gender": "de",
     "sentences": [
       {
@@ -3618,6 +3830,7 @@
     "dutch": "boom",
     "english": "tree",
     "partOfSpeech": "noun",
+    "category": "nature",
     "gender": "de",
     "sentences": [
       {
@@ -3638,6 +3851,7 @@
     "dutch": "bloem",
     "english": "flower",
     "partOfSpeech": "noun",
+    "category": "nature",
     "gender": "de",
     "sentences": [
       {
@@ -3658,6 +3872,7 @@
     "dutch": "zee",
     "english": "sea",
     "partOfSpeech": "noun",
+    "category": "nature",
     "gender": "de",
     "sentences": [
       {
@@ -3678,6 +3893,7 @@
     "dutch": "berg",
     "english": "mountain",
     "partOfSpeech": "noun",
+    "category": "nature",
     "gender": "de",
     "sentences": [
       {
@@ -3698,6 +3914,7 @@
     "dutch": "bos",
     "english": "forest; bunch, bouquet",
     "partOfSpeech": "noun",
+    "category": "nature",
     "gender": "het",
     "sentences": [
       {
@@ -3718,6 +3935,7 @@
     "dutch": "foto",
     "english": "photo",
     "partOfSpeech": "noun",
+    "category": "noun",
     "gender": "de",
     "sentences": [
       {
@@ -3738,6 +3956,7 @@
     "dutch": "film",
     "english": "film, movie",
     "partOfSpeech": "noun",
+    "category": "noun",
     "gender": "de",
     "sentences": [
       {
@@ -3758,6 +3977,7 @@
     "dutch": "muziek",
     "english": "music",
     "partOfSpeech": "noun",
+    "category": "noun",
     "gender": "de",
     "sentences": [
       {
@@ -3778,6 +3998,7 @@
     "dutch": "vraag",
     "english": "question",
     "partOfSpeech": "noun",
+    "category": "noun",
     "gender": "de",
     "sentences": [
       {
@@ -3794,6 +4015,7 @@
     "dutch": "antwoord",
     "english": "answer",
     "partOfSpeech": "noun",
+    "category": "noun",
     "gender": "het",
     "sentences": [
       {
@@ -3810,6 +4032,7 @@
     "dutch": "probleem",
     "english": "problem",
     "partOfSpeech": "noun",
+    "category": "noun",
     "gender": "het",
     "sentences": [
       {
@@ -3830,6 +4053,7 @@
     "dutch": "idee",
     "english": "idea",
     "partOfSpeech": "noun",
+    "category": "noun",
     "gender": "het",
     "sentences": [
       {
@@ -3850,6 +4074,7 @@
     "dutch": "verhaal",
     "english": "story",
     "partOfSpeech": "noun",
+    "category": "noun",
     "gender": "het",
     "sentences": [
       {
@@ -3870,6 +4095,7 @@
     "dutch": "brief",
     "english": "letter",
     "partOfSpeech": "noun",
+    "category": "noun",
     "gender": "de",
     "sentences": [
       {
@@ -3886,6 +4112,7 @@
     "dutch": "telefoon",
     "english": "telephone",
     "partOfSpeech": "noun",
+    "category": "noun",
     "gender": "de",
     "sentences": [
       {
@@ -3906,6 +4133,7 @@
     "dutch": "computer",
     "english": "computer",
     "partOfSpeech": "noun",
+    "category": "noun",
     "gender": "de",
     "sentences": [
       {
@@ -3922,6 +4150,7 @@
     "dutch": "reis",
     "english": "trip, journey",
     "partOfSpeech": "noun",
+    "category": "noun",
     "gender": "de",
     "sentences": [
       {
@@ -3942,6 +4171,7 @@
     "dutch": "vakantie",
     "english": "vacation",
     "partOfSpeech": "noun",
+    "category": "noun",
     "gender": "de",
     "sentences": [
       {
@@ -3962,6 +4192,7 @@
     "dutch": "feest",
     "english": "party, celebration",
     "partOfSpeech": "noun",
+    "category": "noun",
     "gender": "het",
     "sentences": [
       {
@@ -3982,6 +4213,7 @@
     "dutch": "cadeau",
     "english": "present, gift",
     "partOfSpeech": "noun",
+    "category": "noun",
     "gender": "het",
     "sentences": [
       {
@@ -3998,6 +4230,7 @@
     "dutch": "prijs",
     "english": "price, prize",
     "partOfSpeech": "noun",
+    "category": "noun",
     "gender": "de",
     "sentences": [
       {
@@ -4014,6 +4247,7 @@
     "dutch": "winkel",
     "english": "shop, store",
     "partOfSpeech": "noun",
+    "category": "places",
     "gender": "de",
     "sentences": [
       {
@@ -4030,6 +4264,7 @@
     "dutch": "restaurant",
     "english": "restaurant",
     "partOfSpeech": "noun",
+    "category": "food",
     "gender": "het",
     "sentences": [
       {
@@ -4046,6 +4281,7 @@
     "dutch": "hotel",
     "english": "hotel",
     "partOfSpeech": "noun",
+    "category": "places",
     "gender": "het",
     "sentences": [
       {
@@ -4066,6 +4302,7 @@
     "dutch": "station",
     "english": "station",
     "partOfSpeech": "noun",
+    "category": "transport",
     "gender": "het",
     "sentences": [
       {
@@ -4086,6 +4323,7 @@
     "dutch": "bus",
     "english": "bus",
     "partOfSpeech": "noun",
+    "category": "transport",
     "gender": "de",
     "sentences": [
       {
@@ -4106,6 +4344,7 @@
     "dutch": "vliegtuig",
     "english": "airplane",
     "partOfSpeech": "noun",
+    "category": "transport",
     "gender": "het",
     "sentences": [
       {
@@ -4122,6 +4361,7 @@
     "dutch": "kleur",
     "english": "color",
     "partOfSpeech": "noun",
+    "category": "noun",
     "gender": "de",
     "sentences": [
       {
@@ -4142,6 +4382,7 @@
     "dutch": "rood",
     "english": "red",
     "partOfSpeech": "adjective",
+    "category": "colors",
     "sentences": [
       {
         "dutch": "De appel is rood.",
@@ -4157,6 +4398,7 @@
     "dutch": "blauw",
     "english": "blue",
     "partOfSpeech": "adjective",
+    "category": "colors",
     "sentences": [
       {
         "dutch": "De lucht is blauw.",
@@ -4172,6 +4414,7 @@
     "dutch": "groen",
     "english": "green",
     "partOfSpeech": "adjective",
+    "category": "colors",
     "sentences": [
       {
         "dutch": "Het gras is groen.",
@@ -4187,6 +4430,7 @@
     "dutch": "geel",
     "english": "yellow",
     "partOfSpeech": "adjective",
+    "category": "colors",
     "sentences": [
       {
         "dutch": "De zon is geel.",
@@ -4202,6 +4446,7 @@
     "dutch": "wit",
     "english": "white",
     "partOfSpeech": "adjective",
+    "category": "colors",
     "sentences": [
       {
         "dutch": "De sneeuw is wit.",
@@ -4217,6 +4462,7 @@
     "dutch": "zwart",
     "english": "black",
     "partOfSpeech": "adjective",
+    "category": "colors",
     "sentences": [
       {
         "dutch": "De nacht is zwart.",
@@ -4236,6 +4482,7 @@
     "dutch": "maandag",
     "english": "Monday",
     "partOfSpeech": "noun",
+    "category": "time",
     "gender": "de",
     "sentences": [
       {
@@ -4256,6 +4503,7 @@
     "dutch": "dinsdag",
     "english": "Tuesday",
     "partOfSpeech": "noun",
+    "category": "time",
     "gender": "de",
     "sentences": [
       {
@@ -4276,6 +4524,7 @@
     "dutch": "woensdag",
     "english": "Wednesday",
     "partOfSpeech": "noun",
+    "category": "time",
     "gender": "de",
     "sentences": [
       {
@@ -4296,6 +4545,7 @@
     "dutch": "donderdag",
     "english": "Thursday",
     "partOfSpeech": "noun",
+    "category": "time",
     "gender": "de",
     "sentences": [
       {
@@ -4316,6 +4566,7 @@
     "dutch": "vrijdag",
     "english": "Friday",
     "partOfSpeech": "noun",
+    "category": "time",
     "gender": "de",
     "sentences": [
       {
@@ -4336,6 +4587,7 @@
     "dutch": "zaterdag",
     "english": "Saturday",
     "partOfSpeech": "noun",
+    "category": "time",
     "gender": "de",
     "sentences": [
       {
@@ -4356,6 +4608,7 @@
     "dutch": "zondag",
     "english": "Sunday",
     "partOfSpeech": "noun",
+    "category": "time",
     "gender": "de",
     "sentences": [
       {
@@ -4376,6 +4629,7 @@
     "dutch": "januari",
     "english": "January",
     "partOfSpeech": "noun",
+    "category": "time",
     "gender": "de",
     "sentences": [
       {
@@ -4392,6 +4646,7 @@
     "dutch": "februari",
     "english": "February",
     "partOfSpeech": "noun",
+    "category": "time",
     "gender": "de",
     "sentences": [
       {
@@ -4408,6 +4663,7 @@
     "dutch": "maart",
     "english": "March",
     "partOfSpeech": "noun",
+    "category": "time",
     "gender": "de",
     "sentences": [
       {
@@ -4428,6 +4684,7 @@
     "dutch": "april",
     "english": "April",
     "partOfSpeech": "noun",
+    "category": "time",
     "gender": "de",
     "sentences": [
       {
@@ -4444,6 +4701,7 @@
     "dutch": "mei",
     "english": "May",
     "partOfSpeech": "noun",
+    "category": "time",
     "gender": "de",
     "sentences": [
       {
@@ -4460,6 +4718,7 @@
     "dutch": "juni",
     "english": "June",
     "partOfSpeech": "noun",
+    "category": "time",
     "gender": "de",
     "sentences": [
       {
@@ -4480,6 +4739,7 @@
     "dutch": "juli",
     "english": "July",
     "partOfSpeech": "noun",
+    "category": "time",
     "gender": "de",
     "sentences": [
       {
@@ -4500,6 +4760,7 @@
     "dutch": "augustus",
     "english": "August",
     "partOfSpeech": "noun",
+    "category": "time",
     "gender": "de",
     "sentences": [
       {
@@ -4520,6 +4781,7 @@
     "dutch": "september",
     "english": "September",
     "partOfSpeech": "noun",
+    "category": "time",
     "gender": "de",
     "sentences": [
       {
@@ -4540,6 +4802,7 @@
     "dutch": "oktober",
     "english": "October",
     "partOfSpeech": "noun",
+    "category": "time",
     "gender": "de",
     "sentences": [
       {
@@ -4556,6 +4819,7 @@
     "dutch": "november",
     "english": "November",
     "partOfSpeech": "noun",
+    "category": "time",
     "gender": "de",
     "sentences": [
       {
@@ -4576,6 +4840,7 @@
     "dutch": "december",
     "english": "December",
     "partOfSpeech": "noun",
+    "category": "time",
     "gender": "de",
     "sentences": [
       {
@@ -4596,6 +4861,7 @@
     "dutch": "lente",
     "english": "spring",
     "partOfSpeech": "noun",
+    "category": "time",
     "gender": "de",
     "sentences": [
       {
@@ -4616,6 +4882,7 @@
     "dutch": "zomer",
     "english": "summer",
     "partOfSpeech": "noun",
+    "category": "time",
     "gender": "de",
     "sentences": [
       {
@@ -4632,6 +4899,7 @@
     "dutch": "herfst",
     "english": "autumn, fall",
     "partOfSpeech": "noun",
+    "category": "time",
     "gender": "de",
     "sentences": [
       {
@@ -4652,6 +4920,7 @@
     "dutch": "winter",
     "english": "winter",
     "partOfSpeech": "noun",
+    "category": "time",
     "gender": "de",
     "sentences": [
       {
@@ -4668,6 +4937,7 @@
     "dutch": "ochtend",
     "english": "morning",
     "partOfSpeech": "noun",
+    "category": "time",
     "gender": "de",
     "sentences": [
       {
@@ -4688,6 +4958,7 @@
     "dutch": "middag",
     "english": "afternoon",
     "partOfSpeech": "noun",
+    "category": "time",
     "gender": "de",
     "sentences": [
       {
@@ -4708,6 +4979,7 @@
     "dutch": "avond",
     "english": "evening",
     "partOfSpeech": "noun",
+    "category": "time",
     "gender": "de",
     "sentences": [
       {
@@ -4724,6 +4996,7 @@
     "dutch": "nacht",
     "english": "night",
     "partOfSpeech": "noun",
+    "category": "time",
     "gender": "de",
     "sentences": [
       {
@@ -4744,6 +5017,7 @@
     "dutch": "hoofd",
     "english": "head",
     "partOfSpeech": "noun",
+    "category": "body",
     "gender": "het",
     "sentences": [
       {
@@ -4760,6 +5034,7 @@
     "dutch": "hand",
     "english": "hand",
     "partOfSpeech": "noun",
+    "category": "body",
     "gender": "de",
     "sentences": [
       {
@@ -4776,6 +5051,7 @@
     "dutch": "voet",
     "english": "foot",
     "partOfSpeech": "noun",
+    "category": "body",
     "gender": "de",
     "sentences": [
       {
@@ -4792,6 +5068,7 @@
     "dutch": "oog",
     "english": "eye",
     "partOfSpeech": "noun",
+    "category": "body",
     "gender": "het",
     "sentences": [
       {
@@ -4808,6 +5085,7 @@
     "dutch": "oor",
     "english": "ear",
     "partOfSpeech": "noun",
+    "category": "body",
     "gender": "het",
     "sentences": [
       {
@@ -4824,6 +5102,7 @@
     "dutch": "mond",
     "english": "mouth",
     "partOfSpeech": "noun",
+    "category": "body",
     "gender": "de",
     "sentences": [
       {
@@ -4840,6 +5119,7 @@
     "dutch": "neus",
     "english": "nose",
     "partOfSpeech": "noun",
+    "category": "body",
     "gender": "de",
     "sentences": [
       {
@@ -4856,6 +5136,7 @@
     "dutch": "hart",
     "english": "heart",
     "partOfSpeech": "noun",
+    "category": "body",
     "gender": "het",
     "sentences": [
       {
@@ -4876,6 +5157,7 @@
     "dutch": "lichaam",
     "english": "body",
     "partOfSpeech": "noun",
+    "category": "body",
     "gender": "het",
     "sentences": [
       {
@@ -4892,6 +5174,7 @@
     "dutch": "gezicht",
     "english": "face",
     "partOfSpeech": "noun",
+    "category": "body",
     "gender": "het",
     "sentences": [
       {
@@ -4908,6 +5191,7 @@
     "dutch": "haar",
     "english": "hair, her",
     "partOfSpeech": "noun",
+    "category": "body",
     "gender": "het",
     "sentences": [
       {
@@ -4928,6 +5212,7 @@
     "dutch": "rug",
     "english": "back",
     "partOfSpeech": "noun",
+    "category": "body",
     "gender": "de",
     "sentences": [
       {
@@ -4944,6 +5229,7 @@
     "dutch": "been",
     "english": "leg, bone",
     "partOfSpeech": "noun",
+    "category": "body",
     "gender": "het",
     "sentences": [
       {
@@ -4960,6 +5246,7 @@
     "dutch": "arm",
     "english": "arm, poor",
     "partOfSpeech": "noun",
+    "category": "body",
     "gender": "de",
     "sentences": [
       {
@@ -4980,6 +5267,7 @@
     "dutch": "dokter",
     "english": "doctor",
     "partOfSpeech": "noun",
+    "category": "people",
     "gender": "de",
     "sentences": [
       {
@@ -4996,6 +5284,7 @@
     "dutch": "ziekenhuis",
     "english": "hospital",
     "partOfSpeech": "noun",
+    "category": "noun",
     "gender": "het",
     "sentences": [
       {
@@ -5012,6 +5301,7 @@
     "dutch": "medicijn",
     "english": "medicine",
     "partOfSpeech": "noun",
+    "category": "noun",
     "gender": "het",
     "sentences": [
       {
@@ -5028,6 +5318,7 @@
     "dutch": "ziek",
     "english": "sick, ill",
     "partOfSpeech": "adjective",
+    "category": "emotions",
     "sentences": [
       {
         "dutch": "Ik ben ziek.",
@@ -5043,6 +5334,7 @@
     "dutch": "gezond",
     "english": "healthy",
     "partOfSpeech": "adjective",
+    "category": "emotions",
     "sentences": [
       {
         "dutch": "Ik voel me gezond.",
@@ -5058,6 +5350,7 @@
     "dutch": "moe",
     "english": "tired",
     "partOfSpeech": "adjective",
+    "category": "emotions",
     "sentences": [
       {
         "dutch": "Ik ben moe.",
@@ -5073,6 +5366,7 @@
     "dutch": "honger",
     "english": "hunger",
     "partOfSpeech": "noun",
+    "category": "noun",
     "gender": "de",
     "sentences": [
       {
@@ -5089,6 +5383,7 @@
     "dutch": "dorst",
     "english": "thirst",
     "partOfSpeech": "noun",
+    "category": "noun",
     "gender": "de",
     "sentences": [
       {
@@ -5105,6 +5400,7 @@
     "dutch": "brood",
     "english": "bread",
     "partOfSpeech": "noun",
+    "category": "food",
     "gender": "het",
     "sentences": [
       {
@@ -5121,6 +5417,7 @@
     "dutch": "melk",
     "english": "milk",
     "partOfSpeech": "noun",
+    "category": "food",
     "gender": "de",
     "sentences": [
       {
@@ -5137,6 +5434,7 @@
     "dutch": "kaas",
     "english": "cheese",
     "partOfSpeech": "noun",
+    "category": "food",
     "gender": "de",
     "sentences": [
       {
@@ -5153,6 +5451,7 @@
     "dutch": "ei",
     "english": "egg",
     "partOfSpeech": "noun",
+    "category": "food",
     "gender": "het",
     "sentences": [
       {
@@ -5169,6 +5468,7 @@
     "dutch": "vlees",
     "english": "meat",
     "partOfSpeech": "noun",
+    "category": "food",
     "gender": "het",
     "sentences": [
       {
@@ -5185,6 +5485,7 @@
     "dutch": "vis",
     "english": "fish",
     "partOfSpeech": "noun",
+    "category": "food",
     "gender": "de",
     "sentences": [
       {
@@ -5201,6 +5502,7 @@
     "dutch": "groente",
     "english": "vegetable",
     "partOfSpeech": "noun",
+    "category": "food",
     "gender": "de",
     "sentences": [
       {
@@ -5217,6 +5519,7 @@
     "dutch": "fruit",
     "english": "fruit",
     "partOfSpeech": "noun",
+    "category": "food",
     "gender": "het",
     "sentences": [
       {
@@ -5233,6 +5536,7 @@
     "dutch": "appel",
     "english": "apple",
     "partOfSpeech": "noun",
+    "category": "food",
     "gender": "de",
     "sentences": [
       {
@@ -5249,6 +5553,7 @@
     "dutch": "sinaasappel",
     "english": "orange",
     "partOfSpeech": "noun",
+    "category": "food",
     "gender": "de",
     "sentences": [
       {
@@ -5265,6 +5570,7 @@
     "dutch": "banaan",
     "english": "banana",
     "partOfSpeech": "noun",
+    "category": "food",
     "gender": "de",
     "sentences": [
       {
@@ -5281,6 +5587,7 @@
     "dutch": "aardappel",
     "english": "potato",
     "partOfSpeech": "noun",
+    "category": "food",
     "gender": "de",
     "sentences": [
       {
@@ -5297,6 +5604,7 @@
     "dutch": "rijst",
     "english": "rice",
     "partOfSpeech": "noun",
+    "category": "food",
     "gender": "de",
     "sentences": [
       {
@@ -5313,6 +5621,7 @@
     "dutch": "pasta",
     "english": "pasta",
     "partOfSpeech": "noun",
+    "category": "food",
     "gender": "de",
     "sentences": [
       {
@@ -5329,6 +5638,7 @@
     "dutch": "soep",
     "english": "soup",
     "partOfSpeech": "noun",
+    "category": "food",
     "gender": "de",
     "sentences": [
       {
@@ -5345,6 +5655,7 @@
     "dutch": "salade",
     "english": "salad",
     "partOfSpeech": "noun",
+    "category": "food",
     "gender": "de",
     "sentences": [
       {
@@ -5361,6 +5672,7 @@
     "dutch": "boter",
     "english": "butter",
     "partOfSpeech": "noun",
+    "category": "food",
     "gender": "de",
     "sentences": [
       {
@@ -5377,6 +5689,7 @@
     "dutch": "suiker",
     "english": "sugar",
     "partOfSpeech": "noun",
+    "category": "food",
     "gender": "de",
     "sentences": [
       {
@@ -5393,6 +5706,7 @@
     "dutch": "zout",
     "english": "salt",
     "partOfSpeech": "noun",
+    "category": "food",
     "gender": "het",
     "sentences": [
       {
@@ -5409,6 +5723,7 @@
     "dutch": "peper",
     "english": "pepper",
     "partOfSpeech": "noun",
+    "category": "food",
     "gender": "de",
     "sentences": [
       {
@@ -5425,6 +5740,7 @@
     "dutch": "ontbijt",
     "english": "breakfast",
     "partOfSpeech": "noun",
+    "category": "food",
     "gender": "het",
     "sentences": [
       {
@@ -5441,6 +5757,7 @@
     "dutch": "lunch",
     "english": "lunch",
     "partOfSpeech": "noun",
+    "category": "food",
     "gender": "de",
     "sentences": [
       {
@@ -5457,6 +5774,7 @@
     "dutch": "avondeten",
     "english": "dinner",
     "partOfSpeech": "noun",
+    "category": "food",
     "gender": "het",
     "sentences": [
       {
@@ -5473,6 +5791,7 @@
     "dutch": "café",
     "english": "café, pub",
     "partOfSpeech": "noun",
+    "category": "food",
     "gender": "het",
     "sentences": [
       {
@@ -5489,6 +5808,7 @@
     "dutch": "welk",
     "english": "which",
     "partOfSpeech": "pronoun",
+    "category": "pronoun",
     "sentences": [
       {
         "dutch": "Welke kleur wil je?",
@@ -5504,6 +5824,7 @@
     "dutch": "want",
     "english": "for, because",
     "partOfSpeech": "conjunction",
+    "category": "conjunction",
     "sentences": [
       {
         "dutch": "Ik ga slapen, want ik ben moe.",
@@ -5519,6 +5840,7 @@
     "dutch": "dus",
     "english": "so, therefore",
     "partOfSpeech": "conjunction",
+    "category": "conjunction",
     "sentences": [
       {
         "dutch": "Het regent, dus ik blijf thuis.",
@@ -5534,6 +5856,7 @@
     "dutch": "dat",
     "english": "that",
     "partOfSpeech": "conjunction",
+    "category": "conjunction",
     "sentences": [
       {
         "dutch": "Ik denk dat het goed is.",
@@ -5553,6 +5876,7 @@
     "dutch": "toen",
     "english": "when (past), then",
     "partOfSpeech": "conjunction",
+    "category": "conjunction",
     "sentences": [
       {
         "dutch": "Toen ik jong was, speelde ik voetbal.",
@@ -5568,6 +5892,7 @@
     "dutch": "terwijl",
     "english": "while",
     "partOfSpeech": "conjunction",
+    "category": "conjunction",
     "sentences": [
       {
         "dutch": "Ik lees terwijl ik eet.",
@@ -5583,6 +5908,7 @@
     "dutch": "hoewel",
     "english": "although",
     "partOfSpeech": "conjunction",
+    "category": "conjunction",
     "sentences": [
       {
         "dutch": "Hoewel het regent, ga ik naar buiten.",
@@ -5598,6 +5924,7 @@
     "dutch": "zodat",
     "english": "so that",
     "partOfSpeech": "conjunction",
+    "category": "conjunction",
     "sentences": [
       {
         "dutch": "Ik studeer zodat ik kan slagen.",
@@ -5613,6 +5940,7 @@
     "dutch": "achter",
     "english": "behind",
     "partOfSpeech": "preposition",
+    "category": "preposition",
     "sentences": [
       {
         "dutch": "De tuin is achter het huis.",
@@ -5628,6 +5956,7 @@
     "dutch": "naast",
     "english": "next to",
     "partOfSpeech": "preposition",
+    "category": "preposition",
     "sentences": [
       {
         "dutch": "Ik zit naast mijn vriend.",
@@ -5643,6 +5972,7 @@
     "dutch": "kosten",
     "english": "to cost",
     "partOfSpeech": "verb",
+    "category": "verb",
     "sentences": [
       {
         "dutch": "Hoeveel kost dit?",
@@ -5658,6 +5988,7 @@
     "dutch": "eindigen",
     "english": "to end",
     "partOfSpeech": "verb",
+    "category": "verb",
     "sentences": [
       {
         "dutch": "De film eindigt om tien uur.",
@@ -5673,6 +6004,7 @@
     "dutch": "rennen",
     "english": "to run",
     "partOfSpeech": "verb",
+    "category": "verb",
     "sentences": [
       {
         "dutch": "De kinderen rennen in het park.",
@@ -5688,6 +6020,7 @@
     "dutch": "lukken",
     "english": "to succeed",
     "partOfSpeech": "verb",
+    "category": "verb",
     "sentences": [
       {
         "dutch": "Het is me gelukt!",
@@ -5703,6 +6036,7 @@
     "dutch": "vertrekken",
     "english": "to leave, depart",
     "partOfSpeech": "verb",
+    "category": "verb",
     "sentences": [
       {
         "dutch": "De trein vertrekt om drie uur.",
@@ -5718,6 +6052,7 @@
     "dutch": "aankomen",
     "english": "to arrive",
     "partOfSpeech": "verb",
+    "category": "verb",
     "sentences": [
       {
         "dutch": "De bus komt om vier uur aan.",
@@ -5733,6 +6068,7 @@
     "dutch": "houden",
     "english": "to hold, keep",
     "partOfSpeech": "verb",
+    "category": "verb",
     "sentences": [
       {
         "dutch": "Hou dit vast.",
@@ -5748,6 +6084,7 @@
     "dutch": "laten",
     "english": "to let, leave",
     "partOfSpeech": "verb",
+    "category": "verb",
     "sentences": [
       {
         "dutch": "Laat me met rust.",
@@ -5763,6 +6100,7 @@
     "dutch": "ruiken",
     "english": "to smell",
     "partOfSpeech": "verb",
+    "category": "verb",
     "sentences": [
       {
         "dutch": "Het ruikt lekker.",
@@ -5778,6 +6116,7 @@
     "dutch": "proeven",
     "english": "to taste",
     "partOfSpeech": "verb",
+    "category": "verb",
     "sentences": [
       {
         "dutch": "Proef dit eens.",
@@ -5793,6 +6132,7 @@
     "dutch": "dragen",
     "english": "to carry, wear",
     "partOfSpeech": "verb",
+    "category": "verb",
     "sentences": [
       {
         "dutch": "Ik draag een jas.",
@@ -5808,6 +6148,7 @@
     "dutch": "trekken",
     "english": "to pull",
     "partOfSpeech": "verb",
+    "category": "verb",
     "sentences": [
       {
         "dutch": "Trek de deur open.",
@@ -5823,6 +6164,7 @@
     "dutch": "duwen",
     "english": "to push",
     "partOfSpeech": "verb",
+    "category": "verb",
     "sentences": [
       {
         "dutch": "Duw de deur dicht.",
@@ -5838,6 +6180,7 @@
     "dutch": "ontvangen",
     "english": "to receive",
     "partOfSpeech": "verb",
+    "category": "verb",
     "sentences": [
       {
         "dutch": "Ik heb je bericht ontvangen.",
@@ -5853,6 +6196,7 @@
     "dutch": "bellen",
     "english": "to call (phone)",
     "partOfSpeech": "verb",
+    "category": "verb",
     "sentences": [
       {
         "dutch": "Ik bel je morgen.",
@@ -5868,6 +6212,7 @@
     "dutch": "antwoorden",
     "english": "to answer",
     "partOfSpeech": "verb",
+    "category": "verb",
     "sentences": [
       {
         "dutch": "Kun je antwoorden?",
@@ -5883,6 +6228,7 @@
     "dutch": "wensen",
     "english": "to wish",
     "partOfSpeech": "verb",
+    "category": "verb",
     "sentences": [
       {
         "dutch": "Ik wens je succes.",
@@ -5898,6 +6244,7 @@
     "dutch": "dromen",
     "english": "to dream",
     "partOfSpeech": "verb",
+    "category": "verb",
     "sentences": [
       {
         "dutch": "Ik droom van vakantie.",
@@ -5913,6 +6260,7 @@
     "dutch": "huilen",
     "english": "to cry",
     "partOfSpeech": "verb",
+    "category": "verb",
     "sentences": [
       {
         "dutch": "Het kind huilt.",
@@ -5928,6 +6276,7 @@
     "dutch": "lachen",
     "english": "to laugh",
     "partOfSpeech": "verb",
+    "category": "verb",
     "sentences": [
       {
         "dutch": "Iedereen lacht.",
@@ -5943,6 +6292,7 @@
     "dutch": "zingen",
     "english": "to sing",
     "partOfSpeech": "verb",
+    "category": "verb",
     "sentences": [
       {
         "dutch": "Zij zingt mooi.",
@@ -5958,6 +6308,7 @@
     "dutch": "dansen",
     "english": "to dance",
     "partOfSpeech": "verb",
+    "category": "verb",
     "sentences": [
       {
         "dutch": "Wil je dansen?",
@@ -5973,6 +6324,7 @@
     "dutch": "tekenen",
     "english": "to draw",
     "partOfSpeech": "verb",
+    "category": "verb",
     "sentences": [
       {
         "dutch": "Ik teken een huis.",
@@ -5988,6 +6340,7 @@
     "dutch": "schilderen",
     "english": "to paint",
     "partOfSpeech": "verb",
+    "category": "verb",
     "sentences": [
       {
         "dutch": "Ik schilder de muur.",
@@ -6003,6 +6356,7 @@
     "dutch": "bouwen",
     "english": "to build",
     "partOfSpeech": "verb",
+    "category": "verb",
     "sentences": [
       {
         "dutch": "Ze bouwen een nieuw huis.",
@@ -6018,6 +6372,7 @@
     "dutch": "breken",
     "english": "to break",
     "partOfSpeech": "verb",
+    "category": "verb",
     "sentences": [
       {
         "dutch": "Ik brak het glas.",
@@ -6033,6 +6388,7 @@
     "dutch": "repareren",
     "english": "to repair",
     "partOfSpeech": "verb",
+    "category": "verb",
     "sentences": [
       {
         "dutch": "Ik repareer de fiets.",
@@ -6048,6 +6404,7 @@
     "dutch": "schoonmaken",
     "english": "to clean",
     "partOfSpeech": "verb",
+    "category": "verb",
     "sentences": [
       {
         "dutch": "Ik maak het huis schoon.",
@@ -6063,6 +6420,7 @@
     "dutch": "wassen",
     "english": "to wash",
     "partOfSpeech": "verb",
+    "category": "verb",
     "sentences": [
       {
         "dutch": "Ik was mijn handen.",
@@ -6078,6 +6436,7 @@
     "dutch": "drogen",
     "english": "to dry",
     "partOfSpeech": "verb",
+    "category": "verb",
     "sentences": [
       {
         "dutch": "Het wasgoed droogt buiten.",
@@ -6093,6 +6452,7 @@
     "dutch": "koken",
     "english": "to cook",
     "partOfSpeech": "verb",
+    "category": "verb",
     "sentences": [
       {
         "dutch": "Ik kook graag.",
@@ -6108,6 +6468,7 @@
     "dutch": "bakken",
     "english": "to bake, fry",
     "partOfSpeech": "verb",
+    "category": "verb",
     "sentences": [
       {
         "dutch": "Ik bak een taart.",
@@ -6123,6 +6484,7 @@
     "dutch": "snijden",
     "english": "to cut",
     "partOfSpeech": "verb",
+    "category": "verb",
     "sentences": [
       {
         "dutch": "Ik snijd het brood.",
@@ -6138,6 +6500,7 @@
     "dutch": "mengen",
     "english": "to mix",
     "partOfSpeech": "verb",
+    "category": "verb",
     "sentences": [
       {
         "dutch": "Meng de ingrediënten.",
@@ -6153,6 +6516,7 @@
     "dutch": "invullen",
     "english": "to fill in",
     "partOfSpeech": "verb",
+    "category": "verb",
     "sentences": [
       {
         "dutch": "Vul het formulier in.",
@@ -6168,6 +6532,7 @@
     "dutch": "uitleggen",
     "english": "to explain",
     "partOfSpeech": "verb",
+    "category": "verb",
     "sentences": [
       {
         "dutch": "Kun je dat uitleggen?",
@@ -6183,6 +6548,7 @@
     "dutch": "breed",
     "english": "wide",
     "partOfSpeech": "adjective",
+    "category": "size",
     "sentences": [
       {
         "dutch": "De straat is breed.",
@@ -6198,6 +6564,7 @@
     "dutch": "smal",
     "english": "narrow",
     "partOfSpeech": "adjective",
+    "category": "size",
     "sentences": [
       {
         "dutch": "Het pad is smal.",
@@ -6213,6 +6580,7 @@
     "dutch": "dik",
     "english": "thick, fat",
     "partOfSpeech": "adjective",
+    "category": "size",
     "sentences": [
       {
         "dutch": "Dit boek is dik.",
@@ -6228,6 +6596,7 @@
     "dutch": "dun",
     "english": "thin",
     "partOfSpeech": "adjective",
+    "category": "size",
     "sentences": [
       {
         "dutch": "Het ijs is dun.",
@@ -6243,6 +6612,7 @@
     "dutch": "zwaar",
     "english": "heavy",
     "partOfSpeech": "adjective",
+    "category": "size",
     "sentences": [
       {
         "dutch": "De tas is zwaar.",
@@ -6258,6 +6628,7 @@
     "dutch": "licht",
     "english": "light (weight); light (brightness)",
     "partOfSpeech": "adjective",
+    "category": "size",
     "sentences": [
       {
         "dutch": "Deze tas is licht.",
@@ -6277,6 +6648,7 @@
     "dutch": "hard",
     "english": "hard",
     "partOfSpeech": "adjective",
+    "category": "adjective",
     "sentences": [
       {
         "dutch": "De grond is hard.",
@@ -6292,6 +6664,7 @@
     "dutch": "zacht",
     "english": "soft",
     "partOfSpeech": "adjective",
+    "category": "adjective",
     "sentences": [
       {
         "dutch": "Het kussen is zacht.",
@@ -6307,6 +6680,7 @@
     "dutch": "heet",
     "english": "hot",
     "partOfSpeech": "adjective",
+    "category": "adjective",
     "sentences": [
       {
         "dutch": "De soep is heet.",
@@ -6322,6 +6696,7 @@
     "dutch": "nat",
     "english": "wet",
     "partOfSpeech": "adjective",
+    "category": "adjective",
     "sentences": [
       {
         "dutch": "Mijn kleren zijn nat.",
@@ -6337,6 +6712,7 @@
     "dutch": "droog",
     "english": "dry",
     "partOfSpeech": "adjective",
+    "category": "adjective",
     "sentences": [
       {
         "dutch": "Het is droog vandaag.",
@@ -6352,6 +6728,7 @@
     "dutch": "schoon",
     "english": "clean",
     "partOfSpeech": "adjective",
+    "category": "adjective",
     "sentences": [
       {
         "dutch": "De kamer is schoon.",
@@ -6367,6 +6744,7 @@
     "dutch": "vies",
     "english": "dirty",
     "partOfSpeech": "adjective",
+    "category": "adjective",
     "sentences": [
       {
         "dutch": "Mijn schoenen zijn vies.",
@@ -6382,6 +6760,7 @@
     "dutch": "langzaam",
     "english": "slow",
     "partOfSpeech": "adjective",
+    "category": "adjective",
     "sentences": [
       {
         "dutch": "De schildpad is langzaam.",
@@ -6397,6 +6776,7 @@
     "dutch": "vroeg",
     "english": "early",
     "partOfSpeech": "adjective",
+    "category": "adjective",
     "sentences": [
       {
         "dutch": "Ik sta vroeg op.",
@@ -6412,6 +6792,7 @@
     "dutch": "laat",
     "english": "late",
     "partOfSpeech": "adjective",
+    "category": "adjective",
     "sentences": [
       {
         "dutch": "Het is laat.",
@@ -6427,6 +6808,7 @@
     "dutch": "leeg",
     "english": "empty",
     "partOfSpeech": "adjective",
+    "category": "adjective",
     "sentences": [
       {
         "dutch": "Het glas is leeg.",
@@ -6442,6 +6824,7 @@
     "dutch": "vol",
     "english": "full",
     "partOfSpeech": "adjective",
+    "category": "adjective",
     "sentences": [
       {
         "dutch": "De trein is vol.",
@@ -6457,6 +6840,7 @@
     "dutch": "open",
     "english": "open",
     "partOfSpeech": "adjective",
+    "category": "adjective",
     "sentences": [
       {
         "dutch": "Het raam is open.",
@@ -6472,6 +6856,7 @@
     "dutch": "dicht",
     "english": "closed; near, dense",
     "partOfSpeech": "adjective",
+    "category": "adjective",
     "sentences": [
       {
         "dutch": "De winkel is dicht.",
@@ -6487,6 +6872,7 @@
     "dutch": "stil",
     "english": "quiet",
     "partOfSpeech": "adjective",
+    "category": "adjective",
     "sentences": [
       {
         "dutch": "Wees stil!",
@@ -6502,6 +6888,7 @@
     "dutch": "luid",
     "english": "loud",
     "partOfSpeech": "adjective",
+    "category": "adjective",
     "sentences": [
       {
         "dutch": "De muziek is luid.",
@@ -6517,6 +6904,7 @@
     "dutch": "donker",
     "english": "dark",
     "partOfSpeech": "adjective",
+    "category": "adjective",
     "sentences": [
       {
         "dutch": "Het is donker buiten.",
@@ -6532,6 +6920,7 @@
     "dutch": "helder",
     "english": "bright, clear",
     "partOfSpeech": "adjective",
+    "category": "adjective",
     "sentences": [
       {
         "dutch": "De lucht is helder.",
@@ -6547,6 +6936,7 @@
     "dutch": "belangrijk",
     "english": "important",
     "partOfSpeech": "adjective",
+    "category": "adjective",
     "sentences": [
       {
         "dutch": "Dit is belangrijk.",
@@ -6562,6 +6952,7 @@
     "dutch": "nodig",
     "english": "necessary",
     "partOfSpeech": "adjective",
+    "category": "adjective",
     "sentences": [
       {
         "dutch": "Dat is niet nodig.",
@@ -6577,6 +6968,7 @@
     "dutch": "mogelijk",
     "english": "possible",
     "partOfSpeech": "adjective",
+    "category": "adjective",
     "sentences": [
       {
         "dutch": "Is dat mogelijk?",
@@ -6592,6 +6984,7 @@
     "dutch": "zeker",
     "english": "certain, sure",
     "partOfSpeech": "adjective",
+    "category": "adjective",
     "sentences": [
       {
         "dutch": "Ik ben zeker.",
@@ -6607,6 +7000,7 @@
     "dutch": "klaar",
     "english": "ready, done",
     "partOfSpeech": "adjective",
+    "category": "adjective",
     "sentences": [
       {
         "dutch": "Ben je klaar?",
@@ -6622,6 +7016,7 @@
     "dutch": "vrij",
     "english": "free; quite, rather",
     "partOfSpeech": "adjective",
+    "category": "adjective",
     "sentences": [
       {
         "dutch": "Ik ben vrij vandaag.",
@@ -6637,6 +7032,7 @@
     "dutch": "druk",
     "english": "busy",
     "partOfSpeech": "adjective",
+    "category": "adjective",
     "sentences": [
       {
         "dutch": "Ik heb het druk.",
@@ -6652,6 +7048,7 @@
     "dutch": "rustig",
     "english": "calm, quiet",
     "partOfSpeech": "adjective",
+    "category": "adjective",
     "sentences": [
       {
         "dutch": "Blijf rustig.",
@@ -6667,6 +7064,7 @@
     "dutch": "boos",
     "english": "angry",
     "partOfSpeech": "adjective",
+    "category": "emotions",
     "sentences": [
       {
         "dutch": "Ik ben boos op hem.",
@@ -6682,6 +7080,7 @@
     "dutch": "bang",
     "english": "afraid",
     "partOfSpeech": "adjective",
+    "category": "emotions",
     "sentences": [
       {
         "dutch": "Ik ben bang voor honden.",
@@ -6697,6 +7096,7 @@
     "dutch": "trots",
     "english": "proud",
     "partOfSpeech": "adjective",
+    "category": "emotions",
     "sentences": [
       {
         "dutch": "Ik ben trots op je.",
@@ -6712,6 +7112,7 @@
     "dutch": "lelijk",
     "english": "ugly",
     "partOfSpeech": "adjective",
+    "category": "adjective",
     "sentences": [
       {
         "dutch": "Dat is lelijk.",
@@ -6727,6 +7128,7 @@
     "dutch": "dom",
     "english": "stupid",
     "partOfSpeech": "adjective",
+    "category": "adjective",
     "sentences": [
       {
         "dutch": "Dat was dom.",
@@ -6742,6 +7144,7 @@
     "dutch": "slim",
     "english": "smart",
     "partOfSpeech": "adjective",
+    "category": "adjective",
     "sentences": [
       {
         "dutch": "Zij is slim.",
@@ -6757,6 +7160,7 @@
     "dutch": "rijk",
     "english": "rich",
     "partOfSpeech": "adjective",
+    "category": "adjective",
     "sentences": [
       {
         "dutch": "Hij is rijk.",
@@ -6772,6 +7176,7 @@
     "dutch": "goedkoop",
     "english": "cheap",
     "partOfSpeech": "adjective",
+    "category": "adjective",
     "sentences": [
       {
         "dutch": "Dit is goedkoop.",
@@ -6787,6 +7192,7 @@
     "dutch": "gratis",
     "english": "free (no cost)",
     "partOfSpeech": "adjective",
+    "category": "adjective",
     "sentences": [
       {
         "dutch": "Het is gratis.",
@@ -6802,6 +7208,7 @@
     "dutch": "vreemd",
     "english": "strange",
     "partOfSpeech": "adjective",
+    "category": "adjective",
     "sentences": [
       {
         "dutch": "Dat is vreemd.",
@@ -6817,6 +7224,7 @@
     "dutch": "normaal",
     "english": "normal",
     "partOfSpeech": "adjective",
+    "category": "adjective",
     "sentences": [
       {
         "dutch": "Dat is normaal.",
@@ -6832,6 +7240,7 @@
     "dutch": "speciaal",
     "english": "special",
     "partOfSpeech": "adjective",
+    "category": "adjective",
     "sentences": [
       {
         "dutch": "Dit is speciaal voor jou.",
@@ -6847,6 +7256,7 @@
     "dutch": "anders",
     "english": "different, else",
     "partOfSpeech": "adjective",
+    "category": "adjective",
     "sentences": [
       {
         "dutch": "Dit is anders.",
@@ -6862,6 +7272,7 @@
     "dutch": "dezelfde",
     "english": "the same",
     "partOfSpeech": "pronoun",
+    "category": "pronoun",
     "sentences": [
       {
         "dutch": "We hebben dezelfde auto.",
@@ -6877,6 +7288,7 @@
     "dutch": "eigen",
     "english": "own",
     "partOfSpeech": "adjective",
+    "category": "adjective",
     "sentences": [
       {
         "dutch": "Ik heb mijn eigen huis.",
@@ -6892,6 +7304,7 @@
     "dutch": "echt",
     "english": "real, really",
     "partOfSpeech": "adjective",
+    "category": "adjective",
     "sentences": [
       {
         "dutch": "Dit is echt mooi.",
@@ -6907,6 +7320,7 @@
     "dutch": "helemaal",
     "english": "completely",
     "partOfSpeech": "adverb",
+    "category": "adverb",
     "sentences": [
       {
         "dutch": "Ik begrijp het helemaal.",
@@ -6922,6 +7336,7 @@
     "dutch": "bijna",
     "english": "almost",
     "partOfSpeech": "adverb",
+    "category": "adverb",
     "sentences": [
       {
         "dutch": "Ik ben bijna klaar.",
@@ -6937,6 +7352,7 @@
     "dutch": "ongeveer",
     "english": "approximately",
     "partOfSpeech": "adverb",
+    "category": "adverb",
     "sentences": [
       {
         "dutch": "Het kost ongeveer tien euro.",
@@ -6952,6 +7368,7 @@
     "dutch": "waarschijnlijk",
     "english": "probably",
     "partOfSpeech": "adverb",
+    "category": "adverb",
     "sentences": [
       {
         "dutch": "Het regent waarschijnlijk.",
@@ -6967,6 +7384,7 @@
     "dutch": "ergens",
     "english": "somewhere",
     "partOfSpeech": "adverb",
+    "category": "adverb",
     "sentences": [
       {
         "dutch": "Het moet ergens zijn.",
@@ -6982,6 +7400,7 @@
     "dutch": "nergens",
     "english": "nowhere",
     "partOfSpeech": "adverb",
+    "category": "adverb",
     "sentences": [
       {
         "dutch": "Ik kan het nergens vinden.",
@@ -6997,6 +7416,7 @@
     "dutch": "overal",
     "english": "everywhere",
     "partOfSpeech": "adverb",
+    "category": "adverb",
     "sentences": [
       {
         "dutch": "Er zijn mensen overal.",
@@ -7012,6 +7432,7 @@
     "dutch": "weer",
     "english": "again; weather",
     "partOfSpeech": "adverb",
+    "category": "adverb",
     "sentences": [
       {
         "dutch": "Ik probeer het weer.",
@@ -7031,6 +7452,7 @@
     "dutch": "erg",
     "english": "very; bad, terrible",
     "partOfSpeech": "adverb",
+    "category": "adverb",
     "sentences": [
       {
         "dutch": "Het is erg koud.",
@@ -7046,6 +7468,7 @@
     "dutch": "meer",
     "english": "more; lake",
     "partOfSpeech": "adverb",
+    "category": "adverb",
     "sentences": [
       {
         "dutch": "Ik wil meer leren.",
@@ -7061,6 +7484,7 @@
     "dutch": "minder",
     "english": "less",
     "partOfSpeech": "adverb",
+    "category": "adverb",
     "sentences": [
       {
         "dutch": "Ik werk minder.",
@@ -7076,6 +7500,7 @@
     "dutch": "genoeg",
     "english": "enough",
     "partOfSpeech": "adverb",
+    "category": "adverb",
     "sentences": [
       {
         "dutch": "Ik heb genoeg geld.",
@@ -7091,6 +7516,7 @@
     "dutch": "te",
     "english": "too",
     "partOfSpeech": "adverb",
+    "category": "adverb",
     "sentences": [
       {
         "dutch": "Het is te duur.",
@@ -7106,6 +7532,7 @@
     "dutch": "zo",
     "english": "so",
     "partOfSpeech": "adverb",
+    "category": "adverb",
     "sentences": [
       {
         "dutch": "Het is zo mooi!",
@@ -7121,6 +7548,7 @@
     "dutch": "brug",
     "english": "bridge",
     "partOfSpeech": "noun",
+    "category": "places",
     "gender": "de",
     "sentences": [
       {
@@ -7137,6 +7565,7 @@
     "dutch": "plein",
     "english": "square",
     "partOfSpeech": "noun",
+    "category": "places",
     "gender": "het",
     "sentences": [
       {
@@ -7153,6 +7582,7 @@
     "dutch": "hoek",
     "english": "corner",
     "partOfSpeech": "noun",
+    "category": "places",
     "gender": "de",
     "sentences": [
       {
@@ -7169,6 +7599,7 @@
     "dutch": "richting",
     "english": "direction",
     "partOfSpeech": "noun",
+    "category": "transport",
     "gender": "de",
     "sentences": [
       {
@@ -7185,6 +7616,7 @@
     "dutch": "links",
     "english": "left",
     "partOfSpeech": "adverb",
+    "category": "adverb",
     "sentences": [
       {
         "dutch": "Ga naar links.",
@@ -7200,6 +7632,7 @@
     "dutch": "rechts",
     "english": "right",
     "partOfSpeech": "adverb",
+    "category": "adverb",
     "sentences": [
       {
         "dutch": "Ga naar rechts.",
@@ -7215,6 +7648,7 @@
     "dutch": "rechtdoor",
     "english": "straight ahead",
     "partOfSpeech": "adverb",
+    "category": "adverb",
     "sentences": [
       {
         "dutch": "Ga rechtdoor.",
@@ -7230,6 +7664,7 @@
     "dutch": "beneden",
     "english": "below, downstairs",
     "partOfSpeech": "adverb",
+    "category": "adverb",
     "sentences": [
       {
         "dutch": "Kom naar beneden!",
@@ -7245,6 +7680,7 @@
     "dutch": "tram",
     "english": "tram",
     "partOfSpeech": "noun",
+    "category": "transport",
     "gender": "de",
     "sentences": [
       {
@@ -7261,6 +7697,7 @@
     "dutch": "metro",
     "english": "metro",
     "partOfSpeech": "noun",
+    "category": "transport",
     "gender": "de",
     "sentences": [
       {
@@ -7277,6 +7714,7 @@
     "dutch": "boot",
     "english": "boat",
     "partOfSpeech": "noun",
+    "category": "transport",
     "gender": "de",
     "sentences": [
       {
@@ -7293,6 +7731,7 @@
     "dutch": "luchthaven",
     "english": "airport",
     "partOfSpeech": "noun",
+    "category": "transport",
     "gender": "de",
     "sentences": [
       {
@@ -7309,6 +7748,7 @@
     "dutch": "halte",
     "english": "stop (bus/tram)",
     "partOfSpeech": "noun",
+    "category": "transport",
     "gender": "de",
     "sentences": [
       {
@@ -7325,6 +7765,7 @@
     "dutch": "kaartje",
     "english": "ticket",
     "partOfSpeech": "noun",
+    "category": "transport",
     "gender": "het",
     "sentences": [
       {
@@ -7341,6 +7782,7 @@
     "dutch": "paspoort",
     "english": "passport",
     "partOfSpeech": "noun",
+    "category": "transport",
     "gender": "het",
     "sentences": [
       {
@@ -7361,6 +7803,7 @@
     "dutch": "bagage",
     "english": "luggage",
     "partOfSpeech": "noun",
+    "category": "transport",
     "gender": "de",
     "sentences": [
       {
@@ -7377,6 +7820,7 @@
     "dutch": "koffer",
     "english": "suitcase",
     "partOfSpeech": "noun",
+    "category": "transport",
     "gender": "de",
     "sentences": [
       {
@@ -7393,6 +7837,7 @@
     "dutch": "tas",
     "english": "bag",
     "partOfSpeech": "noun",
+    "category": "transport",
     "gender": "de",
     "sentences": [
       {
@@ -7409,6 +7854,7 @@
     "dutch": "portemonnee",
     "english": "wallet",
     "partOfSpeech": "noun",
+    "category": "noun",
     "gender": "de",
     "sentences": [
       {
@@ -7425,6 +7871,7 @@
     "dutch": "sleutel",
     "english": "key",
     "partOfSpeech": "noun",
+    "category": "noun",
     "gender": "de",
     "sentences": [
       {
@@ -7441,6 +7888,7 @@
     "dutch": "internet",
     "english": "internet",
     "partOfSpeech": "noun",
+    "category": "noun",
     "gender": "het",
     "sentences": [
       {
@@ -7457,6 +7905,7 @@
     "dutch": "bericht",
     "english": "message",
     "partOfSpeech": "noun",
+    "category": "noun",
     "gender": "het",
     "sentences": [
       {
@@ -7473,6 +7922,7 @@
     "dutch": "email",
     "english": "email",
     "partOfSpeech": "noun",
+    "category": "noun",
     "gender": "de",
     "sentences": [
       {
@@ -7489,6 +7939,7 @@
     "dutch": "wachtwoord",
     "english": "password",
     "partOfSpeech": "noun",
+    "category": "noun",
     "gender": "het",
     "sentences": [
       {
@@ -7505,6 +7956,7 @@
     "dutch": "lied",
     "english": "song",
     "partOfSpeech": "noun",
+    "category": "noun",
     "gender": "het",
     "sentences": [
       {
@@ -7521,6 +7973,7 @@
     "dutch": "kunst",
     "english": "art",
     "partOfSpeech": "noun",
+    "category": "noun",
     "gender": "de",
     "sentences": [
       {
@@ -7537,6 +7990,7 @@
     "dutch": "museum",
     "english": "museum",
     "partOfSpeech": "noun",
+    "category": "noun",
     "gender": "het",
     "sentences": [
       {
@@ -7553,6 +8007,7 @@
     "dutch": "theater",
     "english": "theater",
     "partOfSpeech": "noun",
+    "category": "noun",
     "gender": "het",
     "sentences": [
       {
@@ -7569,6 +8024,7 @@
     "dutch": "bioscoop",
     "english": "cinema",
     "partOfSpeech": "noun",
+    "category": "noun",
     "gender": "de",
     "sentences": [
       {
@@ -7585,6 +8041,7 @@
     "dutch": "concert",
     "english": "concert",
     "partOfSpeech": "noun",
+    "category": "noun",
     "gender": "het",
     "sentences": [
       {
@@ -7601,6 +8058,7 @@
     "dutch": "badkamer",
     "english": "bathroom",
     "partOfSpeech": "noun",
+    "category": "home",
     "gender": "de",
     "sentences": [
       {
@@ -7617,6 +8075,7 @@
     "dutch": "toilet",
     "english": "toilet",
     "partOfSpeech": "noun",
+    "category": "home",
     "gender": "het",
     "sentences": [
       {
@@ -7633,6 +8092,7 @@
     "dutch": "douche",
     "english": "shower",
     "partOfSpeech": "noun",
+    "category": "home",
     "gender": "de",
     "sentences": [
       {
@@ -7649,6 +8109,7 @@
     "dutch": "spiegel",
     "english": "mirror",
     "partOfSpeech": "noun",
+    "category": "home",
     "gender": "de",
     "sentences": [
       {
@@ -7665,6 +8126,7 @@
     "dutch": "handdoek",
     "english": "towel",
     "partOfSpeech": "noun",
+    "category": "home",
     "gender": "de",
     "sentences": [
       {
@@ -7681,6 +8143,7 @@
     "dutch": "zeep",
     "english": "soap",
     "partOfSpeech": "noun",
+    "category": "home",
     "gender": "de",
     "sentences": [
       {
@@ -7697,6 +8160,7 @@
     "dutch": "tandenborstel",
     "english": "toothbrush",
     "partOfSpeech": "noun",
+    "category": "home",
     "gender": "de",
     "sentences": [
       {
@@ -7713,6 +8177,7 @@
     "dutch": "woonkamer",
     "english": "living room",
     "partOfSpeech": "noun",
+    "category": "home",
     "gender": "de",
     "sentences": [
       {
@@ -7729,6 +8194,7 @@
     "dutch": "slaapkamer",
     "english": "bedroom",
     "partOfSpeech": "noun",
+    "category": "home",
     "gender": "de",
     "sentences": [
       {
@@ -7745,6 +8211,7 @@
     "dutch": "balkon",
     "english": "balcony",
     "partOfSpeech": "noun",
+    "category": "home",
     "gender": "het",
     "sentences": [
       {
@@ -7761,6 +8228,7 @@
     "dutch": "trap",
     "english": "stairs",
     "partOfSpeech": "noun",
+    "category": "home",
     "gender": "de",
     "sentences": [
       {
@@ -7777,6 +8245,7 @@
     "dutch": "lift",
     "english": "elevator",
     "partOfSpeech": "noun",
+    "category": "home",
     "gender": "de",
     "sentences": [
       {
@@ -7793,6 +8262,7 @@
     "dutch": "verdieping",
     "english": "floor (level)",
     "partOfSpeech": "noun",
+    "category": "home",
     "gender": "de",
     "sentences": [
       {
@@ -7809,6 +8279,7 @@
     "dutch": "muur",
     "english": "wall",
     "partOfSpeech": "noun",
+    "category": "home",
     "gender": "de",
     "sentences": [
       {
@@ -7825,6 +8296,7 @@
     "dutch": "vloer",
     "english": "floor",
     "partOfSpeech": "noun",
+    "category": "home",
     "gender": "de",
     "sentences": [
       {
@@ -7841,6 +8313,7 @@
     "dutch": "plafond",
     "english": "ceiling",
     "partOfSpeech": "noun",
+    "category": "home",
     "gender": "het",
     "sentences": [
       {
@@ -7857,6 +8330,7 @@
     "dutch": "dak",
     "english": "roof",
     "partOfSpeech": "noun",
+    "category": "home",
     "gender": "het",
     "sentences": [
       {
@@ -7873,6 +8347,7 @@
     "dutch": "bank",
     "english": "couch, sofa; bank",
     "partOfSpeech": "noun",
+    "category": "home",
     "gender": "de",
     "sentences": [
       {
@@ -7893,6 +8368,7 @@
     "dutch": "kast",
     "english": "closet, cabinet",
     "partOfSpeech": "noun",
+    "category": "home",
     "gender": "de",
     "sentences": [
       {
@@ -7909,6 +8385,7 @@
     "dutch": "lamp",
     "english": "lamp",
     "partOfSpeech": "noun",
+    "category": "home",
     "gender": "de",
     "sentences": [
       {
@@ -7925,6 +8402,7 @@
     "dutch": "televisie",
     "english": "television",
     "partOfSpeech": "noun",
+    "category": "home",
     "gender": "de",
     "sentences": [
       {
@@ -7941,6 +8419,7 @@
     "dutch": "koelkast",
     "english": "refrigerator",
     "partOfSpeech": "noun",
+    "category": "home",
     "gender": "de",
     "sentences": [
       {
@@ -7957,6 +8436,7 @@
     "dutch": "oven",
     "english": "oven",
     "partOfSpeech": "noun",
+    "category": "home",
     "gender": "de",
     "sentences": [
       {
@@ -7973,6 +8453,7 @@
     "dutch": "magnetron",
     "english": "microwave",
     "partOfSpeech": "noun",
+    "category": "home",
     "gender": "de",
     "sentences": [
       {
@@ -7989,6 +8470,7 @@
     "dutch": "vork",
     "english": "fork",
     "partOfSpeech": "noun",
+    "category": "home",
     "gender": "de",
     "sentences": [
       {
@@ -8005,6 +8487,7 @@
     "dutch": "mes",
     "english": "knife",
     "partOfSpeech": "noun",
+    "category": "home",
     "gender": "het",
     "sentences": [
       {
@@ -8021,6 +8504,7 @@
     "dutch": "lepel",
     "english": "spoon",
     "partOfSpeech": "noun",
+    "category": "home",
     "gender": "de",
     "sentences": [
       {
@@ -8037,6 +8521,7 @@
     "dutch": "bord",
     "english": "plate",
     "partOfSpeech": "noun",
+    "category": "home",
     "gender": "het",
     "sentences": [
       {
@@ -8053,6 +8538,7 @@
     "dutch": "kopje",
     "english": "cup",
     "partOfSpeech": "noun",
+    "category": "home",
     "gender": "het",
     "sentences": [
       {
@@ -8069,6 +8555,7 @@
     "dutch": "glas",
     "english": "glass",
     "partOfSpeech": "noun",
+    "category": "home",
     "gender": "het",
     "sentences": [
       {
@@ -8085,6 +8572,7 @@
     "dutch": "fles",
     "english": "bottle",
     "partOfSpeech": "noun",
+    "category": "home",
     "gender": "de",
     "sentences": [
       {
@@ -8101,6 +8589,7 @@
     "dutch": "pan",
     "english": "pan",
     "partOfSpeech": "noun",
+    "category": "home",
     "gender": "de",
     "sentences": [
       {
@@ -8117,6 +8606,7 @@
     "dutch": "pot",
     "english": "pot",
     "partOfSpeech": "noun",
+    "category": "home",
     "gender": "de",
     "sentences": [
       {
@@ -8133,6 +8623,7 @@
     "dutch": "kleding",
     "english": "clothing",
     "partOfSpeech": "noun",
+    "category": "clothing",
     "gender": "de",
     "sentences": [
       {
@@ -8149,6 +8640,7 @@
     "dutch": "broek",
     "english": "pants",
     "partOfSpeech": "noun",
+    "category": "clothing",
     "gender": "de",
     "sentences": [
       {
@@ -8165,6 +8657,7 @@
     "dutch": "overhemd",
     "english": "shirt (dress)",
     "partOfSpeech": "noun",
+    "category": "clothing",
     "gender": "het",
     "sentences": [
       {
@@ -8181,6 +8674,7 @@
     "dutch": "shirt",
     "english": "t-shirt",
     "partOfSpeech": "noun",
+    "category": "clothing",
     "gender": "het",
     "sentences": [
       {
@@ -8197,6 +8691,7 @@
     "dutch": "trui",
     "english": "sweater",
     "partOfSpeech": "noun",
+    "category": "clothing",
     "gender": "de",
     "sentences": [
       {
@@ -8213,6 +8708,7 @@
     "dutch": "jas",
     "english": "coat, jacket",
     "partOfSpeech": "noun",
+    "category": "clothing",
     "gender": "de",
     "sentences": [
       {
@@ -8229,6 +8725,7 @@
     "dutch": "rok",
     "english": "skirt",
     "partOfSpeech": "noun",
+    "category": "clothing",
     "gender": "de",
     "sentences": [
       {
@@ -8245,6 +8742,7 @@
     "dutch": "jurk",
     "english": "dress",
     "partOfSpeech": "noun",
+    "category": "clothing",
     "gender": "de",
     "sentences": [
       {
@@ -8261,6 +8759,7 @@
     "dutch": "schoen",
     "english": "shoe",
     "partOfSpeech": "noun",
+    "category": "clothing",
     "gender": "de",
     "sentences": [
       {
@@ -8277,6 +8776,7 @@
     "dutch": "laars",
     "english": "boot",
     "partOfSpeech": "noun",
+    "category": "clothing",
     "gender": "de",
     "sentences": [
       {
@@ -8293,6 +8793,7 @@
     "dutch": "sok",
     "english": "sock",
     "partOfSpeech": "noun",
+    "category": "clothing",
     "gender": "de",
     "sentences": [
       {
@@ -8309,6 +8810,7 @@
     "dutch": "muts",
     "english": "hat (winter)",
     "partOfSpeech": "noun",
+    "category": "clothing",
     "gender": "de",
     "sentences": [
       {
@@ -8325,6 +8827,7 @@
     "dutch": "handschoen",
     "english": "glove",
     "partOfSpeech": "noun",
+    "category": "clothing",
     "gender": "de",
     "sentences": [
       {
@@ -8341,6 +8844,7 @@
     "dutch": "sjaal",
     "english": "scarf",
     "partOfSpeech": "noun",
+    "category": "clothing",
     "gender": "de",
     "sentences": [
       {
@@ -8357,6 +8861,7 @@
     "dutch": "paraplu",
     "english": "umbrella",
     "partOfSpeech": "noun",
+    "category": "clothing",
     "gender": "de",
     "sentences": [
       {
@@ -8373,6 +8878,7 @@
     "dutch": "bril",
     "english": "glasses",
     "partOfSpeech": "noun",
+    "category": "clothing",
     "gender": "de",
     "sentences": [
       {
@@ -8389,6 +8895,7 @@
     "dutch": "horloge",
     "english": "watch",
     "partOfSpeech": "noun",
+    "category": "clothing",
     "gender": "het",
     "sentences": [
       {
@@ -8405,6 +8912,7 @@
     "dutch": "ring",
     "english": "ring",
     "partOfSpeech": "noun",
+    "category": "clothing",
     "gender": "de",
     "sentences": [
       {
@@ -8421,6 +8929,7 @@
     "dutch": "ketting",
     "english": "necklace, chain",
     "partOfSpeech": "noun",
+    "category": "clothing",
     "gender": "de",
     "sentences": [
       {
@@ -8437,6 +8946,7 @@
     "dutch": "ster",
     "english": "star",
     "partOfSpeech": "noun",
+    "category": "nature",
     "gender": "de",
     "sentences": [
       {
@@ -8453,6 +8963,7 @@
     "dutch": "lucht",
     "english": "air, sky",
     "partOfSpeech": "noun",
+    "category": "nature",
     "gender": "de",
     "sentences": [
       {
@@ -8469,6 +8980,7 @@
     "dutch": "wolk",
     "english": "cloud",
     "partOfSpeech": "noun",
+    "category": "nature",
     "gender": "de",
     "sentences": [
       {
@@ -8485,6 +8997,7 @@
     "dutch": "storm",
     "english": "storm",
     "partOfSpeech": "noun",
+    "category": "nature",
     "gender": "de",
     "sentences": [
       {
@@ -8501,6 +9014,7 @@
     "dutch": "temperatuur",
     "english": "temperature",
     "partOfSpeech": "noun",
+    "category": "nature",
     "gender": "de",
     "sentences": [
       {
@@ -8517,6 +9031,7 @@
     "dutch": "graad",
     "english": "degree",
     "partOfSpeech": "noun",
+    "category": "nature",
     "gender": "de",
     "sentences": [
       {
@@ -8533,6 +9048,7 @@
     "dutch": "seizoen",
     "english": "season",
     "partOfSpeech": "noun",
+    "category": "time",
     "gender": "het",
     "sentences": [
       {
@@ -8549,6 +9065,7 @@
     "dutch": "overmorgen",
     "english": "day after tomorrow",
     "partOfSpeech": "adverb",
+    "category": "adverb",
     "sentences": [
       {
         "dutch": "Ik kom overmorgen.",
@@ -8564,6 +9081,7 @@
     "dutch": "eergisteren",
     "english": "day before yesterday",
     "partOfSpeech": "adverb",
+    "category": "adverb",
     "sentences": [
       {
         "dutch": "Eergisteren regende het.",
@@ -8579,6 +9097,7 @@
     "dutch": "weekend",
     "english": "weekend",
     "partOfSpeech": "noun",
+    "category": "time",
     "gender": "het",
     "sentences": [
       {
@@ -8595,6 +9114,7 @@
     "dutch": "een",
     "english": "one, a, an",
     "partOfSpeech": "numeral",
+    "category": "numeral",
     "sentences": [
       {
         "dutch": "Ik heb een vraag.",
@@ -8614,6 +9134,7 @@
     "dutch": "elf",
     "english": "eleven",
     "partOfSpeech": "numeral",
+    "category": "numeral",
     "sentences": [
       {
         "dutch": "Er zijn elf spelers.",
@@ -8629,6 +9150,7 @@
     "dutch": "twaalf",
     "english": "twelve",
     "partOfSpeech": "numeral",
+    "category": "numeral",
     "sentences": [
       {
         "dutch": "Het is twaalf uur.",
@@ -8644,6 +9166,7 @@
     "dutch": "dertien",
     "english": "thirteen",
     "partOfSpeech": "numeral",
+    "category": "numeral",
     "sentences": [
       {
         "dutch": "Ik ben dertien jaar oud.",
@@ -8659,6 +9182,7 @@
     "dutch": "veertien",
     "english": "fourteen",
     "partOfSpeech": "numeral",
+    "category": "numeral",
     "sentences": [
       {
         "dutch": "Er zijn veertien leerlingen.",
@@ -8674,6 +9198,7 @@
     "dutch": "vijftien",
     "english": "fifteen",
     "partOfSpeech": "numeral",
+    "category": "numeral",
     "sentences": [
       {
         "dutch": "Het duurt vijftien minuten.",
@@ -8689,6 +9214,7 @@
     "dutch": "twintig",
     "english": "twenty",
     "partOfSpeech": "numeral",
+    "category": "numeral",
     "sentences": [
       {
         "dutch": "Ik heb twintig euro.",
@@ -8704,6 +9230,7 @@
     "dutch": "dertig",
     "english": "thirty",
     "partOfSpeech": "numeral",
+    "category": "numeral",
     "sentences": [
       {
         "dutch": "Het kost dertig euro.",
@@ -8719,6 +9246,7 @@
     "dutch": "veertig",
     "english": "forty",
     "partOfSpeech": "numeral",
+    "category": "numeral",
     "sentences": [
       {
         "dutch": "Hij is veertig jaar.",
@@ -8734,6 +9262,7 @@
     "dutch": "vijftig",
     "english": "fifty",
     "partOfSpeech": "numeral",
+    "category": "numeral",
     "sentences": [
       {
         "dutch": "De winkel sluit om vijftig jaar.",
@@ -8749,6 +9278,7 @@
     "dutch": "honderd",
     "english": "hundred",
     "partOfSpeech": "numeral",
+    "category": "numeral",
     "sentences": [
       {
         "dutch": "Het kost honderd euro.",
@@ -8764,6 +9294,7 @@
     "dutch": "duizend",
     "english": "thousand",
     "partOfSpeech": "numeral",
+    "category": "numeral",
     "sentences": [
       {
         "dutch": "Er wonen duizend mensen.",
@@ -8779,6 +9310,7 @@
     "dutch": "eerste",
     "english": "first",
     "partOfSpeech": "adjective",
+    "category": "adjective",
     "sentences": [
       {
         "dutch": "Dit is mijn eerste dag.",
@@ -8794,6 +9326,7 @@
     "dutch": "tweede",
     "english": "second",
     "partOfSpeech": "adjective",
+    "category": "adjective",
     "sentences": [
       {
         "dutch": "Ik woon op de tweede verdieping.",
@@ -8809,6 +9342,7 @@
     "dutch": "derde",
     "english": "third",
     "partOfSpeech": "adjective",
+    "category": "adjective",
     "sentences": [
       {
         "dutch": "Dit is de derde keer.",
@@ -8824,6 +9358,7 @@
     "dutch": "laatste",
     "english": "last",
     "partOfSpeech": "adjective",
+    "category": "adjective",
     "sentences": [
       {
         "dutch": "Dit is de laatste kans.",
@@ -8839,6 +9374,7 @@
     "dutch": "volgende",
     "english": "next",
     "partOfSpeech": "adjective",
+    "category": "adjective",
     "sentences": [
       {
         "dutch": "De volgende bus komt over tien minuten.",
@@ -8854,6 +9390,7 @@
     "dutch": "vorige",
     "english": "previous",
     "partOfSpeech": "adjective",
+    "category": "adjective",
     "sentences": [
       {
         "dutch": "Vorige week was ik ziek.",
@@ -8869,6 +9406,7 @@
     "dutch": "u",
     "english": "you (formal)",
     "partOfSpeech": "pronoun",
+    "category": "pronoun",
     "sentences": [
       {
         "dutch": "Hoe heet u?",
@@ -8884,6 +9422,7 @@
     "dutch": "het",
     "english": "it, the",
     "partOfSpeech": "pronoun",
+    "category": "pronoun",
     "sentences": [
       {
         "dutch": "Het regent.",
@@ -8903,6 +9442,7 @@
     "dutch": "uw",
     "english": "your (formal)",
     "partOfSpeech": "pronoun",
+    "category": "pronoun",
     "sentences": [
       {
         "dutch": "Wat is uw naam?",
@@ -8918,6 +9458,7 @@
     "dutch": "ons",
     "english": "our",
     "partOfSpeech": "pronoun",
+    "category": "pronoun",
     "sentences": [
       {
         "dutch": "Dit is ons huis.",
@@ -8933,6 +9474,7 @@
     "dutch": "hun",
     "english": "their",
     "partOfSpeech": "pronoun",
+    "category": "pronoun",
     "sentences": [
       {
         "dutch": "Dit is hun auto.",
@@ -8948,6 +9490,7 @@
     "dutch": "dit",
     "english": "this",
     "partOfSpeech": "pronoun",
+    "category": "pronoun",
     "sentences": [
       {
         "dutch": "Dit is goed.",
@@ -8963,6 +9506,7 @@
     "dutch": "deze",
     "english": "this/these",
     "partOfSpeech": "pronoun",
+    "category": "pronoun",
     "sentences": [
       {
         "dutch": "Deze appel is lekker.",
@@ -8978,6 +9522,7 @@
     "dutch": "die",
     "english": "that/those",
     "partOfSpeech": "pronoun",
+    "category": "pronoun",
     "sentences": [
       {
         "dutch": "Die man is mijn vader.",
@@ -8993,6 +9538,7 @@
     "dutch": "iets",
     "english": "something",
     "partOfSpeech": "pronoun",
+    "category": "pronoun",
     "sentences": [
       {
         "dutch": "Wil je iets drinken?",
@@ -9008,6 +9554,7 @@
     "dutch": "niets",
     "english": "nothing",
     "partOfSpeech": "pronoun",
+    "category": "pronoun",
     "sentences": [
       {
         "dutch": "Ik heb niets te doen.",
@@ -9023,6 +9570,7 @@
     "dutch": "alles",
     "english": "everything",
     "partOfSpeech": "pronoun",
+    "category": "pronoun",
     "sentences": [
       {
         "dutch": "Alles is goed.",
@@ -9038,6 +9586,7 @@
     "dutch": "iemand",
     "english": "someone",
     "partOfSpeech": "pronoun",
+    "category": "pronoun",
     "sentences": [
       {
         "dutch": "Iemand belt aan de deur.",
@@ -9053,6 +9602,7 @@
     "dutch": "niemand",
     "english": "no one",
     "partOfSpeech": "pronoun",
+    "category": "pronoun",
     "sentences": [
       {
         "dutch": "Niemand is thuis.",
@@ -9068,6 +9618,7 @@
     "dutch": "iedereen",
     "english": "everyone",
     "partOfSpeech": "pronoun",
+    "category": "pronoun",
     "sentences": [
       {
         "dutch": "Iedereen is welkom.",
@@ -9083,6 +9634,7 @@
     "dutch": "elkaar",
     "english": "each other",
     "partOfSpeech": "pronoun",
+    "category": "pronoun",
     "sentences": [
       {
         "dutch": "Wij helpen elkaar.",
@@ -9098,6 +9650,7 @@
     "dutch": "zelf",
     "english": "self",
     "partOfSpeech": "pronoun",
+    "category": "pronoun",
     "sentences": [
       {
         "dutch": "Ik doe het zelf.",
@@ -9113,6 +9666,7 @@
     "dutch": "de",
     "english": "the (common)",
     "partOfSpeech": "article",
+    "category": "article",
     "sentences": [
       {
         "dutch": "De man loopt.",
@@ -9128,6 +9682,7 @@
     "dutch": "ja",
     "english": "yes",
     "partOfSpeech": "interjection",
+    "category": "interjection",
     "sentences": [
       {
         "dutch": "Ja, dat klopt.",
@@ -9143,6 +9698,7 @@
     "dutch": "nee",
     "english": "no",
     "partOfSpeech": "interjection",
+    "category": "interjection",
     "sentences": [
       {
         "dutch": "Nee, dank je.",
@@ -9158,6 +9714,7 @@
     "dutch": "alsjeblieft",
     "english": "please (informal)",
     "partOfSpeech": "interjection",
+    "category": "interjection",
     "sentences": [
       {
         "dutch": "Help me alsjeblieft.",
@@ -9173,6 +9730,7 @@
     "dutch": "alstublieft",
     "english": "please (formal)",
     "partOfSpeech": "interjection",
+    "category": "interjection",
     "sentences": [
       {
         "dutch": "Kunt u dat alstublieft herhalen?",
@@ -9188,6 +9746,7 @@
     "dutch": "dank je",
     "english": "thank you (informal)",
     "partOfSpeech": "interjection",
+    "category": "interjection",
     "sentences": [
       {
         "dutch": "Dank je wel!",
@@ -9203,6 +9762,7 @@
     "dutch": "dank u",
     "english": "thank you (formal)",
     "partOfSpeech": "interjection",
+    "category": "interjection",
     "sentences": [
       {
         "dutch": "Dank u wel.",
@@ -9218,6 +9778,7 @@
     "dutch": "sorry",
     "english": "sorry",
     "partOfSpeech": "interjection",
+    "category": "interjection",
     "sentences": [
       {
         "dutch": "Sorry, ik ben te laat.",
@@ -9233,6 +9794,7 @@
     "dutch": "pardon",
     "english": "excuse me",
     "partOfSpeech": "interjection",
+    "category": "interjection",
     "sentences": [
       {
         "dutch": "Pardon, mag ik erdoor?",
@@ -9248,6 +9810,7 @@
     "dutch": "hallo",
     "english": "hello",
     "partOfSpeech": "interjection",
+    "category": "interjection",
     "sentences": [
       {
         "dutch": "Hallo, hoe gaat het?",
@@ -9263,6 +9826,7 @@
     "dutch": "doei",
     "english": "bye",
     "partOfSpeech": "interjection",
+    "category": "interjection",
     "sentences": [
       {
         "dutch": "Doei!",
@@ -9278,6 +9842,7 @@
     "dutch": "welkom",
     "english": "welcome",
     "partOfSpeech": "interjection",
+    "category": "interjection",
     "sentences": [
       {
         "dutch": "Welkom in Nederland!",
@@ -9293,6 +9858,7 @@
     "dutch": "gefeliciteerd",
     "english": "congratulations",
     "partOfSpeech": "interjection",
+    "category": "interjection",
     "sentences": [
       {
         "dutch": "Gefeliciteerd met je verjaardag!",
@@ -9308,6 +9874,7 @@
     "dutch": "universiteit",
     "english": "university",
     "partOfSpeech": "noun",
+    "category": "noun",
     "gender": "de",
     "sentences": [
       {
@@ -9324,6 +9891,7 @@
     "dutch": "les",
     "english": "lesson, class",
     "partOfSpeech": "noun",
+    "category": "noun",
     "gender": "de",
     "sentences": [
       {
@@ -9340,6 +9908,7 @@
     "dutch": "cursus",
     "english": "course",
     "partOfSpeech": "noun",
+    "category": "noun",
     "gender": "de",
     "sentences": [
       {
@@ -9356,6 +9925,7 @@
     "dutch": "examen",
     "english": "exam",
     "partOfSpeech": "noun",
+    "category": "noun",
     "gender": "het",
     "sentences": [
       {
@@ -9372,6 +9942,7 @@
     "dutch": "huiswerk",
     "english": "homework",
     "partOfSpeech": "noun",
+    "category": "noun",
     "gender": "het",
     "sentences": [
       {
@@ -9388,6 +9959,7 @@
     "dutch": "oefening",
     "english": "exercise",
     "partOfSpeech": "noun",
+    "category": "noun",
     "gender": "de",
     "sentences": [
       {
@@ -9404,6 +9976,7 @@
     "dutch": "leraar",
     "english": "teacher (m)",
     "partOfSpeech": "noun",
+    "category": "people",
     "gender": "de",
     "sentences": [
       {
@@ -9420,6 +9993,7 @@
     "dutch": "lerares",
     "english": "teacher (f)",
     "partOfSpeech": "noun",
+    "category": "people",
     "gender": "de",
     "sentences": [
       {
@@ -9436,6 +10010,7 @@
     "dutch": "student",
     "english": "student",
     "partOfSpeech": "noun",
+    "category": "people",
     "gender": "de",
     "sentences": [
       {
@@ -9452,6 +10027,7 @@
     "dutch": "leerling",
     "english": "pupil",
     "partOfSpeech": "noun",
+    "category": "people",
     "gender": "de",
     "sentences": [
       {
@@ -9468,6 +10044,7 @@
     "dutch": "kantoor",
     "english": "office",
     "partOfSpeech": "noun",
+    "category": "noun",
     "gender": "het",
     "sentences": [
       {
@@ -9484,6 +10061,7 @@
     "dutch": "bedrijf",
     "english": "company",
     "partOfSpeech": "noun",
+    "category": "noun",
     "gender": "het",
     "sentences": [
       {
@@ -9500,6 +10078,7 @@
     "dutch": "baas",
     "english": "boss",
     "partOfSpeech": "noun",
+    "category": "people",
     "gender": "de",
     "sentences": [
       {
@@ -9516,6 +10095,7 @@
     "dutch": "collega",
     "english": "colleague",
     "partOfSpeech": "noun",
+    "category": "people",
     "gender": "de",
     "sentences": [
       {
@@ -9532,6 +10112,7 @@
     "dutch": "vergadering",
     "english": "meeting",
     "partOfSpeech": "noun",
+    "category": "noun",
     "gender": "de",
     "sentences": [
       {
@@ -9548,6 +10129,7 @@
     "dutch": "salaris",
     "english": "salary",
     "partOfSpeech": "noun",
+    "category": "noun",
     "gender": "het",
     "sentences": [
       {
@@ -9564,6 +10146,7 @@
     "dutch": "baan",
     "english": "job",
     "partOfSpeech": "noun",
+    "category": "noun",
     "gender": "de",
     "sentences": [
       {
@@ -9580,6 +10163,7 @@
     "dutch": "ervaring",
     "english": "experience",
     "partOfSpeech": "noun",
+    "category": "noun",
     "gender": "de",
     "sentences": [
       {
@@ -9596,6 +10180,7 @@
     "dutch": "klant",
     "english": "customer",
     "partOfSpeech": "noun",
+    "category": "people",
     "gender": "de",
     "sentences": [
       {
@@ -9612,6 +10197,7 @@
     "dutch": "supermarkt",
     "english": "supermarket",
     "partOfSpeech": "noun",
+    "category": "places",
     "gender": "de",
     "sentences": [
       {
@@ -9628,6 +10214,7 @@
     "dutch": "markt",
     "english": "market",
     "partOfSpeech": "noun",
+    "category": "places",
     "gender": "de",
     "sentences": [
       {
@@ -9644,6 +10231,7 @@
     "dutch": "rekening",
     "english": "bill, account",
     "partOfSpeech": "noun",
+    "category": "noun",
     "gender": "de",
     "sentences": [
       {
@@ -9660,6 +10248,7 @@
     "dutch": "korting",
     "english": "discount",
     "partOfSpeech": "noun",
+    "category": "noun",
     "gender": "de",
     "sentences": [
       {
@@ -9676,6 +10265,7 @@
     "dutch": "sport",
     "english": "sport",
     "partOfSpeech": "noun",
+    "category": "noun",
     "gender": "de",
     "sentences": [
       {
@@ -9692,6 +10282,7 @@
     "dutch": "voetbal",
     "english": "soccer",
     "partOfSpeech": "noun",
+    "category": "noun",
     "gender": "het",
     "sentences": [
       {
@@ -9708,6 +10299,7 @@
     "dutch": "wedstrijd",
     "english": "match, game",
     "partOfSpeech": "noun",
+    "category": "noun",
     "gender": "de",
     "sentences": [
       {
@@ -9724,6 +10316,7 @@
     "dutch": "team",
     "english": "team",
     "partOfSpeech": "noun",
+    "category": "noun",
     "gender": "het",
     "sentences": [
       {
@@ -9740,6 +10333,7 @@
     "dutch": "fietsen",
     "english": "to cycle",
     "partOfSpeech": "verb",
+    "category": "verb",
     "sentences": [
       {
         "dutch": "Nederlanders fietsen veel.",
@@ -9755,6 +10349,7 @@
     "dutch": "wandelen",
     "english": "to walk, hike",
     "partOfSpeech": "verb",
+    "category": "verb",
     "sentences": [
       {
         "dutch": "Ik wandel in het bos.",
@@ -9770,6 +10365,7 @@
     "dutch": "hardlopen",
     "english": "to run (exercise)",
     "partOfSpeech": "verb",
+    "category": "verb",
     "sentences": [
       {
         "dutch": "Ik ga elke ochtend hardlopen.",
@@ -9785,6 +10381,7 @@
     "dutch": "dorp",
     "english": "village",
     "partOfSpeech": "noun",
+    "category": "places",
     "gender": "het",
     "sentences": [
       {
@@ -9801,6 +10398,7 @@
     "dutch": "wijk",
     "english": "neighborhood",
     "partOfSpeech": "noun",
+    "category": "places",
     "gender": "de",
     "sentences": [
       {
@@ -9817,6 +10415,7 @@
     "dutch": "centrum",
     "english": "center",
     "partOfSpeech": "noun",
+    "category": "places",
     "gender": "het",
     "sentences": [
       {
@@ -9833,6 +10432,7 @@
     "dutch": "strand",
     "english": "beach",
     "partOfSpeech": "noun",
+    "category": "nature",
     "gender": "het",
     "sentences": [
       {
@@ -9849,6 +10449,7 @@
     "dutch": "rivier",
     "english": "river",
     "partOfSpeech": "noun",
+    "category": "nature",
     "gender": "de",
     "sentences": [
       {
@@ -9865,6 +10466,7 @@
     "dutch": "natuur",
     "english": "nature",
     "partOfSpeech": "noun",
+    "category": "nature",
     "gender": "de",
     "sentences": [
       {
@@ -9881,6 +10483,7 @@
     "dutch": "dier",
     "english": "animal",
     "partOfSpeech": "noun",
+    "category": "nature",
     "gender": "het",
     "sentences": [
       {
@@ -9897,6 +10500,7 @@
     "dutch": "vogel",
     "english": "bird",
     "partOfSpeech": "noun",
+    "category": "nature",
     "gender": "de",
     "sentences": [
       {
@@ -9913,6 +10517,7 @@
     "dutch": "koe",
     "english": "cow",
     "partOfSpeech": "noun",
+    "category": "nature",
     "gender": "de",
     "sentences": [
       {
@@ -9929,6 +10534,7 @@
     "dutch": "paard",
     "english": "horse",
     "partOfSpeech": "noun",
+    "category": "nature",
     "gender": "het",
     "sentences": [
       {
@@ -9945,6 +10551,7 @@
     "dutch": "plant",
     "english": "plant",
     "partOfSpeech": "noun",
+    "category": "nature",
     "gender": "de",
     "sentences": [
       {
@@ -9961,6 +10568,7 @@
     "dutch": "gras",
     "english": "grass",
     "partOfSpeech": "noun",
+    "category": "nature",
     "gender": "het",
     "sentences": [
       {
@@ -9977,6 +10585,7 @@
     "dutch": "blad",
     "english": "leaf; page, sheet",
     "partOfSpeech": "noun",
+    "category": "nature",
     "gender": "het",
     "sentences": [
       {
@@ -9993,6 +10602,7 @@
     "dutch": "oranje",
     "english": "orange",
     "partOfSpeech": "adjective",
+    "category": "colors",
     "sentences": [
       {
         "dutch": "Oranje is de kleur van Nederland.",
@@ -10008,6 +10618,7 @@
     "dutch": "paars",
     "english": "purple",
     "partOfSpeech": "adjective",
+    "category": "colors",
     "sentences": [
       {
         "dutch": "De bloem is paars.",
@@ -10023,6 +10634,7 @@
     "dutch": "roze",
     "english": "pink",
     "partOfSpeech": "adjective",
+    "category": "colors",
     "sentences": [
       {
         "dutch": "Het shirt is roze.",
@@ -10038,6 +10650,7 @@
     "dutch": "grijs",
     "english": "grey",
     "partOfSpeech": "adjective",
+    "category": "colors",
     "sentences": [
       {
         "dutch": "De lucht is grijs.",
@@ -10053,6 +10666,7 @@
     "dutch": "bruin",
     "english": "brown",
     "partOfSpeech": "adjective",
+    "category": "colors",
     "sentences": [
       {
         "dutch": "De hond is bruin.",
@@ -10068,6 +10682,7 @@
     "dutch": "oplossing",
     "english": "solution",
     "partOfSpeech": "noun",
+    "category": "noun",
     "gender": "de",
     "sentences": [
       {
@@ -10084,6 +10699,7 @@
     "dutch": "mening",
     "english": "opinion",
     "partOfSpeech": "noun",
+    "category": "noun",
     "gender": "de",
     "sentences": [
       {
@@ -10100,6 +10716,7 @@
     "dutch": "reden",
     "english": "reason",
     "partOfSpeech": "noun",
+    "category": "noun",
     "gender": "de",
     "sentences": [
       {
@@ -10116,6 +10733,7 @@
     "dutch": "doel",
     "english": "goal",
     "partOfSpeech": "noun",
+    "category": "noun",
     "gender": "het",
     "sentences": [
       {
@@ -10132,6 +10750,7 @@
     "dutch": "plan",
     "english": "plan",
     "partOfSpeech": "noun",
+    "category": "noun",
     "gender": "het",
     "sentences": [
       {
@@ -10148,6 +10767,7 @@
     "dutch": "kans",
     "english": "chance",
     "partOfSpeech": "noun",
+    "category": "noun",
     "gender": "de",
     "sentences": [
       {
@@ -10164,6 +10784,7 @@
     "dutch": "keuze",
     "english": "choice",
     "partOfSpeech": "noun",
+    "category": "noun",
     "gender": "de",
     "sentences": [
       {
@@ -10180,6 +10801,7 @@
     "dutch": "verschil",
     "english": "difference",
     "partOfSpeech": "noun",
+    "category": "noun",
     "gender": "het",
     "sentences": [
       {
@@ -10196,6 +10818,7 @@
     "dutch": "voorbeeld",
     "english": "example",
     "partOfSpeech": "noun",
+    "category": "noun",
     "gender": "het",
     "sentences": [
       {
@@ -10212,6 +10835,7 @@
     "dutch": "resultaat",
     "english": "result",
     "partOfSpeech": "noun",
+    "category": "noun",
     "gender": "het",
     "sentences": [
       {
@@ -10228,6 +10852,7 @@
     "dutch": "succes",
     "english": "success",
     "partOfSpeech": "noun",
+    "category": "noun",
     "gender": "het",
     "sentences": [
       {
@@ -10244,6 +10869,7 @@
     "dutch": "fout",
     "english": "mistake",
     "partOfSpeech": "noun",
+    "category": "noun",
     "gender": "de",
     "sentences": [
       {
@@ -10260,6 +10886,7 @@
     "dutch": "hulp",
     "english": "help",
     "partOfSpeech": "noun",
+    "category": "noun",
     "gender": "de",
     "sentences": [
       {
@@ -10276,6 +10903,7 @@
     "dutch": "informatie",
     "english": "information",
     "partOfSpeech": "noun",
+    "category": "noun",
     "gender": "de",
     "sentences": [
       {
@@ -10292,6 +10920,7 @@
     "dutch": "nieuws",
     "english": "news",
     "partOfSpeech": "noun",
+    "category": "noun",
     "gender": "het",
     "sentences": [
       {
@@ -10308,6 +10937,7 @@
     "dutch": "krant",
     "english": "newspaper",
     "partOfSpeech": "noun",
+    "category": "noun",
     "gender": "de",
     "sentences": [
       {
@@ -10324,6 +10954,7 @@
     "dutch": "woord",
     "english": "word",
     "partOfSpeech": "noun",
+    "category": "noun",
     "gender": "het",
     "sentences": [
       {
@@ -10340,6 +10971,7 @@
     "dutch": "zin",
     "english": "sentence",
     "partOfSpeech": "noun",
+    "category": "noun",
     "gender": "de",
     "sentences": [
       {
@@ -10356,6 +10988,7 @@
     "dutch": "taal",
     "english": "language",
     "partOfSpeech": "noun",
+    "category": "noun",
     "gender": "de",
     "sentences": [
       {
@@ -10372,6 +11005,7 @@
     "dutch": "betekenis",
     "english": "meaning",
     "partOfSpeech": "noun",
+    "category": "noun",
     "gender": "de",
     "sentences": [
       {
@@ -10388,6 +11022,7 @@
     "dutch": "uitspraak",
     "english": "pronunciation",
     "partOfSpeech": "noun",
+    "category": "noun",
     "gender": "de",
     "sentences": [
       {
@@ -10404,6 +11039,7 @@
     "dutch": "grammatica",
     "english": "grammar",
     "partOfSpeech": "noun",
+    "category": "noun",
     "gender": "de",
     "sentences": [
       {
@@ -10420,6 +11056,7 @@
     "dutch": "leven",
     "english": "life",
     "partOfSpeech": "noun",
+    "category": "noun",
     "gender": "het",
     "sentences": [
       {
@@ -10436,6 +11073,7 @@
     "dutch": "dood",
     "english": "death",
     "partOfSpeech": "noun",
+    "category": "noun",
     "gender": "de",
     "sentences": [
       {
@@ -10452,6 +11090,7 @@
     "dutch": "geboorte",
     "english": "birth",
     "partOfSpeech": "noun",
+    "category": "noun",
     "gender": "de",
     "sentences": [
       {
@@ -10468,6 +11107,7 @@
     "dutch": "verjaardag",
     "english": "birthday",
     "partOfSpeech": "noun",
+    "category": "noun",
     "gender": "de",
     "sentences": [
       {
@@ -10484,6 +11124,7 @@
     "dutch": "bruiloft",
     "english": "wedding",
     "partOfSpeech": "noun",
+    "category": "noun",
     "gender": "de",
     "sentences": [
       {
@@ -10500,6 +11141,7 @@
     "dutch": "liefde",
     "english": "love",
     "partOfSpeech": "noun",
+    "category": "noun",
     "gender": "de",
     "sentences": [
       {
@@ -10516,6 +11158,7 @@
     "dutch": "geluk",
     "english": "happiness, luck",
     "partOfSpeech": "noun",
+    "category": "noun",
     "gender": "het",
     "sentences": [
       {
@@ -10532,6 +11175,7 @@
     "dutch": "verdriet",
     "english": "sadness",
     "partOfSpeech": "noun",
+    "category": "noun",
     "gender": "het",
     "sentences": [
       {
@@ -10548,6 +11192,7 @@
     "dutch": "angst",
     "english": "fear",
     "partOfSpeech": "noun",
+    "category": "noun",
     "gender": "de",
     "sentences": [
       {
@@ -10564,6 +11209,7 @@
     "dutch": "boosheid",
     "english": "anger",
     "partOfSpeech": "noun",
+    "category": "noun",
     "gender": "de",
     "sentences": [
       {
@@ -10580,6 +11226,7 @@
     "dutch": "vreugde",
     "english": "joy",
     "partOfSpeech": "noun",
+    "category": "noun",
     "gender": "de",
     "sentences": [
       {
@@ -10596,6 +11243,7 @@
     "dutch": "hoop",
     "english": "hope; heap, pile",
     "partOfSpeech": "noun",
+    "category": "noun",
     "gender": "de",
     "sentences": [
       {
@@ -10612,6 +11260,7 @@
     "dutch": "vrede",
     "english": "peace",
     "partOfSpeech": "noun",
+    "category": "noun",
     "gender": "de",
     "sentences": [
       {
@@ -10628,6 +11277,7 @@
     "dutch": "oorlog",
     "english": "war",
     "partOfSpeech": "noun",
+    "category": "noun",
     "gender": "de",
     "sentences": [
       {
@@ -10644,6 +11294,7 @@
     "dutch": "regering",
     "english": "government",
     "partOfSpeech": "noun",
+    "category": "noun",
     "gender": "de",
     "sentences": [
       {
@@ -10660,6 +11311,7 @@
     "dutch": "politie",
     "english": "police",
     "partOfSpeech": "noun",
+    "category": "noun",
     "gender": "de",
     "sentences": [
       {
@@ -10676,6 +11328,7 @@
     "dutch": "wet",
     "english": "law",
     "partOfSpeech": "noun",
+    "category": "noun",
     "gender": "de",
     "sentences": [
       {
@@ -10692,6 +11345,7 @@
     "dutch": "recht",
     "english": "right (legal); straight",
     "partOfSpeech": "noun",
+    "category": "noun",
     "gender": "het",
     "sentences": [
       {
@@ -10708,6 +11362,7 @@
     "dutch": "plicht",
     "english": "duty",
     "partOfSpeech": "noun",
+    "category": "noun",
     "gender": "de",
     "sentences": [
       {
@@ -10724,6 +11379,7 @@
     "dutch": "vrijheid",
     "english": "freedom",
     "partOfSpeech": "noun",
+    "category": "noun",
     "gender": "de",
     "sentences": [
       {
@@ -10740,6 +11396,7 @@
     "dutch": "cultuur",
     "english": "culture",
     "partOfSpeech": "noun",
+    "category": "noun",
     "gender": "de",
     "sentences": [
       {
@@ -10756,6 +11413,7 @@
     "dutch": "religie",
     "english": "religion",
     "partOfSpeech": "noun",
+    "category": "noun",
     "gender": "de",
     "sentences": [
       {
@@ -10772,6 +11430,7 @@
     "dutch": "kerk",
     "english": "church",
     "partOfSpeech": "noun",
+    "category": "noun",
     "gender": "de",
     "sentences": [
       {
@@ -10788,6 +11447,7 @@
     "dutch": "god",
     "english": "god",
     "partOfSpeech": "noun",
+    "category": "noun",
     "gender": "de",
     "sentences": [
       {
@@ -10804,6 +11464,7 @@
     "dutch": "ziel",
     "english": "soul",
     "partOfSpeech": "noun",
+    "category": "noun",
     "gender": "de",
     "sentences": [
       {
@@ -10820,6 +11481,7 @@
     "dutch": "geest",
     "english": "spirit, mind",
     "partOfSpeech": "noun",
+    "category": "noun",
     "gender": "de",
     "sentences": [
       {
@@ -10836,6 +11498,7 @@
     "dutch": "gedachte",
     "english": "thought",
     "partOfSpeech": "noun",
+    "category": "noun",
     "gender": "de",
     "sentences": [
       {
@@ -10852,6 +11515,7 @@
     "dutch": "gevoel",
     "english": "feeling",
     "partOfSpeech": "noun",
+    "category": "noun",
     "gender": "het",
     "sentences": [
       {
@@ -10868,6 +11532,7 @@
     "dutch": "waarheid",
     "english": "truth",
     "partOfSpeech": "noun",
+    "category": "noun",
     "gender": "de",
     "sentences": [
       {
@@ -10884,6 +11549,7 @@
     "dutch": "leugen",
     "english": "lie",
     "partOfSpeech": "noun",
+    "category": "noun",
     "gender": "de",
     "sentences": [
       {
@@ -10900,6 +11566,7 @@
     "dutch": "geheim",
     "english": "secret",
     "partOfSpeech": "noun",
+    "category": "noun",
     "gender": "het",
     "sentences": [
       {
@@ -10916,6 +11583,7 @@
     "dutch": "belofte",
     "english": "promise",
     "partOfSpeech": "noun",
+    "category": "noun",
     "gender": "de",
     "sentences": [
       {
@@ -10932,6 +11600,7 @@
     "dutch": "afspraak",
     "english": "appointment",
     "partOfSpeech": "noun",
+    "category": "noun",
     "gender": "de",
     "sentences": [
       {
@@ -10948,6 +11617,7 @@
     "dutch": "ontmoeting",
     "english": "meeting, encounter",
     "partOfSpeech": "noun",
+    "category": "noun",
     "gender": "de",
     "sentences": [
       {
@@ -10964,6 +11634,7 @@
     "dutch": "gesprek",
     "english": "conversation",
     "partOfSpeech": "noun",
+    "category": "noun",
     "gender": "het",
     "sentences": [
       {
@@ -10980,6 +11651,7 @@
     "dutch": "discussie",
     "english": "discussion",
     "partOfSpeech": "noun",
+    "category": "noun",
     "gender": "de",
     "sentences": [
       {
@@ -10996,6 +11668,7 @@
     "dutch": "naam",
     "english": "name",
     "partOfSpeech": "noun",
+    "category": "noun",
     "gender": "de",
     "sentences": [
       {
@@ -11012,6 +11685,7 @@
     "dutch": "adres",
     "english": "address",
     "partOfSpeech": "noun",
+    "category": "noun",
     "gender": "het",
     "sentences": [
       {
@@ -11028,6 +11702,7 @@
     "dutch": "nummer",
     "english": "number",
     "partOfSpeech": "noun",
+    "category": "noun",
     "gender": "het",
     "sentences": [
       {
@@ -11044,6 +11719,7 @@
     "dutch": "leeftijd",
     "english": "age",
     "partOfSpeech": "noun",
+    "category": "noun",
     "gender": "de",
     "sentences": [
       {
@@ -11060,6 +11736,7 @@
     "dutch": "nationaliteit",
     "english": "nationality",
     "partOfSpeech": "noun",
+    "category": "noun",
     "gender": "de",
     "sentences": [
       {
@@ -11076,6 +11753,7 @@
     "dutch": "formulier",
     "english": "form",
     "partOfSpeech": "noun",
+    "category": "noun",
     "gender": "het",
     "sentences": [
       {
@@ -11092,6 +11770,7 @@
     "dutch": "handtekening",
     "english": "signature",
     "partOfSpeech": "noun",
+    "category": "noun",
     "gender": "de",
     "sentences": [
       {
@@ -11108,6 +11787,7 @@
     "dutch": "document",
     "english": "document",
     "partOfSpeech": "noun",
+    "category": "noun",
     "gender": "het",
     "sentences": [
       {
@@ -11124,6 +11804,7 @@
     "dutch": "contract",
     "english": "contract",
     "partOfSpeech": "noun",
+    "category": "noun",
     "gender": "het",
     "sentences": [
       {
@@ -11140,6 +11821,7 @@
     "dutch": "bezorgd",
     "english": "worried",
     "partOfSpeech": "adjective",
+    "category": "emotions",
     "sentences": [
       {
         "dutch": "Ik ben bezorgd.",
@@ -11155,6 +11837,7 @@
     "dutch": "opgewonden",
     "english": "excited",
     "partOfSpeech": "adjective",
+    "category": "emotions",
     "note": "From opwinden - to wind up. When you're excited, you're all wound up!",
     "sentences": [
       {
@@ -11170,6 +11853,7 @@
     "dutch": "tevreden",
     "english": "satisfied",
     "partOfSpeech": "adjective",
+    "category": "emotions",
     "sentences": [
       {
         "dutch": "Ik ben tevreden.",
@@ -11185,6 +11869,7 @@
     "dutch": "teleurgesteld",
     "english": "disappointed",
     "partOfSpeech": "adjective",
+    "category": "emotions",
     "sentences": [
       {
         "dutch": "Ik ben teleurgesteld.",
@@ -11200,6 +11885,7 @@
     "dutch": "dankbaar",
     "english": "grateful",
     "partOfSpeech": "adjective",
+    "category": "emotions",
     "sentences": [
       {
         "dutch": "Ik ben dankbaar.",
@@ -11213,6 +11899,7 @@
     "dutch": "broer",
     "english": "brother",
     "partOfSpeech": "noun",
+    "category": "people",
     "gender": "de",
     "note": "Related to broederlijk (brotherly). English 'brother' comes from the same root.",
     "id": 901,
@@ -11229,6 +11916,7 @@
     "dutch": "zus",
     "english": "sister",
     "partOfSpeech": "noun",
+    "category": "people",
     "gender": "de",
     "note": "Short for zuster. Related to English 'sister' through Germanic roots.",
     "id": 902,
@@ -11245,6 +11933,7 @@
     "dutch": "oom",
     "english": "uncle",
     "partOfSpeech": "noun",
+    "category": "people",
     "gender": "de",
     "id": 903,
     "rank": 903,
@@ -11261,6 +11950,7 @@
     "dutch": "tante",
     "english": "aunt",
     "partOfSpeech": "noun",
+    "category": "people",
     "gender": "de",
     "id": 904,
     "rank": 904,
@@ -11277,6 +11967,7 @@
     "dutch": "vuur",
     "english": "fire",
     "partOfSpeech": "noun",
+    "category": "nature",
     "gender": "het",
     "note": "Think 'führ' - same Germanic root as English 'fire'.",
     "id": 905,
@@ -11293,6 +11984,7 @@
     "dutch": "ijs",
     "english": "ice, ice cream",
     "partOfSpeech": "noun",
+    "category": "food",
     "gender": "het",
     "note": "Same word for both ice and ice cream. Related to English 'ice'.",
     "id": 906,
@@ -11309,6 +12001,7 @@
     "dutch": "steen",
     "english": "stone",
     "partOfSpeech": "noun",
+    "category": "nature",
     "gender": "de",
     "note": "Same Germanic root as English 'stone'.",
     "id": 907,
@@ -11325,6 +12018,7 @@
     "dutch": "taart",
     "english": "cake, pie",
     "partOfSpeech": "noun",
+    "category": "food",
     "gender": "de",
     "note": "Related to English 'tart'.",
     "id": 908,
@@ -11341,6 +12035,7 @@
     "dutch": "slang",
     "english": "snake",
     "partOfSpeech": "noun",
+    "category": "nature",
     "gender": "de",
     "id": 909,
     "rank": 909,
@@ -11357,6 +12052,7 @@
     "dutch": "muis",
     "english": "mouse",
     "partOfSpeech": "noun",
+    "category": "nature",
     "gender": "de",
     "note": "Same Germanic root as English 'mouse'.",
     "id": 910,
@@ -11373,6 +12069,7 @@
     "dutch": "spin",
     "english": "spider",
     "partOfSpeech": "noun",
+    "category": "nature",
     "gender": "de",
     "note": "A spider 'spins' its web - same root as English 'spin'.",
     "id": 911,
@@ -11389,6 +12086,7 @@
     "dutch": "vinger",
     "english": "finger",
     "partOfSpeech": "noun",
+    "category": "body",
     "gender": "de",
     "note": "Same as English 'finger'.",
     "id": 912,
@@ -11405,6 +12103,7 @@
     "dutch": "tand",
     "english": "tooth",
     "partOfSpeech": "noun",
+    "category": "body",
     "gender": "de",
     "note": "Think 'dental' - from the same Indo-European root. Tandenborstel means toothbrush.",
     "id": 913,
@@ -11421,6 +12120,7 @@
     "dutch": "hemd",
     "english": "undershirt, vest",
     "partOfSpeech": "noun",
+    "category": "clothing",
     "gender": "het",
     "note": "Overhemd literally means 'over-shirt', i.e. the shirt you wear over your hemd.",
     "id": 914,
@@ -11437,6 +12137,7 @@
     "dutch": "vlag",
     "english": "flag",
     "partOfSpeech": "noun",
+    "category": "noun",
     "gender": "de",
     "note": "Same as English 'flag'.",
     "id": 915,
@@ -11453,6 +12154,7 @@
     "dutch": "teil",
     "english": "basin, tub",
     "partOfSpeech": "noun",
+    "category": "noun",
     "gender": "de",
     "id": 916,
     "rank": 916,
@@ -11469,6 +12171,7 @@
     "dutch": "stuk",
     "english": "piece, broken",
     "partOfSpeech": "noun",
+    "category": "noun",
     "gender": "het",
     "note": "As noun means 'piece'. As adjective means 'broken'. Think English 'stuck' - broken/stopped.",
     "id": 917,
@@ -11489,6 +12192,7 @@
     "dutch": "geluid",
     "english": "sound, noise",
     "partOfSpeech": "noun",
+    "category": "noun",
     "gender": "het",
     "note": "Ge- prefix + luid (loud). A sound is something 'made loud'.",
     "id": 918,
@@ -11505,6 +12209,7 @@
     "dutch": "punt",
     "english": "point, dot",
     "partOfSpeech": "noun",
+    "category": "noun",
     "gender": "het",
     "note": "Same as English 'point' (from Latin punctum).",
     "id": 919,
@@ -11521,6 +12226,7 @@
     "dutch": "zand",
     "english": "sand",
     "partOfSpeech": "noun",
+    "category": "nature",
     "gender": "het",
     "note": "Same as English 'sand'.",
     "id": 920,
@@ -11537,6 +12243,7 @@
     "dutch": "hout",
     "english": "wood",
     "partOfSpeech": "noun",
+    "category": "nature",
     "gender": "het",
     "note": "Think 'hut' - made of wood. From same Germanic root.",
     "id": 921,
@@ -11553,6 +12260,7 @@
     "dutch": "stof",
     "english": "dust, fabric, substance",
     "partOfSpeech": "noun",
+    "category": "nature",
     "gender": "het",
     "note": "Has multiple meanings: dust, fabric/cloth, and substance/material. English 'stuff' comes from the same root.",
     "id": 922,
@@ -11573,6 +12281,7 @@
     "dutch": "tekst",
     "english": "text",
     "partOfSpeech": "noun",
+    "category": "noun",
     "gender": "de",
     "note": "Same as English 'text'.",
     "id": 923,
@@ -11589,6 +12298,7 @@
     "dutch": "buur",
     "english": "neighbour",
     "partOfSpeech": "noun",
+    "category": "people",
     "gender": "de",
     "note": "Related to English 'neighbour' (nigh + boor/dweller).",
     "id": 924,
@@ -11605,6 +12315,7 @@
     "dutch": "geur",
     "english": "smell, scent",
     "partOfSpeech": "noun",
+    "category": "noun",
     "gender": "de",
     "id": 925,
     "rank": 925,
@@ -11621,6 +12332,7 @@
     "dutch": "plek",
     "english": "place, spot",
     "partOfSpeech": "noun",
+    "category": "places",
     "gender": "de",
     "id": 926,
     "rank": 926,
@@ -11637,6 +12349,7 @@
     "dutch": "droom",
     "english": "dream",
     "partOfSpeech": "noun",
+    "category": "noun",
     "gender": "de",
     "note": "Same Germanic root as English 'dream'. The verb is dromen.",
     "id": 927,
@@ -11653,6 +12366,7 @@
     "dutch": "rij",
     "english": "row, line, queue",
     "partOfSpeech": "noun",
+    "category": "noun",
     "gender": "de",
     "id": 928,
     "rank": 928,
@@ -11669,6 +12383,7 @@
     "dutch": "eeuw",
     "english": "century, age",
     "partOfSpeech": "noun",
+    "category": "time",
     "gender": "de",
     "id": 929,
     "rank": 929,
@@ -11685,6 +12400,7 @@
     "dutch": "steeds",
     "english": "increasingly, always",
     "partOfSpeech": "adverb",
+    "category": "adverb",
     "id": 930,
     "rank": 930,
     "sentences": [
@@ -11700,6 +12416,7 @@
     "dutch": "opeens",
     "english": "suddenly",
     "partOfSpeech": "adverb",
+    "category": "adverb",
     "id": 931,
     "rank": 931,
     "sentences": [
@@ -11715,6 +12432,7 @@
     "dutch": "pas",
     "english": "just, only just",
     "partOfSpeech": "adverb",
+    "category": "adverb",
     "id": 932,
     "rank": 932,
     "sentences": [
@@ -11730,6 +12448,7 @@
     "dutch": "zelfs",
     "english": "even",
     "partOfSpeech": "adverb",
+    "category": "adverb",
     "id": 933,
     "rank": 933,
     "sentences": [
@@ -11745,6 +12464,7 @@
     "dutch": "namelijk",
     "english": "namely, because",
     "partOfSpeech": "adverb",
+    "category": "adverb",
     "id": 934,
     "rank": 934,
     "sentences": [
@@ -11760,6 +12480,7 @@
     "dutch": "volgens",
     "english": "according to",
     "partOfSpeech": "preposition",
+    "category": "preposition",
     "note": "From volgen (to follow). What 'follows from' someone's statement.",
     "id": 935,
     "rank": 935,
@@ -11775,6 +12496,7 @@
     "dutch": "nadat",
     "english": "after (conjunction)",
     "partOfSpeech": "conjunction",
+    "category": "conjunction",
     "note": "Na means 'after' and dat means 'that'. After-that.",
     "id": 936,
     "rank": 936,
@@ -11790,6 +12512,7 @@
     "dutch": "voordat",
     "english": "before (conjunction)",
     "partOfSpeech": "conjunction",
+    "category": "conjunction",
     "note": "Voor means 'before' and dat means 'that'. Before-that.",
     "id": 937,
     "rank": 937,
@@ -11805,6 +12528,7 @@
     "dutch": "zodra",
     "english": "as soon as",
     "partOfSpeech": "conjunction",
+    "category": "conjunction",
     "id": 938,
     "rank": 938,
     "sentences": [
@@ -11820,6 +12544,7 @@
     "dutch": "tenzij",
     "english": "unless",
     "partOfSpeech": "conjunction",
+    "category": "conjunction",
     "id": 939,
     "rank": 939,
     "sentences": [
@@ -11835,6 +12560,7 @@
     "dutch": "steken",
     "english": "to sting, to stick",
     "partOfSpeech": "verb",
+    "category": "verb",
     "note": "Related to English 'stick' and 'sting'.",
     "id": 940,
     "rank": 940,
@@ -11850,6 +12576,7 @@
     "dutch": "vallen",
     "english": "to fall",
     "partOfSpeech": "verb",
+    "category": "verb",
     "note": "Same as English 'fall'. Meevallen means 'to be better than expected' (falls with you).",
     "id": 941,
     "rank": 941,
@@ -11865,6 +12592,7 @@
     "dutch": "groeien",
     "english": "to grow",
     "partOfSpeech": "verb",
+    "category": "verb",
     "note": "Same root as English 'grow'.",
     "id": 942,
     "rank": 942,
@@ -11880,6 +12608,7 @@
     "dutch": "passen",
     "english": "to fit, to try on",
     "partOfSpeech": "verb",
+    "category": "verb",
     "id": 943,
     "rank": 943,
     "sentences": [
@@ -11895,6 +12624,7 @@
     "dutch": "schijnen",
     "english": "to shine, to seem",
     "partOfSpeech": "verb",
+    "category": "verb",
     "note": "Related to English 'shine'. Also means 'to seem/appear'.",
     "id": 944,
     "rank": 944,
@@ -11914,6 +12644,7 @@
     "dutch": "stelen",
     "english": "to steal",
     "partOfSpeech": "verb",
+    "category": "verb",
     "note": "Same as English 'steal'.",
     "id": 945,
     "rank": 945,
@@ -11929,6 +12660,7 @@
     "dutch": "gevaar",
     "english": "danger",
     "partOfSpeech": "noun",
+    "category": "noun",
     "gender": "het",
     "note": "Ge- prefix + vaar (related to 'fahr' in German Gefahr). Gevaarlijk means dangerous.",
     "id": 946,
@@ -11945,6 +12677,7 @@
     "dutch": "eiland",
     "english": "island",
     "partOfSpeech": "noun",
+    "category": "nature",
     "gender": "het",
     "note": "Ei means 'water' (old Dutch) + land. A piece of land in water. Similar logic to English 'island'.",
     "id": 947,
@@ -11961,6 +12694,7 @@
     "dutch": "verdrietig",
     "english": "sad",
     "partOfSpeech": "adjective",
+    "category": "emotions",
     "note": "From verdriet (sorrow). Ver- intensifier + driet, related to German verdrießen (to vex). Think 'very distressed'.",
     "id": 948,
     "rank": 948,
@@ -11976,6 +12710,7 @@
     "dutch": "jaloers",
     "english": "jealous",
     "partOfSpeech": "adjective",
+    "category": "emotions",
     "note": "From French jaloux, just like English 'jealous'. Both trace back to Latin zelosus.",
     "id": 949,
     "rank": 949,
@@ -11991,6 +12726,7 @@
     "dutch": "verbaasd",
     "english": "surprised",
     "partOfSpeech": "adjective",
+    "category": "emotions",
     "note": "From verbazen (to amaze). Related to English 'abash' through Old French. Ver- is an intensifying prefix.",
     "id": 950,
     "rank": 950,
@@ -12006,6 +12742,7 @@
     "dutch": "nerveus",
     "english": "nervous",
     "partOfSpeech": "adjective",
+    "category": "emotions",
     "note": "Nearly identical to English 'nervous'. Both from Latin nervosus. German uses nervös.",
     "id": 951,
     "rank": 951,
@@ -12021,6 +12758,7 @@
     "dutch": "eenzaam",
     "english": "lonely",
     "partOfSpeech": "adjective",
+    "category": "emotions",
     "note": "Een (one) + -zaam (suffix like English '-some'). Literally 'onesome'. German uses einsam with the same structure.",
     "id": 952,
     "rank": 952,
@@ -12036,6 +12774,7 @@
     "dutch": "gefrustreerd",
     "english": "frustrated",
     "partOfSpeech": "adjective",
+    "category": "emotions",
     "note": "Almost identical to English 'frustrated' with Dutch ge- past participle prefix. From Latin frustrare.",
     "id": 953,
     "rank": 953,
@@ -12051,6 +12790,7 @@
     "dutch": "doen",
     "english": "to do",
     "partOfSpeech": "verb",
+    "category": "verb",
     "note": "Directly cognate with English 'do' and German tun. One of the oldest shared Germanic words.",
     "id": 954,
     "rank": 954,
@@ -12066,6 +12806,7 @@
     "dutch": "praten",
     "english": "to talk",
     "partOfSpeech": "verb",
+    "category": "verb",
     "note": "Related to English 'prattle'. Both suggest casual talking. German uses a different word (reden/sprechen).",
     "id": 955,
     "rank": 955,
@@ -12081,6 +12822,7 @@
     "dutch": "om",
     "english": "around; in order to",
     "partOfSpeech": "preposition",
+    "category": "preposition",
     "note": "Cognate with German um (around). As 'in order to' it introduces purpose clauses: om te + infinitive.",
     "id": 956,
     "rank": 956,
@@ -12096,6 +12838,7 @@
     "dutch": "langs",
     "english": "along, past",
     "partOfSpeech": "preposition",
+    "category": "preposition",
     "note": "Related to English 'along' (both from Germanic lang, long). Langs de rivier = along the river.",
     "id": 957,
     "rank": 957,
@@ -12111,6 +12854,7 @@
     "dutch": "welke",
     "english": "which",
     "partOfSpeech": "pronoun",
+    "category": "pronoun",
     "note": "Cognate with English 'which' (Old English hwilc). German uses welche in the same way.",
     "id": 958,
     "rank": 958,

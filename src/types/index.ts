@@ -23,6 +23,7 @@ export interface Word {
   dutch: string;
   english: string;
   partOfSpeech: PartOfSpeech;
+  category?: string;
   gender?: 'de' | 'het';
   sentences: Sentence[];
   mnemonic?: string;  // Memory trick connecting Dutch sound to English meaning

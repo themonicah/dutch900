@@ -18,9 +18,13 @@ function Review() {
   const categoryFilter = searchParams.get('cat');
 
   const categoryNames: Record<string, string> = {
-    verb: 'Verbs', noun: 'Nouns', adjective: 'Adjectives', pronoun: 'Pronouns',
+    verb: 'Verbs', noun: 'Other Nouns', adjective: 'Adjectives', pronoun: 'Pronouns',
     adverb: 'Adverbs', preposition: 'Prepositions', numeral: 'Numbers',
     conjunction: 'Connectors', interjection: 'Expressions',
+    emotions: 'Emotions', colors: 'Colors', size: 'Size',
+    people: 'People', body: 'Body', food: 'Food', home: 'Home',
+    clothing: 'Clothing', time: 'Time', nature: 'Nature',
+    transport: 'Transport', places: 'Places',
   };
 
   // Determine practice mode from URL
@@ -71,7 +75,7 @@ function Review() {
     const init = async () => {
       setIsLoading(true);
       const filteredWords = categoryFilter
-        ? words.filter(w => w.partOfSpeech === categoryFilter)
+        ? words.filter(w => w.category === categoryFilter)
         : words;
       const allWordIds = filteredWords.map(w => w.id);
       const progress = await getModeProgressMap(mode);
@@ -252,7 +256,7 @@ function Review() {
   // Continue with another batch
   const handleKeepGoing = async () => {
     const filteredWords = categoryFilter
-      ? words.filter(w => w.partOfSpeech === categoryFilter)
+      ? words.filter(w => w.category === categoryFilter)
       : words;
     const allWordIds = filteredWords.map(w => w.id);
 

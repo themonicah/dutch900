@@ -124,8 +124,20 @@ function Today() {
         <div className="flex flex-wrap gap-2">
           {[
             { id: 'verb', label: 'Verbs', color: '#FF6B6B' },
-            { id: 'noun', label: 'Nouns', color: '#4ECDC4' },
+            { id: 'emotions', label: 'Emotions', color: '#FF8FA3' },
+            { id: 'colors', label: 'Colors', color: '#C4A7E7' },
+            { id: 'size', label: 'Size', color: '#89B4FA' },
             { id: 'adjective', label: 'Adjectives', color: '#FFE66D' },
+            { id: 'people', label: 'People', color: '#F5A97F' },
+            { id: 'body', label: 'Body', color: '#EE99A0' },
+            { id: 'food', label: 'Food', color: '#A6DA95' },
+            { id: 'home', label: 'Home', color: '#8AADF4' },
+            { id: 'clothing', label: 'Clothing', color: '#F0C6C6' },
+            { id: 'time', label: 'Time', color: '#CAD3F5' },
+            { id: 'nature', label: 'Nature', color: '#A6E3A1' },
+            { id: 'transport', label: 'Transport', color: '#94E2D5' },
+            { id: 'places', label: 'Places', color: '#F9E2AF' },
+            { id: 'noun', label: 'Other Nouns', color: '#4ECDC4' },
             { id: 'pronoun', label: 'Pronouns', color: '#A8E6CF' },
             { id: 'adverb', label: 'Adverbs', color: '#FF8B94' },
             { id: 'preposition', label: 'Prepositions', color: '#B5EAD7' },
@@ -133,7 +145,7 @@ function Today() {
             { id: 'conjunction', label: 'Connectors', color: '#FFDAC1' },
             { id: 'interjection', label: 'Expressions', color: '#E2F0CB' },
           ].map((cat) => {
-            const count = words.filter((w) => w.partOfSpeech === cat.id).length;
+            const count = words.filter((w) => w.category === cat.id).length;
             if (count === 0) return null;
             // Use dark text for light colors, white for dark colors
             const hex = cat.color.replace('#', '');
