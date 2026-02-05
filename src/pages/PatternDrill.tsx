@@ -88,6 +88,21 @@ function PatternDrill() {
     }
   }, [currentIndex, showResult]);
 
+  // Handle Enter key to advance when result is showing
+  useEffect(() => {
+    if (!showResult) return;
+
+    const handleKeyDown = (e: KeyboardEvent) => {
+      if (e.key === 'Enter') {
+        e.preventDefault();
+        handleNext();
+      }
+    };
+
+    window.addEventListener('keydown', handleKeyDown);
+    return () => window.removeEventListener('keydown', handleKeyDown);
+  }, [showResult, currentIndex, variationOrder.length]);
+
   if (!pattern) {
     return (
       <div className="text-center py-12">
