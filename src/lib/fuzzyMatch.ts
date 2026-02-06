@@ -372,3 +372,54 @@ export function getScoreTextColor(score: ScoreColor): string {
       return 'text-red-700 dark:text-red-300';
   }
 }
+
+/**
+ * Strict scoring for full sentence/phrase matching (used in Pattern drills)
+ * Requires the full input to match, not just partial words
+ *
+ * @param userInput - What the user typed (full sentence)
+ * @param correctAnswer - The correct full sentence
+ * @returns 'green' if match, 'yellow' if close (minor typos), 'red' if wrong
+ */
+export function scorePatternAnswer(userInput: string, correctAnswer: string): ScoreColor {
+  // Normalize both strings (lowercase, trim, remove accents)
+  const normalizedInput = userInput
+    .toLowerCase()
+    .trim()
+    .normalize('NFD')
+    .replace(/[\u0300-\u036f]/g, '');
+
+  const normalizedCorrect = correctAnswer
+    .toLowerCase()
+    .trim()
+    .normalize('NFD')
+    .replace(/[\u0300-\u036f]/g, '');
+
+  // Empty input is wrong
+  if (!normalizedInput) {
+    return 'red';
+  }
+
+  // Exact match
+  if (normalizedInput === normalizedCorrect) {
+    return 'green';
+  }
+
+  // Calculate similarity based on Levenshtein distance
+  const distance = levenshteinDistance(normalizedInput, normalizedCorrect);
+  const maxLength = Math.max(normalizedInput.length, normalizedCorrect.length);
+  const similarity = 1 - distance / maxLength;
+
+  // Green: very close (95%+ match, or just 1-2 character difference for short phrases)
+  if (similarity >= 0.95 || (distance <= 2 && normalizedCorrect.length >= 10)) {
+    return 'green';
+  }
+
+  // Yellow: close (85%+ match, or small typos)
+  if (similarity >= 0.85 || (distance <= 3 && normalizedCorrect.length >= 15)) {
+    return 'yellow';
+  }
+
+  // Red: not close enough
+  return 'red';
+}

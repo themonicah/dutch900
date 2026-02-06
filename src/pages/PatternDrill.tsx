@@ -2,7 +2,7 @@ import { useState, useEffect, useRef } from 'react';
 import { useParams, useNavigate } from 'react-router-dom';
 import { patterns, categoryInfo } from '../data/patterns';
 import { getPatternProgress, savePatternProgress } from '../lib/db';
-import { scoreAnswer } from '../lib/fuzzyMatch';
+import { scorePatternAnswer } from '../lib/fuzzyMatch';
 import { speakDutch } from '../lib/audio';
 import type { PatternProgress } from '../types';
 
@@ -135,7 +135,7 @@ function PatternDrill() {
     e.preventDefault();
     if (showResult || !userInput.trim()) return;
 
-    const scoreStatus = scoreAnswer(userInput.trim(), currentVariation.dutch);
+    const scoreStatus = scorePatternAnswer(userInput.trim(), currentVariation.dutch);
 
     setLastScore(scoreStatus);
     setShowResult(true);
